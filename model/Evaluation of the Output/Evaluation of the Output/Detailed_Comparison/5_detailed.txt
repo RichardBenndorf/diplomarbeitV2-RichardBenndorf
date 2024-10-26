@@ -1,0 +1,73 @@
+
+Vergleich von Sätzen:
+Modell-Ausgabe: Newspaper Accounts of Murders. 259
+Referenz: Newspaper Accounts of Murders.
+Ähnlichkeit der Sätze: 0.94
+Übereinstimmung: 'Newspaper Accounts of Murders.'
+Löschung: ' 259' fehlt in der Referenz
+
+Vergleich von Sätzen:
+Modell-Ausgabe: 
+Referenz: 
+Ähnlichkeit der Sätze: 1.00
+
+Vergleich von Sätzen:
+Modell-Ausgabe: &gt; Ill\. College Student's Death is Unexplained.
+Referenz: III. College Student's Death is Unexplained.
+Ähnlichkeit der Sätze: 0.89
+Löschung: '&gt; ' fehlt in der Referenz
+Übereinstimmung: 'I'
+Ersetzung: 'll\' in der Modell-Ausgabe durch 'II' in der Referenz
+Übereinstimmung: '. College Student's Death is Unexplained.'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: &gt; (The following are excerpts from a New York paper. Every few months the press brings to light a similar death of an androgyne. All because the world misunderstands and grossly misjudges them, as well as because public opinion has always deprived them of the means of coming to an understanding of themselves. Bracketed words and italics are those of the author of THE FEMALEIMPERSONATORS.)
+Referenz: (The following are excerpts from a New York paper. Every few months the press brings to light a similar death of an androgyne. All because the world misunderstands and grossly misjudges them, as well as because public opinion has always deprived them of the means of coming to an understanding of themselves. Bracketed words and italics are those of the author of The FemaleImpersonators.)
+Ähnlichkeit der Sätze: 0.95
+Löschung: '&gt; ' fehlt in der Referenz
+Übereinstimmung: '(The following are excerpts from a New York paper. Every few months the press brings to light a similar death of an androgyne. All because the world misunderstands and grossly misjudges them, as well as because public opinion has always deprived them of the means of coming to an understanding of themselves. Bracketed words and italics are those of the author of T'
+Ersetzung: 'HE' in der Modell-Ausgabe durch 'he' in der Referenz
+Übereinstimmung: ' F'
+Ersetzung: 'EMALE' in der Modell-Ausgabe durch 'emale' in der Referenz
+Übereinstimmung: 'I'
+Ersetzung: 'MPERSONATORS' in der Modell-Ausgabe durch 'mpersonators' in der Referenz
+Übereinstimmung: '.)'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: STUDENT'S DEATH MYSTERY BAFFLING—NO KNOWN BASIS IN Q'S LIFE TO SUGGEST MURDER OR SUICIDE THEORY
+Referenz: STUDENT'S DEATH MYSTERY BAFFLING—NO KNOWN BASIS IN Q'S LIFE TO SUGGEST MURDER OR SUICIDE THEORY
+Ähnlichkeit der Sätze: 1.00
+Übereinstimmung: 'STUDENT'S DEATH MYSTERY BAFFLING—NO KNOWN BASIS IN Q'S LIFE TO SUGGEST MURDER OR SUICIDE THEORY'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: &gt; Overdone detective fiction seldom presents so many significant but mostly inexplicable circumstances surrounding the victim of death by violence as those developed concerning \[Jimmie Q\], twenty, quiet, studious, religious \[earmarks of androgynism\], a \[North Atlantic\] college junior, popular, not morbid, a cleancut American youth, whose body was taken from the river last Thursday night. . . .
+Referenz: Overdone detective fiction seldom presents so many significant but mostly inexplicable circumstances surrounding the victim of death by violence as those developed concerning [Jimmie Q], twenty, quiet, studious, religious [earmarks of androgynism], a [North Atlantic] college junior, popular, not morbid, a cleancut American youth, whose body was taken from the river last Thursday night
+Ähnlichkeit der Sätze: 0.98
+Löschung: '&gt; ' fehlt in der Referenz
+Übereinstimmung: 'Overdone detective fiction seldom presents so many significant but mostly inexplicable circumstances surrounding the victim of death by violence as those developed concerning '
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '[Jimmie Q'
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '], twenty, quiet, studious, religious '
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '[earmarks of androgynism'
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '], a '
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '[North Atlantic'
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '] college junior, popular, not morbid, a cleancut American youth, whose body was taken from the river last Thursday night'
+Löschung: '. . . .' fehlt in der Referenz
+
+Vergleich von Sätzen:
+Modell-Ausgabe: &gt; Q loved to roam the slums of large cities. \[An earmark of cultured androgynism. They thus roam because realizing that in their Overworld, they are prohibited outlet for the feminine side of their duality. They roam with day dreams of how they would like to impersonate a female in the Underworld, where alone femaleimpersonators are welcome; and finally, in many cases, they are carried away by their mania for an actual femaleimpersonation spree.\] . . . . His
+Referenz: Q loved to roam the slums of large cities. [An earmark of cultured androgynism. They thus roam because realizing that in their Overworld, they are prohibited outlet for the feminine side of their duality. They roam with day dreams of how they would like to impersonate a female in the Underworld, where alone femaleimpersonators are welcome; and finally, in many cases, they are carried away by their mania for an actual femaleimpersonation spree.] .... His
+Ähnlichkeit der Sätze: 0.89
+Ersetzung: '&' in der Modell-Ausgabe durch 'Q loved to roam the slums of lar' in der Referenz
+Übereinstimmung: 'g'
+Ersetzung: 't; Q loved to roam the slums of large cities. \' in der Modell-Ausgabe durch 'e cities. ' in der Referenz
+Übereinstimmung: '[An earmark of cultured androgynism. They thus roam because realizing that in their Overworld, they are prohibited outlet for the feminine side of their duality. They roam with day dreams of how they would like to impersonate a female in the Underworld, where alone femaleimpersonators are welcome; and finally, in many cases, they are carried away by their mania for an actual femaleimpersonation spree.'
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '] .'
+Ersetzung: ' . . ' in der Modell-Ausgabe durch '..' in der Referenz
+Übereinstimmung: '. His'

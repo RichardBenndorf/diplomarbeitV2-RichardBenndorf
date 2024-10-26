@@ -1,0 +1,66 @@
+
+Vergleich von Sätzen:
+Modell-Ausgabe: 260 FemaleImpersonation Obsession.
+Referenz: FemaleImpersonation Obsession.
+Ähnlichkeit der Sätze: 0.94
+Löschung: '260 ' fehlt in der Referenz
+Übereinstimmung: 'FemaleImpersonation Obsession.'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: 
+Referenz: 
+Ähnlichkeit der Sätze: 1.00
+
+Vergleich von Sätzen:
+Modell-Ausgabe: &gt; college roommate commented on the large number of neckties, all Q had, which the latter was taking along. \[As he said, for a few days' visit to his father, which visit did not take place. My theory is that he went to the great city, in whose harbor his dead body was found, to spend an evening with chancemet gangsters in the slums, as I have myself done, and he took the many neckties as presents for them, just as I myself have carried neckties with which to shower them and thus win their goodwill. The androgyne, of course, wishes the gangsters as an audience for his loved impersonations. Androgynes always wish an audience of tremendously virile "young fellows."\]
+Referenz: college roommate commented on the large number of neckties, all Q had, which the latter was taking along. [As he said, for a few days' visit to his father, which visit did not take place. My theory is that he went to the great city, in whose harbor his dead body was found, to spend an evening with chancemet gangsters in the slums, as I have myself done, and he took the many neckties as presents for them, just as I myself have carried neckties with which to shower them and thus win their goodwill. The androgyne, of course, wishes the gangsters as an audience for his loved impersonations. Androgynes always wish an audience of tremendously virile "young fellows."]
+Ähnlichkeit der Sätze: 0.99
+Löschung: '&gt; ' fehlt in der Referenz
+Übereinstimmung: 'college roommate commented on the large number of neckties, all Q had, which the latter was taking along. '
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '[As he said, for a few days' visit to his father, which visit did not take place. My theory is that he went to the great city, in whose harbor his dead body was found, to spend an evening with chancemet gangsters in the slums, as I have myself done, and he took the many neckties as presents for them, just as I myself have carried neckties with which to shower them and thus win their goodwill. The androgyne, of course, wishes the gangsters as an audience for his loved impersonations. Androgynes always wish an audience of tremendously virile "young fellows."'
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: ']'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: &gt; At the Morgue, Mr. Q identified the effects of his son. When the body was exposed for his inspection— it appeared to have been in the water about ten days— the father bowed his head and tearfuly exclaimed :
+Referenz: Q did not drink and never took special interest in any woman. But he did like to rove about in the districts of big cities in which the poorest classes live and work Whenever he was in New York, he spent most of his time in such districts At the Morgue, Mr. Q identified the effects of his son. When the body was exposed for his inspection—it appeared to have been in the water about ten days—the father bowed his head and tearfuly exclaimed:
+Ähnlichkeit der Sätze: 0.63
+Ersetzung: '&' in der Modell-Ausgabe durch 'Q did not drink and never took special interest in any woman. But he did like to rove about in the districts of bi' in der Referenz
+Übereinstimmung: 'g'
+Ersetzung: 't;' in der Modell-Ausgabe durch ' cities in which the poorest classes live and work Whenever he was in New York, he spent most of his time in such districts' in der Referenz
+Übereinstimmung: ' At the Morgue, Mr. Q identified the effects of his son. When the body was exposed for his inspection—'
+Löschung: ' ' fehlt in der Referenz
+Übereinstimmung: 'it appeared to have been in the water about ten days—'
+Löschung: ' ' fehlt in der Referenz
+Übereinstimmung: 'the father bowed his head and tearfuly exclaimed'
+Löschung: ' ' fehlt in der Referenz
+Übereinstimmung: ':'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: &gt; "Poor Jimmie! How you must have suffered!" . . . .
+Referenz: "Poor Jimmie! How you must have suffered!"....
+Ähnlichkeit der Sätze: 0.91
+Löschung: '&gt; ' fehlt in der Referenz
+Übereinstimmung: '"Poor Jimmie! How you must have suffered!"'
+Löschung: ' ' fehlt in der Referenz
+Übereinstimmung: '.'
+Löschung: ' ' fehlt in der Referenz
+Übereinstimmung: '.'
+Löschung: ' ' fehlt in der Referenz
+Übereinstimmung: '.'
+Löschung: ' ' fehlt in der Referenz
+Übereinstimmung: '.'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: &gt; The fisherman who had pulled the body ashore had used a grappling hook. . . . . To it they attributed the incision which the \[City's\] Medical Examiner had reported to have been made by some weapon. The Medical Examiner denounced this report and suggested that the police were forwarding a suicide theory to escape responsibility for solution of a crime. He declared there was evidence of hemorrhage in this wound not producible by such an injury inflicted long after death. He further recalled that the left arm of Q was
+Referenz: The fisherman who had pulled the body ashore had used a grappling hook To it they attributed the incision which the [City's] Medical Examiner had reported to have been made by some weapon. The Medical Examiner denounced this report and suggested that the police were forwarding a suicide theory to escape responsibility for solution of a crime. He declared there was evidence of hemorrhage in this wound not producible by such an injury inflicted long after death. He further recalled that the left arm of Q was
+Ähnlichkeit der Sätze: 0.98
+Löschung: '&gt; ' fehlt in der Referenz
+Übereinstimmung: 'The fisherman who had pulled the body ashore had used a grappling hook'
+Löschung: '. . . . .' fehlt in der Referenz
+Übereinstimmung: ' To it they attributed the incision which the '
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '[City's'
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '] Medical Examiner had reported to have been made by some weapon. The Medical Examiner denounced this report and suggested that the police were forwarding a suicide theory to escape responsibility for solution of a crime. He declared there was evidence of hemorrhage in this wound not producible by such an injury inflicted long after death. He further recalled that the left arm of Q was'

@@ -1,0 +1,46 @@
+
+Vergleich von Sätzen:
+Modell-Ausgabe: Does the Fairie Really Exist? 263
+Referenz: Does the Fairie Really Exist?
+Ähnlichkeit der Sätze: 0.94
+Übereinstimmung: 'Does the Fairie Really Exist?'
+Löschung: ' 263' fehlt in der Referenz
+
+Vergleich von Sätzen:
+Modell-Ausgabe: 
+Referenz: 
+Ähnlichkeit der Sätze: 1.00
+
+Vergleich von Sätzen:
+Modell-Ausgabe: but that this type of degenerate is a reality. \[Unprejudiced science has not yet decided the matter of the degeneracy of the androgyne in general, as I have already shown in detail. There exists as much evidence that the bisexual is a superman or genius as that he or she is a degenerate. The truth of the matter probably is that degenerates are no commoner per thousand among bisexuals than among the sexually fullfledged, but that geniuses occur far oftener.\] He is a freak of nature who in every way attempts to imitate a woman. In my official capacity I have come in contact with several hundred of such individuals, and have in every instance felt sorry for the unfortunate being. \[Such sympathy indicates that fairies are not wilfully of that genre, and should not suffer term after term in prison, as now, for acts that do nobody harm beyond offending the æsthetic sense of the unsophisticated. Of course, in the matter of accosting on the street, etc., they should be treated the same as fullfledged females. But their punishment should not be augmented because they are "homosexuals"—a word that is a misnomer.\]
+Referenz: but that this type of degenerate is a reality. [Unprejudiced science has not yet decided the matter of the degeneracy of the androgyne in general, as I have already shown in detail. There exists as much evidence that the bisexual is a superman or genius as that he or she is a degenerate. The truth of the matter probably is that degenerates are no commoner per thousand among bisexuals than among the sexually fullfledged, but that geniuses occur far oftener.] He is a freak of nature who in every way attempts to imitate a woman. In my official capacity I have come in contact with several hundred of such individuals, and have in every instance felt sorry for the unfortunate being. [Such sympathy indicates that fairies are not wilfully of that genre, and should not suffer term after term in prison, as now, for acts that do nobody harm beyond offending the aesthetic sense of the unsophisticated. Of course, in the matter of accosting on the street, etc., they should be treated the same as fullfledged females. But their punishment should not be augmented because they are "homosexuals"—a word that is a misnomer.]
+Ähnlichkeit der Sätze: 1.00
+Übereinstimmung: 'but that this type of degenerate is a reality. '
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '[Unprejudiced science has not yet decided the matter of the degeneracy of the androgyne in general, as I have already shown in detail. There exists as much evidence that the bisexual is a superman or genius as that he or she is a degenerate. The truth of the matter probably is that degenerates are no commoner per thousand among bisexuals than among the sexually fullfledged, but that geniuses occur far oftener.'
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '] He is a freak of nature who in every way attempts to imitate a woman. In my official capacity I have come in contact with several hundred of such individuals, and have in every instance felt sorry for the unfortunate being. '
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '[Such sympathy indicates that fairies are not wilfully of that genre, and should not suffer term after term in prison, as now, for acts that do nobody harm beyond offending the '
+Ersetzung: 'æ' in der Modell-Ausgabe durch 'ae' in der Referenz
+Übereinstimmung: 'sthetic sense of the unsophisticated. Of course, in the matter of accosting on the street, etc., they should be treated the same as fullfledged females. But their punishment should not be augmented because they are "homosexuals"—a word that is a misnomer.'
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: ']'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: "In practically every case I have found the man to be a young person of age ranging between sixteen and thirty. \["man"!—Only a pseudoman. Really a woman whom Nature has disguised as a man; a woman with male genitals.\] . . . . They are by no means mental defectives. Most of them have had a good education and come from respectable families. . . . Since early childhood they have been seclusive and kept close to their mother. They are emotional and affective. . . . . They. . . . imitate the female as closely as possible. They take feminine names, use perfume and dainty
+Referenz: "In practically every case I have found the man to be a young person of age ranging between sixteen and thirty. ["man"!—Only a pseudoman. Really a woman whom Nature has disguised as a man; a woman with male genitals.] .... They are by no means mental defectives. Most of them have had a good education and come from respectable families....Since early childhood they have been seclusive and kept close to their mother. They are emotional and affective.....They....imitate the female as closely as possible. They take feminine names, use perfume and dainty
+Ähnlichkeit der Sätze: 0.96
+Übereinstimmung: '"In practically every case I have found the man to be a young person of age ranging between sixteen and thirty. '
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '["man"!—Only a pseudoman. Really a woman whom Nature has disguised as a man; a woman with male genitals.'
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '] .'
+Ersetzung: ' . . ' in der Modell-Ausgabe durch '..' in der Referenz
+Übereinstimmung: '. They are by no means mental defectives. Most of them have had a good education and come from respectable families.'
+Ersetzung: ' . . . ' in der Modell-Ausgabe durch '...' in der Referenz
+Übereinstimmung: 'Since early childhood they have been seclusive and kept close to their mother. They are emotional and affective.'
+Ersetzung: ' . . . . ' in der Modell-Ausgabe durch '....' in der Referenz
+Übereinstimmung: 'They.'
+Ersetzung: ' . . . ' in der Modell-Ausgabe durch '...' in der Referenz
+Übereinstimmung: 'imitate the female as closely as possible. They take feminine names, use perfume and dainty'

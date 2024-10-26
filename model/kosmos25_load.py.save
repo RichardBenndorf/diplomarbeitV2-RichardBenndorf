@@ -1,0 +1,16 @@
+import torch
+from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
+
+# Lade den Tokenizer
+tokenizer = AutoTokenizer.from_pretrained("microsoft/kosmos-2.5")
+
+# Lade den heruntergeladenen Checkpoint (Modelldatei "ckpt.pt")
+checkpoint_path = "ckpt.pt"  # Stelle sicher, dass der Pfad korrekt ist
+
+# Lade das Modell und verwende den heruntergeladenen Checkpoint
+model = AutoModelForSeq2SeqLM.from_pretrained("microsoft/kosmos-2.5") #, state_dict=torch.load(checkpoint_path))
+# Load model directly
+from transformers import AutoModelForSeq2SeqLM
+model = AutoModelForSeq2SeqLM.from_pretrained("microsoft/kosmos-2.5")
+
+print(model)

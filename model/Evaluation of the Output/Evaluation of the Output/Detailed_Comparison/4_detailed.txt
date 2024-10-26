@@ -1,0 +1,32 @@
+
+Vergleich von Sätzen:
+Modell-Ausgabe: 258 An Adonis or a Hercules?
+Referenz: An Adonis or a Hercules?
+Ähnlichkeit der Sätze: 0.92
+Löschung: '258 ' fehlt in der Referenz
+Übereinstimmung: 'An Adonis or a Hercules?'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: 
+Referenz: 
+Ähnlichkeit der Sätze: 1.00
+
+Vergleich von Sätzen:
+Modell-Ausgabe: American constitution. The cowboys of the Rockies have mingled with common soldiers because of the numerous forts scattered throughout the "Indian country." I asked one with whom I was well acquainted why he did not serve a few years in the army. His words were: "Do you think I want to be a slave?" But the lot of the common soldier has steadily improved during my association with him, excepting during our war with Germany. In 1921, he is better treated by his officers than ever before.
+Referenz: American constitution. The cowboys of the Rockies have mingled with common soldiers because of the numerous forts scattered throughout the "Indian country." I asked one with whom I was well acquainted why he did not serve a few years in the army. His words were: "Do you think I want to be a slave?" But the lot of the common soldier has steadily improved during my association with him, excepting during our war with Germany. In 1921, he is better treated by his officers than ever before.
+Ähnlichkeit der Sätze: 1.00
+Übereinstimmung: 'American constitution. The cowboys of the Rockies have mingled with common soldiers because of the numerous forts scattered throughout the "Indian country." I asked one with whom I was well acquainted why he did not serve a few years in the army. His words were: "Do you think I want to be a slave?" But the lot of the common soldier has steadily improved during my association with him, excepting during our war with Germany. In 1921, he is better treated by his officers than ever before.'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: The context of this footnote moves me to reflect: Do I prefer an Adonis or a Hercules? I incline to the latter slightly. My first "adopted son" (for nine years, as described in my AUTOBIOGRAPHY OF AN ANDROGYNE) was an almost unmatched Hercules and at the same time an almost unmatched Adonis. He was one young man out of ten thousand. My second "adopted son" (for only a halfyear, as described in same work) was neither a Hercules nor an Adonis. Not more than one out of twenty adolescents can qualify under either of these physically superior types, and I must confess that these types are very much lacking in mental acumen. Bright intellects nearly always go hand in hand with poor physical development. My second "adopted son" (while only tolerably goodlooking) commanded my adoration because of his beautiful disposition and extreme passion for myself. My third prospective "adopted son" was a preeminent Adonis, and a fair Hercules.
+Referenz: The context of this footnote moves me to reflect: Do I prefer an Adonis or a Hercules? I incline to the latter slightly. My first "adopted son" (for nine years, as described in my AUTOBIOGRAPHY OF AN ANDROGYNE) was an almost unmatched Hercules and at the same time an almost unmatched Adonis. He was one young man out of ten thousand. My second "adopted son" (for only a halfyear, as described in same work) was neither a Hercules nor an Adonis. Not more than one out of twenty adolescents can qualify under either of these physically superior types, and I must confess that these types are very much lacking in mental acumen. Bright intellects nearly always go hand in hand with poor physical development. My second "adopted son" (while only tolerably goodlooking) commanded my adoration because of his beautiful disposition and extreme passion for myself. My third prospective "adopted son" was a preeminent Adonis, and a fair Hercules.
+Ähnlichkeit der Sätze: 1.00
+Übereinstimmung: 'The context of this footnote moves me to reflect: Do I prefer an Adonis or a Hercules? I incline to the latter slightly. My first "adopted son" (for nine years, as described in my AUTOBIOGRAPHY OF AN ANDROGYNE) was an almost unmatched Hercules and at the same time an almost unmatched Adonis. He was one young man out of ten thousand. My second "adopted son" (for only a halfyear, as described in same work) was neither a Hercules nor an Adonis. Not more than one out of twenty adolescents can qualify under either of these physically superior types, and I must confess that these types are very much lacking in mental acumen. Bright intellects nearly always go hand in hand with poor physical development. My second "adopted son" (while only tolerably goodlooking) commanded my adoration because of his beautiful disposition and extreme passion for myself. My third prospective "adopted son" was a preeminent Adonis, and a fair Hercules.'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: There exist other attractive qualities in males that knit females to them. The chief is intellectual brilliance. That to me has always been, sexually considered, decidedly detractive— because I am myself of the intellectual type. As a rule, only opposites attract.
+Referenz: There exist other attractive qualities in males that knit females to them. The chief is intellectual brilliance. That to me has always been, sexually considered, decidedly detractive—because I am myself of the intellectual type. As a rule, only opposites attract.
+Ähnlichkeit der Sätze: 1.00
+Übereinstimmung: 'There exist other attractive qualities in males that knit females to them. The chief is intellectual brilliance. That to me has always been, sexually considered, decidedly detractive—'
+Löschung: ' ' fehlt in der Referenz
+Übereinstimmung: 'because I am myself of the intellectual type. As a rule, only opposites attract.'

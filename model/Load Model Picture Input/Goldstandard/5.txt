@@ -1,0 +1,26 @@
+TÜV Rheinland Luxemburg 
+Test Report No.: 82-2002/24-24905JF47/12 
+Type : JF47 
+Manufacturer : Honda Italia Industriale S.p.A. 
+
+Test minutes anti-pollution devices 	Appendix 4
+1	Test facilities	: The test equipment used was in compliance with the requirements of the directive.
+1.1 	Equivalent inertia mass - acc. to Appendix la, Table 3  : 200 kg 
+1.2 	Rolling resistance of front wheel - acc. to Annex 3 of GTR No. 2 : 17.6N
+1.3	Aerodynamic drag coefficient - acc. to Annex 3 of GTR No. 2 : 0.0230 N/(km/h)^2
+1.4	Method of setting according to : B 6.5.6. of GTR No. 2 (table values per Annex 3) 
+2	Test Vehicle(s)
+2.1	Type : JF28
+	Variant(s) / version(s) : variant 1 / version 2 
+2.2	Identification number : MLHJF28A7C5200003 
+2.3	Masses 
+2.3.1	Mass of vehicle in running order : 128 kg 
+2.3.2 	Reference mass (vehicle mass in running order + 75 kg) : 203 kg 
+2.3.3 	Maximum mass of vehicle : 309 kg
+2.4 	Gear box
+2.4.1. 	Transmission type : automatic (continuously variable transmission)
+2.4.2. 	Number of gear ratios : not applicable
+
+> el3\*2002/24\*0585\*00 > > Société Nationale de Certification et d'Homologation L-5201 SANDWEILER (Luxembourg) Organisme accrédité OLAS EN 45011 Accreditation N° 5/001 (Portée communiquée sur demande) 
+TÜV Rheinland Luxemburg GmbH	2a Karchezbruck Telefon + 352 / 523 305 
+				L-1852 Luxemburg Telefax + 352 / 523 105 Page 29

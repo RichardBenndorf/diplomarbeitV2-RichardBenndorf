@@ -1,0 +1,56 @@
+
+Vergleich von Sätzen:
+Modell-Ausgabe: &gt; I. What a New York Official Physician Has to Say about Fairies.
+Referenz: I. What a New York Official Physician Has to Say about Fairies.
+Ähnlichkeit der Sätze: 0.96
+Löschung: '&gt; ' fehlt in der Referenz
+Übereinstimmung: 'I. What a New York Official Physician Has to Say about Fairies.'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: 
+Referenz: 
+Ähnlichkeit der Sätze: 1.00
+
+Vergleich von Sätzen:
+Modell-Ausgabe: In MEDICAL LIFE of December, 1920, I had an article: The Biological Sport of Fairieism. Readers completely out of touch with Underworld life evidently thought I was telling a fairy tale. Apparently the editor of the MEDICAL REVIEW OF REVIEWS appealed for corroboration to a physician likely to be one of the best authorities in the United States on my subject, Perry M. Lichtenstein, M.D., Ll.B., Physician to City Prison, "Tombs" (New York's principal jail), House of Detention, etc., all of New York City. Apparently there resulted the valuable and interesting article, The "Fairy" and the Lady Lover, in MEDICAL REVIEW OF REVIEWS of August, 1921. Its writer has enjoyed almost unparalleled opportunities for examination of the very fairies whose existence had been called in question. I quote a small fraction, but the whole paper should be read by every devotee of Aesculapius. Knowledge of its contents is very necessary for every practitioner. I use my spelling of "fairie." My own comments are in brackets. The REVIEW for November, 1921, contained quite a lengthy reply of mine. Dr. Lichtenstein begins his paper :
+Referenz: In Medical Life of December, 1920, I had an article: The Biological Sport of Fairieism. Readers completely out of touch with Underworld life evidently thought I was telling a fairy tale. Apparently the editor of the Medical Review of Reviews appealed for corroboration to a physician likely to be one of the best authorities in the United States on my subject, Perry M. Lichtenstein, M.D., Ll.B., Physician to City Prison, "Tombs" (New York's principal jail), House of Detention, etc., all of New York City. Apparently there resulted the valuable and interesting article, The "Fairy" and the Lady Lover, in Medical Review of Reviews of August, 1921. Its writer has enjoyed almost unparalleled opportunities for examination of the very fairies whose existence had been called in question. I quote a small fraction, but the whole paper should be read by every devotee of Aesculapius. Knowledge of its contents is very necessary for every practitioner. I use my spelling of "fairie." My own comments are in brackets. The Review for November, 1921, contained quite a lengthy reply of mine. Dr. Lichtenstein begins his paper:
+Ähnlichkeit der Sätze: 0.95
+Übereinstimmung: 'In M'
+Ersetzung: 'EDICA' in der Modell-Ausgabe durch 'edical ' in der Referenz
+Übereinstimmung: 'L'
+Ersetzung: ' LIFE' in der Modell-Ausgabe durch 'ife' in der Referenz
+Übereinstimmung: ' of December, 1920, I had an article: The Biological Sport of Fairieism. Readers completely out of touch with Underworld life evidently thought I was telling a fairy tale. Apparently the editor of the M'
+Ersetzung: 'EDICAL' in der Modell-Ausgabe durch 'edical' in der Referenz
+Übereinstimmung: ' R'
+Ersetzung: 'EVIEW OF' in der Modell-Ausgabe durch 'eview of' in der Referenz
+Übereinstimmung: ' R'
+Ersetzung: 'EVIEWS' in der Modell-Ausgabe durch 'eviews' in der Referenz
+Übereinstimmung: ' appealed for corroboration to a physician likely to be one of the best authorities in the United States on my subject, Perry M. Lichtenstein, M.D., Ll.B., Physician to City Prison, "Tombs" (New York's principal jail), House of Detention, etc., all of New York City. Apparently there resulted the valuable and interesting article, The "Fairy" and the Lady Lover, in M'
+Ersetzung: 'EDICAL' in der Modell-Ausgabe durch 'edical' in der Referenz
+Übereinstimmung: ' R'
+Ersetzung: 'EVIEW OF' in der Modell-Ausgabe durch 'eview of' in der Referenz
+Übereinstimmung: ' R'
+Ersetzung: 'EVIEWS' in der Modell-Ausgabe durch 'eviews' in der Referenz
+Übereinstimmung: ' of August, 1921. Its writer has enjoyed almost unparalleled opportunities for examination of the very fairies whose existence had been called in question. I quote a small fraction, but the whole paper should be read by every devotee of Aesculapius. Knowledge of its contents is very necessary for every practitioner. I use my spelling of "fairie." My own comments are in brackets. The R'
+Ersetzung: 'EVIEW' in der Modell-Ausgabe durch 'eview' in der Referenz
+Übereinstimmung: ' for November, 1921, contained quite a lengthy reply of mine. Dr. Lichtenstein begins his paper'
+Löschung: ' ' fehlt in der Referenz
+Übereinstimmung: ':'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: &gt; "Does the 'fairie' or 'fag' really exist? This question has been asked time and again. There is no doubt
+Referenz: "Does the 'fairie' or 'fag' really exist? This question has been asked time and again. There is no doubt
+Ähnlichkeit der Sätze: 0.98
+Löschung: '&gt; ' fehlt in der Referenz
+Übereinstimmung: '"Does the 'fairie' or 'fag' really exist? This question has been asked time and again. There is no doubt'
+
+Vergleich von Sätzen:
+Modell-Ausgabe: \[ 262 \]
+Referenz: [262]
+Ähnlichkeit der Sätze: 0.71
+Löschung: '\' fehlt in der Referenz
+Übereinstimmung: '['
+Löschung: ' ' fehlt in der Referenz
+Übereinstimmung: '262'
+Löschung: ' \' fehlt in der Referenz
+Übereinstimmung: ']'

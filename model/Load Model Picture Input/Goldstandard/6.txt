@@ -1,0 +1,26 @@
+TÜV Rheinland Luxemburg 
+Test Report No.: 82-2002/24-24905JF47/12 
+Type : JF47 
+Manufacturer : Honda Italia Industriale S.p.A.
+
+secondary service brake (lightly loaded)		
+Conditions	actual test speed	measured performance [m/s^2]	Measured force applied to control	
+60 km/h	[km/h]	Ave.	0.5-1.0 sec	Max.	[N]
+No. 1	60.7	2.96	2.42		3.62	37
+No. 2	61.6	2.93	2.38		3.64	35
+No. 3	61.3	2.65	2.28		4.30	33
+Average	61.3	2.85	2.36		3.85	35
+2.5.2 Wet brake stop test (wet brakes) :
+Conditions (laden)	actual test Speed	measured performance [m/s^2] 	Measured force applied to control
+60 km/h			[km/h]			0.5-1.0 sec 	Max. 		[N]
+combined brake system 	60.1 			2.40 		3.56 		64
+secondary service brake	60.6 			2.13 		2.98 		51
+
+Conditions (light loaded) 	actual test Speed	measured performance [m/s^2] 	Measured force applied to control
+60 km/h 			[km/h] 			0.5-1.0 sec	Max. 		[N]
+combined brake system 		60.9 			2.62 		3.74 		49 
+secondary service brake 	60.7 			1.94 		3.64 		34 
+
+e13\*2002/24\*0585\*00 Société Nationale de Certification et d'Homologation L-5201 SANDWEILER (Luxembourg) Organisme accredité OLA9 EN 45011 Accreditation N° 5/001 (Portée communiquée sur demande) 
+
+TÜV Rheinland Luxemburg GmbH	2a Kächesbruck	Telefon + 352 / 523 505 L-1852 Luxemburg Telefax + 352 / 523 105 Page 21
