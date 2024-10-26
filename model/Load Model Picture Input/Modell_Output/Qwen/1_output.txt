@@ -1,0 +1,59 @@
+The text from your image is:
+
+```plaintext
+HONDA
+
+Honda Italia Industriale S.p.A.
+
+TO : TUV
+
+ATTN : WHOM IT MAY CONCERN.
+
+CERTIFICATE
+
+WE, HONDA ITALIA INDUSTRIALE S.p.a., HEREBY SPECIFY THE VERIFICATION METHOD OF THE MARKING AND THE PARTS POSITIONS.
+
+FRAME COVER REMOVAL
+
+THIS FIGURE SHOWS REMOval ORDER OF FRAME COVERS.
+
+2) SEAT & LUGGAGE ROLL
+
+4) COVER CENTI
+
+1) REAR CARRIER
+
+5) REA COMB LIGHT COVER
+
+6) R/L BODY SIDE COVER
+
+3) R/ CENTER SIDE COVER 
+
+THE MARKING AND POSITIONS
+
+THIS Figure SHOWS THE MARKIN AND POSITIONS.
+AIR FILTER
+- REMOVE THE AIR CLEANER COVER
+DRIVE PULLEY & DRIVEN PULLY
+- REMOVE THE LEFT CRANKCASE COVER
+OTHER PARTS
+-REMOVE THE ABOVE-MENTIONED COVERS
+
+Luca Fiorentino
+Responsible
+Certification Office
+Honda Italia Industrile S.p. A.
+
+Honda Italia S.p.
+Società soggetta alla direzione e coordinamento della Honda Motor Co. Ltd. - Tokyo
+
+Sede Legale, Amministrativa e Stabilimento: 66041 Atessa (CH) - Via Genova, 811 - Tel. 03726991 - Fax 08728998101
+
+Istr. al Tribunale di Lanciano n. 769 Reg. Soc. - C.C.I.A. A. di Chieti n. S7533 - Niro Mecc. CH011106 - Partita IVA: 00030710890
+
+Sito Web: www.hondaitalia.com
+
+Informativa sulla privacy: www.ondaita.com/privacy
+
+Direzioni Generale e Commercio: CD143 Roma - Via della Cecchignola, 5/7 - Tel: 905 06540281 - fax 0954928300
+```

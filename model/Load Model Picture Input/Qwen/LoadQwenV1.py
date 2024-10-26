@@ -3,7 +3,7 @@ from transformers import Qwen2VLForConditionalGeneration, AutoProcessor
 from qwen_vl_utils import process_vision_info
 from PIL import Image
 
-image = Image.open('../testbilder/1.png').convert('RGB')
+image = Image.open('../testbilder/0.png').convert('RGB')
 
 # 1. Lade das Modell und den Prozessor
 model = Qwen2VLForConditionalGeneration.from_pretrained(
@@ -21,7 +21,7 @@ messages = [
                 "type": "image",
                 "image": image,
             },
-            {"type": "text", "text": "Extract the text from the image"},
+            {"type": "text", "text": "Extract text from whole png"},
         ],
     }
 ]
@@ -42,16 +42,17 @@ inputs = processor(
 ).to("cuda" if torch.cuda.is_available() else "cpu")  # CUDA verwenden, falls verfügbar
 
 # 6. Generiere die Ausgabe
-# generated_ids = model.generate(**inputs, max_new_tokens=128)
+#generated_ids = model.generate(**inputs, max_new_tokens=128)
 
 # 6. Generiere die Ausgabe mit längerer Tokenlänge
 generated_ids = model.generate(
     **inputs, 
     max_new_tokens=512,       # Maximale Tokenanzahl für längere Texte
-    min_length=100,            # Mindestlänge (optional)
+           # Mindestlänge (optional)
     no_repeat_ngram_size=3,    # Verhindert Wiederholungen (optional)
     do_sample=False,
-    num_beams=1
+    num_beams=1,
+    temperature=0.0
 )
 
 # 7. Bereinige die generierte Ausgabe
@@ -59,8 +60,8 @@ generated_ids_trimmed = [
     out_ids[len(in_ids):] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
 ]
 output_text = processor.batch_decode(
-    generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False
-)
+    generated_ids_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=True
+)[0]
 
 # 8. Zeige das Ergebnis
-print("Beschreibung des Bildes:", output_text[0])
+print("Beschreibung des Bildes:", output_text)
