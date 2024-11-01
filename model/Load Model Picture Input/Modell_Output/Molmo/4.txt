@@ -1,0 +1,7 @@
+ TÜV Rheinland Luxembourg
+Test Report No. 82-2002/24-2490SJF47/12
+Type JF47
+Manufacturer Honda Italia Industrial S.p.A.
+3.2 Radiated narrow-band electromagnetic emissions
+3.3 Immunity Test
+The test was conducted at an enclosed test facility on a two-roller dynamometer as described in Annex V. The vehicle was monitored during the test performed in accordance with Annex IV of the directive. No abnormal change in speed of the driven wheels, no degradation of performance, and no degradation caused by the electromagnetic骚扰 which could have been observed by the driver or other road users, has occurred. The requirements concerning vehicle immunity are considered to be met.

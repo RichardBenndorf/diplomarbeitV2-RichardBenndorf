@@ -1,0 +1,6 @@
+ 7. Lenkungsteuerung
+7.2. Übergang und Betätigungsweise
+7.2.1. Art der Lenkungsteuerung (gegebenenfalls für Vorder- und Hinterreder)
+7.2.2. Verbindung zwischen den Rädern (einschließlich anderer als mechanischer Mittel, gegebenenfalls für Vorder- und Hinterreder)
+7.2.3. Art der Lenkhilfe (sofern voraend)
+7.2.3.1. Method of assistance, if any
