@@ -1,0 +1,11 @@
+conda create -n Aquila python=3.11 -y
+conda activate Aquila
+
+
+pip install torch torchvision torchaudio einops timm pillow
+pip install git+https://github.com/huggingface/transformers
+pip install git+https://github.com/huggingface/accelerate
+pip install git+https://github.com/huggingface/diffusers
+pip install huggingface_hub
+pip install sentencepiece bitsandbytes protobuf decord
+pip install qwen-vl-utils

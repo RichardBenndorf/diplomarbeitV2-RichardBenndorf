@@ -1,0 +1,6 @@
+GOT OCR Installation
+
+1. conda create -n GotOcr python=3.10 -y && conda activate GotOcr
+2.	pip install torch torchvision tiktoken cairosvg verovio
+	pip install git+https://github.com/huggingface/transformers
+	pip install git+https://github.com/huggingface/accelerate

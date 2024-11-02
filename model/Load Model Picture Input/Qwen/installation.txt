@@ -1,0 +1,5 @@
+1. conda create -n pwen paython=3.11 -y && conda activate quen
+2. 	pip install torch 
+	pip install git+https://github.com/huggingface/transformers
+	pip install git+https://github.com/huggingface/accelerate
+	pip install qwen-vl-utils
