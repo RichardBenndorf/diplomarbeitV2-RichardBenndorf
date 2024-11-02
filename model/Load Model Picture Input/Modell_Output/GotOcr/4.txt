@@ -1,0 +1,11 @@
+TÜV Rheinland Luxemburg
+Test Report No.: 82-2002/24-24905JF47/12
+Type : JF47
+Manufacturer : Honda Italia Industriale S.p.A.
+TÜV Rheinland
+3.2 Radiated narrow-band : antenna distance \(10 \mathrm{~m}\) electromagnetic emissions
+Antenna position : horizontal and vertical
+The radiated narrowband emissions according to annex III, paragraph 1.2 of 97/24/EC, as amended by 2005/30/EC, in any of the 11 frequency bands identified in paragraph 6.1 were at least \(10 \mathrm{~dB}\) below the reference limit. The requirements regarding radiated narrow-band electromagnetic emissions are fulfilled.
+\section*{Immunity Test}
+The test was conducted at an enclosed test facility on a two roller dynamometer and the vehicle was subject to electromagnetic fields as described in Annex IV. The field generating device was an antenna according to 5.1.2. of Annex IV. The vehicle has been monitored during the entire test.
+During the test performed in accordance with Annex IV of the directive no abnormal change in speed of the driven wheels, no degradation of performance which would have caused confusion to other road users, and no degradation in the driver's direct control which could have been observed by the driver or other road users, has been occurred. The requirements concerning vehicle immunity are considered to be met.
