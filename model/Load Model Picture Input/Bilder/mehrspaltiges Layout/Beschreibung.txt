@@ -1,0 +1,1 @@
+Seiten, die in mehreren Spalten organisiert sind und bei denen das Layout für OCR-Modelle oft herausfordernd ist. Keine Tabellen mit Linien.

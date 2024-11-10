@@ -1,0 +1,1 @@
+ Seiten mit tabellarischem Layout, das eine klare Struktur und Spalten enthält. Linien müssen vorhanden sein.
