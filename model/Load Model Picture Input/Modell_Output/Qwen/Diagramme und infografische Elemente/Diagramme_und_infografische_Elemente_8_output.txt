@@ -1,0 +1,33 @@
+Ww. Lampenbuegel / opt. light bar
+Fabrikschild, B-Saeule, links - ww. rechts
+Identification plate, B-pillar left - opt. right
+Fahrzeugidentifizierungs-Nr.
+an Laengsträger, rechts
+
+Vehicle-Identification-No. 11
+at side member, right
+
+L 104
+L  1 01
+L103
+L W 1
+101-1
+W 1 W  03
+
+Ww . Doppelkabine / opt . double cab
+Www. / opt .
+Stylingbar/ Sportsbar
+Wwww. /opt. Hardtop
+W www. Cargobox
+opt. cargo box
+
+Wwww / opt.
+
+Ww Ausfuehrung
+opt . version
+
+Art des Aufbaus / type of bodywork:
+SC - EinzelkabINE / Single cab
+DC - DoppelKabINE/ double cab
+
+Typ: 2H

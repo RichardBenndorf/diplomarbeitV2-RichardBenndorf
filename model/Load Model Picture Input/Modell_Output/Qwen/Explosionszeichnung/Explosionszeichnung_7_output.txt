@@ -1,0 +1,58 @@
+The text in the picture is:
+
+```plaintext
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Nr.
+Field
+Section
+Datum
+Date
+gegen.
+Ge-
+mein-
+dert
+Changed
+ge-
+meind
+Appr.
+28.01.17
+MAF Neu fuer 17V196P
+Beschreibung der Änderung
+Aendungstermschliessel
+Revision record and
+Change date code
+ZSB Firmenzeichen
+ASSY company logo
+Z500
+Z400 Z300 Abdeckung
+Cover
+Schaumteil
+Foam part
+Quertraeger
+Cross member
+Ww. Design Unterfahrschutz
+Opt. design underride protection
+X-900 X-800 Frontend
+Typ: 2H.
+Typ-Pruef-Dok. und
+Typ- Pruef-Nr
+Typ-appr.-doc. and
+type approval number
+Name
+Krollig
+Konstruktions-
+Verantwortung/
+Design Resp.
+Tel.
+30422
+Gez./Drawn
+Kollig
+```

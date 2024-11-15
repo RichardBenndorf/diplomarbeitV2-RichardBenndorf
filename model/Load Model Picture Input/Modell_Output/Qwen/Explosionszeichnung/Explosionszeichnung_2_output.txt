@@ -1,0 +1,44 @@
+The text from a technical drawing is as follows:
+
+---
+
+**Name des Herstellers wahlw. s. Tabelle**
+Manufacturer's name optional, see table
+
+**Ausserhalb dieses**
+Rechteckes sind
+zusätzliche Angaben
+nach Wahl
+des Herstel
+ers moeglich
+
+Additional specifications
+outside of this rectangle
+are possible
+acc. to manufacturer's
+choice
+
+**Ww. Ausfuehrung "Stufe 2"**
+opt. version "Stuf 2"
+
+**Volkswagen AG**
+e1*2001/116
+Stufe2
+WVZZZZ6NZSY000.00
+1234 kg
+1- 12.34
+2- 2.124 kg
+
+**Typ 6N VERSIONE XOSCAEV2 VAN**
+
+**Dieselabgasschild wahl.**
+ohne Beschriftung
+Diesel exhaust plate
+optionally without legend
+
+**Dieselfahrzeug**
+Diesel engine
+optionaly without legend
+Dieselfahrt
+Dieselmotor
+optionably without legend

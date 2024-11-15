@@ -1,0 +1,7 @@
+The table you provided contains a list of German vehicle identification numbers (LE) and their corresponding approval and date of approval. Here is the content in markdown format:
+
+```markdown
+| Nr. | Benennung | Datum | Datei |
+|----|----------|-------|-------|
+| -   | Liste der Genehmigungen | 19.07.2013 |  |
+| LE10-75288 | Lage des Schadlides und der FIN (963-964) | 01.03.2104 |  |

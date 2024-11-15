@@ -1,0 +1,33 @@
+ General
+Allgemeine Angaben
+Make
+Firma des Herstellers
+Trade name of manufacturer
+KIRCHHOFF Ecotec GmbH
+Type completed vehicle
+Typ vollendetes Fahrzeug
+Type of base vehicle
+Typ des Basisfahrzeuges
+Commercial description
+Handelsgeschäft
+Means of identification of type
+Merkmal zur Typenbezeichnung
+If marked on the vehicle
+wenn markiert auf dem Fahrzeug
+Category of vehicle
+Fahrzeugklasse
+Manufacturer's name and address
+Name und Anschrift des Herstellers
+KIRCHHOFF Ecotec GmbH
+Stefanstraße 2
+58638 Iserin
+Address of assembly plant
+Name und Anschrift der
+Fertigungslage (in)
+Refer to information folder
+gemäße Beschreibungsbogen
+Name and address of representative
+Name und Anschrift des Beauftragten
+FAUN Umwelttechnik GmbH & Co. KG
+ Feldhorz 4
+27711 Osterholz-Scharmbeck

@@ -1,0 +1,41 @@
+ Component/system monitoring strategy malfunction criteria secondary parameters fault code
+
+ignition #1 ignition coil signal range check short to ground P0351
+
+ignition #2 ignition coil signal range check short to ground P0352
+
+ignition #3 ignition coil signal range check short to ground P0353
+
+ignition #4 ignition coil signal range check short to ground P0354
+
+exhaust air injection valve circuit continuity, signal range check lower threshold, short to ground P0412
+
+exhaust air injection valve circuit continuity, signal range check upper threshold P044F
+
+purge control valve circuit continuity, signal range check lower threshold, short to ground P0443
+
+purge control valve circuit continuity, signal range check upper threshold P0459
+
+side stand position switch (sensor) signal check receiving of malfunction signal P1590
+
+side stand position switch (sensor) signal check signal frequency is not normal, a period of the circuit malfunction is 2 XCAN 4sec
+
+CAN communication communication check CAN disconnection or short circuit, communication or a dashboard unreceivable or with an unusual value 210sec, communication with MCU is unreceivable 2sec, communication with MCU is successful 3sec P1690
+
+immobilizer system check VSP information after ignition was not successful P1650
+
+oil temperature sensor communication check oil temperature reading via CAN malfunction P0196
+
+EEPROM EEPROM check bank A and bank B EEPROM data are different P0603
+
+CC cancel signal plausibility check comparison APS signal 1 vs. APS signal 2 P056C
+
+clutch pressure sensor circuit continuity, signal range check lower threshold, short to ground P1662
+
+clutch pressure sensor circuit continuity, signal range check upper threshold P1661
+
+shift shaft sensor circuit continuity, signal range check lower threshold, short to ground P1702
+
+shift shaft sensor circuit continuity, signal range check upper threshold P1703
+
+crank sensor circuit continuity, lower threshold P0335

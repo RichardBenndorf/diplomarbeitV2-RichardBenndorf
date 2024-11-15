@@ -1,0 +1,17 @@
+ Casing for the catalytic converter Steel Annex 3.2.1.2.1
+Location of the catalytic converter (place and reference distance in the exhaust line) Annex 3.2.1.2.1
+Catalyst heat-shield yes
+Oxygen sensor component(s) drawing Annex 3.2.1.2.1
+Drawing of exhaust device with oxygen sensor location dimensions relative to control valves Annex 3.2.1.2.1
+Oxygen sensor heat-shields no
+Identifying part number Annex 3.2.1.2.1
+Description of oxygen sensor heating system and heating strategy Annex 3.2.1.2.1
+Oxygen sensor heat-shields no
+Crankcase emission control system Annex 3.2.1.2.1
+Configuration of crank-case gas recycling system (breather system, positive crank ventilation system) Annex 3.2.1.2.1
+Evaporative emission control system yes
+Drawing of the evaporative control system Annex 3.2.1.2.1
+Drawing of the canister (including dimensions and indicating vent and purge mechanism) Annex 3.2.1.2.1
+Working capacity Annex 3.2.1.2.1
+Adsorption material charcoal
+Housing material plastic

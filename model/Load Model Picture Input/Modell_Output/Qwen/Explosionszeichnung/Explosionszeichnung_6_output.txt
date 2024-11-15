@@ -1,0 +1,24 @@
+The text from your image is:
+
+```plaintext
+Nr. No. Feld Section Datum Date gean- dert Ge- m eht Appr. Beschreibung der Aenderung Aenderungssternschiessel Revision record and Change date code
+26.01.17 MAF Neu fuer 17V196P
+1 2 3 4 5 6 7 8 9
+A B C D E F G
+1 Aussenteil / Outer panel Stahl/steel 0,7
+2 Innenteil/Inner part Stahl/steel 0.65
+3 Scharnierverstaerkung /Hinge reinforcement Stahl/Steel 1,2
+4 Schar nierverstaer kung / Hinge reinforcement 1.2
+5 Verstaerkung Schliessbuegel /reinf. striker Stahl /steel 14
+6 Scharnier links /Hingel left Stahlsteel 2,5
+7 Schar nier rechts /Hinges right Stahlstee 2.5
+8 Fanghaken/Buegel Stahl steel --
+
+Vereinfachte Darstellung Simplified representation
+Typ: 2H
+Typ-Pruef-Dok. und Typ-Pruef-Nr. Type-appr.-doc. and type approval number
+Catia V5 R24
+Konstruktions- Verantwortung/ Design Resp. Name Krollig
+Abt./Dept. NE-GP/D Tel. 30422
+Ges./Drawn Krolli
+```

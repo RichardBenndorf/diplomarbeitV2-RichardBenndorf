@@ -1,0 +1,17 @@
+ 3.2.1. periodically regenerating system type:
+3.2.2. operation principle of periodically regenerating system;
+3.3. propulsion (not equipped with selective catalytic reduction system);
+3.4. propulsion (not equipped with lean NOx trap/absorber);
+3.5. lean NOx trap/absorber type;
+3.6. propulsion (not equipped with a cold-start device or starting aid devices);
+3.6.1. cold-start or starting aid device type:
+3.6.2. operation principle of cold start or starting aid device(s);
+3.6.3. activation time of cold-start or starting aid device(s) and/or duty cycle (only activated after cold start);
+3.7. propulsion (not equipped with O2 sensor for fuel control);
+3.7.1. O2 sensor types;
+3.7.2. operation principle of O2 sensor (binary/wide range/other);
+3.7.3. O2 sensor interaction with closed-loop fueling system (stoichiometry/lean or rich operation);
+3.8. propulsion (not equipped with exhaust gas recirculation);
+3.8.1. EGR system types;
+3.8.2. operation principle of EGR system (internal/external);
+3.8.3. maximum EGR rate (+/− 5%)

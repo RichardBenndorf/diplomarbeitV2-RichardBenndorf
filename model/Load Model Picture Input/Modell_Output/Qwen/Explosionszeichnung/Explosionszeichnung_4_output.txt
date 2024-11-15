@@ -1,0 +1,25 @@
+The text in the picture is:
+
+```plaintext
+Seitenansicht XZ
+Lateral view XZ
+
+Fahrerseite
+Unters. R= 1400 (1300 ± 100)
+Testing R=1450 (± 150)
+
+Beifahrerseite
+Front passenger side
+Unter. R = 1350 ± (10)
+S2
+S1
+S22
+4050
+1055
+1440
+4550
+
+a1
+a2
+a3
+```

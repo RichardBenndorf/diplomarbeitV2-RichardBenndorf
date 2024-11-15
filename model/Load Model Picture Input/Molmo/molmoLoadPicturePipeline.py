@@ -8,8 +8,8 @@ processor = AutoProcessor.from_pretrained('allenai/Molmo-7B-D-0924', trust_remot
 model = AutoModelForCausalLM.from_pretrained('allenai/Molmo-7B-D-0924', trust_remote_code=True, torch_dtype='auto', device_map='auto')
 
 # Pfad zum Ordner der Bilder und zum Output-Ordner festlegen
-images_directory = '../testbilder'
-output_directory = '../Modell_Output/Molmo'
+images_directory = '../Bilder/Tabellenformat'
+output_directory = '../Modell_Output/Molmo/Tabellenformat'
 
 # Output-Ordner erstellen, falls er nicht existiert
 os.makedirs(output_directory, exist_ok=True)

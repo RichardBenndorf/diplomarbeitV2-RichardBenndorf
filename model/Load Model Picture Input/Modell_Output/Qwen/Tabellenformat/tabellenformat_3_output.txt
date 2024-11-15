@@ -1,0 +1,4 @@
+| Item | Subject | Regulatory act reference | As amended by | Applicable to version |
+|---|--- | --- | ---|---|
+| 8. | Installation of lighting and light-signalling devices, including automatic switching of lighting | Commission Delegated Regulation (EU) No 3/2014 Annex IX | N/A | All |
+| 9. | Rearward visibility | Commission delegated Regulation (EC) No. 3 2004 Annex X | N / A | All |

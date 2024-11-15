@@ -1,0 +1,35 @@
+ 4. Verbindungseinrichungen und Befestigungen
+Coupling devices and attachments
+
+4.0 Anforderungen gemäß
+Requirements according to
+
+4.1 Für Fahrzeugklasse zutreffend
+For vehicle class applicable
+
+4.2 Anforderungen erfüllt
+Requirements fulfilled
+
+4.3 Nachweise der Anforderungen
+Proof of requirements
+
+4.4 Prüfergebnisse representativ für
+Test results representative for following variants/versions
+
+5. Sicherungen gegen unautorisiertes Benutzen
+Devices to prevent unauthorized use
+
+5.0 Anforderungen gemäß
+Requirements according to
+
+5.1 Für Fahrzeugklasse zutreffend
+For vehicle class applicable
+
+5.2 Anforderungen erfüllt
+Requirements fulfilled
+
+5.3 Nachweise der Anforderungen
+Proof of requirements
+
+5.4 Prüfergebnisse representativ für
+Test results representative for following variants/versions

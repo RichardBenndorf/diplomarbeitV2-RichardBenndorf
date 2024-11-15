@@ -1,0 +1,23 @@
+ 4 Schlüsselscheinung / Certification
+
+Der unter Nr. 0,5 angegebene Beschreibungsschlag und der darin beschriebene Typ entspricht - der Prüfspezifikation unter Nr. 0,5 und der Typ, der darin beschrieben ist, sind in compliance - mit der Prüfspezifikation erwähnt oben.
+
+Die verwendeten Prüfmuster waren im Hinblick auf das erforderliche Leistungsniveau für den zugehringenden Typ präzise. (siehe 1,1)
+
+With regard to the required level of performance to be achieved, the tested items were representative for the type to be approved (see 1.1).
+
+Dieser Prüfbericht umfasst Blatt 1 bis 9 und Anlagen.
+
+This Test Report comprises pages 1 to 9 and attachments.
+
+Dieser Prüfbericht darf nur vom Auftraggeber und nur in vollum Wörterlautverifizierung des Prüferichtes erfasst werden. Eine auszugsweise Verifizierung und Verifizierung des Prüfberichtes ist nur nach schriftlicher Genehmigung des Prüflaboratoriums zulässig.
+
+The Test Report shall be reproduced and published in full only and by the client only. It shall be reproduced partially with the written permission of the Test Laboratory only.
+
+PRÜFLABORATORIUM / TEST LABORATORY
+
+benannt von der Benennungsstelle des Kraftfahrt-Bundesamts,
+Bundesrepublik Deutschland
+
+designated by designation department of Kraftfahrt-Bundesamt,
+Federal Republic of Germany

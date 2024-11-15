@@ -1,0 +1,17 @@
+ Motor control module
+Aftertreatment control module
+Dosing valve
+Shutoff valve
+Diesel injection unit
+Diesel metering unit
+Cooling water supply line
+Cooling water return line
+Exhaust aftertreatment unit
+DOC
+SCR catalyst
+Exhaust gas from engine
+Exhaust gas topipe
+Diesel supply line from engine
+Temperatures rise during operation
+Temperatures decrease during operation
+Converting NOx to less harmful emissions

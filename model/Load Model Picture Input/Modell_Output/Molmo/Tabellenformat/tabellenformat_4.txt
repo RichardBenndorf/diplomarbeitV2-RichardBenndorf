@@ -1,0 +1,89 @@
+ Continuous
+Vehicle speed sensor input is low for 3.97 seconds while engine is operating at a moderate speed and load
+2500 < Engine Speed > 4000
+MAP Load < 60.1 kPa
+Ignition Cycle
+Idle Cycle
+
+Continuous
+Vehicle speed sensor input is high for 3.97 seconds while engine is operating at a moderate speed and load
+2500 < Engine Speed > 4000
+MAP Load < 60.1 kPa
+Ignition Cycle
+Idle Cycle
+
+Continuous
+Sum of max and min MAP values over 3 seconds exceeds threshold and second period exceeds threshold
+Fault Detected
+TGS < 0.9%
+Ignition Cycle
+Idle Cycle
+
+Continuous
+ECM detects an internal error when writing nonvolatile memory
+Fault Detected
+Ignition Cycle
+Idle Cycle
+
+Continuous
+ECM detects an internal error when writing nonvolatile memory
+Fault Detected
+Ignition Cycle
+Idle Cycle
+
+Continuous
+Analog supply 1 voltage < -4.72 volts or analog supply 2 voltage > 14.72 volts or analog supply 1 voltage > 5.26 volts or analog supply 2 voltage > 14.72 volts
+Fault Detected
+Ignition Cycle
+Idle Cycle
+
+Continuous
+Analog supply 1 voltage < -4.72 volts or analog supply 2 voltage > 14.72 volts or analog supply 1 voltage > 5.26 volts or analog supply 2 voltage > 14.72 volts
+Fault Detected
+Ignition Cycle
+Idle Cycle
+
+Continuous
+Engine temperature is more than 70 degrees C higher than normal temperature
+Fault Detected
+Engine temperature > 110 deg. C
+Ignition Cycle
+Idle Cycle
+
+Continuous
+TGS2 measured value from A/D block 1 differs from TGS2 measured value from A/D block 2 by more than 0.78 volts
+Fault Detected
+Engine running for > 1 sec
+Ignition Cycle
+Idle Cycle
+
+Continuous
+Sidestand input voltage is less than 0.59 volts continuously for 1.05 sec
+Fault Detected
+Ignition Cycle
+Idle Cycle
+
+Continuous
+Sidestand input voltage exceeds 4.71 volts continuously for 1.05 sec
+Fault Detected
+Engine Speed > Throttle Position
+Ignition Cycle
+Idle Cycle
+
+Continuous
+Load indicated by ECU is tampering with the 35 W AMAP at a speed and load expected in Limited Mode
+Fault Detected
+Ignition Cycle
+Idle Cycle
+
+Continuous
+Management indicated by ECU is tampering with the 35 W AMAP at a speed and load expected in Power Mode
+Fault Detected
+Ignition Cycle
+Idle Cycle
+
+Continuous
+Management indicated by ECU is tampering with the 35 W AMAP at a speed and load expected in Forced Idle Mode
+Fault Detected
+Ignition Cycle
+Idle Cycle

@@ -1,0 +1,65 @@
+VOLKSWAGEN AG
+
+PRODUKT DETAIL MONTAGEANWEISUNG
+
+PRODUCT DESCRIPTION MANUAL
+
+Unterlagen
+
+References
+
+Typ: 2H.
+
+Vereinfachte Darstellung
+
+Simplified representation
+
+All rights remain with VOLKSWAGON AG. This applies especially to rights of invention, know-how, copyrights and rights to name as well as for the right to patent these as commercial protective rights. All rights of disposition, particularly for copying or distributing, reserved. Approval of first supply and changes acc. to VW 011 55. The English translation is believed to be accurate.
+
+In case of discrepancies the German version shall govern.
+
+Form FE 114e 12.05
+
+[ ] = Benutzmasz Ref. dim.
+
+[ ] ] = Kontrolmasz Control dim.
+
+< > = Vorrichtungsmasz Fixture dim.
+
+= Ausdämmmasz Temporary dim.
+
+> = Prüfmasz Test dim.
+
+<> = Prueflmasz mit Bewertung Dim. to be inspected
+
+= Theorettisches Mesz Basic dim.
+
+Benennung
+
+Chassis
+
+Title
+
+EA-Nr. / eng. proj. no.
+
+Blatt / Sheet 001/002
+
+Format
+
+A3
+
+2H0.000.131
+
+Blatt
+
+/ Sheet
+
+003/010
+
+Form
+
+D
+
+Position
+
+Position

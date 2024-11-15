@@ -1,0 +1,33 @@
+ POS item title werkstoff dichte/mm gewicht g bem. note
+1 trager, stossfanger bracket bumper stahl 2,75 133
+2 schaum, foam part pp schaum/foam 1kg/300 2,7 0
+3 heizstahl, stossfaser retaining part pp schaum/foam 60g/1 2,7 0
+4 schaum, foam part pp schaum/foam 60g/1 2,7 0
+5 schaum, foam part pp schaum/foam 60g/1 2,7 0
+6 frontspoiler spoiler, front pp edpm/td010 td012 td014 2,7 205
+7 leuchtergitter, abspçe cap, towing grill, center pp edpm/td010 td012 td014 2,7 0
+8 leuchtergitter, abspçe cap, towing grill, center pp edpm/td010 td012 td014 2,7 0
+9 abspçe, without front fog lamp pp edpm/td010 td012 td014 2,7 0
+10 blende mit/ohne nsw trim, asy front, painted pp edpm/td010 td012 td014 2,5 0
+11 zsb neugriffe, vorn, lackiert cover, asy front, painted pp edpm/td010 td012 td014 2,5 0
+12 fuehrungseitl. guide, side pp edpm/td010 td012 td014 2,5 0
+13 radschutzkappe wheel cover pp edpm/td010 td012 td014 2,5 0
+14 zsb kagddeckung trim, asy front, grille pp edpm/td010 td012 td014 2,5 0
+15 zsb firmenzeichen asy company logo pp edpm/td010 td012 td014 abs, pmm a 2,5 0
+16 chromiegelb, horizontal chromed molding, horizontal abs 2,5 0
+17 chromiegelb, vertical chromed molding, vertical abs 2,5 0
+18 traeger Scheinwerfer carrier headlamp abs 2,5 0
+19 traeger Scheinwerfer carrier headlamp abs 2,5 0
+20 traeger Scheinwerfer carrier headlamp abs 2,5 0
+21 abdeckung, vorn, gränzt cover, front, gränzt pp edpm/td010 td012 td014 abs 2,5 0
+22 abdeckung, vorn, horizontal cover, front, horizontal pp edpm/td010 td012 td014 abs 2,5 0
+23 abdeckung, vorn, horizontal cover, front, horizontal pp edpm/td010 td012 td014 abs 2,5 0
+24 klappe frame abs 3,0 0
+25 rahein rahmen carrier abs 3,0 0
+26 klappe flap abs 3,0 0
+27
+28
+29
+30
+31
+32

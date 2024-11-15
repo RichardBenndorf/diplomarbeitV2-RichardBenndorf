@@ -1,0 +1,17 @@
+On-Board-Diagnosesystem (OBD-System) (ja/nein): On-board-diagnostic (yes/no):
+
+Entfällt nicht applicable
+
+Drehmomentbegrenzer: ja/nein Torque limiter: yes/no
+
+Entfällt not applicable
+
+Periodisch arbeitendes Regenerationssystem: (nachstehende Angaben sind für jede selbstständige Einzelne anzugeben) Periodically regenerating system: (provide the information below for each separate unit)
+
+Diskontinuierliche Regeneration non-continuous regeneration
+
+Art und Konzentration des erforderlichen Reagens: Type and concentration of reagent needed:
+
+Urea, Konzentrat gemäß ISO 22241-1 (Aktivierung Warnsystem außerhalb Konzentrationsbereich von 27,8 - 46 Gew.-% Harnstoff) Urea, concentration according to ISO 12231- 1 (activation induction system outside concentration range from 25,8 to 45% w/w urea)
+
+Anbringungsstelle des Symbols für den Absorptionskoeffizienten (nur bei Selbstzündungsmotoren): Location of the absorption coefficient symbol (compression ignition engines only):

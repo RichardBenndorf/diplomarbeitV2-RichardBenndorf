@@ -1,0 +1,23 @@
+ TYPGUTACHTEK
+Über die Zugmaschine (Acker schlepper)
+Haupttyp "35 PS Ackerbulldog" der Firma Helrich Lanz AG Mannheim
+Die Zugmaschine wird in folgenden Ausführungen hergestellt:
+D 8506
+a) mit Lufteinbung
+b) mit Eisenbetrieb, Sechseagang-getrieb, 3 Gangarrêtet
+Diese Ausführungen können mit nachstehenden Zusatzteilen ausgestattet werden:
+Fahrsitzdach
+Kotflugel vor und hinter
+Windschutzschutzscheibe
+Kotflugel an den hinteren Zernden
+Für den 35 PS Ackerbulldog gelten in übrigen fallende Worknole:
+1. Art des Fahrzeuges: Zugmaschine (Acker schlepper)
+2. Hersteller des Fahrzeuges: Heinrich Lanz AG Mannheim
+3. Antriebsmaschine:
+   a) Art des Antriebsbaus
+   b) Leistung:
+      35 PS bei 540 U/min
+   c) Hubdurchmesser der Zylinder: 1038 cm³
+   d) Hersteller:
+      Heinrich Lanz AG Mannheim
+   e) Takt: Zweitakt

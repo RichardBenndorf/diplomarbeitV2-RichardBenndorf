@@ -1,0 +1,18 @@
+ Auftragsgeber: Faun Umwelttechnik GmbH & Co. KG
+Herd-Ing. Georg Sandkuhler
+ Feldhorst 4
+ D-27711 Osterholz-Scharmbeck
+
+Prüfgenstand: MB Econic mit Rotopress Dualpower 516540
+EMV-Vorschrift: 72/245/EG in der Fassung 2006/96/EG
+Ort der Prüfung: MBtech EMC GmbH, EMV-Halle, hH
+Eingang des Prüflings: 2011-01-10
+Datum der Prüfung: 2011-01-11
+Erstellung des Prüferberichts: 2011-01-17
+Prüferbericht-Nr.: PI10008
+Gesamtseitezahl: Prüferbericht 13 Seiten, Anhang 16 Seiten
+Sachbearbeiter Auftragsgeberseite: Hr. Dipl.-Ing. Georg Sandkuhler
+Sachbearbeiter MBtech EMC GmbH: Hr. Klingenstein, Hr. Burger
+Verfasser: Hr. Klamt
+Geschäftsführer MBtech EMC GmbH: Dr.-Ing. U. Reinhart
+Die Prüfung gemäß Richtlinie 72/245/EG in der Fassung 2006/96/EG wurde bestanden

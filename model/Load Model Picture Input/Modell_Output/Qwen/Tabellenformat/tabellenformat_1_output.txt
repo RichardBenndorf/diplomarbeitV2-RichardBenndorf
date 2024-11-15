@@ -1,0 +1,24 @@
+| Heading No | Separate Directive No | Subject | Approval No (1) | Extension date | Variants and versions covered |
+|---|--- | --- | ---|---.|---|
+| 18 | 95/1/EC | Maximum torque and maximum net power of engine |  | 21.10.2004 | |
+|  | | | 19 | | |
+|| 97/24/EC (C7) | Anti-tampering measures for mopeds and motorcycles | 32 | ||
+| | | Fuel tank | 5 | |1993/93/ECC|
+|25 |  9/5/EC| Maximum design speed of vehicle | 6 | |93-93-ECC|
+||  3/3/EC(C10)| Trailer coupling devices | 7 | |27 |
+|28 | | Anti-air pollution measures | 8 | |
+|
+|31 | 4/19/EEC| Braking system |  |
+|32| 9392/EECC| Installation of lighting and light-signalling devices on the vehicle | | e11-0017 | 0 |
+| |  C2 | Lighting and light-signalign devices | | Extension No: 0 | |
+|41 | | Audible warning device | | V6F |
+|43 | | Position for the mounting of rear registration plate | | Extensions No: | |
+||
+|44 | | Electromagnetic compatibility | | E110007 | |
+45 | Sound level and exhaust system | | Sound Level and Exhaust System | | Variations: V6E |
+|50 | | Rear-view mirror(s) | | Stand (except in the case of vehicles having three or more wheels) | |
+51 | External projections | | External Projections | |Variations: |
+|60 | Stand | | Devices to prevent unauthorized use of the vehicle| | |
+61 | Windows; windshield wipers; windshield washers; and so on | | Passenger hand-hold for two-wheel vehicles | |V6E|
+|62 |  Passenger hand hold for two wheel vehicles |  Anchorage points for safety belts and safety belts | | Speedometer |
+|70 | Identification of controls, tell-tales and indicators | | Statutory inscriptions | |
