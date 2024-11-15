@@ -1,0 +1,27 @@
+| 3.21PEtypes;                                                                                                                                           | N/A             |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------|
+| 3.2.2 number and elements of PF;                                                                                                                       | N/A             |
+| 3.2.3. size of PF (volume of filter element + / - 10 %);                                                                                               | NJA             |
+| 3.2.4 operation principle of PF (partial Lwall-flow L otherli                                                                                          | NJA             |
+| 3.2.5. active surface of PF;                                                                                                                           | NA              |
+| 3.3. propulsion (not) equipped with periodically regenerating system;                                                                                  |                 |
+| 3.3.1periodically regenerating system type;                                                                                                            | N/A             |
+| 3.3.2. operation principle of periodically regenerating system;                                                                                        | N/A             |
+| 3.4. propulsion (not) equipped with selective catalytic converter reduction (SCR) system;                                                              |                 |
+| 3.4.1. SCR system type;                                                                                                                                | N/A             |
+| 3.4.2. operation principle of periodically regenerating system;                                                                                        | NJA             |
+| 3.5. propulsion [notl equipped with lean NOx trap labsorber;                                                                                           |                 |
+| 35.1. lean NOx trap Labsorber type;                                                                                                                    | N/A             |
+| 3.5.2. operation principle of lean NOx trap J absorber;                                                                                                | NFA             |
+| 3.6. propulsion (not) equipped with a cold-start device or starting aid devicels);                                                                     |                 |
+| 3.6.1. cold-start or starting aid device type;                                                                                                         | Automatic       |
+| 3.6.2. operation principle of cold start or starting aid devicels);                                                                                    | Fuel enrichment |
+| 3.6.3. Activation time of cold-start or starting aid devicels) and /or duty (only limited time activated after cold start continuous operation); cycle | Limited Time    |
+| 3.7. propulsion (notl equipped with O 2 sensor for fuel control;                                                                                       |                 |
+| 3.7.1.0 2 sensor types;                                                                                                                                |                 |
+| 3.7.2. operation principle of 0 2 sensor (binary wide range / other);                                                                                  | Binary          |
+| 3.7.3.0 2 sensor interaction with closed-loop fuelling system (stoichiometryLlean or rich operationl;                                                  | Stochiometry    |
+| 3.8. propulsion (not) equipped with exhaust gas recirculation (EGR) system;                                                                            |                 |
+| 3.8.1 EGR system types;                                                                                                                                | NJA             |
+| 3.8.2 operation principle of EGR system (internal [ external);                                                                                         | NJA             |
+| 3.8.3 maximum EGR rate (+ / - 5 %);                                                                                                                    | N/A             |

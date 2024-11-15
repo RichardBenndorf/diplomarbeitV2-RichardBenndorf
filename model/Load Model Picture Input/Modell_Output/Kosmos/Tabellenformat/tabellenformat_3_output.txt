@@ -1,0 +1,278 @@
+|<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>
+Item
+</th>
+<th>
+Subject
+</th>
+<th>
+Regulatory act reference
+</th>
+<th>
+As amended by
+</th>
+<th>
+Applicable to version
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+8.
+</td>
+<td>
+Installation of lighting and lightsignalling devices, including automatic switching of lighting
+</td>
+<td>
+Commission Delegated Regulation (EU) No 3/2014 Annex IX
+</td>
+<td>
+N/A
+</td>
+<td>
+All
+</td>
+</tr>
+<tr>
+<td>
+9.
+</td>
+<td>
+Rearward visibility
+</td>
+<td>
+Commission Delegated Regulation (EU) No 3/2014 Annex X
+</td>
+<td>
+N/A
+</td>
+<td>
+All
+</td>
+</tr>
+<tr>
+<td>
+10.
+</td>
+<td>
+Rollover protective structure (ROPS)
+</td>
+<td>
+Commission Delegated Regulation (EU) No 3/2014 Annex XI
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+</tr>
+<tr>
+<td>
+11.
+</td>
+<td>
+Safety-belt anchorages and safetybelts
+</td>
+<td>
+Commission Delegated Regulation (EU) No 3/2014 Annex Xll
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+</tr>
+<tr>
+<td>
+12.
+</td>
+<td>
+Seating positions (saddles and seats)
+</td>
+<td>
+Commission Delegated Regulation (EU) No 3/2014 Annex Xlll
+</td>
+<td>
+N/A
+</td>
+<td>
+All
+</td>
+</tr>
+<tr>
+<td>
+13.
+</td>
+<td>
+Steer-ability, cornering properties and turn-ability
+</td>
+<td>
+Commission Delegated Regulation (EU) No 3/2014 Annex XIV
+</td>
+<td>
+N/A
+</td>
+<td>
+All
+</td>
+</tr>
+<tr>
+<td>
+14.
+</td>
+<td>
+Installation of tyres
+</td>
+<td>
+Commission Delegated Regulation (EU) No 3/2014 Annex XV
+</td>
+<td>
+N/A
+</td>
+<td>
+All
+</td>
+</tr>
+<tr>
+<td>
+15.
+</td>
+<td>
+Vehicle maximum speed limitation plate and its location on the vehicle
+</td>
+<td>
+Commission Delegated Regulation (EU) No 3/2014 Annex XVI
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+</tr>
+<tr>
+<td>
+16.
+</td>
+<td>
+Vehicle occupant protection, including interior fittings and vehicle doors
+</td>
+<td>
+Commission Delegated Regulation (EU) No 3/2014 Annex XVII
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+</tr>
+<tr>
+<td>
+17.
+</td>
+<td>
+Maximum continuous total power and/or maximum vehicle speed limitation by design
+</td>
+<td>
+Commission Delegated Regulation (EU) No 3/2014 Annex XVIII
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+</tr>
+<tr>
+<td>
+18.
+</td>
+<td>
+Requirements on vehicle structure integrity
+</td>
+<td>
+Commission Delegated Regulation (EU) No 3/2014 Annex XIX
+</td>
+<td>
+N/A
+</td>
+<td>
+All
+</td>
+</tr>
+<tr>
+<td>
+Vehicle Construction and General Type-approval Requirements
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+1.
+</td>
+<td>
+Powertrain tampering prevention measures (anti-tampering)
+</td>
+<td>
+Commission Delegated Regulation (EU) No 44/2014 Annex Il
+</td>
+<td>
+N/A
+</td>
+<td>
+N/A
+</td>
+</tr>
+<tr>
+<td>
+2.
+</td>
+<td>
+Arrangements for type-approval procedures
+</td>
+<td>
+Commission Delegated Regulation (EU) No 44/2014 Annex Ill
+</td>
+<td>
+N/A
+</td>
+<td>
+All
+</td>
+</tr>
+<tr>
+<td>
+3.
+</td>
+<td>
+Conformity of production
+</td>
+<td>
+Commission Delegated Regulation (EU) No 44/2014 Annex IV
+</td>
+<td>
+N/A
+</td>
+<td>
+All
+</td>
+</tr>
+<tr>
+<td>
+4.
+</

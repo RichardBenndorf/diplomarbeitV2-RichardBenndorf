@@ -1,0 +1,85 @@
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline \begin{tabular}{l} 
+Heading \\
+No
+\end{tabular} & \begin{tabular}{l} 
+Separate Directive \\
+No
+\end{tabular} & Subject & Approval No (1) & \begin{tabular}{l} 
+Extension \\
+date
+\end{tabular} & \begin{tabular}{l} 
+Variants and versions \\
+covered
+\end{tabular} \\
+\hline 18 & \(95 / 1 / E C\) & \begin{tabular}{l} 
+Maximum torque and \\
+maximum net power of \\
+engine
+\end{tabular} & & & \\
+\hline 19 & \(97 / 24 / E C\) (C7) & Anti-tampering measures & & & \\
+\hline & & for mopeds and & & & \\
+\hline 20 & \(97 / 24 / E C\) (C6) & Fuel tank & & & \\
+\hline 25 & \(95 / 1 / E C\) & \begin{tabular}{l}
+\(\frac{\text { Maximum design speed of }}{\text { vehicle }}\)
+\end{tabular} & & & \\
+\hline 26 & \(93 / 93 / E E C\) & Masses and dimensions & & & \\
+\hline 27 & \(97 / 24 / E C\) (C10) & Trailer coupling devices & & & \\
+\hline 28 & \(97 / 24 / E C\) (C5) & Anti-air pollution measures & & & \\
+\hline 29 & \(97 / 24 / E C\) (C1) & Tyres & & & \\
+\hline 31 & \(93 / 14 / E E C\) & Braking system & & & \\
+\hline 32 & \(93 / 92 / E E C\) & \begin{tabular}{l} 
+Installation of lighting and \\
+light-signalling devices on \\
+the vehicle
+\end{tabular} & & & \\
+\hline 33 & \(97 / 24 / E C\) (C2) & \begin{tabular}{l} 
+Lighting and \\
+light-signalling devices
+\end{tabular} & & & \\
+\hline 34 & \(93 / 30 / E E C\) & Audible warning device & & & \\
+\hline 35 & \(93 / 94 / E C\) & \begin{tabular}{l} 
+Position for the mounting \\
+of rear registration plate
+\end{tabular} & & & \\
+\hline 36 & \(97 / 24 / E C\) (C8) & \begin{tabular}{l} 
+Electromagnetic compati- \\
+bility
+\end{tabular} & \(\frac{\text { el1-0017 Extenion No: } 0}{0}\) & 21.10.2004 & Variants: V6F \\
+\hline 37 & \(97 / 24 / E C\) (C9) & \begin{tabular}{l} 
+Sound level and exhaust \\
+system
+\end{tabular} & & & \\
+\hline 38 & \(97 / 24 / E C\) (C4) & Rear-view mirror(s) & & & \\
+\hline 39 & \(97 / 24 / E C\) (C3) & External projections & & & \\
+\hline 40 & \(93 / 31 / E E C\) & \begin{tabular}{l} 
+Stand (except in the case \\
+of vehicles having three or \\
+more wheels)
+\end{tabular} & & & \\
+\hline 41 & \(93 / 33 / E E C\) & \begin{tabular}{l} 
+Devices to prevent \\
+unauthorised use of the \\
+vehicle
+\end{tabular} & & & \\
+\hline 42 & \(97 / 24 / E C\) (12) & \begin{tabular}{l} 
+Windows; windscreen \\
+wipers; windscreen \\
+washers; and so on
+\end{tabular} & & & \\
+\hline 43 & \(93 / 32 / E E C\) & \begin{tabular}{l} 
+Passenger hand-hold for \\
+two-wheel vehicles
+\end{tabular} & & & \\
+\hline 44 & \(97 / 24 / E E C\) (C11) & \begin{tabular}{l} 
+Anchorage points for \\
+safety belts and safety belts
+\end{tabular} & & & \\
+\hline 45 & \(2000 / 7 / E C\) & Spcedometer & & & \\
+\hline 46 & \(93 / 29 / E E C\) & \begin{tabular}{l} 
+Identification of controls, \\
+tell-tales and indicators
+\end{tabular} & & & \\
+\hline 47 & \(93 / 34 / E E C\) & Statutory inscriptions & & & \\
+\hline
+\end{tabular}

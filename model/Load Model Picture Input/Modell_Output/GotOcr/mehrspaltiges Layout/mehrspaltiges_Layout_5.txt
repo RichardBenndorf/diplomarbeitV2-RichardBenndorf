@@ -1,0 +1,68 @@
+\begin{tabular}{|c|c|c|}
+\hline 2.3.3. & \begin{tabular}{l} 
+Übereinstimmungsprüfung nach \\
+Anhang V, Nr. 16, 2007/46/EG / Test \\
+of conformity according to annex V, \\
+No. 1c, 2007/46/EG
+\end{tabular} & \begin{tabular}{l} 
+: Die Fahrzeugmerkmale und -daten des oben angeführ- \\
+ten Beschreibungsbogens stimmen mit den Angaben \\
+der Beschreibungssunterlagen der herangezogenen \\
+Systemgenehmigungen überein. / The vehicle specifica- \\
+tions and data of the information document mentioned \\
+above correspond to those included in the information \\
+package of the relevant system approvals.
+\end{tabular} \\
+\hline & Bemerkungen / Remarks & : keine / n.a. \\
+\hline 2.3.4. & \begin{tabular}{l} 
+Übereinstimmungs- und Anbauüber- \\
+prüfung nach Anhang V, Nr. 1d, \\
+2007/46/EG / Test of conformity and \\
+installation according to annex V, \\
+No. 1d, 2007/46/EG
+\end{tabular} & : Das ausgewählte Prüfahrzeuge gestatt eine angemes- \\
+\hline 2.3.4. & \begin{tabular}{l}
+\(\because\) \\
+\(\because\) \\
+\(\because\) \\
+\(\because\) \\
+\(\because\) & \(\because\) \\
+\(\because\) \\
+\(\because\) \\
+\(\because\) \\
+& \(\because\) \\
+& \(\because\) \\
+& \(\because\) \\
+& \(\therefore\) \\
+& \(\because\) \\
+& \(\because\) \\
+& \(\because\) & \(\because\) \\
+& & \\
+& & \\
+& & \\
+& & \\
+& & \\
+& & \\
+& & \\
+\hline 2.3.5. & \begin{tabular}{l} 
+Ein- und Anbauüberprüfung nach \\
+Anhang V, Nr. 1e, 2007/46/EG / \\
+Verification and installation \\
+according to annex V, No. 1e, \\
+2007/46/EG
+\end{tabular} & : entfällt / n.a. \\
+\hline 2.3.6. & \begin{tabular}{l} 
+Übereinstimmungs- und Anbauüber- \\
+prüfung nach Anhang V, Nr. 1f, \\
+2007/46/EG / Test of conformity and \\
+installation accordingto annex V, \\
+No. 1f, 2007/46/EG
+\end{tabular} &  & \begin{tabular}{l} 
+entsprechende Einrichtungen vorhanden / fitted with \\
+an adequate device \\
+2. 78/318/EWG / 78/318/EEC: \\
+entsprechende Einrichtungen vorhanden / fitted with \\
+an adequate device
+\end{tabular} \\
+\hline
+\end{tabular}

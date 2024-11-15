@@ -1,0 +1,26 @@
+&gt; ***FHZ-IDENTIFIZIERUNGSNUMMER / VEHICLE IDENTIFICATION NUMBER***
+
+BEISPIEL / EXAMPLE:
+
+WDB9630031L479935
+=================
+
+&gt; Schrifthöhe / letter hight: ≥ 7mm
+
+AUFBAU DER NUMMER / STRUCTURE OF NUMBER:
+
+&gt; *WDB 963003 1 L 479935*
+&gt;
+&gt; *6-stellige Zahlnummer/ 6-digit counter*
+&gt;
+&gt; *Fertigungsstätte/ Plant*
+&gt;
+&gt; *Lenkung/ Steering system*
+&gt;
+&gt; *Baumuster*
+&gt;
+&gt; *Welthersteller/ World manufacturer identifier*
+&gt;
+&gt; WDB= Daimler AG
+&gt;
+&gt; WDF= Daimler AG

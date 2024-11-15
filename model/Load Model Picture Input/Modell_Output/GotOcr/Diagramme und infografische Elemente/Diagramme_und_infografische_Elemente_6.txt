@@ -1,0 +1,1 @@
+<smiles>[R]C1CC([R]C(=O)C(C)C2CC[C@H]([R])C(=O)C(C)C2C=C(C)C1</smiles>

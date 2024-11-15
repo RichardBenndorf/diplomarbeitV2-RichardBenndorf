@@ -1,0 +1,248 @@
+|<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>
+ignition
+</th>
+<th>
+component/system
+</th>
+<th>
+monitoring strategy
+</th>
+<th>
+malfunction criteria
+</th>
+<th>
+secondary parameters fault code
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>
+#1 Ignition coil
+</td>
+<td>
+signal range check
+</td>
+<td>
+short to ground
+</td>
+<td>
+P0351
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+#2 Ignition coil
+</td>
+<td>
+signal range check
+</td>
+<td>
+short to ground
+</td>
+<td>
+P0352
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+#3 Ignition coil
+</td>
+<td>
+signal range check
+</td>
+<td>
+short to ground
+</td>
+<td>
+P0353
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+#4 Ignition coil
+</td>
+<td>
+signal range check
+</td>
+<td>
+short to ground
+</td>
+<td>
+P0354
+</td>
+</tr>
+</tbody>
+</table>
+
+Others
+
+<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>
+Others
+</th>
+<th>
+component/system
+</th>
+<th>
+monitoring strategy
+</th>
+<th>
+malfunction criteria
+</th>
+<th>
+secondary parameters fault code
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>
+Exhaust air injection valve
+</td>
+<td>
+circuit contiunity, signal range check
+</td>
+<td>
+lower treshold, short to ground
+</td>
+<td>
+P0412
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+upper threshold
+</td>
+<td>
+P044F
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+Purge control valve
+</td>
+<td>
+circuit contiunity, signal range check
+</td>
+<td>
+lower treshold, short to ground
+</td>
+<td>
+P0443
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td></td>
+<td>
+upper threshold
+</td>
+<td>
+P0459
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+Side stand position switch (sensor)
+</td>
+<td>
+circuit contiunity, signal range check
+</td>
+<td>
+lower treshold, short to ground
+</td>
+<td>
+P1590
+</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>
+signal check
+</td>
+<td>
+receiving of malfunction signal
+</td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>
+signal check
+</td>
+<td>
+signal frequency is abnormal
+</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+| | CAN communication | communication check | A period of the circuit malfunction is 2
+&gt;
+&gt; XCACAN | P1690 |
+| | | | - CAN line disconnection or short-circuit 2
+&gt;
+&gt; 4sec
+
+- Communication with a dashboard unreceivable or an unusual value 2 10sec
+
+- Communication with MCU is unreceivable 2
+
+&gt; 3sec
+
+- VSP information is unreceivable 2 1sec | |
+<p>
+| | Immobilizer | system check | immobilizer check after ignition on was not sucessfull | P1650 |
+<br/>
+| | Oil temperature sensor | communication check | oil temperator reading via CAN is malfunction | P0196 |
+<br/>
+| | EEPROM | EEPROM check | Reading value and writing value in EEPROM data are different. | P0603 |
+<br/>
+| | | | Bank A and bank B in EEPROM data are different | |
+<br/>
+| | CC Cancel signal | plausibility check | comparison APS signal 1 vs. APS signal 2 | P056C |
+<br/>
+| | Clutch pressure sensor | circuit contiunity, signal range check | lower treshold, short to ground | P1662 |
+<br/>
+| | | | upper threshold | P1661 |
+<br/>
+| | Shift shaft sensor | circuit contiunity, signal range check | lower treshold, short to ground | P1702 |
+<br/>
+| | | | upper threshold | P1703 |
+<br/>
+| | Crank sensor | circuit contiunity | lower treshold | P0335 |
+</p>

@@ -1,0 +1,31 @@
+## Throttle Body (TB) and fuel rail
+
+The Throttle Body. which distributos fuel and alr t th0 argine cylindors, {s an aluminum dual runner  withi aeparate manifolds. The TB and fuel rail housos the fuel injoctors, luel prcssure regulator; thromie position sensor, Idle specd control actuator, and the lhrottle plates and Iinkages. Fuel fitings conneci the {uel cupply and roturn lo Io fuel tank
+
+## Sensors
+
+Fivo sGnsors provlde Ihe ECM with dala on the environmental and engine operating factors influencing fuel and spark requirements. A brief descrlption of each sengor [ollows.
+
+Crankshaft Position Sensor (CKP Sonsor) - The CKP Sensor i6 a fagnelic pIckup device mounted in the lef crarikcase hall near the allernalor plug- To calculale engine speed for Ihe ECM, te sensor plcke VP signals from the presonce of 24 teeth machined into the left fywheel cheek A g2p, created by the removal of two teoth, establishes a Dead Center (TDC} reference. Top
+
+Coolant Temperature Sensor (ET Sensor)- The ET Sensor monitors temperature of the engino cooiant and is mounted between the engine 'V' This informnation is primarily used by the ECM durlng engine warm-up periods {or tho purpose of Idle speed aojustmient. The ECM also uses the data l0 determine Injector pulze width .
+
+Intake Air Temperature Sensor (LAT Sonsor)- Located in the front cylinder intake; the data provided by Ihe IAT Sensor is u8ed in conjunction with the data from Ihe MAP Sensor to datermine Oxygen content (air density) for adjustnent of fuel delivery during cold starting and warm-UP,
+
+Manlfold Air Prebsure Sensor (MAP Sensor] - The MAP Sensor, mounted on the front cylinder intake; monitors manifold alr prossure and sen805 cngine load for fuel and spark tming.
+
+Throttlo Posltlon Sensor (TP Sensor) - The TP Sensor i8 a potentiometer mounted on the throtile body and attached %0 Ihe end of the throtle shalt It provides the ECM with infcrmatlon about throtile angle for transient fuel and spark timing.
+
+## Other Features
+
+WIre Harnesses- There is 0 single main harness.  There is à separale smiall engine harness connecled to the main wire harness.
+
+Low Level Fuel WarnIng Lamp- Since the fuel valve a@d mechanical reserve have been eliminaled, a (uel gauge and a low luel level warning lamp have been provided. The lamp i6 activated when the fuel levcl rcaches about 7/2 t0 1.5 gallons and stays lit until the engine is turned off or {uel is added The lamp i8 designed s0 that it will not blink when movemient of Ihe vehicle causes the fuel 1o slosh inslde Ihe Iank.
+
+Fuses and Relays- One eleclrical Is provided , whlch powers Ihe [uel pump, ignition coil and injeclors. The are similar to Ihe starter currently used on production vehicles, To provide circuit prolection; Ihe appropriale fuses are supplied in a sealed fuse holder. Another holder at the same location contains spare fusos. relay relays relay
+
+Air Cleaner - The alr cleaner is mounted in the air box.  It i3 located on top of the cylinders,
+
+Check Engine Lamp- The Check Engine Lamp on the instrurent panel indicates the existence of a fau;t condition:.
+
+Data Link Connector- The EFI system provideg twvo levels of cn board diagnoslics to asslat In delerminirg the source 0f system problems. In the more sophisticated mode; the Scanalyzer is connected to the ECM and allows for an in-depth diagnosis. In the other mode; & Diagnostics Test Lamp is observed by the lechnician. The lamp flashes 0 code that correlates t0 & paricular protlem areà. The Data Link Connector provices for connection of either the Diagnostics Test Lamp cr the Scanalyzer.

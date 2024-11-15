@@ -1,0 +1,15 @@
+{
+    "title": "LOCATION OF LIGHTING DEVICES Version(s): #|\#|^T\#",
+    "source": "None",
+    "x_title": "None",
+    "y_title": "None",
+    "values": {
+        "Side Reflex Reflectors": "17.80%",
+        "Stop Light / Position Light": "12.50%",
+        "Registration Plate Light": "10.20%",
+        "Rear Reflex Reflector": "9.60%",
+        "Passing and Driving Light / Front Position Light": "8.90%",
+        "Direction Indicators Rear": "7.30%",
+        "Side Reflex Reflectors": "6.70%"
+    }
+}

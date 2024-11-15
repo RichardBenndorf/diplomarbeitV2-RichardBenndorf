@@ -1,0 +1,47 @@
+- Verbindungseinrichtungen und Befestigungen Coupling devices and attachments
+- 40 Anforderungen gemiß Requirements according to
+- 41 Für Fahzeugklasse Zutreffend Forvehicle class opplicable
+- 4.2 Anforderungen erullt Requirements fufflled
+- 43 Nadhweis der Anforderungen Prcofof requirements
+- 44 Prüfergebnisee repräcentativ fü fclgende Varanen/ Versionen Test reswits Fepresentative for following variants / versions
+- VO(EU) 16812013, ArtikelArticle 18 In Verbindung Mi: } in connection wibh VO (EU) 44+2014 ArtikelArtidle 9 undland Anhang Annex V, geandet durch / amendedby VO (EU) 2018/295
+
+Ja'Yes
+
+Neinb
+
+Falls ausgerustet'If fitted
+
+Ja'Yes
+
+Neinb
+
+Nicht ausgerüstet'Not fited
+
+Nicht zutreffend Nbot spplicable
+
+entfallt / na
+
+entfallt / na
+
+- 5 Sicherungen gegen unbefugte Benutzung Devices to prevent unauthorised use
+- 50 Anforderungen gemgß Requirements accorling to
+- 51 Für Fahrzeugklasee Zutreffend Forvehcle class applicable
+- 52 Anforderungen erfullt Requirements fuhiled
+- 53 Nadhweis der Anforderungen Prcof of requirements
+- 54 Prüfergebnisse repräcentativ für fcloende Varanen/ Versicnen Test reswits Fepresenttive for following Variants / versions
+- VO(EU} 1682013, ArtkelArtcle 18 in Verbindung nit / in connection with VO (EU) 44/2014, ArikelArtidle 10 unjand Anhang Annex VI, geändart durch / amended by VO (EU) 2018+295
+
+Ja'Yes
+
+Neinib
+
+Ja'Yes
+
+Neinno
+
+GT0 168/2013-16006.DO
+
+Anage / ataclnent 12
+
+allelal

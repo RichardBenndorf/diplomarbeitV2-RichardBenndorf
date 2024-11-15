@@ -1,0 +1,29 @@
+\begin{tabular}{|c|c|c|c|c|}
+\hline Auftraggeber: & \multirow{4}{*}{\begin{tabular}{l} 
+Prüfgegenstand: \\
+EMV-Vorschrift: \\
+Ort der Prüfung:
+\end{tabular}} & \multicolumn{3}{|c|}{\begin{tabular}{l} 
+Faun Umwelttechnik GmbH \& Co. KG \\
+Herr Dipl.-Ing. Georg Sandkühler \\
+Feldhorst 4 \\
+HPC: PQ02 / 065 \\
+D-27711 Osterholz-Scharmbeck
+\end{tabular}} \\
+\hline & & \multicolumn{3}{|c|}{ MB Economic mit Rotopress Dualpower 516540} \\
+\hline & & \multicolumn{3}{|c|}{ 72/245/EWG in der Fassung 2006/96/EG } \\
+\hline & & \multicolumn{3}{|c|}{\begin{tabular}{l}
+\(\mathrm{MB}\) tech EMC GmbH, \\
+D-71332 Waiblingen
+\end{tabular}} \\
+\hline Eingang des Prüflings: & & \multicolumn{3}{|c|}{ 2011-01-10 } \\
+\hline Datum der Prüfung: & & \multicolumn{3}{|c|}{ 2011 -01-10/11 } \\
+\hline Erstellung des Prüfberichtes: & & \multicolumn{3}{|c|}{ 2011.01-17 } \\
+\hline Prüfbericht Nr.: & & \multicolumn{3}{|c|}{ P110008 } \\
+\hline Gesamtseitenzahl: & & Prüfbericht: & 13 Seiten & Anhang: 16 Seiten \\
+\hline Sachbearbeiter Auftraggeberseite: & & \multicolumn{3}{|c|}{ Hr. Dipl.-Ing. Georg Sandkühler } \\
+\hline Sachbearbeiter MBech EMC GmbH: & & \multicolumn{3}{|c|}{ Hr. Klingenstein, Hr. Burger } \\
+\hline Verfasser: & & \multicolumn{3}{|c|}{ Hr. Klamt } \\
+\hline Geschäftsführung MBech & & \multicolumn{3}{|c|}{ Dr.-Ing. U. Reinhardt } \\
+\hline
+\end{tabular}

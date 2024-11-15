@@ -1,0 +1,18 @@
+\begin{tabular}{|c|c|c|}
+\hline \begin{tabular}{l} 
+1 The Eastgate Office Centre \\
+Eastgate Road \\
+Bristol B55 6XX \\
+United Kingdom
+\end{tabular} & \begin{tabular}{l} 
+Switchboard: \\
+Main Fax:
+\end{tabular} & \begin{tabular}{l}
+\(+44(0) 1179515151\) \\
+\(+44(0) 1179524103\) \\
+general@rca.gov.uk \\
+www.vca.gov.uk
+\end{tabular} \\
+\hline
+\end{tabular}
+ of a type of vehicle with regard to Directive 92/61/EEC as last amended by 2000/7/EC

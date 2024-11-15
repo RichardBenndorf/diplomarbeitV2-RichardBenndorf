@@ -1,0 +1,176 @@
+|<table>
+<thead>
+<tr>
+<th>
+<strong>
+Auftraggeber:
+</strong>
+</th>
+<th>
+Faun Umwelttechnik GmbH
+<strong>
+&amp;
+</strong>
+Co. KG
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td>
+Herr Dipl.-Ing. Georg Sandkühler
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+Feldhorst 4
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+HPC: PQ02 / 065
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+<strong>
+D-27711 Osterholz-Scharmbeck
+</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Prüfgegenstand:
+</strong>
+</td>
+<td>
+MB Econic mit Rotopress Dualpower 516540
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+EMV-Vorschrift:
+</strong>
+</td>
+<td>
+72/245/EWG in der Fassung 2006/96/EG
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Ort der Prüfung:
+</strong>
+</td>
+<td>
+MBtech EMC GmbH, EMV-Halle „H“
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+D-71332 Waiblingen
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Eingang des Prüflings:
+</strong>
+</td>
+<td>
+2011-01-10
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Datum der Prüfung:
+</strong>
+</td>
+<td>
+2011-01-10/11
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Erstellung des Prüfberichtes:
+</strong>
+</td>
+<td>
+2011-01-17
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Prüfbericht Nr.:
+</strong>
+</td>
+<td>
+P110008
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Gesamtseitenzahl:
+</strong>
+</td>
+<td>
+Prüfbericht: 13 Seiten Anhang: 16 Seiten
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Sachbearbeiter Auftraggeberseite:
+</strong>
+</td>
+<td>
+Hr. Dipl.-Ing. Georg Sandkühler
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Sachbearbeiter MBtech EMC GmbH:
+</strong>
+</td>
+<td>
+Hr. Klingenstein, Hr. Burger
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Verfasser:
+</strong>
+</td>
+<td>
+Hr. Klamt
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Geschäftsführung MBtech EMC GmbH:
+</strong>
+</td>
+<td>
+Dr.-Ing. U. Reinhardt
+</td>
+</tr>
+</tbody>
+</table>
+
+**Gesamtergebnis: DIE PRÜFUNG GEMÄß RICHTLINIE 72/245/EWG IN DER**
+
+&gt; **FASSUNG 2006/96/EG WURDE BESTANDEN**

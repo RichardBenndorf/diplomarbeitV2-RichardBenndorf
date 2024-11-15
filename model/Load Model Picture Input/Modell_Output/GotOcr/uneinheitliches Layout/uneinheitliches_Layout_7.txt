@@ -1,0 +1,28 @@
+\title{
+Statement of conformity / Schlussbescheinigung:
+}
+The information folder as mentioned under no. 2.2 and the type described therein are in compliance with the test standard mentioned above. I
+Die unter Nr. 2.2 angegebene Beschreibungsmappe und der darin beschriebene Typ entsprechen der oben aufgeführten Prüfgrundlage.
+With regard to the required level of performance to be achieved, the test specimen were representative for the type to be approved. /
+Die verwendeten Prüfmuster waren im Hinblick auf das erforderliche Leistungsniveau für den zu genehmigenden Typ repräsentativ.
+The tests were carried out in accordance to the relevant requirements of the Die Durchführung der Prüfungen entsprach den relevanten Anforderungen der
+\begin{tabular}{|c|c|c|}
+\hline \begin{tabular}{l} 
+Kraftfahrt-Bundesamt (KBA), \\
+Federal Republic of Gemany
+\end{tabular} & \begin{tabular}{l} 
+National Standards \\
+Authority of Ireland (NSAI)
+\end{tabular} & \begin{tabular}{l} 
+Rijksdienst voor het \\
+Wegverkeer (RDW), \\
+The Netherlands
+\end{tabular} \\
+\hline No. KBA - P 00084 - 10 & No. 101 & No. 9905006400 \\
+\hline Responsible expert & Signature & \\
+\hline Stefan van Husen & Nov 30, 2015 & \\
+\hline
+\end{tabular}
+Conformity check
+Michael Juschkat
+Signature

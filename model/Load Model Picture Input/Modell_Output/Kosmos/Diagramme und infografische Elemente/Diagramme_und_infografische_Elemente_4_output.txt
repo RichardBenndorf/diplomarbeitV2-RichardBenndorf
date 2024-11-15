@@ -1,0 +1,12 @@
+# LOCATION OF LIGHTING DEVICES
+## Version(s): ####T#
+![Side Reflex Reflectors](LINK_SLOT)
+
+### Stop Light / Position Light
+![Registration Plate Light](LINK_SLOT)
+![Direction Indicators Front](LINK_SLOT)
+
+### Registration Plate Light
+![Rear Reflex Reflector](LINK_SLOT)
+![Passing and Driving Light / Front Position Light](LINK_SLOT)
+![Direction Indicators Rear](LINK_SLOT)

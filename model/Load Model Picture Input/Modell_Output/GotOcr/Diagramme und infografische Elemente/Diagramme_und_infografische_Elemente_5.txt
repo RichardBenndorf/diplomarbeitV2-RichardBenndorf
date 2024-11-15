@@ -1,0 +1,12 @@
+NOTE
+STEERING ANGLE
+\(\begin{array}{ll}\mathrm{R} & : 46^{\circ} \\ \mathrm{L} & : 46^{\circ}\end{array}\)
+ANGLE OF LOCKED STEERING
+
+STOPPER HANDLE LOCK MATERIAL: STEEL
+M6 BOLT
+(2 PIECES) 64.6
+STEERING HANDLE
+LOCK TYPE
+LOCK STAY \(\pm 3.2\)
+MATERIAL: STEEL

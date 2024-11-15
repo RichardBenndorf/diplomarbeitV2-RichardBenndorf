@@ -1,0 +1,32 @@
+\begin{tabular}{lll}
+0 & General I & \\
+Allgemeine Angaben & \\
+0.1 & Make (trade name of manufacturer) I & KIRCHHOFF Ecotec GmbH \\
+& Fabrikmarke & \\
+& (Firmenname des Herstellers): & \\
+0.2 & Type completed vehicle / & N321 \\
+& Typ vervollständigtes Fahrzeug: & \\
+& & \\
+& Type of base vehicle / & N321 \\
+& Typ des Basisfahrzeugs: & \\
+& & \\
+0.2 .1 & Commercial description / & refer to information document / \\
+& Handelsname: & siehe Beschreibungsbogen \\
+& Means of identification of type, if & refer to information document / \\
+0.3 & marked on the vehicle / & siehe Beschreibungsbogen \\
+& Merkmale zur Typidentifizierung, & \\
+& sofern am Fahrzeug vorhanden: & \\
+& Category of vehicle / & N3, N3G \\
+0.4 & Fahrzeugklasse: & \\
+& & KIRCHHOFF Ecotec GmbH \\
+0.5 & Manufacturer's name and address / & Stefanstraße 2 \\
+& Name und Anschrift des Herstellers: & \\
+& & 58638 Iserlohn \\
+0.8 & Address of assembly plant / & refer to information folder / \\
+& Name(n) und Anschrift(en) der & gemäß Beschreibungsbogen \\
+& Fertigungsstätte(n): & \\
+0.9 & Name and address of & FAUN Umwelttechnik GmbH \& Co. KG \\
+& representative / & Feldhorst 4 \\
+& Name und Anschrift des & 27711 Osterholz-Scharmbeck \\
+& Beauftragten: &
+\end{tabular}

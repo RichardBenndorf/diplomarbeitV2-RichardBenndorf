@@ -1,0 +1,29 @@
+## NOTE
+
+STEER[NG
+
+ANGLE
+
+2 6
+
+26
+
+ANGLE
+
+CF
+
+LOCKED STEER[NG
+
+E
+
+E
+
+43'
+
+1 1 5 H ? H | 382 1
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->

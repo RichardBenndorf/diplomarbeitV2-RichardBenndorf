@@ -1,0 +1,215 @@
+|<table>
+<colgroup>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+<col/>
+</colgroup>
+<thead>
+<tr>
+<th>
+Heading No
+</th>
+<th>
+Separate Directive No
+</th>
+<th>
+Subject
+</th>
+<th>
+Approval No
+</th>
+<th>
+Extension date
+</th>
+<th>
+Variants and versions covered
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+18
+</td>
+<td>
+95/1/EC
+</td>
+<td>
+Maximum torque and maximum net power of engine
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+19
+</td>
+<td>
+97/24/EC (C7)
+</td>
+<td>
+Anti-tampering measures for mopeds and motorcycles
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+20
+</td>
+<td>
+97/24/EC (C6)
+</td>
+<td>
+Fuel tank
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+25
+</td>
+<td>
+95/1/EC
+</td>
+<td>
+Maximum design speed of vehicle
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+26
+</td>
+<td>
+93/93/EEC
+</td>
+<td>
+Masses and dimensions
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+27
+</td>
+<td>
+97/24/EC (C10)
+</td>
+<td>
+Trailer coupling devices
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+28
+</td>
+<td>
+97/24/EC (C5)
+</td>
+<td>
+Anti-air pollution measures
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+29
+</td>
+<td>
+97/24/EC (C1)
+</td>
+<td>
+Tyres
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+31
+</td>
+<td>
+93/14/EEC
+</td>
+<td>
+Braking system
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+32
+</td>
+<td>
+93/92/EEC
+</td>
+<td>
+Installation of lighting and light-signalling devices on the vehicle
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+| 33 | 97/24/EC (C2) | Lighting and
+&gt;
+&gt; light-signalling devices | | | |
+<p>
+| 34 | 93/30/EEC | Audible warning device | | | |
+<br/>
+| 35 | 93/94/EC | Position for the mounting of rear registration plate | | | |
+<br/>
+| 36 | 97/24/EC (C8) | Electromagnetic compatibility | e11-0017
+<em>
+Extension No: 0
+</em>
+|
+<em>
+21.10.2004
+</em>
+| Variants: V6F |
+<br/>
+| 37 | 97/24/EC (C9) | Sound level and exhaust system | | | |
+<br/>
+| 38 | 97/24/EC (C4) | Rear-view mirror(s) | | | |
+<br/>
+| 39 | 97/24/EC (C3) | External projections | | | |
+<br/>
+| 40 | 93/31/EEC | Stand (except in the case of vehicles having three or more wheels) | | | |
+<br/>
+| 41 | 93/33/EEC | Devices to prevent unauthorised use of the vehicle | | | |
+<br/>
+| 42 | 97/24/EC (12) | Windows; windscreen wipers; windscreen washers; and so on | | | |
+<br/>
+| 43 | 93/32/EEC | Passenger hand-hold for two-wheel vehicles | | | |
+<br/>
+| 44 | 97/24/EEC (C11) | Anchorage points for safety belts and safety belts | | | |
+<br/>
+| 45 | 2000/7/EC | Speedometer | | | |
+<br/>
+| 46 | 93/29/EEC | Identification of controls, tell-tales and indicators | | | |
+<br/>
+| 47 | 93/34/EEC | Statutory inscriptions | | | |
+</p>

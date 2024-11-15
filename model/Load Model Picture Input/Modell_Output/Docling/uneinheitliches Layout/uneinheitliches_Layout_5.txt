@@ -1,0 +1,51 @@
+3212.27 On-Board-Diagnosesystem (OBD-System) (anein): On-board-diagnostic (OBD) system (vesino):
+
+321228 Andere Einrchiung:
+
+Oher Syqtem:
+
+entfillt
+
+not applicable
+
+## 3212.29
+
+Drehmonentbegtenzer jJnein Torque liniter: yeaino
+
+entfiillt
+
+not applicable
+
+## 3212.210
+
+Perodically regenerating systen: (Frovide the informziicn below fcreach sep arste unit}
+
+Perodisch arbeitendes Regeneratonssystem: (nachstehende Angaben sind für jede salbstständige Einheit einzeln anzugeben)
+
+## 3212.210.1
+
+Verfahren oder Einnchuung Zur Regenererung; Beschreibung undoder Zeichnung: Meth d or systemof regeneraton descripjon anlor drawing:
+
+diskontinuieniche Regeneration
+
+non-contnvous regeneraion
+
+## 3212211.1
+
+At und Konzentration des erorderlichen Reagens:
+
+Type and concentrajon of reagen: needed:
+
+UREA Konzentration gemàß 150 2224122 (Aktivierung Warnsystem auBerhalb Konzentrationsbereich von 27,8 46 Gew,%% Hanstoff}
+
+UREA, concentration according to ISO 22241- 1
+
+(activation inducement system outside concentration range from 27.8 \_ 46 % Wlw urea)
+
+Anbringungsstelle des Symbdls fur den Abeorptionskoeiizienten (nur bei Selbstzündungsmotoren): Location of the absompicn coefficient symbdl (compression ignition engines cnly):
+
+## 3.213.1
+
+bein Fabrikschild wahlweise auf den Fabrikschild near vehicle plate on the vehicle plate opt
+
+ja Yes X

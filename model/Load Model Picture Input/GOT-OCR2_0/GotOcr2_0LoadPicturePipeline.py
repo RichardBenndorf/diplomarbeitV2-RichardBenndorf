@@ -7,8 +7,8 @@ model = AutoModel.from_pretrained('ucaslcl/GOT-OCR2_0', trust_remote_code=True, 
 model = model.eval().cuda()
 
 # Pfad zum Verzeichnis mit den Testbildern
-input_folder = '../testbilder'
-output_folder = '../Modell_Output/GotOcr'
+input_folder = '../Bilder/uneinheitliches Layout'
+output_folder = '../Modell_Output/GotOcr/uneinheitliches Layout'
 
 # Stelle sicher, dass das Ausgabeverzeichnis existiert
 os.makedirs(output_folder, exist_ok=True)

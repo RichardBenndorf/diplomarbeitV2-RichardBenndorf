@@ -1,0 +1,57 @@
+0.1
+
+0.2
+
+0.21
+
+0.3
+
+0.4
+
+0.5
+
+0.8
+
+0.9
+
+Geweral ! Allgemleine Angaben
+
+Make (trade name of manufacturer) / Fabrikarke (Firmenname des Herstellers):
+
+Type completed vehicle Typ vervollstandigtes Falzeug:
+
+Type Of base vehicle / Typ des Basisfalrzeugs:
+
+Commercial description Handelsname:
+
+refer to infomation docunent / siehe Beschreibungsbogen
+
+Means of identification of type; if marked on the vehicle Merkmale zur Typidentifizierung; sofern an Fahzeug vomanden:
+
+Category of vehicle / Fahrzeugklasse:
+
+Manufacturers nane and address { Wane Und Anschrift des Kerstellers
+
+Address of assembly plant / Name(n) und Anschriffen) der Fertigungsstatte(n):
+
+Name and address of representative { Wame und Anschrift des Beaufragten:
+
+refer to infomation docunent siehe Beschreibungsbogen
+
+N3, NBG
+
+KIRCHHOFF Ecotec GmbH
+
+Stefanstrale 2
+
+58638 Isenohn
+
+refer to infomation folder gemdl Beschreibungsbogen
+
+FAUN Umwelttechnik GmbH & Co KG Feldhorst 4 27711 Ostemolz-Scharmbeck
+
+KIRCHHOFF Ecotec GmbH
+
+N321
+
+N321

@@ -1,0 +1,16 @@
+\begin{tabular}{|c|c|c|}
+\hline \multirow{3}{*}{\begin{tabular}{c} 
+Mercedes-Benz \\
+Beschreibungsbogen Nr. 2007/46-5008 \\
+Information Document No. 2007/48-5008 \\
+2007/48/EG \(\quad 2007 / 48 / E C\)
+\end{tabular}} & \begin{tabular}{l} 
+Erstausgabedatum: \\
+Date of first Issue:
+\end{tabular} \\
+\hline & \begin{tabular}{c} 
+Bl/pa 20 von/ol 102 \\
+TP/EVA
+\end{tabular} \\
+\hline
+\end{tabular}

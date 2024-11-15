@@ -1,0 +1,102 @@
+\begin{tabular}{|c|c|c|c|c|c|}
+\hline component/system & monitoring strategy & malfunction criteria & & \begin{tabular}{l} 
+secondary parameters \\
+\(\quad\) fault code
+\end{tabular} & \\
+\hline \#1 Ignition coil & signal range check & short to ground & & P0351 & \\
+\hline \#2 Ignition coil & signal range check & short to ground & & P0352 & \\
+\hline \#3 Ignition coil & signal range check & short to ground & & P0353 & \\
+\hline \#4 Ignition coil & signal range check & short to ground & & P0354 & \\
+\hline \multicolumn{6}{|l|}{ Others } \\
+\hline component/system & monitoring strategy & malfunction criteria & & \begin{tabular}{ll} 
+secondary parameters \\
+\end{tabular} & fault code \\
+\hline \begin{tabular}{l} 
+Exhaust air injection \\
+valve
+\end{tabular} & \begin{tabular}{l} 
+circuit continuity, \\
+signal range check
+\end{tabular} & \begin{tabular}{l} 
+lower trehold, short to ground \\
+upper threshold
+\end{tabular} & & \begin{tabular}{l} 
+P0412 \\
+\end{tabular} & \\
+\hline \begin{tabular}{l} 
+Purge control valve \\
+\end{tabular} & \begin{tabular}{l} 
+circuit continuity. \\
+signal range check
+\end{tabular} & \begin{tabular}{l|} 
+lower trehold, short to ground \\
+upper threshold
+\end{tabular} \\
+\hline \begin{tabular}{l} 
+Side stand position \\
+switch (sensor)
+\end{tabular} & signal check & \begin{tabular}{l} 
+lower trehold, short to ground \\
+receiving of \\
+malfunction signal
+\end{tabular} & & P0459 & \\
+\hline \multirow{2}{*}{\begin{tabular}{l} 
+CAN communication \\
+Others
+\end{tabular}} & \begin{tabular}{l} 
+communication \\
+check
+\end{tabular} & \begin{tabular}{l} 
+A period of the circuit malfunction is \(\geq\) \\
+XCCAN \\
+CAN line disconnection or short-circuit \(\geq\) \\
+4sec \\
+- Communication with a dashboard \\
+unreceivable or an unusual value \(\geq 10 \mathrm{sec}\) \\
+- Communication with MCU is unreceivable \(\geq\) \\
+3sec \\
+- VSP information is unreceivable \(\geq 1 \mathrm{sec}\)
+\end{tabular} & & \begin{tabular}{l} 
+P1690 \\
+P1650
+\end{tabular} & \\
+\hline & system check & \begin{tabular}{l} 
+immobilizer check after ignition on was not \\
+successful
+\end{tabular} & & & \\
+\hline \begin{tabular}{l} 
+Oil temperature \\
+sensor
+\end{tabular} & communication check & \begin{tabular}{l} 
+oil temperator reading via CAN is malfunction \\
+Reading value and writing value in EEPROM \\
+data are different. \\
+Bank A and bank B in EEPROM data are \\
+different
+\end{tabular} & & & P0196 \\
+\hline EEPROM & EEPROM check & \begin{tabular}{l} 
+data are different. \\
+Bank A and bank B in EEPROM data are \\
+different
+\end}{|} & & P0603 & \\
+\hline CC Cancel signal & plausibility check & comparison APS signal 1 vs. APS signal 2 & & P056C & \\
+\hline \begin{tabular}{l} 
+Clutch pressure \\
+sensor
+\end{tabular} & \begin{tabular}{l} 
+circuit contiunity, \\
+signal range check
+\end{tabular} & \begin{tabular}{|l|} 
+lower trehold, short to ground \\
+upper threshold
+\end{tabline & & P1662 & \\
+\hline Shift shaft sensor & \begin{tabular}{l} 
+circuit contiunity, \\
+signal range chee
+\end{tabular} & \begin{tabular}{l} 
+lower treh \\
+upper threshold
+\end{tabular} & & P1702 & \\
+\hline Crank sensor & circuit contiunity & lower treh & & P1703 & \\
+\hline
+\end{tabular}

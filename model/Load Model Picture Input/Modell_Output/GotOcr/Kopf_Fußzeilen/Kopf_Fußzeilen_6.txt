@@ -1,0 +1,17 @@
+\begin{tabular}{|c|c|c|c|}
+\hline & & & \begin{tabular}{l} 
+Daimler AG, \\
+Sitz und Registergericht/Domicile and
+\end{tabular} \\
+\hline \begin{tabular}{l} 
+Vorstand/Board of Management: Dietet Zetsche, Vorsitzender/Chairman; \\
+Wolfgang Bernhard, Christine Hohmann-Dennhardt, Wilfried Porth, Andreas Remchler, \\
+Hubertius Troska, Bodo Uebber, Thomas Weber
+\end{tabular} & & & \begin{tabular}{l} 
+Court of Registry: Stuttgart \\
+HRB-Nr. / Commercial Register No.: 19360 \\
+Vorsitzender des Aufsichtsrats/Chairmen \\
+of the Supervisory Board: Manfred Bischoff
+\end{tabular} \\
+\hline
+\end{tabular}

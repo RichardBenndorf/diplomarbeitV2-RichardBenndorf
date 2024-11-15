@@ -15,8 +15,8 @@ model.to(device)
 processor = AutoProcessor.from_pretrained(repo)
 
 # Verzeichnispfade
-image_folder = "testbilder"
-output_folder = "Modell_Output"
+image_folder = "Bilder/uneinheitliches Layout"
+output_folder = "Modell_Output/Kosmos/uneinheitliches Layout"
 os.makedirs(output_folder, exist_ok=True)
 
 # Schleife über alle Bilder im Verzeichnis

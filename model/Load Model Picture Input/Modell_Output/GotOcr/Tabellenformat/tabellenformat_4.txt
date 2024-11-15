@@ -1,0 +1,77 @@
+\begin{tabular}{|c|c|c|c|c|c|c|c|c|}
+\hline Component & Fault code & Monitoring strategy & Fault detection criteria & MI activation criteria & Secondary parameters & Preconditioning & Demonstration test \\
+\hline VSS Failed Low & P0502 & Continuous & \begin{tabular}{l} 
+Vehicle speed sensor input is low for 3.97 seconds while engine \\
+is operating at a moderate speed and load.
+\end{tabular} & Fault Detected & \begin{tabular}{l}
+\(2500<\) Engine Speed < \\
+4000 \\
+MAP_Lood \(>60.1 \mathrm{kPa}\)
+\end{tabular} & Ignition Cycle & hle Cycle \\
+\hline VSS Failed High & P0503 & Continuous & \begin{tabular}{l} 
+A: Vehicle speed sensor input is high for 3.97 seconds while \\
+engine is operating at a moderate speed and load.
+\end{tabular} & Fault Detected & \(\mathrm{A}: 2500<\) Engine Speed < & Ignition Cycle & hle Cycle \\
+\hline Idle Speed Control - Unstable & P0505 & Continuous & \begin{tabular}{l} 
+Sum of difference between max and min MAP values over 3 \\
+second periods exceeds threshold.
+\end{tabular} & Fault Detected & TGS \(<0.9 \%\) & Ignition Cycle & hle Cycle \\
+\hline ECM EEPROM Memory Error & P0603 & Continuous & ECM detects an internal error when writing nonvolatile memory. & Fault Detected & & Ignition Cycle & hle Cycle \\
+\hline ECM FLASH Memory Error & P0605 & Continuous & ECM detects an internal memory error. & Fault Detected & & Ignition Cycle & hle Cycle \\
+\hline 5 Volt Reference Out of Range & P0641 & Continuous & \begin{tabular}{l} 
+analog supply 1 voltage < 4.72 volts or analog supply 1 voltage > \\
+5.26 volts continuously for \(16 \mathrm{~ms}\)
+\end{tabular} & Fault Detected & & Ignition Cycle & hle Cycle \\
+\hline \begin{tabular}{l} 
+5 Volt Reference 2 Out of \\
+Range
+\end{tabular} & P0651 & Continuous & \begin{tabular}{l} 
+analog supply 2 voltage < 4.72 volts or analog supply 2 voltage > \\
+5.26 volts continuously for \(16 \mathrm{~ms}\) \\
+\end{tabular} & Fault Detected & & Ignition Cycle & hle Cycle \\
+\) & P1019 & Continuous & \begin{tabular}{l} 
+Engine temperature is more than 70 degrees C higher than \\
+coolant temperature continuously for 3.01 sec.
+\end{tabular} & Fault Detected & \begin{tabular}{l} 
+Engine temperature or \\
+coolant temperature \(>110\) \\
+deg. C
+\end{tabular} & Ignition Cycle & hle Cycle \\
+\hline ECT Difference (High Temp) & P1019 & Continuous & \begin{tabular}{l} 
+TGS2 measured value from AD block one differs from TGS2 \\
+measured value from AD blockand by more than 0.70 volts \\
+continuously for \(24 \mathrm{~ms}\)
+\end{tabular} & Fault Detected & Engine running for \(>1 \mathrm{sec}\) & Ignition Cycle & hle Cycle \\
+\hline JSS Low & P1501 & Continuous & \begin{tabular}{l} 
+Sidestand input voltage is less than 0.59 volts continuously for \\
+1.05 sec
+\end{tabular} & Fault Detected & & Ignition Cycle & hle Cycle \\
+(2) & P1502 & Continuous & Sidestand input voltage exceeds 4.71 continuously for 1.05 sec & Fault Detected & & Ignition Cycle & hle Cycle \\
+\hline Power Limit Vocation & P1505 & Continuous & \begin{tabular}{l} 
+Measured MAP_Load exceeds expected MAP at a speed and \\
+load indicative of tampering with the \(35 \mathrm{~kW}\) limit.
+\end{tabular} & Fault Detected & \begin{tabular}{l}  
+Engine Speed \\
+Throttle Position
+\end{tabular} & Ignition Cycle & hle Cycle \\
+\hline \begin{tabular}{l}
+\(\mathrm{CT}\) Limited Performance \\
+Mode
+\end{tabular} & P1510 & Continuous & \begin{tabular}{l} 
+This DTC is set to indicate the vehicle is operating in Limited \\
+Performance Mode.
+\end{tabular} & Fault Detected & & Ignition Cycle & hle Cycle \\
+& & & & & & & \\
+\hline \begin{tabular}{l} 
+ETC Power Management \\
+Mode
+\end{tabular} & P1511 & Continuous & \begin{tabular}{l} 
+This DTC is set to indicate thie vehicle is operating in Power \\
+Management Mode.
+\end{tabular} & Fault Detected & & Ignition Cycle & hle Cl \\
+\hline TC Forced Idle Mode & P1512 & Continuous & \begin{tabular}{l} 
+This DTC is set to indicate tlie vehicle is operating in Forced Idle \\
+Mode.
+\end{tabular} & Fault Detected & & Ignition Cycle & hle Clc \\
+\hline
+\end{tabular}

@@ -1,0 +1,18 @@
+| In the event of failure of a direction indicator. the otler must continlle to flash of remain lit.   | Yes / 2 0   |
+|------------------------------------------------------------------------------------------------------|-------------|
+| Visibility of red lights towards the front                                                           | fes/ No     |
+| Visibility of white liclts towards the rear                                                          | 45/ No      |
+| Tle front lights move in line witl the steering angle                                                | e5 No       |
+| Vertical inclination of the dipped beam headlamp                                                     | Pass Faif   |
+
+| Minimum geometric visibility angles   | Vertical [']    | Horizontal [ %                         |                       |
+|---------------------------------------|-----------------|----------------------------------------|-----------------------|
+| Main-bean headlamp(s)                 | Up Dowvn: 5     | Left Riglt: 5                          | Pass F#               |
+| Dipped-beam headlamp(s)               | 15 Down: 10 Up: | Le# Rialit: 45 Outwvard: 45 Invard: 10 | Pass Fa4              |
+| Front position lamp(s)                | Up Down: 15     | Eef Rialt: 84 Outwvard: 80 Inwvard: 45 | Pass Fa               |
+| Direction indicator lamps. Front      | Up Down: 15     | Outwvard: 80 Inwvard: 20               | Pass Fa               |
+| Direction indicator lamps. Rear       | Up Down: 15     | Outward: 80 Inward: 20                 | Pass Fa4              |
+| Rear position lamp(s)                 | Up Down: 15     | Left Riglt: 80 @utad:g0 Irard4         | Pass / Fa4            |
+| lamp(s) Stop                          | Up Down: 15     | Left Riglt: 45                         | Pass Fa               |
+| Rear retro-reflector                  | Up Down: 15     | Left Right: 30                         | Pass Fa               |
+| Side retro-reflector                  | 15 Down: 5 Up:  | Front Rear: 30                         | PassFa not applicable |

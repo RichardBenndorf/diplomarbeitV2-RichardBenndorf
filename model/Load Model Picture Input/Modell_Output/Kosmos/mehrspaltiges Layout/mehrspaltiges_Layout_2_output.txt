@@ -1,0 +1,104 @@
+Doc. No.: ZD4 / SP / 92 / 61 / rev.00
+
+92/61/EC - 2000/7/EC DIRECTIVE / DIRETTIVA 92/61/CE - 2000/7/CE
+==============================================================
+
+&gt; List of all devices (mentioning the number, make(s), model, component type-approval mark(s), the maximum intensity of the main-beam headlamps, colour the corresponding tell-tale):
+&gt;
+&gt; Tabella di tutti i dispositivi (numera, marca o marche, modello, marchio o marchi di approvazione, intensità massima dei proiettori abbaglianti, colore, spie corrispondente):
+&gt;
+&gt; See attached drawing No. A14.0 and following if applicable
+&gt;
+&gt; Diagram showing the location of the lighting and light-signaling devices:
+&gt;
+&gt; Schema della posizione dei dispositivi di illuminazione e di segnalazione luminosa:
+&gt;
+&gt; See attached drawing No. A14.0 and following if applicable
+&gt;
+&gt; Hazard warning lamps (where fitted):
+&gt;
+&gt; Not applicable
+&gt;
+&gt; Dispositivo di segnalazione di emergenza (se esiste):
+&gt;
+&gt; Additional requirements relating to special vehicle:
+&gt;
+&gt; Not applicable
+&gt;
+&gt; Dispositivi supplementari per velcoli speciali:
+&gt;
+&gt; Equipment
+&gt;
+&gt; Equipaggiamenti
+&gt;
+&gt; Coupling devices (where applicable)
+&gt;
+&gt; 9.1.
+&gt;
+&gt; Dispositivi di traino (se esistono)
+&gt;
+&gt; Type(s): hook/ring/other:
+&gt;
+&gt; Not applicable
+&gt;
+&gt; Tipo o tipi: gancio/bocchione/aitri:
+&gt;
+&gt; Photographs and/or drawing showing the position and the construction of the coupling devices:
+&gt;
+&gt; Fotografie e/o disegni che illustrano la posizione e la costruzione del dispositivo/i di traino:
+&gt;
+&gt; Not applicable
+&gt;
+&gt; Arrangement and identification of controls, tell-tales and indicators
+&gt;
+&gt; Sistemazione ed identificazione del comandi, spie ed indicatori
+&gt;
+&gt; Photographs and/or drawings of the arrangement of the symbols, controls, tell-tales and indicators:
+&gt;
+&gt; Fotografie e/o disegni delle disposizione dei simboli, dei comandi, delle spie e degli indicatori:
+&gt;
+&gt; See attached drawing No. A6.0 and following if applicable
+&gt;
+&gt; Statutory inscriptions
+&gt;
+&gt; Iscrizioni regolamentari
+&gt;
+&gt; Photographs and/or drawings showing the location of the statutory inscriptions and the chassis number:
+&gt;
+&gt; Fotografie e/o disegni che illustrano la posizione delle iscrizioni regolamentari e dei numero dei telaio:
+&gt;
+&gt; See attached drawings No. A2.0 , A3.0 and following if applicable
+&gt;
+&gt; Photographs and/or drawings showing the official part of the inscriptions (with statement of dimensions):
+&gt;
+&gt; Fotografie e/o disegni che illustrano la parte ufficiale delle iscrizioni (indicazione delle dimensioni):
+&gt;
+&gt; See attached drawing No. D1.0 and following if applicable
+&gt;
+&gt; Photographs and/or drawings of the chassis number (with statement of dimensions):
+&gt;
+&gt; Fotografie e/o disegni dei numero di telaio (indicazione delle dimensioni):
+&gt;
+&gt; See attached drawing No. D1.0 and following if applicable
+&gt;
+&gt; Device(s) to protect against unauthorized use
+&gt;
+&gt; Dispositivo(i) di protezione contro un uso non autorizzato
+&gt;
+&gt; Type of device(s):
+&gt;
+&gt; Steering lock type 2 (see 1999/23/EC, attached 1, point 2.4.2) Tipo di dispositivo(i):
+&gt;
+&gt; Steering lock with key operating at the same time on the Summary description of device(s) used: steering and on the engine switch (on/off) Descrizione sommarie del dispositivo utilizzato: See attached drawings No. A7.0 and following if applicable
+&gt;
+&gt; Audible warning device(s)
+&gt;
+&gt; A v v i s a t o r e (i) acustico (i)
+&gt;
+&gt; Summary description of device(s) used and their purpose:
+&gt;
+&gt; Descrizione sommarie del (dei) dispositivo(i) utilizzato(i) e destinazione:
+&gt;
+&gt; Electrical system
+&gt;
+&gt; See attached drawing No. A15

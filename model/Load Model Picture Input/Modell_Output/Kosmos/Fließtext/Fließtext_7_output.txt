@@ -1,0 +1,31 @@
+*Korrosionsbeständigkeit* (Resistance to corrosion)
+
+&gt; Der Grundwerkstoff des Kraftstoffbehälters und die verwendeten Zubehörteile können als korrosionsfest gegen das Betriebsmedium und äußere Beeinflussungen angesehen werden.
+&gt;
+&gt; The ground material of the fuel tank and also the materials of the accessorie parts are to be judged as sufficient corrosion resistant to the filling medium and also outside environmental influences.
+
+**5. *Kennzeichnung des Behälters*** (Markings on the fuel tank)
+
+&gt; Der Behälter ist dauerhaft und in eingebautem Zustand gut lesbar zu kennzeichnen. Die Kennzeichnung muß enthalten:
+&gt;
+&gt; The following markings shall be affixed to the fuel tank; it shall be indelible clearly legible on the tank when the latter is installed on the vehicle:
+
+1. Hersteller des Behälters
+
+&gt; Manufacturer of the tank
+
+1. Herstellungsmonat und -jahr
+
+&gt; Month and year of manufacturing
+
+1. Typ und/oder Handelsmarke ww./opt.
+
+&gt; Name and/or trademark
+
+1. TÜV-Kennzeichnung 143XS0133
+
+&gt; TÜV-marking
+&gt;
+&gt; Die Gebrauchsfähigkeit des Behälters ist zu überprüfen, wenn wesentliche Teile des Fahrzeuges, die zu einer Veränderung der Einbauverhältnisse führen, die Behälterunterbringung, die Behälterbefestigung, die Behälterabmessungen, der Behälterwerkstoff oder das Herstellungsverfahren geändert werden. Hierüber ist ein Nachtragsgutachten der TÜV Rheinland Kraftfahrt GmbH einzuholen.
+&gt;
+&gt; If essential parts of the vehicle - especially concerning the installation of the fuel tank – or material, manufacturing method, dimensions or mounting of the tank have been changed, a new approval by the TÜV Rheinland Kraftfahrt GmbH is necessary.

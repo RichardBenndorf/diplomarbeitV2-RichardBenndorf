@@ -1,0 +1,63 @@
+Doc. No.: ZD4/SP/92/61/rev. 00
+92/61/EC - 2000/7/EC DIRECTIVE / DIRECTIVA 92/61/CE - 2000/7/CE
+List of all devices (mentioning the number, make(s), model, component type-approval mark(s), the maximum intensity of the main-beam headlapse, colour the corresponding tel-tale):
+Tablele di irti disposibliv (numera, marca o merche, modello, marchio o marchi di approvazione, intensitl massissi dei proletiori abbaggianti, colore, sple conspondente):
+8.2
+Diagram showing the location of the lighting and light-signaling devices:
+Schema della posizione dei dispositivi di illuminazione e di segnaZiezione luminaza:
+8.3
+Hazard warning lamps (where fitted):
+Dispositivo di segnalazione di emergenza (se esiste):
+8.4
+Additional requirements relating to special vehicle:
+Dispositivi supplementari per velool special:
+Equipment
+Equipaggiament
+9.1
+Coupling devices (where applicable)
+9.1.1
+Type(s): hook/ning/lother:
+Tipo o tipi: garciolo/occhione/altir:
+Not applicable
+9.1.2
+Photographs and/or drawing showing the position and the construction of the coupling devices:
+Fotografie av disegni che illustrano la posizione e la costruzione dei dispositivio di traino:
+Not applicable
+9.2.
+Arrangement and identification of controls, ielt-tales and indicators
+Sistemazione ed identifizazione dei comand, spie odindicatori
+Photographs and/or drawings of the arrangement of the symbols, controls, ielt-tales and indicators:
+Fotografie e/o disegni della disposizione dei simbol, dei comand, delle spie e degli indicator:
+Statutory Inscriptions
+9.3.
+1scrizioniregolamentari
+Photographs and/or drawings showing the location of the statutory inscriptions and the chassis number:
+Fotografie e/o disegni che illustrano la posizione delle iscrizioni reglamentari e del numero del telaio:
+See attached drawings No. A2.0 A3.0 and following if applicable
+9.3.2
+Photographs and/or drawings showing the official part of the inscriptions (with statement of dimensions):
+Fotografie e/o disegni che illustrano la parte ufficiale delle iscrizioni (indicazione delle dimensioni):
+See attached drawing No. D1.0 and following if applicable
+9.3.3.
+Photographs and/or drawings of the chassis number (with statement of dimensions):
+Fotografie e/o disegni del numero di telaio (indicazione delle dimensioni):
+See attached drawing No. D1.0 and following if applicabie
+9.4.
+Device(s) to protect against unauthorized use
+Disposilivo (i) di protezione contro un so non autorizzato
+Type of device(s):
+Tipo di dispositivo(s):
+Summary description of device(s) used:
+Descrizione somminale dei disposiivio utizzato:
+Audible warning device(s)
+Avvisatore (i) acustico (i)
+Summary description of device(s) used and their purpose:
+Descrizione somminaria del (del) disposiivio (i) utilizzato(i) e destinazione:
+Steering lock with key operating at the same time on the steering and on the engine switch (on/off)
+See attached drawings No. A7.0 and following if applicable
+Sachverständiger
+Pristor DIN EN 45001
+TUV
+Electrical system
+AUTCOMOTIVE
+See attached drawing No. A15.0 and following

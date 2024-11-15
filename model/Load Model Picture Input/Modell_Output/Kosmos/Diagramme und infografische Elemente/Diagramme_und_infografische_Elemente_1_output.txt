@@ -1,0 +1,10 @@
+# Right side, horizontal polarisation
+
+![Left side, horizontal polarisation](LINK_SLOT)
+
+![Right side, vertical polarisation](LINK_SLOT)
+
+![Start 30.000 MHz](LINK_SLOT)
+![Stop 300.000 MHz](LINK_SLOT)
+![Start 300.000 MHz](LINK_SLOT)
+![Stop 1.000 GHz](LINK_SLOT)

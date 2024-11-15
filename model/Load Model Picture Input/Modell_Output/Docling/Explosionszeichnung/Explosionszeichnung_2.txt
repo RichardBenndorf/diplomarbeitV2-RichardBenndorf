@@ -1,0 +1,141 @@
+2
+
+Nane des Herstellers wahlw. 5 . Tabelle Manufacturer' $ nane optional, see table
+
+nind. 50
+
+VOLKSWAGEN AG e1,2001/116 Wvwzzzgnzsyooooo| {234 K9 kg 1234 kg 1234 kg
+
+Typ
+
+5N  VeRSTONE XOSCAEV2 VAn
+
+Genehnigungszeichen wahlw \_ 0 Beschriftung Sign of approval optionally without legend
+
+Pos
+
+Ausserhalb dieses Rechteckes sind 4 zusaetzliche Angaben 2 nach Wahl des Herstellers moeglich Additional specifications outside of this rectangle are possible acC \_ to nanufacturer'5 choice
+
+Ww\_ Ausfuehrung "Stufe 2' 0pt. version 'Stufe 2'
+
+<!-- image -->
+
+VOLKSWAGEN AG e7+2001/116 Stufe 2 Wvwzzzgnzsyooooo1 1234 kg 1234 kg 1234 kg 7 1234 kg
+
+Typ bN verSToNE Xoschev2 Vam
+
+alle Beschriftungen beispielhaft all legends are exemplary
+
+Vereinfachte Darstellung [Simplified representation
+
+2
+
+2
+
+3
+
+5
+
+Dieselabgasschild wahlw. ohne Beschriftung Diesel exhaust plate optionally without legend
+
+[Nam e   des Herstellers / Inane 0F nanufacturer
+
+<!-- image -->
+
+VOLKSWAGEN AG
+
+<!-- image -->
+
+Q
+
+AUD [ aG
+
+<!-- image -->
+
+SKoDA  huto 9.5 \_
+
+Q
+
+OUATTRO GMBH
+
+QIUD |
+
+huNGAR F A
+
+MOToR
+
+KFT
+
+<!-- image -->
+
+MAn
+
+Truck
+
+Bus AG
+
+5./ .
+
+1
+
+5
+
+Wotorkennbuchstabe wahlw\_ ohne Beschriftung Engine code letters optionally without legend
+
+| Nr . Ho .   | Feld S0c - tipn   | batun Date   | qeaen- dert   | [Geh igt Ghangedhppr   | 8esghrgjbu59r4945982d25581 Revision record and [hange date code   | der             | der             |
+|-------------|-------------------|--------------|---------------|------------------------|-------------------------------------------------------------------|-----------------|-----------------|
+| 3           | F4                | 19 .10.15    | Seidel        |                        | [ste Neu gez                                                      | ohne\_ Aenderung | ohne\_ Aenderung |
+|             | 64                |              |               |                        |                                                                   |                 |                 |
+|             |                   | 101.03.16    |               |                        | Krollig[Frk Pos.7 zugef .                                         |                 |                 |
+|             |                   |              |               |                        |                                                                   | (EA320/19)      | (EA320/19)      |
+
+- 'Yolksbagen AG behaelt sich alle Mechte "or. Das qilt insbesondere fuer ErfindungsrFchtP Know Urheberrethte Uhd Hulensrechte suwie fuer das Recht, diese als geverbliche Schutzrechte anzunelden. Jede Yerfuegurgsbefugnis incl. Kopier- und Heitergaberecht liept bei uns Genehnigung von Erstlieferung Dnd Aenderung nach YH 01155\_ how,
+- Yolksuagen #6 referves all rights incloding vithout linitation rights 0f invention, know copyrights, rights to na1es, and the right to apply tor industrial property rights. All rights 0t use and erploitation including the right t0 copy and disseninate Qr distribute reside vith V5. Hpproval 0f first delivery and changes in @tcordance #ith VM 01155. The English translation if beliFved t0 bF accurate. In case @f discrepancies the Gertan version is aljne authoritative and controlling \_ hox ,
+
+[Typ-Pruef-Dok . und Typ-Prucf-Hr Type-apfr.-doc . und type @pproval nuzber
+
+Bonennunp
+
+CaD-Syster und Yervaltungssyster-Schluessel Cad syste and adrinistration code
+
+Catia V5 R19
+
+Kønstruktiøns Yerantwortung' Design Resp.
+
+Fabrikschild
+
+[Zusatzbenennung Title
+
+<!-- image -->
+
+Maszstab Scale
+
+0 ,V
+
+Wanufacturers Plate
+
+Aoditional títle Teil-Hr. Part-no
+
+000 .000 .128
+
+Hade
+
+Abt.{Dept .
+
+EKKA
+
+Tel.
+
+Gez./Drarn
+
+79692
+
+Volke
+
+Fornat D.Size Bhest Von @f
+
+Spidel
+
+A2
+
+1

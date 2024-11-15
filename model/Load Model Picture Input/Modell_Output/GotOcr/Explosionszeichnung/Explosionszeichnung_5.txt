@@ -1,0 +1,102 @@
+\\ \(\begin{array}{llllllll}1 & 2 & 3 & 4 & 5 & 6 & 7 & 8\end{array}\)}
+
+
+Anbau Innenspiegel (Frontscheibe)
+
+
+Abdeckung Spiegelfuss
+Cover, mirror support
+G:\VOLKSMAGEN AG behält sich alle Rechte vor. Das gilt inbesondere fuer
+Erfindungsrechte, Know-how, Urheberechte und Kassenrochte sowie
+fürs das Recht, diese als geörmoliche Schutzrechte anzumelten. Jede
+Verfügungsperriggnis incl. Körper- und Wetzverarbeitet liegt bei uns.
+Gemeinigung von Erfolgierung und Änderung nach W 0155.
+(CAL) rights remain with VOLKSMAGEN A. This applies especially to
+rights of invention, know-how, copyrights and rights to name as well
+as to the right to patent these as commercial protective rights. All
+rights of disposition, particulariy for copying or distributing,
+reserved.
+Approval of first supply and changes acc. to W 0155. The English
+translation is believed to be accurate. In case of discrepancies the
+German version shall govern.
+Typ:Préf-Book, und
+Typ:Préf-Nr.
+Type=approx. doc. and
+type approval number
+Y
+Kronstructions-
+Vermatorturing
+Design Resp.
+Design Resp.
+Tetl.-Nr. / Part no.
+Sele
+2H, 000.171
+2H. 004
+04
+04
+04
+04
+04
+04
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+\(\mathrm{N}_{\mathrm{w}}\)
+\(\mathrm{N}_{\mathrm{r}}\)
+\(\mathrm{N}_{\mathrm{r}}\)
+\(\mathrm{T}\)
+\(\mathrm{N}\)
+\(\mathrm{N}\)
+\(\mathrm{N}\)
+\(\mathrm{T}\)
+\(\mathrm{T}\)
+\(\mathrm{T}\)
+\(\mathrm{T}\)
+
+\(\mathrm{N}\)
+\(\mathrm{N}\)
+\(\mathrm{T}\)
+
+\(\mathrm{T}\)
+\(\mathrm{T}\)
+\(\mathrm{T}\)
+\begin{tabular}{|c|c|c|c|c|}
+\hline \begin{tabular}{l} 
+T
+\end{tabular} & \begin{tabular}{l} 
+T
+\end{tabular} & \(\mathrm{N}\) & \(\mathrm{N}\) & \(\mathrm{N}\) \\
+\hline
+\end{tabular}
+\begin{tabular}{|c|c|c|c|c|}
+\hcline { 2 - 5 } \multicolumn{1}{c|}{} & \begin{tabular}{c} 
+T \\
+\(\mathrm{N}\)
+\end{tabular} & \begin{tabular}{c} 
+T \\
+\(\mathrm{N}\)
+\(N\) \\
+\(\mathrm{N}\)
+\end{tabular} & \begin{tab}{c} 
+T \\
+\(\mathrm{N}\)
+\end{tabular} \\
+\hline
+\end{tabular}
+\begin{tabular}{|c|}
+\hline \begin{tabular}{c} 
+T \\
+\(\mathrm{N}\) \\
+\(\mathrm{N}\)
+\end{tabular} \\
+\hline
+ \\
+\hline
+\end{tabular}

@@ -1,0 +1,64 @@
+<!-- image -->
+
+| Pos Teilebenennung/Part designation Item      | [Merkstoff Waterial               | Wat .-Dicke/ WVat .-Thickness   |
+|-----------------------------------------------|-----------------------------------|---------------------------------|
+| Aussenteil [Outer panel                       | Stahllsteel                       | 0,7                             |
+| 2 Innenteil [Inner part                       | Stahllsteel                       | 0, 65                           |
+| 3 Scharnierverstaerkung                       | [Hinge\_reinforcement\_[stahllsteel | 1,2                             |
+| 4 Scharnierverstaerkung\_ [Hinge\_reinforcement | Stahllsteel                       | 12                              |
+| 5 Verstaerkung\_Schliessbuegel                 | {reinf\_ strikerlstahllsteel       | 1,4                             |
+| 6 Scharnier links [Hinge left                 | IStahllsteel                      | 2,5                             |
+| 7 Scharnier rechts IHinge right               | Stahl/steel                       | 2,5                             |
+| 8 Fanghaken/Buegel                            | Stahllsteel                       |                                 |
+
+Vereinfachte Darstellung [simplified representation Tar [[ 6ia6 09,05
+
+Typ 2H \_
+
+2H6 . 000 .056
+
+| Ar . Ap .   | Feld Sec- tlcn   | Datun Datp   | gemen' der: Changedhffr   | Qe- neh nigt   | Eeschrpibung Cer 5288445989 Kenderunrterninsch Ravision record and thange datp cqdF   |
+|-------------|------------------|--------------|---------------------------|----------------|---------------------------------------------------------------------------------------|
+|             |                  | 26 .01.17    |                           |                |                                                                                       |
+
+- Volkgmagen KG behfelt sich alle Hechte Yor Das gilt insbesondere fuer Erfindungsrechte KnqnUrteberrechte und Karen rechte {Jrie fuer das Hecht, diese als gevertliche Schutzrechte anzupelden. Jeje Yerfuequngsbefuqnis incl. KopierDaitergabarecht liejt bei uns. Genehiqung von Erstliefarung Lnd Hendarung nech VM 01155. -hau, und
+
+Typ-Fruef-Dak . Vnd Typ-Fruef-Hr Type-appr.-doc, #nd type approval nuzber
+
+Y
+
+Donennunq
+
+Zusatzbenennunp Tltle
+
+Vaszftab {cale
+
+0,V
+
+Konstrukticns" Yerantvortunp} Desiga Hesp.
+
+Frontklappe
+
+Engine hood
+
+Additlonal title Tell.Nr . Fart-no
+
+[CAD-Systen und Yerraltungsgysten-SehlvesGel [Cad systen and aduinistration code
+
+- Volksaaqen KG reseryes all riqbts, including vithout linitation riphts of ioventicn, knon-how, copyrights, rights to navps, @nd tha Tight to @paly for inqustrial Prpperty rights. #ll Fights cf Vre @7d prploitatioa including the rigtt tp copy And dis erinate Qr distribute reside Fith Vs. #pprqval Qf first dpllvery and chanqe In acccrdance vith VW 01155. The English transletion i8 belieued tc be AGcUrate. Io G0fe pf digcrepancies the @erzar versipn i8 alone authoritatire and controlling.
+
+Catia V5 R24
+
+Kire
+
+AJt. (Dept . Tel
+
+Bez , /Drefn
+
+Krollig HE-GP/D 30422 Krollig
+
+Fgrnat Size Blptt Sskept fcI pf
+
+A2
+
+1

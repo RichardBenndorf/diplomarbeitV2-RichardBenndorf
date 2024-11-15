@@ -1,0 +1,118 @@
+Doc. No.: ZD4 / SP / 92 / 61 / rev.00
+
+92/61/EC - 2000/7/EC DIRECTIVE / DIRETTIVA 92/61/CE - 2000/7/CE
+==============================================================
+
+3.2.4.1.1. Make (s): See attached drawing No. C7.0 and following if applicable
+
+&gt; Marca (s):
+&gt;
+&gt; Type (s):
+&gt;
+&gt; See item 3.2.4.1.1.
+&gt;
+&gt; Tipo (i):
+&gt;
+&gt; Number fitted:
+&gt;
+&gt; 1
+&gt;
+&gt; Numero:
+&gt;
+&gt; Settings
+&gt;
+&gt; Regolazioni
+&gt;
+&gt; 3.2.4.1.4. i.e. of
+&gt;
+&gt; vale a dire
+&gt;
+&gt; Diffusers:
+&gt;
+&gt; See item 3.2.4.1.1.
+&gt;
+&gt; Diffusort:
+&gt;
+&gt; Level in float chamber:
+&gt;
+&gt; See item 3.2.4.1.1.
+&gt;
+&gt; 3.2.4.1.4.2. Livello in veschetta:
+&gt;
+&gt; Mass of float:
+&gt;
+&gt; See item 3.2.4.1.1.
+&gt;
+&gt; Massa del galleggiante:
+&gt;
+&gt; Float needle:
+&gt;
+&gt; See item 3.2.4.1.1.
+&gt;
+&gt; 3.2.4.1.4.4. Ago del galleggiante: or oppure
+&gt;
+&gt; Fuel curve as a function of the air flow and setting required in order to maintain that curve
+&gt;
+&gt; 3.2.4.1.4.5. Curva del carburante in funzione della portata d'aria e regolazioni necessarie per rispettare la curva
+&gt;
+&gt; Cold - starting system:
+&gt;
+&gt; Automatic
+&gt;
+&gt; Dispositivo di avviamento a freddo :
+&gt;
+&gt; Operating principle (s):
+&gt;
+&gt; Enrichment of fuel
+&gt;
+&gt; Principio di funzionamento :
+&gt;
+&gt; By fuel injection (only in the case of compression ignition):
+&gt;
+&gt; Not applicable
+&gt;
+&gt; A iniezione (soltanto motori ad accensione spontanea):
+&gt;
+&gt; From item 3.2.4.2.1. to 3.2.4.2.8.3 Not applicable Dal punto 3.2.4.2.1. al 3.2.4.2.8.3 Non ricorre
+&gt;
+&gt; By fuel injection (only in the case of spark-ignition):
+&gt;
+&gt; Not applicable
+&gt;
+&gt; A iniezione (soltanto motori ad accensione comandata):
+&gt;
+&gt; From item 3.2.4.3.1. to 3.2.4.3.5.2. Not applicable Dal punto 3.2.4.3.1. al 3.2.4.3.5.2. Non ricorre
+&gt;
+&gt; 3.2.4.4 Fuel pump :
+&gt;
+&gt; Yes
+&gt;
+&gt; Pompa di alimentazione:
+&gt;
+&gt; 3.2.5. Electrical Equipment
+&gt;
+&gt; Impianto Elettrico
+&gt;
+&gt; Nominal voltage :
+&gt;
+&gt; 12 V, negative earth Voltaggio nominale:
+&gt;
+&gt; Generator
+&gt;
+&gt; Generatore
+&gt;
+&gt; Type:
+&gt;
+&gt; Magneto flywheel
+&gt;
+&gt; Tipo:
+&gt;
+&gt; Nominal power:
+&gt;
+&gt; 180 W
+&gt;
+&gt; Potenza nominale:
+&gt;
+&gt; Ignition
+&gt;
+&gt; Accensione

@@ -1,0 +1,48 @@
+\begin{tabular}{|c|c|}
+\hline & \begin{tabular}{l} 
+ja \\
+yes
+\end{tabular} \\
+\hline \multicolumn{2}{|l|}{ 3.2.12.2.8 } \\
+\hline \multicolumn{2}{|l|}{\begin{tabular}{l} 
+Andere Einrichtung: \\
+Other system:
+\end{tabular}} \\
+\hline \multicolumn{2}{|l|}{ entfällt } \\
+\hline \multicolumn{2}{|l|}{ not applicable } \\
+\hline \multicolumn{2}{|l|}{ 3.2 .12.2 .9 } \\
+\hline \multicolumn{2}{|l|}{\begin{aligned} Drehmomentbegrenzer: ja/nein \\
+Torque limiter: yes/no \end{aligned}} \\
+\hline \multicolumn{2}{|l|}{ entfällt } & \\
+\hline \multicolumn{2}{|l|}{ not applicable } \\
+(3.2.12.2.10 } \\
+\hline \multicolumn{2}{|c|}{\begin{tabular}{l} 
+Periodisch arbeitendes Regenerationssystem: (nachstehende Angaben sind für jede selbstständige Einheit einzeln \\
+anzugeben)
+\end{tabular}} \\
+\hline \multicolumn{2}{|c|}{ Periodically regenerating system: (provide the information below for each separate unit) } \\
+\hline \multicolumn{2}{|l|}{ 3. 2.12.2.10.1 } \\
+\hline \multicolumn{2}{|c|}{\begin{aligned} Verfahren oder Einrichtung zur Regenerierung, Beschreibung und/oder Zeichnung: \\
+Method or system of regeneration, description and/or drawing: \end{aligned}} \\
+\hline
+\end{tabular}
+\begin{tabular}{|c|c|}
+\hline & \begin{tab}{l} 
+diskontinuierliche Regeneration \\
+non-continuous regeneration
+\end{tabular} \\
+\hline \multicolumn{2}{|c|}{ 3.2.12.2.11.1 } \\
+\hline \multicolumn{2}{|c|}{\(\frac{\text { Art und Konzentration des erforderlichen Reagens: }}{\text { Type and concentration of reagent needed: }}\)} \\
+\hline & \begin{tabular}{l} 
+UREA, Konzentration gemäß ISO 22241-1 \\
+(Aktivierung Warnsystem außerhalb Konzentrationsbereich von 27,8-46 Gew.-\% Harnstoff)
+\end{tabular} \\
+\hline & \begin{tabular}{l} 
+UREA, concentration according to ISO 22241-1 \\
+(activation inducement system outside concentration range from \(27.8-46 \% \mathrm{w} / \mathrm{w}\) urea)
+\end{tabular} \\
+\hline
+\end{tabular}
+\(\mathrm{X}\)
+\subsection*{3.2.13.1}
+Anbringungsstelle des Symbols für den Absorptionskoeffizienten (nur bei Selbstzündungsmotoren): Location of the absorption coefficient symbol (compression ignition engines only):
