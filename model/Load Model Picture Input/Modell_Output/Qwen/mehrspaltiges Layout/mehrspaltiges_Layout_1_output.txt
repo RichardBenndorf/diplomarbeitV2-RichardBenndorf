@@ -1,156 +1,27 @@
-92/61/EC - 2000/7/EC DIRECTIVE I DIRETTIVA 92 /61 /CE - 1900 /7/CE
-
-3.2.4.1.1.
-
-Make (s):
-
-Marca (s): 
-
-3. 2. 4. 1. 3.
-
-Type (s):
-Tipo (t):
-
-3.4 .2.1 .2.
-
-Number fitted:
-
-Numero:
-
-3.3.14.4.
-
-Settings
-
-Regolazioni
-
-I.e. of
-
-vale a dire
-
-3 .2 .4 .1 .4.2.
-
-Diffusers:
-
-Diffusori:
-
-3 . 2 . 4 . 1 . 5.
-
-Cold - starting system:
-
-Dispositivo di avviamento a freddo :
-
-3.5.15.5.
-
-Operating principle (s) :
-
-Principio di funzionamento :
-
-3 .4 2 4 3 .3 .14 .4.
-
-By fuel injection (only in the case of compression ignition):
-
-A iniezione (soltanto motori ad accensione spontanea):
-
-3 .5 .1 5 .5 .
-
-From item
-
-Dal punto
-
-3 2 , 4 , 2, 1 , to 3 1 24 1, 283
-
-324241282
-
-31243183 N o t a p p l i c a b l e
-
-3,24,2,1, al 3, 4, 31,28 3
-
-N o n r i c o r r e
-
-Dal ponto
-
-3 , 5 , 15 . 3.6
-
-35155
-
-36
-
-From item 
-
-Dal punto 
-
-32,4,3,1. to 224.3,5,2.2
-
-N ot a p pl i c ab l e 
-
-3,43,31522
-
-al 323,6,52
-
-Non r i co r r ere
-
-342,344
-
-335
-
-E le c tr i c al E qu i p m e n t
-
-3751
-
-38512
-
-Generator
-
-39521
-
-Type:
-
-Tipo:
-
-3102212223
-
-Generatorore
-
-30252.3
-
-1.225
-
-12 V, negative earth
-
-3
-
-Magneto flywheel
-
-3.
-
-Ign it ion
-
-Acc e s s i o n e
-
-See attached drawing No. C7.0 and following if applicable
-
-See item 3 ,2,2 ,1 .1.
-
-1
-
-See items 3.,2, ,4,1 .,1.
-
-See item
-
-3.,4,41,1 .
-
-See item 
-
-3., 414,5.
-
-Automatic
-
-Enrichment of fuel
-
-Not applicable
-
-Not applica ble
-
-Yes
-
-180 W
+Certainly! Here is the document content copied from the image:
+
+```markdown
+1. Vehicle:
+1.1. Manufacturer: Aprilia S.p.A.
+1.2. Type: SP
+1.3. Engine family: M
+11.4. Vehicle Identification Number: ZD4SP0002S001007
+12.4 Test weight together with rider: 237 kg
+
+2. Engine:
+2.1 Manufacturer: Piaggio & C. S.p.a.
+2.2 Type: Piaggio M245M
+2.3 Sort: Spark ignition engine, four stroke
+22.5. Maximum vehicle speed: 85 km/h
+
+3. Gearbox:
+3.1 Sort: automatic
+3.2 Number of gears: not applicable
+33.3 Final drive ratio: 1 : 10,379 (15/46 x 13/44)
+
+4. Equipment:
+4.1 Exhaust System: Reflection-Absorption; exhaust pipe marking Aprilia B-1150 e11; silencer Aprilia SM 26 e1; see enclosures information document
+4.2 Intake System: Air filter box: Foam substance dry air filter box, marking AM 11 e3; see encloseds information document
+
+5. Measurements:
+```

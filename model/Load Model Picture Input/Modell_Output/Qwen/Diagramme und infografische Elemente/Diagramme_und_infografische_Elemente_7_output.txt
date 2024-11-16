@@ -1,1 +1,4 @@
-(10,10),(990,985)
+LU Versorgungseinheit 12/24 V
+LU Supply Unit 10/20 V
+Durchfluß bei 2500 U/min gegen 1 bar
+Flow Rate At 2000rpm Toward 1bar

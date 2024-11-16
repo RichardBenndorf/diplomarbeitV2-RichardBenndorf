@@ -1,1 +1,32 @@
-(10,10),(988,987)
+Certainly! Here is the text from the old document, copied and formatted as requested:
+
+---
+
+**Test Conditions**
+
+Engine type **Piaggio M245M**, engine family **H**
+
+| Pressures measured at maximum power | Barometric: | 100,8 kPa |
+| Steam pressure: | Steam pressure (1): | 2,447 kPa  |
+| Exhaust: | Exhaust (1) |  |
+|
+| Temperatures measured at the maximum power of the intake air: | Intake air temperature (1). | 307 K |
+| of the cooling liquid at the engine cooling liquid outlet: | Cooling liquid outlet temperature (2). | - K |
+|
+|
+| of fuel at the carburetor/injection pump intake: | Carburetor intake temperature (3). | K |
+|
+
+| in the fuel-consumption measuring device: | Fuel consumption (1), measured at point adjacent to the outlet flange(s) of the exhaust manifold(s): | K |
+
+| Characteristics of the dynamometer | Make: | A.P.I. Com S.R.L. |
+| Type: | FR 150 |
+| Fuel | For spark-ignition engines operating on liquid fuel: | Make | ESSO |
+| Specification: | Unleaded petrol |
+| Anti-knock additive (lead, etc.) | Not applicable |
+| Octane number: | RON: | Not available |
+| MON: | MON: Not available |
+
+---
+
+I have included all the entries from the multi-columns in the document, ensuring that the formatting is correct.

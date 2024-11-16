@@ -1,33 +1,10 @@
-Ww. Lampenbuegel / opt. light bar
-Fabrikschild, B-Saeule, links - ww. rechts
-Identification plate, B-pillar left - opt. right
-Fahrzeugidentifizierungs-Nr.
-an Laengsträger, rechts
+front master cylinder Ø 11 mm
+floating brake disc front Ø 300 mm
+brake disk rear Ø 240 mm
 
-Vehicle-Identification-No. 11
-at side member, right
-
-L 104
-L  1 01
-L103
-L W 1
-101-1
-W 1 W  03
-
-Ww . Doppelkabine / opt . double cab
-Www. / opt .
-Stylingbar/ Sportsbar
-Wwww. /opt. Hardtop
-W www. Cargobox
-opt. cargo box
-
-Wwww / opt.
-
-Ww Ausfuehrung
-opt . version
-
-Art des Aufbaus / type of bodywork:
-SC - EinzelkabINE / Single cab
-DC - DoppelKabINE/ double cab
-
-Typ: 2H
+ABS modulator Bosch 9MP
+brakespeed sensor (WSS) rear
+rear brake calliper
+brakemaster cylinder Ø13 mm
+front brake callipere
+brakedisk front Ø30 mm

@@ -1,24 +1,14 @@
-Faun Umwelttechnik GmbH & Co. KG
-Herr Dipl.-Ing. Georg Sandkühler
-Feldhorst 4
-HPC: PQ02 / 065
-D-27711 Osterholz-Scharmbeck
-
-Prüfgegenstand: MB Econic mit Rotopress Dualpower 516540
-EMV-Vorschrift: 72/245/EWG in der Fassung 2006/96/EG
-Ort der Prüfung: MBtech EMC GmbH, EMV-Halle "H"
-D-71332 Waiblingen
-
-Eingang des Prüflings: 2111-01-10
-Datum der PrÜfung: 11/01/11
-Erstellung des PrÜfberichtes: 011017
-Prüfbereich Nr.: P11 0008
-
-Gesamteinzenzahl: Prüfberich: 3 Seiten Anhang: 6 Seiten
-Sachbearbeiter Auftraggeberseite: Hr. Dipl.- Ing. Georg
-Sandkühfer
-Sächbearbeiter MBtech EMCE GmbH: H. Klingenstein, H. Burger
-Verfasser: H.r. Klamt
-Geschäftsführung MBtech EME GmbH: Dr.-Ing U. Reinhardt
-
-Geschäftsresultat: DIE PRÜFUNG GEMÄSS RICHTLINIE 7/2/45/EWG IN DER FASSUNG 2/0696/EW G WURDE BESTANDEN
+| Auftraggeber | Faun Umwelttechnik GmbH & Co. KG Herr Dipl.-Ing. Georg Sandkühler Feldhorst 4 HPC: PQ02 / 065 D-27711 Osterholz-Scharmbeck |
+| Prüfgegenstand | MB Econic mit Rotopress Dualpower 516540 |
+| EMV-Vorschrift | 72/245/EWG in der Fassung 2006/96/EG |
+| Ort der Prüfung | MBtech EMC GmbH, EMV-Halle "H" D-71332 Waiblingen |
+| Eingang des Prüflings | 2111-01-10 |
+ | Datum der PrÜfung | 11.01.2011 |
+| Erstellung des PrÜfberichtes | 01/11/2021 |
+ | Prüfbereich Nr. | P110008 |
+| Gesamtseitenzahl | PrÜfbereiicht: 13 Seiten Anhang: 26 Seiten |
+| Sachbearbeiter Auftraggebebe Seite | Hr. Dipl.- Ing. Georg Sankühler |
+| Fachbearbeiter MBtech EMCC GmbH | H. Klingenstein, H. Burger |
+| Verfasser | H.r. Klamt |
+| Geschäftsführung MBtech EMM GmbH | Dr.-Ing U. Reinhardt |
+| Ergebnis | Die PrüFung gemäß Richtlinie 74/255/EWG in der fassung2066/06EG wurde bestanden. |

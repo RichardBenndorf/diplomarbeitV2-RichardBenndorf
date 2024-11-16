@@ -1,2 +1,30 @@
-Right side, horizontal polarisation
-Right Side, vertical polarisation
+Hand Controls
+
+Helmet Controls
+
+Headlights (Low Beam)
+Headlights
+(High Beam)
+Electric Starter
+Device for Switching the Engine On or Off (OFF / SHUT DOWN)
+Engine Ignition (Operating Position)
+Hazard Warning
+
+Direction Indicator (Left)
+Direction Indicator
+(Right)
+Battery Charge
+Low Fuel Light (Color:amber)
+Fuel Level (Color)
+Left Turn Signal (Color:
+Green)
+Right Turn Signal
+(Color: Green)
+Indicator Lights
+Headlights [High Beam]
+Gear Box Neutral
+Engine Oil [Color: Red]
+Engine Coolant Temperature [Color:
+Red]
+
+Funkktioniert oft

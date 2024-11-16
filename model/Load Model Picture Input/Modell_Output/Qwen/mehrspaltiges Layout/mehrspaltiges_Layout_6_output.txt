@@ -1,1 +1,29 @@
-(10,10),(990,987)
+Certainly! Here is the text from the old document, formatted as you requested:
+
+```markdown
+ General / Allgemeine Angaben
+
+0.1 Make (trade name of manufacturer) / Fabrikmarke des Herstellers: KIRCHHOFF Ecotec GmbH
+
+02 Type completed vehicle / Typ vervollständigtes Fahrzeug: N321
+
+03 Type of base vehicle /Typ des Basisfahrzeugs: N212
+
+04.2.1 Commercial description / Handelsname: refer to information document / siehe Beschreibungsbo gen
+
+05 Means of identification of type, if marked on the vehicle / Merkmale zur Typidentifizierung, sofern am Fahrzeug vorhanden:
+
+06 Category of vehicle / Fahrzeugklasse: N4, N4G
+
+07 Manufacturer's name and address / Name und Anschrift des Herstellers: KURCHHOEFF Ecotec Gmbh
+
+08 Address of assembly plant / Name(n) und Anschriften der Fertigungsstelle(n): Stefanstrasse 2
+
+58638 Iselrohn
+
+09 Name and address of representative / Nameund Anschriftdes Beauftragten: FAUN Umwelttechnik GmbH & Co. KG
+
+Feldhorst 4
+
+27711 Osterholz-Scharmbeck
+```

@@ -2,8 +2,8 @@ import os
 from docling.document_converter import DocumentConverter
 
 # Verzeichnisse definieren
-input_directory = "../Bilder/uneinheitliches Layout"
-output_directory = "../Modell_Output/Docling/uneinheitliches Layout"
+input_directory = "../Bilder/Diagramme und infografische Elemente"
+output_directory = "../Modell_Output/Docling/Diagramme und infografische Elemente"
 
 # Sicherstellen, dass das Output-Verzeichnis existiert
 os.makedirs(output_directory, exist_ok=True)

@@ -1,28 +1,24 @@
-## NOTE
+## NSTE
 
-STEER[NG
+STEERING ANGLE
 
-ANGLE
+R
 
-2 6
+46 '
 
-26
-
-ANGLE
-
-CF
-
-LOCKED STEER[NG
-
-E
-
-E
-
-43'
-
-1 1 5 H ? H | 382 1
+ANGLE E :
 
 <!-- image -->
+
+46
+
+DF
+
+LoCKED
+
+43
+
+43
 
 <!-- image -->
 

@@ -13,8 +13,8 @@ model = Qwen2VLForConditionalGeneration.from_pretrained(repo, torch_dtype="auto"
 processor = AutoProcessor.from_pretrained(repo)
 
 # Verzeichnispfade
-image_folder = "../Bilder/uneinheitliches Layout"  # Ordner mit Bildern
-output_folder = "../Modell_Output/Qwen/uneinheitliches Layout"  # Ordner für die Ausgaben
+image_folder = "../Bilder/Fließtext"  # Ordner mit Bildern
+output_folder = "../Modell_Output/Qwen/Fließtext"  # Ordner für die Ausgaben
 os.makedirs(output_folder, exist_ok=True)
 
 # Schleife über alle Bilder im Verzeichnis
@@ -29,12 +29,21 @@ for filename in sorted(os.listdir(image_folder)):
                 "role": "user",
                 "content": [
                     {"type": "image", "image": image},
-                    {"type": "text", "text": "Funktioniert oft: I cant read the text from the picture, please extract the complete text and the Characters. But please dont add any additional words"},
+                    {"type": "text", "text": "I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document."},
                 ],
             }
         ]
         #Funktioniert oft: I cant read the text from the picture, please extract the complete text and the Characters. But please dont add any additional words
         #Please extract the text of eyery column and row of the provided table
+        #Schreibmaschinenschrift:
+        #I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. 
+        #mehrspaltiges Layout
+        #I have this old document. I need the text it contains for my work. Can you please give me the text contained in it in a tabular form. I need exactly the text that is in the picture. 
+        #I have this old document. I need the text it contains for my work. Can you please give me the text contained in it in a tabular form. I need exactly the text that is in the picture. Please view the entire table.
+
+        #Tabelle
+        # Please extract the content of the provided table. für 4 und 5 gut
+        #I have been given the task of copying the table from the old document. Can you please help me with this and take over the task. 5, 8 sehr gut
 
         # Bereite die Texteingaben vor
         text = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)

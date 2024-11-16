@@ -1,10 +1,304 @@
-# Right side, horizontal polarisation
+# HAND CONTROLS
 
-![Left side, horizontal polarisation](LINK_SLOT)
+## HEADLIGHTS
+### (LOW BEAM)
 
-![Right side, vertical polarisation](LINK_SLOT)
+### HEADLIGHTS
+### (HIGH BEAM)
 
-![Start 30.000 MHz](LINK_SLOT)
-![Stop 300.000 MHz](LINK_SLOT)
-![Start 300.000 MHz](LINK_SLOT)
-![Stop 1.000 GHz](LINK_SLOT)
+### ELECTRIC STARTER
+#### Device for Switching the Engine On or Off
+#### (OFF / SHUTDOWN)
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
+#### HAZARD WARNING
+
+### HORN
+#### HORN
+
+### HAZARD WARNING
