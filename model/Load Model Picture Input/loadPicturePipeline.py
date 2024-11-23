@@ -2,6 +2,7 @@ import torch
 from PIL import Image
 from transformers import Kosmos2_5ForConditionalGeneration, AutoProcessor
 import os
+import time
 
 # Konfiguration
 repo = "microsoft/kosmos-2.5"
@@ -15,9 +16,14 @@ model.to(device)
 processor = AutoProcessor.from_pretrained(repo)
 
 # Verzeichnispfade
-image_folder = "Bilder/Tabellenformat"
-output_folder = "Modell_Output/Kosmos/Tabellenformat"
+image_folder = "Bilder/uneinheitliches Layout"
+output_folder = "Modell_Output/Kosmos/uneinheitliches Layout"
 os.makedirs(output_folder, exist_ok=True)
+
+# Datei für Durchlaufzeiten vorbereiten
+durations_path = os.path.join(output_folder, "durations.txt")
+with open(durations_path, 'w', encoding='utf-8') as f:
+    f.write("Dateiname, Durchlaufzeit (Sekunden)\n")
 
 # Schleife über alle Bilder im Verzeichnis
 for filename in sorted(os.listdir(image_folder)):
@@ -27,7 +33,10 @@ for filename in sorted(os.listdir(image_folder)):
 
         # Textprompt
         prompt = "<md>"
-    
+
+        # Startzeit für die Verarbeitung messen
+        start_time = time.time()
+        
         # Verarbeite das Bild
         inputs = processor(text=prompt, images=image, return_tensors="pt")
 
@@ -46,12 +55,19 @@ for filename in sorted(os.listdir(image_folder)):
                 max_new_tokens=1024  # Maximale Anzahl der Tokens erhöhen für lange Textausgabe
             )
 
+        # Berechne die Durchlaufzeit
+        processing_time = time.time() - start_time
+        
         # Decodiere die generierten Token in Text
         generated_text = processor.batch_decode(generated_ids, skip_special_tokens=True)[0]
         
         # Speichere die Modellausgabe in einer Textdatei
         output_file = os.path.join(output_folder, f"{filename.split('.')[0]}_output.txt")
-        with open(output_file, "w", encoding="utf-8") as f:
+        with open(output_file, "w", encoding='utf-8') as f:
             f.write(generated_text)
 
-        print(f"Text aus {filename} in {output_file} gespeichert.")
+        # Speichere die Durchlaufzeit in der Datei `durations.txt`
+        with open(durations_path, 'a', encoding='utf-8') as f:
+            f.write(f"{filename}, {processing_time:.2f}\n")
+
+        print(f"Text aus {filename} in {output_file} gespeichert. Durchlaufzeit: {processing_time:.2f} Sekunden.")

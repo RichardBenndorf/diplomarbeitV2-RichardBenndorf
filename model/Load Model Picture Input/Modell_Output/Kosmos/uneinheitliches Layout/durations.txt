@@ -1,0 +1,9 @@
+Dateiname, Durchlaufzeit (Sekunden)
+uneinheitliches_Layout_1.png, 7.69
+uneinheitliches_Layout_2.png, 4.38
+uneinheitliches_Layout_3.png, 5.72
+uneinheitliches_Layout_4.png, 7.87
+uneinheitliches_Layout_5.png, 6.88
+uneinheitliches_Layout_6.png, 13.18
+uneinheitliches_Layout_7.png, 5.52
+uneinheitliches_Layout_8.png, 3.58

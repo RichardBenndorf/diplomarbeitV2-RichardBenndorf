@@ -1,0 +1,9 @@
+Dateiname, Durchlaufzeit (Sekunden)
+Diagramme_und_infografische_Elemente_1.png, 14.69
+Diagramme_und_infografische_Elemente_2.png, 2.66
+Diagramme_und_infografische_Elemente_3.png, 1.89
+Diagramme_und_infografische_Elemente_4.png, 2.50
+Diagramme_und_infografische_Elemente_5.png, 2.96
+Diagramme_und_infografische_Elemente_6.png, 1.77
+Diagramme_und_infografische_Elemente_7.png, 2.74
+Diagramme_und_infografische_Elemente_8.png, 2.88

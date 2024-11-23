@@ -1,0 +1,9 @@
+Dateiname, Durchlaufzeit (Sekunden)
+tabellenformat_1.png, 10.91
+tabellenformat_2.png, 10.52
+tabellenformat_3.png, 7.88
+tabellenformat_4.png, 13.75
+tabellenformat_5.png, 8.45
+tabellenformat_6.png, 14.40
+tabellenformat_7.png, 14.52
+tabellenformat_8.png, 8.43

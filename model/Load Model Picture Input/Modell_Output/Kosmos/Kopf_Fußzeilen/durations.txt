@@ -1,0 +1,9 @@
+Dateiname, Durchlaufzeit (Sekunden)
+Kopf_Fußzeilen_1.png, 2.77
+Kopf_Fußzeilen_2.png, 1.69
+Kopf_Fußzeilen_3.png, 14.10
+Kopf_Fußzeilen_4.png, 3.63
+Kopf_Fußzeilen_5.png, 3.87
+Kopf_Fußzeilen_6.png, 2.36
+Kopf_Fußzeilen_7.png, 3.62
+Kopf_Fußzeilen_8.png, 2.06

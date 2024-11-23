@@ -1,0 +1,9 @@
+Dateiname, Durchlaufzeit (Sekunden)
+Fließtext_1.png, 6.71
+Fließtext_2.png, 8.77
+Fließtext_3.png, 6.54
+Fließtext_4.png, 8.71
+Fließtext_5.png, 11.10
+Fließtext_6.png, 6.66
+Fließtext_7.png, 6.94
+Fließtext_8.png, 13.57
