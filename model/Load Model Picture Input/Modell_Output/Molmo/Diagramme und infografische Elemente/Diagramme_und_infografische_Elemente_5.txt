@@ -1,17 +1,1 @@
- NOTE
-STEERING ANGLE
-R: 46°
-ANGLE OF LOCKED STEERING
-L: 43°
-STOPPER HANDLE LOCK
-MATERIAL: STEEL
-M6 BOLT (2 PIECES)
-LOCK PIN
-MATERIAL: CARBON STEEL
-LOCK BODY
-MATERIAL: ZN ALLOY
-LOCK STAY T3.2
-MATERIAL: STEEL
-STEERING HANDLE
-LOCK TYPE SHPO
-STEERING HEAD PIPE
+ Note steering angle L: 46° R: 43° Angle of locked steering L: 43° R: 40° Lock pin material carbon steel Lock body material ZA alloy Stopper handle lock material steel M6 bolt (2 pieces) Steering handle lock stay E3.2 material steel Lock type SHPO Steering head pipe

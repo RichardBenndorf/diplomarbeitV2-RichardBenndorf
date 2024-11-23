@@ -15,8 +15,8 @@ model.to(device)
 processor = AutoProcessor.from_pretrained(repo)
 
 # Verzeichnispfade
-image_folder = "Bilder/Diagramme und infografische Elemente"
-output_folder = "Modell_Output/Kosmos/Diagramme und infografische Elemente"
+image_folder = "Bilder/Tabellenformat"
+output_folder = "Modell_Output/Kosmos/Tabellenformat"
 os.makedirs(output_folder, exist_ok=True)
 
 # Schleife über alle Bilder im Verzeichnis
@@ -25,9 +25,9 @@ for filename in sorted(os.listdir(image_folder)):
         image_path = os.path.join(image_folder, filename)
         image = Image.open(image_path)
 
-        # Verwende ein Text-Prompt, falls nötig
+        # Textprompt
         prompt = "<md>"
-
+    
         # Verarbeite das Bild
         inputs = processor(text=prompt, images=image, return_tensors="pt")
 

@@ -1,280 +1,77 @@
-|<table>
-<colgroup>
-<col/>
-<col/>
-<col/>
-</colgroup>
-<thead>
-<tr>
-<th>
-7.
-</th>
-<th>
-BRAKING
-</th>
-<th>
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-7.1.
-</td>
-<td>
-Diagram of braking devices
-</td>
-<td>
-: see Annex A.7.1.
-</td>
-</tr>
-<tr>
-<td>
-7.2.
-</td>
-<td>
-Front and rear brakes
-</td>
-<td>
-front : 2-Discs
-</td>
-</tr>
-<tr>
-<td></td>
-<td></td>
-<td>
-rear : Disc
-</td>
-</tr>
-<tr>
-<td>
-7.2.1.
-</td>
-<td>
-Make(s)
-</td>
-<td>
-: Harley-Davidson
-</td>
-</tr>
-<tr>
-<td>
-7.2.2.
-</td>
-<td>
-Type(s)
-</td>
-<td>
-: Solid or floating
-</td>
-</tr>
-<tr>
-<td>
-7.3.
-</td>
-<td>
-Drawing of parts of the brake system
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-7.3.1.
-</td>
-<td>
-Shoes and/or pads( ^1^ )
-</td>
-<td>
-: see Annex A.7.3.1.
-</td>
-</tr>
-<tr>
-<td>
-7.3.2.
-</td>
-<td>
-Linings and/or pads( ^1^ )
-</td>
-<td>
-: see Annex A.7.3.2.
-</td>
-</tr>
-<tr>
-<td>
-7.3.3.
-</td>
-<td>
-Brake levers and/or pedals( ^1^ )
-</td>
-<td>
-: see Annex A.7.3.3.
-</td>
-</tr>
-<tr>
-<td>
-7.3.4.
-</td>
-<td>
-Hydraulic reservoirs
-</td>
-<td>
-: see Annex A.7.3.4.
-</td>
-</tr>
-<tr>
-<td>
-7.4.
-</td>
-<td>
-Other device (where applicable): drawing and description
-</td>
-<td>
-: N/A
-</td>
-</tr>
-<tr>
-<td>
-7.5.
-</td>
-<td>
-Brief description of the electrical and/or electronic components used in the braking system
-</td>
-<td>
-: N/A
-</td>
-</tr>
-<tr>
-<td>
-8.
-</td>
-<td>
-LIGHTING AND LIGHT-SIGNALLING DEVICES
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-8.1.
-</td>
-<td>
-List of all devices
-</td>
-<td>
-: see Annex A.8.1.
-</td>
-</tr>
-<tr>
-<td>
-8.2.
-</td>
-<td>
-Diagram showing the location of the lighting and light-signalling devices
-</td>
-<td>
-: see Annex A.8.2.
-</td>
-</tr>
-<tr>
-<td>
-8.3.
-</td>
-<td>
-Hazard warning lamps (where fitted)
-</td>
-<td>
-: see Annex A.8.2.
-</td>
-</tr>
-<tr>
-<td>
-8.4.
-</td>
-<td>
-Additional requirements relating to special vehicles
-</td>
-<td>
-: N/A
-</td>
-</tr>
-<tr>
-<td>
-8.5.
-</td>
-<td>
-Brief description of the electrical and/or electronic components used in the lighting system and in the light signalling system
-</td>
-<td>
-: N/A
-</td>
-</tr>
-<tr>
-<td>
-9.
-</td>
-<td>
-EQUIPMENT
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-9.1.
-</td>
-<td>
-Coupling devices (where applicable)
-</td>
-<td></td>
-</tr>
-<tr>
-<td>
-9.1.1.
-</td>
-<td>
-Type(^1^ )
-</td>
-<td>
-: N/A
-</td>
-</tr>
-<tr>
-<td>
-9.1.2.
-</td>
-<td>
-Photographs and /or drawing showing position and the construction of the coupling devices
-</td>
-<td>
-: N/A
-</td>
-</tr>
-<tr>
-<td>
-9.2.
-</td>
-<td>
-Arrangement and identification of controls, tell-tales and indicators
-</td>
-<td>
-: see Annex A.9.2.
-</td>
-</tr>
-<tr>
-<td>
-9.2.1.
-</td>
-<td>
-Photographs and/or drawings of the arrangement of the symbols, controls, tell-tales and indicators
-</td>
-<td>
-: see Annex A.9.2.
-</td>
-</tr>
-<tr>
-<td>
-9.3.
-</td>
-<td>
-Statutory inscriptions
-</td>
-<td></td>
-</tr>
+1. BRAKING
+
+1. Diagram of braking devices see Annex A.7.1.
+
+2. Front and rear brakes front 2-Discs
+
+rear Disc
+
+1. Make(s) Harley-Davidson
+
+2. Type(s) Solid or floating
+
+3. Drawing of parts of the brake system
+
+1. Shoes and/or pads( ^1^ ) see Annex A.7.3.1.
+
+2. Linings and/or pads( ^1^ ) see Annex A.7.3.2.
+
+3. Brake levers and/or pedals( ^1^ ) see Annex A.7.3.3.
+
+4. Hydraulic reservoirs see Annex A.7.3.4.
+
+5. Other device (where applicable): drawing and description N/A
+
+6. Brief description of the electrical and/or electronic components used in the
+
+braking system N/A
+
+1. LIGHTING AND LIGHT-SIGNALLING DEVICES
+
+1. List of all devices see Annex A.8.1.
+
+2. Diagram showing the location of the lighting and light-signalling devices see Annex A.8.2.
+
+3. Hazard warning lamps (where fitted) see Annex A.8.2.
+
+4. Additional requirements relating to special vehicles N/A
+
+5. Brief description of the electrical and/or electronic components used in the
+
+lighting system and in the light signalling system N/A
+
+1. EQUIPMENT
+
+1. Coupling devices (where applicable)
+
+1. Type( ^1^ ) N/A
+
+2. Photographs and /or drawing showing position and the N/A
+
+&gt; construction of the coupling devices
+
+1. Arrangement and identification of controls, tell-tales and indicators see Annex A.9.2.
+
+1. Photographs and/or drawings of the arrangement of see Annex A.9.2.
+
+&gt; the symbols, controls, tell-tales and indicators
+
+1. Statutory inscriptions
+
+1. Photographs and/or drawings showing the location see Annex A.9.3.
+
+&gt; of the statutory inscriptions and the chassis number
+
+1. Photographs and/or drawing showing the official part of the inscriptions see Annex A.9.3.
+
+2. Photographs and/or drawings of the chassis number see Annex A.0.3.
+
+<!-- -->
+
+1. Device(s) to protect against unauthorized use
+
+1. Type of device(s) Type-1
+
+2. Summary description of device(s) used : The device is a barrel key-driven, steel locking bolt type.
+
+&gt; The locking bolt is able to be extended into a pocket within the fork stem of the steering head assembly. The lock is a pin type.

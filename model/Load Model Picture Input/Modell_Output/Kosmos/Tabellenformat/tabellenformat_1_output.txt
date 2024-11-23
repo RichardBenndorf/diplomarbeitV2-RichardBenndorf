@@ -19,7 +19,7 @@ Separate Directive No
 Subject
 </th>
 <th>
-Approval No
+Approval No ( ^l^ )
 </th>
 <th>
 Extension date
@@ -170,46 +170,47 @@ Installation of lighting and light-signalling devices on the vehicle
 <td></td>
 <td></td>
 </tr>
+<tr>
+<td>
+33
+</td>
+<td>
+97/24/EC (C2)
+</td>
+<td>
+Lighting and light-signalling devices
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+34
+</td>
+<td>
+93/30/EEC
+</td>
+<td>
+Audible warning device
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>
+35
+</td>
+<td>
+93/94/EC
+</td>
+<td>
+Position for the mounting of rear registration plate
+</td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
-
-| 33 | 97/24/EC (C2) | Lighting and
-&gt;
-&gt; light-signalling devices | | | |
-<p>
-| 34 | 93/30/EEC | Audible warning device | | | |
-<br/>
-| 35 | 93/94/EC | Position for the mounting of rear registration plate | | | |
-<br/>
-| 36 | 97/24/EC (C8) | Electromagnetic compatibility | e11-0017
-<em>
-Extension No: 0
-</em>
-|
-<em>
-21.10.2004
-</em>
-| Variants: V6F |
-<br/>
-| 37 | 97/24/EC (C9) | Sound level and exhaust system | | | |
-<br/>
-| 38 | 97/24/EC (C4) | Rear-view mirror(s) | | | |
-<br/>
-| 39 | 97/24/EC (C3) | External projections | | | |
-<br/>
-| 40 | 93/31/EEC | Stand (except in the case of vehicles having three or more wheels) | | | |
-<br/>
-| 41 | 93/33/EEC | Devices to prevent unauthorised use of the vehicle | | | |
-<br/>
-| 42 | 97/24/EC (12) | Windows; windscreen wipers; windscreen washers; and so on | | | |
-<br/>
-| 43 | 93/32/EEC | Passenger hand-hold for two-wheel vehicles | | | |
-<br/>
-| 44 | 97/24/EEC (C11) | Anchorage points for safety belts and safety belts | | | |
-<br/>
-| 45 | 2000/7/EC | Speedometer | | | |
-<br/>
-| 46 | 93/29/EEC | Identification of controls, tell-tales and indicators | | | |
-<br/>
-| 47 | 93/34/EEC | Statutory inscriptions | | | |
-</p>

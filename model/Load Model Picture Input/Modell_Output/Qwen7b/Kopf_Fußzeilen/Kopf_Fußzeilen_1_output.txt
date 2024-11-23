@@ -1,0 +1,27 @@
+Sure, here is the text from the document:
+
+```
+Gesellschaft für Technische Überwachung mbH
+
+PRÜFLABORATORIUM / TEST LABORATORY
+
+DIN EN ISO 17025 und
+
+Din EN ISO/IEC 10012
+
+Vor dem Lauch 25
+
+D-70567 Stuttgart
+
+KBA-P 00077-09
+
+Registrier-Nummer
+
+Document / Seite / Page
+
+4 von 5
+
+Document number
+
+Revision 04.
+```

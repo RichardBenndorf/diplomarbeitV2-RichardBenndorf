@@ -1,16 +1,18 @@
- WW. LAMPENBUEGL / OPT. LIGHT BAR
-Fabrik child, B-Seule, links-Wercts
-Identification plate, B-Pillar left - OPT. right
-Fahzeugbezeichnung, Rechts-Nr.
-an Längstrager, Rechts-
-Vehicle Identification No. at side member, right
-WW. AUSFUEHRUNG / OPT. VERSION
-WW. DOPPELKABINE / OPT. DOUBLE CAB
-WW. OPT. STYLINGBAR / SPORTBAR
-WW. / OPT. HARDTOP
-WW. CARGOBOX / OPT. CARGO BOX
-WW. / OPT.
-Art des Aufbaus / Type of bodywork:
-SC - Einzelkabine / Single cab
-DC - Doppelkabine / Double cab
-Verifiziert Darstellung
+ Front master cylinder 0 11mm
+Floating brake disc front 300mm
+ABS modulator Bosch GMP
+Brake disc rear 240mm
+Wheel speed sensor WSS rear
+Rear master cylinder 13mm
+Brake fluid reservoir
+Front brake caliper
+Wheel speed sensor WSS front
+Rear brake caliper
+ABS modulator Bosch GMP
+Floating brake disc front 320mm
+Brake disc rear 240mm
+Wheel speed sensor WSS rear
+Rear master cylinder 13mm
+Brake fluid reservoir
+Front brake caliper
+Wheel speed sensor WSS front

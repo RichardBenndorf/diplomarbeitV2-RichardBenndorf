@@ -1,118 +1,201 @@
-Doc. No.: ZD4 / SP / 92 / 61 / rev.00
+|<table>
+<thead>
+<tr>
+<th>
+1.
+</th>
+<th>
+Vehicle:
+</th>
+<th>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+1.1.
+</td>
+<td>
+Manufacturer:
+</td>
+<td>
+Aprilia S.p.A.
+</td>
+</tr>
+<tr>
+<td>
+1.2.
+</td>
+<td>
+Type
+</td>
+<td>
+SP
+</td>
+</tr>
+<tr>
+<td></td>
+<td>
+Engine family:
+</td>
+<td>
+M
+</td>
+</tr>
+<tr>
+<td>
+1.3.
+</td>
+<td>
+Vehicle Identification Number:
+</td>
+<td>
+ZD4SP00002S000001
+</td>
+</tr>
+<tr>
+<td>
+1.4.
+</td>
+<td>
+Test weight together with rider:
+</td>
+<td>
+237 kg
+</td>
+</tr>
+<tr>
+<td>
+2.
+</td>
+<td>
+Engine:
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+2.1.
+</td>
+<td>
+Manufacturer
+</td>
+<td>
+Piaggio &amp; C. S.p.A.
+</td>
+</tr>
+<tr>
+<td>
+2.2.
+</td>
+<td>
+Type:
+</td>
+<td>
+Piaggio M245M
+</td>
+</tr>
+<tr>
+<td>
+2.3.
+</td>
+<td>
+Sort:
+</td>
+<td>
+Spark ignition engine, four stroke
+</td>
+</tr>
+<tr>
+<td>
+2.4.
+</td>
+<td>
+Power:
+</td>
+<td>
+7,0 kW at 7250 min ^1^
+</td>
+</tr>
+<tr>
+<td>
+2.5.
+</td>
+<td>
+Maximum vehicle speed:
+</td>
+<td>
+85 km/h
+</td>
+</tr>
+<tr>
+<td>
+3.
+</td>
+<td>
+Gearbox:
+</td>
+<td></td>
+</tr>
+<tr>
+<td>
+3.1.
+</td>
+<td>
+Sort:
+</td>
+<td>
+automatic
+</td>
+</tr>
+<tr>
+<td>
+3.2.
+</td>
+<td>
+Number of gears:
+</td>
+<td>
+not applicable
+</td>
+</tr>
+<tr>
+<td>
+3.3.
+</td>
+<td>
+Final drive ratio:
+</td>
+<td>
+1 : 10,379 ( 15/46 x 13/44 )
+</td>
+</tr>
+<tr>
+<td>
+4.
+</td>
+<td>
+Equipment:
+</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-92/61/EC - 2000/7/EC DIRECTIVE / DIRETTIVA 92/61/CE - 2000/7/CE
-==============================================================
-
-3.2.4.1.1. Make (s): See attached drawing No. C7.0 and following if applicable
-
-&gt; Marca (s):
+| 4.1. | Exhaust System | Reflection-Absorption; exhaust pipe marking Aprilia
 &gt;
-&gt; Type (s):
-&gt;
-&gt; See item 3.2.4.1.1.
-&gt;
-&gt; Tipo (i):
-&gt;
-&gt; Number fitted:
-&gt;
-&gt; 1
-&gt;
-&gt; Numero:
-&gt;
-&gt; Settings
-&gt;
-&gt; Regolazioni
-&gt;
-&gt; 3.2.4.1.4. i.e. of
-&gt;
-&gt; vale a dire
-&gt;
-&gt; Diffusers:
-&gt;
-&gt; See item 3.2.4.1.1.
-&gt;
-&gt; Diffusort:
-&gt;
-&gt; Level in float chamber:
-&gt;
-&gt; See item 3.2.4.1.1.
-&gt;
-&gt; 3.2.4.1.4.2. Livello in veschetta:
-&gt;
-&gt; Mass of float:
-&gt;
-&gt; See item 3.2.4.1.1.
-&gt;
-&gt; Massa del galleggiante:
-&gt;
-&gt; Float needle:
-&gt;
-&gt; See item 3.2.4.1.1.
-&gt;
-&gt; 3.2.4.1.4.4. Ago del galleggiante: or oppure
-&gt;
-&gt; Fuel curve as a function of the air flow and setting required in order to maintain that curve
-&gt;
-&gt; 3.2.4.1.4.5. Curva del carburante in funzione della portata d'aria e regolazioni necessarie per rispettare la curva
-&gt;
-&gt; Cold - starting system:
-&gt;
-&gt; Automatic
-&gt;
-&gt; Dispositivo di avviamento a freddo :
-&gt;
-&gt; Operating principle (s):
-&gt;
-&gt; Enrichment of fuel
-&gt;
-&gt; Principio di funzionamento :
-&gt;
-&gt; By fuel injection (only in the case of compression ignition):
-&gt;
-&gt; Not applicable
-&gt;
-&gt; A iniezione (soltanto motori ad accensione spontanea):
-&gt;
-&gt; From item 3.2.4.2.1. to 3.2.4.2.8.3 Not applicable Dal punto 3.2.4.2.1. al 3.2.4.2.8.3 Non ricorre
-&gt;
-&gt; By fuel injection (only in the case of spark-ignition):
-&gt;
-&gt; Not applicable
-&gt;
-&gt; A iniezione (soltanto motori ad accensione comandata):
-&gt;
-&gt; From item 3.2.4.3.1. to 3.2.4.3.5.2. Not applicable Dal punto 3.2.4.3.1. al 3.2.4.3.5.2. Non ricorre
-&gt;
-&gt; 3.2.4.4 Fuel pump :
-&gt;
-&gt; Yes
-&gt;
-&gt; Pompa di alimentazione:
-&gt;
-&gt; 3.2.5. Electrical Equipment
-&gt;
-&gt; Impianto Elettrico
-&gt;
-&gt; Nominal voltage :
-&gt;
-&gt; 12 V, negative earth Voltaggio nominale:
-&gt;
-&gt; Generator
-&gt;
-&gt; Generatore
-&gt;
-&gt; Type:
-&gt;
-&gt; Magneto flywheel
-&gt;
-&gt; Tipo:
-&gt;
-&gt; Nominal power:
-&gt;
-&gt; 180 W
-&gt;
-&gt; Potenza nominale:
-&gt;
-&gt; Ignition
-&gt;
-&gt; Accensione
+&gt; B-1150 e 1 1; silencer Aprilia SM 26 e 1 1; see enclosures information document |
+<p>
+| 4.2. | Intake System: | Air filter box: Foam substance dry air filter box, marking AM 11 e3; see enclosures information document |
+<br/>
+| 4.3. | Tire dimension: | front: 110/90-13 56P |
+<br/>
+| | | rear: 130/70-13 63P |
+<br/>
+| 5. |
+<em>
+Measurements:
+</em>
+| |
+</p>

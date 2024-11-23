@@ -1,104 +1,90 @@
-Doc. No.: ZD4 / SP / 92 / 61 / rev.00
+Test Conditions
 
-92/61/EC - 2000/7/EC DIRECTIVE / DIRETTIVA 92/61/CE - 2000/7/CE
-==============================================================
+Engine type Piaggio M245M, engine family H
 
-&gt; List of all devices (mentioning the number, make(s), model, component type-approval mark(s), the maximum intensity of the main-beam headlamps, colour the corresponding tell-tale):
+&gt; *Pressures measured at maximum power*
+
+<table>
+<thead>
+<tr>
+<th>
+Barometric:
+</th>
+<th>
+100,8 kPa
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+Steam pressure:
+</td>
+<td>
+2,447 kPa
+</td>
+</tr>
+<tr>
+<td>
+Exhaust:
+</td>
+<td>
+1)
+</td>
+</tr>
+</tbody>
+</table>
+
+| Inlet pressure drop:
 &gt;
-&gt; Tabella di tutti i dispositivi (numera, marca o marche, modello, marchio o marchi di approvazione, intensità massima dei proiettori abbaglianti, colore, spie corrispondente):
+&gt; *Temperatures measured at maximum power* | 1) |
+| of the intake air:
 &gt;
-&gt; See attached drawing No. A14.0 and following if applicable
+&gt; *of the cooling liquid* | 307 K |
+<p>
+| at the engine cooling liquid outlet: | 362 K |
+<br/>
+| at the reference point in the case of air cooling: | K |
+</p>
+
+| oil:
 &gt;
-&gt; Diagram showing the location of the lighting and light-signaling devices:
+&gt; *of the fuel* | 368 K |
+<p>
+| at the carburator/injection pump intake: | 303 K |
+<br/>
+| in the fuel-consumption measuring device: | 303 K |
+</p>
+
+| of the exhaust, measured at the point adjacent to the outlet flange(s) of the exhaust manifold(s):
 &gt;
-&gt; Schema della posizione dei dispositivi di illuminazione e di segnalazione luminosa:
+&gt; *Characteristics of the dynamometer* | 959 K |
+<p>
+| Make: | A.P.I. Com S.R.L. |
+</p>
+
+| Type:
 &gt;
-&gt; See attached drawing No. A14.0 and following if applicable
+&gt; *Fuel*
 &gt;
-&gt; Hazard warning lamps (where fitted):
+&gt; For spark-ignition engines operating on liquid fuel: | FR 150 |
+<p>
+| Make: | ESSO |
+<br/>
+| Specification: | unleaded petrol |
+</p>
+
+| *Anti-knock additive (lead, etc.)* Type:
 &gt;
-&gt; Not applicable
+&gt; Content in mg/litre:
 &gt;
-&gt; Dispositivo di segnalazione di emergenza (se esiste):
-&gt;
-&gt; Additional requirements relating to special vehicle:
-&gt;
-&gt; Not applicable
-&gt;
-&gt; Dispositivi supplementari per velcoli speciali:
-&gt;
-&gt; Equipment
-&gt;
-&gt; Equipaggiamenti
-&gt;
-&gt; Coupling devices (where applicable)
-&gt;
-&gt; 9.1.
-&gt;
-&gt; Dispositivi di traino (se esistono)
-&gt;
-&gt; Type(s): hook/ring/other:
-&gt;
-&gt; Not applicable
-&gt;
-&gt; Tipo o tipi: gancio/bocchione/aitri:
-&gt;
-&gt; Photographs and/or drawing showing the position and the construction of the coupling devices:
-&gt;
-&gt; Fotografie e/o disegni che illustrano la posizione e la costruzione del dispositivo/i di traino:
-&gt;
-&gt; Not applicable
-&gt;
-&gt; Arrangement and identification of controls, tell-tales and indicators
-&gt;
-&gt; Sistemazione ed identificazione del comandi, spie ed indicatori
-&gt;
-&gt; Photographs and/or drawings of the arrangement of the symbols, controls, tell-tales and indicators:
-&gt;
-&gt; Fotografie e/o disegni delle disposizione dei simboli, dei comandi, delle spie e degli indicatori:
-&gt;
-&gt; See attached drawing No. A6.0 and following if applicable
-&gt;
-&gt; Statutory inscriptions
-&gt;
-&gt; Iscrizioni regolamentari
-&gt;
-&gt; Photographs and/or drawings showing the location of the statutory inscriptions and the chassis number:
-&gt;
-&gt; Fotografie e/o disegni che illustrano la posizione delle iscrizioni regolamentari e dei numero dei telaio:
-&gt;
-&gt; See attached drawings No. A2.0 , A3.0 and following if applicable
-&gt;
-&gt; Photographs and/or drawings showing the official part of the inscriptions (with statement of dimensions):
-&gt;
-&gt; Fotografie e/o disegni che illustrano la parte ufficiale delle iscrizioni (indicazione delle dimensioni):
-&gt;
-&gt; See attached drawing No. D1.0 and following if applicable
-&gt;
-&gt; Photographs and/or drawings of the chassis number (with statement of dimensions):
-&gt;
-&gt; Fotografie e/o disegni dei numero di telaio (indicazione delle dimensioni):
-&gt;
-&gt; See attached drawing No. D1.0 and following if applicable
-&gt;
-&gt; Device(s) to protect against unauthorized use
-&gt;
-&gt; Dispositivo(i) di protezione contro un uso non autorizzato
-&gt;
-&gt; Type of device(s):
-&gt;
-&gt; Steering lock type 2 (see 1999/23/EC, attached 1, point 2.4.2) Tipo di dispositivo(i):
-&gt;
-&gt; Steering lock with key operating at the same time on the Summary description of device(s) used: steering and on the engine switch (on/off) Descrizione sommarie del dispositivo utilizzato: See attached drawings No. A7.0 and following if applicable
-&gt;
-&gt; Audible warning device(s)
-&gt;
-&gt; A v v i s a t o r e (i) acustico (i)
-&gt;
-&gt; Summary description of device(s) used and their purpose:
-&gt;
-&gt; Descrizione sommarie del (dei) dispositivo(i) utilizzato(i) e destinazione:
-&gt;
-&gt; Electrical system
-&gt;
-&gt; See attached drawing No. A15
+&gt; *Octane number:* | not applicable |
+<p>
+| RON: | 95 |
+<br/>
+| MON: | 85 |
+<br/>
+| Relative density: | 0,756 at 15°C |
+<br/>
+| Calorific value: | 43,5 MJ/kg |
+</p>

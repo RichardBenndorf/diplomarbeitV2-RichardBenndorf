@@ -1,17 +1,10 @@
- Motor control module
-Aftertreatment control module
-Dosing valve
-Shutoff valve
-Diesel injection unit
-Diesel metering unit
-Cooling water supply line
-Cooling water return line
-Exhaust aftertreatment unit
-DOC
-SCR catalyst
-Exhaust gas from engine
-Exhaust gas topipe
-Diesel supply line from engine
-Temperatures rise during operation
-Temperatures decrease during operation
-Converting NOx to less harmful emissions
+ Coolant outlet
+Coolant inlet
+AdBlue outlet
+AdBlue inlet
+Dosing unit
+ACM-Box
+LU Vorsorgeeinheit 12/24 V
+LU AdBlue Supply Unit 12/24 V
+Durchfluss 2500 ml/min bei 1 bar
+Flow Rate at 2500 rpm Toward 10bar

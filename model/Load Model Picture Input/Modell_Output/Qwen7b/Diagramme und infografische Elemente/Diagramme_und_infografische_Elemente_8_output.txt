@@ -1,0 +1,28 @@
+Sure, here is the text from the document:
+
+```
+front master cylinder Ø 11mm
+ABS modulator Bosch 0MP
+brake disk rear Ø 240mm
+wheel speed sensor (WSS) rear
+rear master cylinder ø 13mm
+braking fluid reservoir
+rear brake calliper
+front master cyliner Ø 300mm
+
+front brake callipier
+front brake disk front Ø 80mm 
+ABS modulatior Bosch 9MP
+wheel sensor (WS) front
+brak disk rear 200m
+rear brak calliper
+
+front master clyliner Ø13m
+brakes fluid reservoir 
+rear master cilynder Ø 9mm
+rear wheel speed sensor
+rear break calliper 
+front master cilinder Ø 7mm
+front wheel speed senser
+front break callipir
+```

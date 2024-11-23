@@ -1,0 +1,25 @@
+Sure, here is the text from the document exactly as is:
+
+```
+4
+
+Schlussbescheinigung / Certification
+
+Der unter Nr. 0.5 angegebene Beschreibungsbogen und der darin beschriebene Typ - entspricht - der o. a. Prüfspezifikation.
+The information document as mentioned under No. 5 and the type described therein are - in compliance - with the test specification mentioned above.
+
+Die verwendeten Prüfmuster waren im Hinblick auf das erforderliche Leistungsniveau für den zu genehmigenden Typ repräsentativ (siehe 1.1).
+With regard to the required level of performance to be achieved, the tested items were representative for the type to be approved (see 1,1).
+
+Dieser Prüfbericht umfasst Blatt 1 bis 9 sowie die Anlagen.
+This Test Report comprises pages 1 to 9 and attachments.
+
+Dieser Testbericht darf nur vom Auftraggeber und nur in vollem Wortlaut vervielfältigt und weitergegeben werden. Eine auszugsweise Vervielfaltigung und Veröffentlichung des Prüferichtes ist nur nach schriftlicher Genehmigung des Prufinstituts zulässig.
+The Test Report shall be reproduced and published in full only and by the client only. It shall be partially with the written permission of the Test Laboratory only.
+
+PRÜFLABORATORIUM / TEST LABORATORY
+benannt von der Benennungsstelle des Kraftfahrt-Bundesamtes,
+Bundesrepublik Deutschland
+designated by designation department of Kraftfahr-Bundesanamt,
+Federal Republic of Germany
+```

@@ -1,0 +1,1 @@
+Kuehlwasser-Ausgang Coolant Outlet Kuehlwaner-Eingang Coolant Inlet AdBlue Ausgang AdBlue Outlet AdBlue Eingang AdBlue Inlet ACM-Box Dosiereinheit Dosing Unit LU Versorgungseinheit 12/24 V LU Supply Unit 1 2/4 V Durchfluß bei 2500 U/min gegen 10bar Flow Rate At 2 50rpm Toward 1obar
