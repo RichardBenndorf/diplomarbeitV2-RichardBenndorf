@@ -1,3 +1,0 @@
-\begin{tabular}{ll}
-\hline
-\end{tabular}

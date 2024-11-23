@@ -1,0 +1,10 @@
+Modell Ladezeit, Durchlaufzeit (Sekunden)
+Modell Ladezeit, 1.57 Sekunden
+schreibmaschinenschrift_1.png, 12.74
+schreibmaschinenschrift_4.png, 1.80
+schreibmaschinenschrift_7.png, 1.41
+schreibmaschinenschrift_2.png, 8.49
+schreibmaschinenschrift_6.png, 19.49
+schreibmaschinenschrift_8.png, 7.89
+schreibmaschinenschrift_3.png, 7.75
+schreibmaschinenschrift_5.png, 4.30

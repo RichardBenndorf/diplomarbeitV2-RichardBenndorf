@@ -1,0 +1,74 @@
+Anlage 2 zum EWG-Genehmigungsbogen Nr. e1*2007/46*0356*19
+Enclosure 2 to EEC approval certificate No.
+Prüfergebnisse (VO (EU) 2018/1832, Anhang VIII)
+Test results (VO (EU) 2018/1832, Annex VIII)
+4
+Ergebnisse der Prüftungen von Fahrzeugen, die mit Ökoinnovationen ausgestattet sind
+01. Ökoinnovationen (interne Bezeichnungen)
+02. Gesamteinsparung von CO2 -Emissionen durch NEFZ (g/km)
+03. Gesamteinsparung von CO2 -Emissionen durch WLTP (g/km)
+04. Allgemeiner Code der Ökoinnovation(en)
+Results of the tests for vehicles fitted with eco-innovation(s)
+01. Eco-innovations (internal identifiers)
+02. Total CO2 emissions savings on NEDC (g/km)
+03. Total CO2 emissions savings on WLTP (g/km)
+04. General code of the eco-innovation(s)
+Variante/Version / Variant/Version
+01.
+02.
+03.
+04.
+- -
+- -
+- -
+- -
+- -
+- -
+- -
+- -
+- -
+- -
+- - -
+- -
+- -
+- -
+- -
+- -
+- -
+- -
+- -
+- -
+Zyklus NEFZ: Gemäß der UNECE-Regelung Nr. 83 (falls zutreffend)
+Zyklus WLTP: Nach Anhang XXI der Verordnung 1151/2017 (falls zutreffend)
+0. Ökoinnovationen (interne Bezeichnungen)
+1. CO2 -Emissionsmenge des Vergleichsfahrzeugs (g/km)
+2. CO2 -Emissionsmenge des Ökoinnovationsfahrzeugs (g/km)
+3. CO2 -Emissionsmenge des Vergleichsfahrzeugs im Prüfzyklus Typ 1 (g/km)
+4. CO2 -Emissionsmenge des Ökoinnovationsfahrzeugs im Prüfzyklus Typ 1 (g/km)
+5. Nutzungsfaktor (NF), d. h. Anteil der Zeit, während der die Technologie unter normalen Betriebsbedingungen genutzt wird
+6. Einsparung von CO2 - Emissionen ((1 - 2) – (3 – 4)) * 5
+7. Beschluss zur Genehmigung der Ökoinnovation
+8. Code der Ökoinnovation
+9. Typ 1/l Zyklus (NEFZ/WLTP)
+NEDC: According to Regulation 83 (if applicable)
+WLTP: According to Annex XXI of Regulation (EU) 2017/1151 (if applicable)
+0. Eco-innovation (internal identifier)
+1. CO2 emissions of the baseline vehicle (g/km)
+2. CO2 emissions of the eco-innovation vehicle (g/km)
+3. CO2 emissions of the baseline vehicle under Type 1 test-cycle (g/km)
+4. CO2 emissions of the eco-innovation vehicle under Type 1 test-cycle (g/km)
+5. Usage factor (UF) i.e. temporal share of technology usage in normal operation conditions
+6. CO2 emissions savings (1 – 2) – (3 – 4)) * 5
+7. Decision approving the eco-innovation
+8. Code of the eco-innovation
+9. Type 1/l cycle (NEDC/WLTP)
+0.
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.

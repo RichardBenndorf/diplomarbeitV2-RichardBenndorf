@@ -1,0 +1,10 @@
+Modell Ladezeit, Durchlaufzeit (Sekunden)
+Modell Ladezeit, 1.57 Sekunden
+Diagramme_und_infografische_Elemente_5.png, 2.06
+Diagramme_und_infografische_Elemente_7.png, 2.13
+Diagramme_und_infografische_Elemente_8.png, 2.79
+Diagramme_und_infografische_Elemente_1.png, 3.37
+Diagramme_und_infografische_Elemente_3.png, 0.57
+Diagramme_und_infografische_Elemente_4.png, 0.51
+Diagramme_und_infografische_Elemente_2.png, 2.48
+Diagramme_und_infografische_Elemente_6.png, 0.68

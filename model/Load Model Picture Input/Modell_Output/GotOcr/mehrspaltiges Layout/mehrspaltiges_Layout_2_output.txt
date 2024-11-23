@@ -1,0 +1,51 @@
+Test Conditions
+Engine type Plaggio M245M, engine family H
+Pressures measured at maximum power
+Barometric:
+Steam pressure:
+Exhaust:
+Inlet pressure drop:
+of the intake air:
+of the cooling liquid
+at the engine cooling liquid outlet:
+at the reference point in the case of air cooling:
+oil:
+of the fuel
+at the carburator/injection pump intake:
+in the fuel-consumption measuring device:
+of the exhaust, measured at the point adjacent to
+the outlet flange(s) of the exhaust manifold(s):
+Characteristics of the dynamometer
+Make:
+Type:
+Fuel
+Make:
+Specification:
+Anti-knock additive (lead, etc.)
+Type:
+Content in mg/litre:
+Octane number:
+RON:
+MON:
+Relative density:
+Calorific value:
+100,8 kPa
+2,447 kPa
+1)
+1)
+307 K
+362 K
+K
+368 K
+303 K
+303 K
+959 K
+A.P.I. Com S.R.L.
+FR 150
+ESSO
+unleaded petrol
+not applicable
+95
+85
+0,756 at 15°C
+43,5 MJ/kg

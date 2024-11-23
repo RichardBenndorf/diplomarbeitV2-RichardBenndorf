@@ -1,0 +1,6 @@
+Modell Ladezeit, Durchlaufzeit (Sekunden)
+Modell Ladezeit, 1.56 Sekunden
+Explosionszeichnung_6.png, 86.02
+Explosionszeichnung_7.png, 86.53
+Explosionszeichnung_1.png, 12.43
+Explosionszeichnung_5.png, 12.67

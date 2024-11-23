@@ -1,0 +1,10 @@
+Modell Ladezeit, Durchlaufzeit (Sekunden)
+Modell Ladezeit, 1.57 Sekunden
+Kopf_Fußzeilen_2.png, 0.42
+Kopf_Fußzeilen_4.png, 2.84
+Kopf_Fußzeilen_5.png, 2.72
+Kopf_Fußzeilen_1.png, 1.46
+Kopf_Fußzeilen_6.png, 2.24
+Kopf_Fußzeilen_8.png, 1.21
+Kopf_Fußzeilen_7.png, 0.48
+Kopf_Fußzeilen_3.png, 2.40

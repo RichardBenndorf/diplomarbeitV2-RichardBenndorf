@@ -1,0 +1,10 @@
+Modell Ladezeit, Durchlaufzeit (Sekunden)
+Modell Ladezeit, 1.56 Sekunden
+uneinheitliches_Layout_5.png, 63.72
+uneinheitliches_Layout_6.png, 16.17
+uneinheitliches_Layout_1.png, 8.21
+uneinheitliches_Layout_8.png, 3.01
+uneinheitliches_Layout_3.png, 6.90
+uneinheitliches_Layout_4.png, 14.77
+uneinheitliches_Layout_2.png, 4.84
+uneinheitliches_Layout_7.png, 6.53

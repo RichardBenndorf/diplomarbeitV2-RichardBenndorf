@@ -1,0 +1,96 @@
+Nr. 
+No. 
+- 
+LE10-75288 
+LE11-75154 
+LE11-75175 
+LE11-75260 
+LE11-75261 
+LE11-75272 [K7A] 
+LE11-75273 [K7I] 
+LE11-75274 [K7A] 
+LE11-75275 [K7B] 
+LE11-75276 [K7C] 
+LE11-75277 [K7D] 
+LE11-75278 [K7Q] 
+LE12-75010 [K7E] 
+LE12-75014 [K7N] 
+LE12-75015 [K7E] 
+LE12-75029 
+T0557 
+T0558 
+T0567 
+T0568 
+T0579 
+Benennung 
+Designation 
+List of approval 
+Lage des Schildes und der FIN (983-964) 
+Location of the plate and the VIN (963-964) 
+Dauerbremse SFTP nach ADR 
+Endurance brake SFTP pursuant ADR 
+Vorschaldaempfer SV 6002 (983-964) 
+Front silencer SV 6002 (963-964) 
+Fabrikschild (983-964) 
+Manufacturers Statutory Plate (963-964) 
+FIN Beschreibung (963-964) 
+VIN discription (963-964) 
+AO Auspuff Actions 4 K7A OM936 
+AO exhaust Actions 4 K7A OM936 
+AO Auspuff Actions 4 K7I OM936 
+AO exhaust Actions 4 K7I OM936 
+AO Auspuff Actions 4 K7A OM470, OM471, OM 473 
+AO exhaust Actions 4 K7A OM470, OM471, OM 49 
+AO Auspuff Actions 4 K7B OM470, OM471, OM 473 
+AO exhaust Actions \(4 \mathrm{~K} 7 \mathrm{~B}\) OM470, OM471, OM 473 
+AO Auspuff Actions 4 K7C OM470, OM471, OM 473 
+AO exhaust Actions \(\mathbf{K} 7 \mathrm{C}\) OM470, OM471, OM 473 
+AO Assupff Actions 4 K7D OM470, OM471, OM 473 
+AO exhaust Actions -4 K7D OM470, OM471, OM 473 08.05.2012 
+AO exhaust Actions 4 K7Q OM470, OM471, OM 473 
+AO exhaust Actions-4 K7Q OM470, OM471, OM 473 08.11.2011 
+AO exhaust Actions 4 K7Q OM470, OM471, 043 
+AO exhaust Actions 4 K7E OM470, OM471, OM 473 20.04.2012 
+AO exhaust Actions 4 K7E OM470, OM471, 043 20.04.2012 
+AO Auspuff Actions 4 K7N OM470, OM471, OM 473 20.40.2012 
+AO exhaust Actions 4 K7N OM470, OM471, OM 4 473 
+AO Auspuff Actions 4 K7E OM936 
+AO exhaust Actions 4 K7E OM936 
+Zeichnung Baureihe 963-964 
+Drawing Model series 963-964 
+Dosiereinheit AdBlue DE 2001 
+Dosing Unit AdBlue 
+Versorgungseinheit AdBlue 
+Supply Unit AdBlue 
+HC Dosiereinheit DE 2002 
+HC Metering Unit 
+Nox-Sensor 
+NOx-sensor 
+Funktionsschema Abgasgüte OM 471 EURO 5 
+Function diagram emission performance 
+Datum 
+Date 
+19.07.2013 
+01.07.2013 
+15.04.2013 
+11.04.2011 
+19.06.2013 
+07.02.2012 
+08.05.2012 
+08.05.2012 
+08:05.2012 
+08.05.2012 
+18.05.2012 
+03.03.2011 
+03.03.2011 
+08.05.2012 
+08.11.2011 
+20.04.2012 
+20.04.2012 
+24.04.2012 
+23.01.2012 
+08.03.2012 
+08.03.2012 
+03.03.2011 
+18.05.2012 
+03.03.2101

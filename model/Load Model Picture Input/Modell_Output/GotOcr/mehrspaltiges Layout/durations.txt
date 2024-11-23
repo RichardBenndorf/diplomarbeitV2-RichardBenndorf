@@ -1,0 +1,10 @@
+Modell Ladezeit, Durchlaufzeit (Sekunden)
+Modell Ladezeit, 1.54 Sekunden
+mehrspaltiges_Layout_2.png, 5.29
+mehrspaltiges_Layout_8.png, 7.77
+mehrspaltiges_Layout_6.png, 6.44
+mehrspaltiges_Layout_4.png, 11.52
+mehrspaltiges_Layout_1.png, 6.22
+mehrspaltiges_Layout_5.png, 11.77
+mehrspaltiges_Layout_3.png, 14.27
+mehrspaltiges_Layout_7.png, 36.32

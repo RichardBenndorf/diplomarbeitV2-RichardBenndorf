@@ -1,0 +1,20 @@
+3.2.1. PF types; 
+3.2.2. number and elements of PF; 
+3.2.3. size of PF (volume of filter element +/- 10%); 
+3.2.4. operation principle of PF (partial / wall-flow / other); 
+3.2.5. active surface of PF; 
+3.3. propulsion (not) equipped with periodically regenerating 
+system; 
+3.3.1. periodically regenerating system type; 
+3.3.2. operation principle of periodically regenerating system; 
+3.4. propulsion (not) equipped with selective catalytic converter 
+reduction (SCR) system; 
+3.4.1. SCR system type; 
+3.4.2. operation principle of periodically regenerating system; 
+3.5. propulsion (not) equipped with lean NO x trap /absorber; 
+3.5.1. lean NO x trap / absorber type; 
+3.5.2. operation principle of lean NO x trap / absorber; 
+3.6. propulsion (not) equipped with a cold-start device or starting 
+aid device(s); 
+3.6.1. cold-start or starting aid device type; 
+3.6.2. operation principle of cold start or starting aid device(s);

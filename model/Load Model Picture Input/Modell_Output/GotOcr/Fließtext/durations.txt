@@ -1,0 +1,10 @@
+Modell Ladezeit, Durchlaufzeit (Sekunden)
+Modell Ladezeit, 1.54 Sekunden
+Fließtext_2.png, 12.09
+Fließtext_1.png, 8.68
+Fließtext_6.png, 7.60
+Fließtext_7.png, 8.60
+Fließtext_3.png, 8.29
+Fließtext_5.png, 14.46
+Fließtext_8.png, 21.45
+Fließtext_4.png, 11.63

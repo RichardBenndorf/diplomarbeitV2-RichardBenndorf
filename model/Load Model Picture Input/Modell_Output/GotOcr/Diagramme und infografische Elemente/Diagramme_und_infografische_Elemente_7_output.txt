@@ -1,0 +1,1 @@
+Kuehlwasser-Ausgang Kuehlwasser-Eingang CoolantOutlet CoolantInlet AdBlueAusgang AdBlueEingang AdBlueOutlet AdBlueInlet Dosiereinheit ACM-Box DosingUnit LUVersorgungseinheit12/24V LUSupplyUnit12/24V Durchflu8bei2500U/mingegen10bar FlowRateAt2500rpmToward10bar
