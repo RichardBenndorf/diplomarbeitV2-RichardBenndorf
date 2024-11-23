@@ -1,4 +1,4 @@
-Prüfbericht / Test report
+**Prüfbericht / Test report**
 
 Übereinstimmungs- und Anbauprüfungen gemäß Artikel 44
 Compliance and mounting tests referred to in Article 45
@@ -8,7 +8,7 @@ zuletzt geändert durch / last amended by
 Genehmigungsgegenstand / Subject of approval
 EU-Fahrzeug-Einzelgenehmigung / EU individual vehicle approval
 
-Prüfgrundlage / Test basis
+Prüfungslage / Test basis
 Anhang II Teil I Anlage 2 / Appendix 2 to Part I of Annex II
 
 Name und Anschrift des Auftraggebers

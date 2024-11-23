@@ -1,0 +1,54 @@
+Sure, here is the text from the image:
+
+---
+
+**Test Conditions**
+
+**Engine type:** Piaggio M245M, engine family H
+
+**Pressures measured at maximum power**
+
+- Barometric: 100.8 kPa
+- Steam pressure: 2,447 kPa
+
+**Temperatures measured at minimum power**
+
+**of the intake air:** 307 K
+
+**of cooling liquid**
+
+- at the engine cooling liquid outlet: 362 K
+- at reference point in case of air cooling: — K
+  - oil: 68 K
+
+- at carburetor/injection pump intake: 53 K
+    - in fuel consumption measuring device: 95 K
+        - of exhaust, measured at point adjacent to outlet flange(s) of exhaust manifold(s): 999 K
+
+*Characteristics of the dynamometer*
+
+**Make:** A.P.I. Com S.R.L.
+**Type:** FR 150
+
+**Fuel**
+
+For spark-ignition engines operating on liquid fuel:
+
+**Make:**
+**Specification:**
+unleaded petrol
+
+**Anti-knock additive (lead, etc.)**
+not applicable
+
+**Type:**
+Content in mg/litre:
+
+**Octane number:**
+- RON: 85
+- MON: 756 at 13°C
+- Calorific value: 43.5 MJ/kg
+
+---
+
+This text is formatted to match the multi-columns layout of the original document.

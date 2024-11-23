@@ -1,0 +1,23 @@
+Sure, here is the content of the document with the multi-columns layout correctly displayed:
+
+| In the event of failure of a direction indicator, the other must continue to flash or remain lit. | Yes / No |
+| Visibility of red lights towards the front | Yes/No |
+|  | Visibility of white lights towards rear | Yes | No |
+|| The front lights move in line with the steering angle | Yes| No |
+||
+| Vertical inclination of the dipped beam headlamp | Pass / Fail |
+| Minimum geometric visibility angles | Vertical | Horizontal | Pass/Fail |
+| Main-beam headlamp(s) | Up/Down: 5 | Left/Right: 15 | Pass/ Fail |
+|| Dipped-beam | Up: 45 | Down: 30 | Pass | Fail |
+|
+| Front position lamp(s) Up/ Down: | 10 | Left /Right: | Pass| Fail |
+||
+|| DIRECTION INDICATOR LAMPS, Front Up/ | 80 | Outward: 20 |  | Pass |
+|| Down:15 Inward: | | 25 |  |
+|| Rear position lamp (s) Up / Down: Up: | Down 1 | 40 | Inward 2 | Pass Fail |
+ ||
+|| DIPPEd-beam Headlamp(s)| Up:10 Down:5 | | PassFail |
+|| STOP LAMP(s)Up/Down 1 5 Left/ Right 4 5 Pass Fail ||
+|| Rear retro-reflector Up/ 1 Down:30 Pass Fail | Pass FAIL |
+|| Side retro-reflektor Up:35 Down:20 Pass FAIL | PassFAIL |
+|| not applicable |

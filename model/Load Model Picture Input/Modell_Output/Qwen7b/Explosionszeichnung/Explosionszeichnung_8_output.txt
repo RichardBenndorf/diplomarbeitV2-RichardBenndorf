@@ -1,0 +1,37 @@
+Sure, here is the text from the document:
+
+```
+1 Traeger, Stossfaenger Bracket bumper Stahl/ steel 2,75
+2 Schaumteil Foam part PP Schaum/foam 30g/l Gewicht: 133 g
+3 Halteteil Retaining part PP-GF30 --
+4 Schliessteil Stossf. End plate bumper PP-Gf30
+5 Schaumtei1 Foam part EPP Schaum foam 60g/1 Gewicht 205 g
+6 Frontspoiler Spoiler, front PP+EPDM-TD12 WD01/WD14 2.7
+7 Lueftungsgitter Mitte Ventilation grille, center PP+ EPDM-TDO 2 7
+8 Abdeckkappe, Abschleppose Cap, towing eye PP+ EPM-TD 2
+9 Blende mit/ohne NSW Trim, with/without front fog lamp PP+EPM-TDO
+10 Ww. ZSB Nebelscheinwerfer Opt. ASY front fog lam --
+11 Abdeckung, vorn, lackiert Cover front, painted PP+PEPD+(PE)-TD10
+12 Fuehrung seilt. Guide, side PP --
+13 Ww Radabdeckung Opt. Wheel cover PP+PD-TDO --
+14 Blende KSG Trim radiator grille ABS+PC --
+15 ZSB Firmenzeichen ASY company logo ABS, PMMA
+16 Chromleiste vertikal Chromed molding, vertical ABS --
+17 Chromleisten horizontal Chromed moldings, horizontal ABS --
+20 Fuehrrungsprofil Guide profil PP-TD20 --
+21 Abdekkappe, vorm, genarbt Cover, front, grained PP+PDM --
+22 Ww Chromleisten horizontal Opt. Chromed molder, horizontal 3,0
+23 Wv. KSG Opt. Radiator grille ABS 25
+19 Traegerteil Carrier ASA --
+24 --
+25 --
+26 --
+27 --
+28 --
+29 --
+30 Rahmen Frame ABS-PMMA 3.0
+31 Traegerteil Carrier ABS 3 0
+42 Klappe Flap ABS- PMMA 29
+```
+
+Please note that the text is exactly as provided in the image, including any formatting and special characters.

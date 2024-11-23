@@ -1,10 +1,13 @@
+Certainly! Here is the text from the image:
+
+```markdown
 1 The Eastgate Office Centre
 Eastgate Road
 Bristol BS6 6XX
 United Kingdom
 
 Switchboard: +44 (0) 117 9515181
-Main Fax: + 44(0)11 9 524103
+Main Fax: + 44 0)11 9 524103
 E-mail: general@vca.gov.uk
 Web Site: www.vca.gov.uk
 
@@ -12,3 +15,4 @@ VEHICLE CERTIFICATION AGENCY
 ECC type approval certificate
 
 of a type of vehicle with regard to Directive 92/61/EEC as last amended by 2000/7/EC
+```

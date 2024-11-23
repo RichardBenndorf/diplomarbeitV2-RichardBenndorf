@@ -1,0 +1,51 @@
+Anlage 2 zum EWG-Genehmigungsbogen Nr. e1*2007/46*0356*19 Enclosure 2 to EEC approval certificate No.
+
+Prüfergebnisse (VO (EU) 2018/1832, Anhang VIII) Test results (VO(EU)  218, Annex VIII)
+
+4 Ergebnisse der Prüfungen von Fahrzeugen, die mit Ökoinnovationen ausgestattet sind
+
+01. Ökoiinnovationen (interne Bezeichnungen)
+02. Gesamteinsparung von CO2 -Emissionen durch NEFZ (g/km)
+03. Gesamt einsparung CO2-Emissionen  durch WLTP (g/ km)
+04. Allgemeiner Code der Ökiiinnovation(en)
+
+Results of the tests for vehicles fitted with eco-innovation(s)
+
+01 . Eco-innovations (internal identifiers)
+0 2. Total CO2 emissions savings on NEDC (g /km)
+0.3. Total C02 emissions saving on WLTP(g/km) 
+04 . General code of the eco-innovati on(s)
+
+Variante/Version / Variant/Version 01 02 03 04
+
+????????????? ??????????????? ???????????
+
+Zyklus NEF Z: Gemäß der UNECE-Regelung Nr. 83 (falls zutreffend)
+Zy klus WLTP: Nach Anhang XXI der Verordnung 1151/20 17 (falls zu treffend)
+
+0. Ö koinnovation en (inter ne Bezeich nungen)
+1. C0  -Emissionsmenge des Vergleichsfahrzeugs (g/kg)
+2. C 0 -Emissi onsmenge des Ök iinnovationsfahrzeu gs (g kg)
+3. C O2 - Emissionsmen ge des Vergle ichsfahr zeugs im Prü fzyklus Typ 1 (g km)
+4. C -E missi ons men ge des Ö k iinnovationsfahrzeug s im Pr üfzykl us Typ  1(g km)
+5. Nutzungsfaktor (NF), d. h. Anteil der Zeit, während der die Technologie unter normalen Betriebsbedingungen genutzt wird
+6. Einsparung vo n C0 - Emissionen ((1 - 2) - (3 - 4)) * 5
+7. Beschluss zur Genehmigung der Ö koiinnovati on
+8. Code der Õ koinnovati o n
+9. Typ  I/ I Zyklus (NEFZ/WLTP)
+
+NEDC: According to Regulation 8 3 (if applicable)
+WLTP: According t o Annex XXI of Regulation (EU ) 2 1 15 1/ 2 (if app licable)
+
+0 . Eco -innovation (internal identifier)
+1 . C0-2 emissions of the baseline vehicle (gkm)
+2 . C 2 emissions o f the eco -innov ation vehicle ( g /km )
+3. CO2 emis sions of the baseli ne vehicle under Type 1 test -cycle (g/m)
+4 . C O 2 em issions of t he eco -inno vation vehicle under Ty pe 1 tes t -cycle(g /km) 
+5. Usage factor (UF) i.e. temporal share of technology usage in normal operation conditions
+6 . C -2 emissions sav ings ((1-2) -(3-4))* 5 
+7. Decision approving the eco- innovation
+8 . Code of the e co -innova ti on
+9 . Type  I / I cycle (NED C/WL TP)
+
+0  0 00 9

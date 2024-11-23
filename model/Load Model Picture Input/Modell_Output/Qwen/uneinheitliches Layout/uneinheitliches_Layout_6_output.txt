@@ -9,46 +9,70 @@ Test results (VO EU 28181/1932 Anhang V)
 4 Ergebnisse der Prüfungen von Fahrzeugen, die mit Ökoinnovationen ausgestattet sind
 
 01. Öko-innovation (interne Bezeichnungen)
+
 02. Gesamtinsparung von CO2-Emissionen durch NEFZ (g/km)
-03. Gesamtsparungvon CO2 -Emissionen dureh WLTP (gkm)
+
+03. Gesamtsparungvon CO2 -Emissionen Durch WLTP (g/kg)
+
 04. Allgemeiner Code der Öko-Innovationen
 
 Results of the tests for vehicles fitted with eco-innovation(s)
 
-01 Eco-innovations (internal identifiers)
-01 Total CO2 emissions savings on NEDC (g/ km)
-05 Total CO 2 emissions saving on WLTP g/ km
-04 General code of the eco-innovaton(s)
+01.Eco-innovations (internal identifiers)
 
-| Variante / Version / Variant / Version |
-|-----------------------------|-------------------|
-| ?????????????????? ?????????? | - - - | - |
-| ??????? ????????? ????????? | - | ???? ???? | - |
+05. Gesammte CO2 Emissionsavings on NEDC (g/ km)
+
+06. Gesamer CO2 emissionsavings on WLTP(g/ km)
+07. Allgeiner Code of the eco-innovatons
+
+Variante/Version / Variant/Version
+
+????????????? ????????????? ?????????? ???? ???? ????????? ?????? ? ? ? ????????? ? ???? ?? ? ? ?? ? ?????? ?????? ?? ???? ??? ? ? ??? ? ??????? ? ?? ? ????? ? ??? ? ????? ?????? ??? ???? ?
 
 Zyklus NEF Z: Gemäß der UNECE-Regelung Nr. 83 (falls zutreffend)
-Zyku WLTP: Nach Anhang XXI der Verordnung 1151/2021 (falls zu treffend)
+
+Zyklos WLTP: Nach Anhang XXI der Verordnung 1151/2021 (falls zu treffend)
 
 0. Ökoinnovationen (interme Bezeichnung)
-1. CO2 Emissionsmenge des Vergleichs fahrzeugs (g/kg)
-2. CO  2 Emissionenmenge der Ökooninnovation fahrzeuges (gkg)
-3. CO Emissionsmengen des Vergleichts fahrrzeuges im Prüflzyklus Typ 1 (g km)
-4. COEmissionsmenenge des Ökoeinnovationsfahrzeuge im Prifzyklusz Typ  1(g km)
+
+1. CO2-Emissionsmenge des Vergleichs fahrzeugs (gkm)
+
+2. CO 2 -Emissionsmengen des Öko-innoviationsfahrzeuges (g km)
+
+3. COZ-Emmissionsmenge der Vergleichsfahrzeug im Prüflzyklus Typ 1 (g/m)
+
+4. CO Z-Emisionsmenge im Prufzyklis Typ 2 (g /km)
+
 5. Nutzungsfaktor (NF), d. h. Anteil der Zeit, während der die Technologie unter normalen Betriebsbedingungen genutzt wird
-6. Einsparung CO2- Emission (1 - 2 - (3 - 4)) * 5
+
+6. Einsparung CO2Emissions ((1 - 2) - (3 - 4)) * 5
+
 7. Beschluss zur Genehmigung der Oko-innovation
+
 8. Code der Okoinnovation
-9. Typ  I/ I Zyklus (NEFZ/WLTP)
+
+9. Typ 3/1 Zyklus (NEFZ/WLTP)
 
 NEDC: According to Regulation 85 (if applicable)
+
 WLTP: According Annex XXI of Regulation (EU 2207111) (if appiliable)
 
 00. Eco-innovation (internal identifier)
-10. COZ emissions of the baseline vehicle (g / km)
-20. Co2 emissions ofthe eco-inovation vehicle ( g / km) 
-30.  CO2 emission of the baselivc vehicle under Type 1 test-cycle (g/m)
-40. C02 emissionsof the eco- innovation vehicle underType 1test-cycle ( g/ m)
+
+10. COz emissions of the baseline vehicle (g/cm)
+
+20. Co2 emissions ofthe eco-inovation vehicle ( g/cm)
+
+30. C02 emissionsof the baseline vehicule under Type 1 test-cycle (gcm)
+
+40. 022 emissionsofs the eco- innovation vehicle under Type I test-cycle(g/cm)
+
 50. Usage factor (UF) i.e. temporal share of technology usage in normal operation conditions
-60. Emissionsavings ((1 -2) - ( 3 -4))* 5 
+
+60. Emissions savings ((1-2) -(3-4))* 5 
+
 70. Decision approving the ecoinnovation
-80. Code of the ecoinnovation 
-90. Type   0/1 cycle (NED/ WLTP)
+
+80. Code ofthe ecoinnovation 
+
+90. Type 31/ cycle (NEDW/LTP)

@@ -1,0 +1,10 @@
+Modell Ladezeit, 0.98 Sekunden
+Dateiname, Durchlaufzeit (Sekunden)
+Kopf_Fußzeilen_1.png, 2.12
+Kopf_Fußzeilen_2.png, 3.01
+Kopf_Fußzeilen_3.png, 2.39
+Kopf_Fußzeilen_4.png, 3.21
+Kopf_Fußzeilen_5.png, 4.10
+Kopf_Fußzeilen_6.png, 3.64
+Kopf_Fußzeilen_7.png, 4.79
+Kopf_Fußzeilen_8.png, 2.87

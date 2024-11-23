@@ -1,0 +1,13 @@
+| Heading No | Separate Directive No | Subject | Approval No (1) | Extension date | Variants and versions covered |
+|---|------|-----|-------------------|-----------------|--------------------------|
+| 18 | 95/1/EC | Maximum torque and maximum net power of engine | | | |
+| 20 | 25 | Maximum design speed of vehicle | |  | |
+26 | 1993/93/ECC | Masses and dimensions | | Extension | Variant and versions |
+| | 724/EC (C10) | Trailer coupling devices | | date | covered |
+28 | | Anti-air pollution measures | | for | |
+30 | | Tyres | | moped | |
+and | | motorcycles | | and | |
+motorcycles | | fuel tank | | covered | |
+97/24 | | Coupling devices | 31 | 83/14/EEC | Braking system |
+93 | | Installation of lighting and light-signalling devices on the vehicle | 42 | 63/2/EECC | Audible warning device |
+92 | | Lighting and light-signal devices | (C2) | 53/30/EECE | Position for the mounting of rear registration plate |

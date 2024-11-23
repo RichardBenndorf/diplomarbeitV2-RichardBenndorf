@@ -1,0 +1,34 @@
+Sure, here is the text from the image with the multi-columns layout displayed correctly:
+
+---
+
+1. Vehicle:
+1.1. Manufacturer: Aprilia S.p.A.
+1.2. Type: SP
+1.3. Engine family: M
+14. Vehicle Identification Number: ZD4SP0002S001
+15. Test weight together with rider: 237 kg
+
+2. Engine:
+2.1 Manufacturer: Piaggio & C. S.p.a.
+2.2 Type: Piagio M245M
+2.3 Sort: Spark ignition engine, four stroke
+24. Power: 7.0 kW at 7250 min-1
+25. Maximum vehicle speed: 85 km/h
+
+3. Gearbox:
+3.1 Sort: automatic
+3.2 Number of gears: not applicable
+33. Final drive ratio: 1 : 10,379 (15/46 x 13/44)
+
+4. Equipment:
+4.1 Exhaust System: Reflection-Absorption; exhaust pipe marking Aprilia B-1150 e11; silencer Aprilia SM 26 e1; see enclosures information document
+4.2 Intake System: Air filter box: Foam substance dry air filter box, marking AM 11 e3; see enclosure information document
+
+4.3 Tire dimension: front: 90/90-13 56P rear: 30/70-21 63P
+
+5. Measurements:
+
+---
+
+All entries in each column are included, and the multi-coloured layout is preserved.

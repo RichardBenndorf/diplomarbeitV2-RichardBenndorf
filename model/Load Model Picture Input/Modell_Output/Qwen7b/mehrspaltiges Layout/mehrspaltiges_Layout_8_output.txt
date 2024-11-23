@@ -1,0 +1,46 @@
+Sure, here is the text from the image with the multi-columns layout and all entries included:
+
+---
+
+**Auftraggeber:**
+Faun Umwelttechnik GmbH & Co. KG
+Herr Dipl.-Ing. Georg Sandkühler
+Feldhorst 4
+HPC: PQ02 / 065
+D-27711 Osterholz-Scharmbeck
+
+**Prüfgegenstand:**
+MB Econic mit Rotopress Dualpower 516540
+
+**EMV-Vorschrift:**
+72/245/EWG in der Fassung 2006/96/EG
+
+**Ort der Prüfung:**
+MTech EMC GmbH,
+EMV-Halle "H"
+D-71332 Waiblingen
+
+**Eingang des Prüflings:**
+2011-01-10
+
+---
+
+**Datum der Prufung:**
+**Erstellung des Prufberichtes:**
+1101008
+
+**Gesamtseitenzahl:**
+Prüfericht: 13 Seiten
+Anhang: 6 Seiten
+
+**Sachbearbeiter Auftraggeberseite:**
+Hr. Dipl.- Ing. GeorgSandkühle
+
+**Verfasser:**
+Dr.-Ing U. Reinhardt
+
+**DIE PRÜFUNG GEMÄSS RICHTLINIE 7224/EWG IN DER FASSUNG 260696EG WURDE BESTANDEN**
+
+---
+
+This text captures all the information from the original document, including the columns and their respective entries.

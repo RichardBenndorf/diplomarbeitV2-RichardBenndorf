@@ -1,0 +1,136 @@
+Sure, here is the text from the document:
+
+```
+Seitenansicht XZ
+Lateral view XZ
+
+Beifahrerseite
+Front passenger side
+
+Fahrerseit
+Driver
+
+Unters. R= 1400 (1300 ± 100)
+Testing R=1440 (3030 ±10)
+
+Draufsicht Fahrbahn
+Top view Roadway
+
+2000
+
+40
+40
+
+a2
+a1
+
+Beidseitige
+Front and rear side
+
+Unter. R = 1340 ± (10)
+Test. R 1=1330 (± 1)
+
+Beifaherseite 
+Front passenger site
+
+Unt. R. 1 = 3040 1 (120 ±)
+Test R 3=1240(125 ± 0)
+
+Verdeckung
+Covering
+1,4%
+
+Ermittelt mit Catia V5, R19 und CAVA 1.12.6.0
+Determined with CatiaV5, 19 and CAVA1.2.1.0
+
+Vereinfachte Darstellung
+Simplified representation
+
+Feld
+Section
+
+Datum
+Date
+
+Geaendert
+Changed
+
+Geheimg
+Appr.
+
+Str. EA 333/00
+Str. Zeichn. ber. (EA 353/50)
+
+VOLKSWAGEN AG behaelt sich alle Rechte vor. Das gilt
+insbesondere fuer Erfindungsrechte, Know-how, Urheberrechte
+und Namensrechte sowie fuer das Recht, diese als gewerbliche
+Schutzrechte anzumelden. Jede Verfuegungsbefugnis incl.
+Kopier- und Weitergaberecht bei uns. Genehmigung von
+Erschlieferung und Aenderung nach VW 011 55.
+
+All rights remain with VOLKSWAEN AG. This applies especially
+to rights of invention, know-how, copyrights and rights to
+name as well as for the right to patent these as commercial
+protective rights. All rights of disposition, particularly for
+copying or distributing, reserved.
+
+Approval of first supply and changes according to VW 1155.
+The English translation is believed to be accurate.
+
+In case of discrepancies the German version shall govern.
+
+Typ-Pruf-Dok und
+Typ- Pruf-Nr /
+Type-Appr.-Doc. and
+type approval number
+
+CAD-System und Verwaltungssystem-Schluessel/
+CAD- System and Administration code
+
+Iteo Isodraw 6.2 :
+
+Y
+
+Konstruktions-
+Verantwortung/
+Design Resp.
+
+Name
+Krollig
+
+Abt./Dept
+NE-G/SK 1748
+
+Tel.
+30 422
+
+Gez./Drawn
+
+Spiegelsichtfelder
+Darstellung
+
+Title
+Mirror field of view
+Drawing
+
+Typ:
+2H.
+
+Masstab/
+Scale
+
+Teil-Nr./Part-No
+
+2H0 00  1 71
+
+Format
+D. Size
+
+Blatt
+Sheet
+
+002
+
+von
+003
+```

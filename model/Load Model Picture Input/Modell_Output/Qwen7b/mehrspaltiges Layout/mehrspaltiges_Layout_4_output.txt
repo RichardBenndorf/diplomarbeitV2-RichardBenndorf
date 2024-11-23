@@ -1,0 +1,47 @@
+Sure, here is the text from the old document with the multi-columns layout displayed correctly:
+
+```
+*4.1.2.8. Casing for the catalytic converter(s) : Steel. Annex 3.2 .12 . 1.
+
+4. 1. 2.9. Location of the cataly tic converter(s)(place and reference distance in the exhaust line) : Annex  3 .2 .2.12.
+
+4 .1.10. Catalyst heat-shield : yes
+
+4.2 to 4.3.11. N/A
+
+4 . 3.
+
+Oxygen sensor(s)
+
+4.4. Sensor component(s) drawing(s) :
+
+4.5. Drawing of exhaust device with oxygen sensor location(s) (dimensions relative to exhaust valves) :
+
+Control range(s) :
+Sensor is a "switching" or "Stoichiometric" O2 sensor that provides an indication to the ECM as to whether the airfuel ratio is above or below Stoichiometric. The sensing element generates a higher voltage in the "rich" state and switches to a lower voltage inthe "lean" state. The switching point of our sensors is around 1 .004 lambda.
+
+4 1 3 4 . Identifying part number(s) Annex 4 32 12 4
+
+4 45. Description of oxygen sensor heating system and heating strategy The O2 sensors have a resistive heating element embedded with the sensing element. Power for the heater is supplied by the System Power circuit, and PWM control of the heater by the ECM with a low side driver.
+
+4136. Oxygen sensor heat shield(s) No (4)
+
+4 2 to4 8
+
+42. Crankcase emission control system
+
+41. Configuration of crank-case gas recycling system (breather system, positive crankcase ventilation system, other) (description and drawings) :Annex 421
+
+43. Evaporative emission control sys tem
+
+44. Evap orative emissions control system : yes
+442 Drawing of the evaporative control system Annex 1432
+
+453. Drawingof the canister (including dimensions and indicating vent and purge mechanism) : Annex 1333
+
+46. Working capacity (g) : 114.0
+
+47. Adsorption material : charcoal
+
+48. Housing material : plastic
+```

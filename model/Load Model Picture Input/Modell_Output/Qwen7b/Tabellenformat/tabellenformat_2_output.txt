@@ -1,0 +1,29 @@
+Sure, here is the table from the old document with the multi-columns layout displayed correctly:
+
+|3.2.1. PF types;| N/A| <<|
+|3..2. number and elements of PF;|N/A|<<|
+| 3.3. size of PF (volume of filter element +/− 10 %);|N/|A|<< |
+|3...4. operation principle of PF partial / wall-flow / other;| |N/A|
+| | |<<|
+|| | |
+|  3..5. active surface of PF| | N/A|
+|||<<| |
+| |3. propulsion (not) equipped with periodically regenerating system;| |
+||| |
+|-|3-3.1 periodically regenerat|ing| |
+system type;|  N/A |<< |
+|| |<<| | |
+|-3.4.2 operation principle| of periodically regen|erating| |
+ system; |N/ |A| << |
+| |-3.5. propulsion not equipped with selective catalytic converter reduction (SCR) system;|
+|| |
+|- 3-4.1 SCR system type; | N/ | A| << | |
+|| |
+| -3.6.2 propulsion (notequipped with lean NO x trap / absorber;||
+|||
+|-  5.1 lean NO trap / | absorber type;  | N /A| |
+-3-5.2  operation principle | of lean NO | trap /  absorber| |
+ -3-6. propulsion  (not equipped with a cold-start device or starting aid device(s);|
+||  |
+|-6.1 cold-start or starting | aid device type;   | Automatic| <<| |
+ |-6.3 operation principle  of cold start or starting  aid device;| Fuel enrichment| <<||

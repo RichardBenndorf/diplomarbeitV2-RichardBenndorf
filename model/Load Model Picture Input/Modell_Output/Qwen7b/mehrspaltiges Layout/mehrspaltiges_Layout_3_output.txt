@@ -1,0 +1,21 @@
+Sure, here is the text from the image, formatted to maintain the multi-columns layout:
+
+7. BRAKING
+7.1. Diagram of braking devices : see Annex A.7.7.
+7.2. Front and rear brakes front : 2-Discs
+7 rear : Disc
+7 2.1 Make(s) : Harley-Davidson
+72.2 Type(s) :
+7.3. Drawing of parts of the brake system
+73.1 Shoes and/or pads(1) : see Annexe A. 7. 3. 1.
+732. Linings and/or pedals(1): see Annex A.17.5.2.
+7 33. Brake levers and/or pedal(1)
+734. Hydraulic reservoirs : see Anex A7.4.
+74. Other device (where applicable): drawing and description : N/A
+75. Brief description of the electrical and/or electronic components used in the braking system : N/ A
+
+8. LIGHTING AND LIGHT-SIGNALLING DEVICES
+8.1 List of all devices :see Annex A8. 8.2 Diagram showing the location of the lighting and light-signalling devices : See Annex A 8 3 Hazard warning lamps (where fitted) : See Annexe 83.4 Additional requirements relating to special vehicles : NIA 85. Brie description of electrical and electronic components in the lighting system and in the light signalling system :N/A
+
+9. EQUIPMENT
+9.1 Coupling devices (where appli cable) 9. 91.1 Type(s): N/A 9 1.2 Photographs and/or drawing showing position and the construction of the coupling devices 92. Arrangement and identification of controls, tell-tales and indicators : see annex A9.2 93. Photographs of/or drawings of the arrangement of the symbols, controls, teel-tales, and indicators 94. Statutory inscriptions 95.1 Photographs or/or drawings showing the locotion of the statutory inscriptions and the chassis number 96.2 Photographe and/or drawings showin the official part of the inscriptions : see A93 97. Photograph and/or drawins of the chassis numbe 98. Device(s) to protect against unauthorized use 99.4.1 Ty pe(s) 1 9,4.2 Summary description of device(s) used : The device is a barrel key-driven, steel locking bolt type. The locking bolt is able to be extended into a pocket within the fork stem of the steering head assembly. The lock is a pin type.

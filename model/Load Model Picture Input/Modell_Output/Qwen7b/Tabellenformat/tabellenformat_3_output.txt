@@ -1,0 +1,6 @@
+Sure, here is the table from the old document with the multi-columns layout displayed correctly:
+
+| Item | Subject | Regulatory act reference | As amended by | Applicable to version |
+|------|---------|-------------------------|---------------|-----------------------|
+| 8.   | Installation of lighting and light-signalling devices, including automatic switching of lighting | Commission Delegated Regulation (EU) No 3/2014 Annex IX | N/A | All |
+| 9.   Rea | Rearward visibility | Commission | N/ | N | All |

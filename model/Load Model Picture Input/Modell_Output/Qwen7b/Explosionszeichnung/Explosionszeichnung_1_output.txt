@@ -1,0 +1,90 @@
+Sure, here is the text from the document:
+
+```
+Anbau Innenspiegel (Frontscheibe)
+Installation interior mirror (Windshield)
+
+Klebeplatte
+(Adhesive Plate)
+
+ZSB Rueckblickspiegel, innen
+(Rear view mirror Assy)
+
+Anbau Aussenspiegl (Tuer vorne, links und rechts)
+Installation exterior mirror (Front door, left and right)
+
+ZSBRueckblickpiegel, aussen
+(Outer Rear View Mirror Assy)
+
+Befestigungsschraube M6
+Attachment screw M6
+
+VOLKSWAGEN AG behaltet sich alle Rechte vor. Das gilt
+insbesondere fuer Erfindungsrechte, Know-how, Urheberrechte
+und Namensrechte. sowie fuer das Recht, diese als gewerbliche
+Schutzrechte anzumelden. Jede Verfuegungsbeugnis incl.
+Kopier- und Weitergaberecht bei uns. Genehmigung von
+Erstlieferung und Aenderung nach VW 011 55.
+
+All rights remain with VOLKSWAEN AG. This applies especially
+to rights of invention, know-how, copyrights and rights to
+name as well as for the right to patent these as commercial
+protective rights. All rights of disposition, particularly for
+copying or distributing, reserved.
+
+Approval of first supply and changes according to VW 11155.
+The English translation is believed to be accurate.
+
+In case of discrepancies the German version shall govern.
+
+Typ-Pruef-Dok und
+Typ-Preuf-Nr./
+Type-Appr.-Doc. and
+type approval number
+
+CAD-System und Verwaltungssystem-Schluessel/
+CAD- System and Administration code
+
+Iteo Isodraw 6.2
+
+Konstruktions-
+Verantwortung/
+Design Resp.
+
+Name
+Krollig
+
+Abt./Dept
+NE-G/SK 1748
+
+Tel.
+30422
+
+Gez./Drawn
+
+Spiegelsichtfelder
+Befestiigung
+
+Title
+Mirror field of view
+Mounting
+
+Typ:
+2H.
+
+Masstab/
+Scale
+o.M.
+
+Teil-Nr. / Part-No.
+2H0 000 1 71
+
+Format
+A3
+
+Blatt
+003
+
+von
+0 3
+```

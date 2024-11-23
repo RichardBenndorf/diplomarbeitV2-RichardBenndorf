@@ -1,23 +1,23 @@
-Kraftfahrt-Bundesamt
-DE-24932 Flensburg
+The image contains a document titled "EUFAHRZEUG-EINZELGENEGENUNGSBOGEN" which translates to "EU Individual Vehicle Approval Certificate." The document is from the Kraftfahrt-Bundesamt (KBA) in Flensburg, DE-24932 Flensburg. The document number is e1*IV18/858*DE0435. The text is in German and includes various sections and details related to the vehicle approval certificate.
 
-EU-FAHRZEUG-EINZELGENEHMIGUNGSBOGEN
+Here is the extracted text from the document:
 
-EU INDIVIDUAL VEHICLE APPROVAL CERTIFICATE
+---
+
+**EUFAHRRZUG-EINDELGENEIGENUNGSSBOGEN**
+
+**EU INDIVIDUAL VEHICLE APPROVAL CERTIFICATE**
 
 e1
-KraffahrtBundesamtn (KBA)
-DE-Flensburg
+Kraftfahrbundesamtn (KFA) DE-FLNSBURG
 Telefon/ Phone + 49 461 316 - 0
 E-Mail/ E-mail EUFEG@kba.de
 
-Mitteilung über die Erteilung einer EU-Fahrzeug-Einzelgenehmigung nach Artikel 44 der Verordnung (EU) 2018/858
+Mitteilung über die Erteilung einer EU-Fahrzeug-Einzelgenehmigung nach Artikel 44 der Verordnung (EU) 2018 /8558
 
-Communication concerning granting of of EU individual vehicle approval in accordance with Article 4 of Regulation (EU 28558)
+Communication concerning granting of of EU individual vehicle approval in accordance with Article 45 of Regulation (EU 285/885)
 
-Nummer des EU-Fahrrzeug-Einzelgenehmigungsbogens: e1*IV18856*DE0435
-
-Number of the EU individual vehicule approval certificate:
+Nummer des EU-Fahrrzeug-Eindelgenehmigungsbogens: e1IV19/8958/DE0345
 
 Grund für die Versagung/Rücknahme: Reason for refusal/withdrawal:
 
@@ -38,4 +38,6 @@ Version: Version: Entfällt Not Applicable
 
 02.1 Handelsbezeichnung(en): Commercial name(s): FENGon 50
 
-Funkioniert oft.
+---
+
+The document provides information about an individual vehicle's approval certificate issued by the Kraftfaht-Bundessamt (German Federal Ministry of Transport, Innovation and Technology). The document includes details about the vehicle's make, model, type, variant, and commercial name.

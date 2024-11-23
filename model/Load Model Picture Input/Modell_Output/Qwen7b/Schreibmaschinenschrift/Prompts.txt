@@ -1,0 +1,1 @@
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document.  Make sure to include all paragraphs and that the formatting is adhered to.

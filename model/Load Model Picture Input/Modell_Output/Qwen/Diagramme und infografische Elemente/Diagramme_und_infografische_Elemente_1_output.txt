@@ -1,30 +1,37 @@
-Hand Controls
+HAND CONTROLS
 
-Helmet Controls
+HEADLIGHTS (LOW BEAM)
+HEADLIGHTs (HIGH BEAM)
 
-Headlights (Low Beam)
-Headlights
-(High Beam)
-Electric Starter
-Device for Switching the Engine On or Off (OFF / SHUT DOWN)
-Engine Ignition (Operating Position)
+HORN
+
 Hazard Warning
 
-Direction Indicator (Left)
+Direction Indicator (LEFT)
 Direction Indicator
-(Right)
-Battery Charge
-Low Fuel Light (Color:amber)
-Fuel Level (Color)
-Left Turn Signal (Color:
-Green)
-Right Turn Signal
-(Color: Green)
-Indicator Lights
-Headlights [High Beam]
-Gear Box Neutral
-Engine Oil [Color: Red]
-Engine Coolant Temperature [Color:
-Red]
 
-Funkktioniert oft
+Battery Charge
+
+Low Fuel Light (Color:amber)
+
+Fuel Level (Color)
+
+Left Turn Signal (Color:
+
+Green)
+
+Right Turn Signal
+
+Color: Green)
+
+Indicator Lights
+
+Headlights (High Beam)
+
+Gear Box Neutral (Color Green)
+
+Engine Oil (Color Red)
+
+Engine Coolant Temperature (Color
+
+Red)

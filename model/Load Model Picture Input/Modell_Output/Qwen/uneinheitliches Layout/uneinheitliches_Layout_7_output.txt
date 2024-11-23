@@ -1,6 +1,4 @@
-The text from your image is:
-
-**Statement of conformity / Schlussbescheinigung:**
+Statement of conformity / Schlussbescheinigung:
 
 The information folder as mentioned under no. 2.2 and the type described therein are in compliance with the test standard mentioned above. / Die unter Nr. 1.2 angegebene Beschreibungsmappe und der darin beschriebene Typ entsprechen der oben aufgeführten Prüfgrundlage.
 
@@ -19,10 +17,8 @@ No 1 01
 No . 99050064 0 0
 
 Responsible expert
-Signature
 Stefan van Husen
-Nov 30, 2015
-
+Signature
 Conformity check
 Signature
 

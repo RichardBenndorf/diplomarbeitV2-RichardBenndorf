@@ -1,0 +1,10 @@
+Modell Ladezeit, 4.79 Sekunden
+Dateiname, Durchlaufzeit (Sekunden)
+uneinheitliches_Layout_5.png, 2.58
+uneinheitliches_Layout_6.png, 4.70
+uneinheitliches_Layout_1.png, 2.40
+uneinheitliches_Layout_8.png, 1.28
+uneinheitliches_Layout_3.png, 2.40
+uneinheitliches_Layout_4.png, 2.23
+uneinheitliches_Layout_2.png, 1.81
+uneinheitliches_Layout_7.png, 1.92

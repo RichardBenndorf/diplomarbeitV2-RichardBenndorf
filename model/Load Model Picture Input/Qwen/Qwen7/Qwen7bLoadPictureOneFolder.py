@@ -1,4 +1,5 @@
 import torch
+import time
 from transformers import Qwen2VLForConditionalGeneration, AutoProcessor, AutoTokenizer
 from qwen_vl_utils import process_vision_info
 from PIL import Image
@@ -13,9 +14,36 @@ model = Qwen2VLForConditionalGeneration.from_pretrained(repo, torch_dtype="auto"
 processor = AutoProcessor.from_pretrained(repo)
 
 # Verzeichnispfade
-image_folder = "../../Bilder/Kopf_Fußzeilen"  # Ordner mit Bildern
-output_folder = "../../Modell_Output/Qwen7b/Kopf_Fußzeilen"  # Ordner für die Ausgaben
+image_folder = "../../Bilder/uneinheitliches Layout"  # Ordner mit Bildern
+output_folder = "../../Modell_Output/Qwen7b/uneinheitliches Layout"  # Ordner für die Ausgaben
+durations_path = os.path.join(output_folder, "durations.txt")  # Pfad für die Zeitmessungsdatei
 os.makedirs(output_folder, exist_ok=True)
+
+# Dummy-Bild laden, um das Modell zu initialisieren
+dummy_image_path = "../../DummyPicture/dummy.png"  # Stelle sicher, dass diese Bilddatei existiert
+dummy_image = Image.open(dummy_image_path).convert('RGB')  # Öffne und konvertiere das Dummy-Bild
+start_time = time.time()
+dummy_messages = [{"role": "user", "content": [{"type": "image", "image": dummy_image}]}]
+dummy_text = processor.apply_chat_template(dummy_messages, tokenize=False, add_generation_prompt=True)
+dummy_image_inputs, dummy_video_inputs = process_vision_info(dummy_messages)
+dummy_inputs = processor(
+    text=[dummy_text],
+    images=dummy_image_inputs,
+    videos=dummy_video_inputs,
+    return_tensors="pt"
+).to(device)
+model.generate(
+    **dummy_inputs, 
+    max_new_tokens=1
+)
+model_load_duration = time.time() - start_time  # Modellladezeit messen
+dummy_image.close()  # Dummy-Bild schließen
+
+# Datei für Zeitmessungen vorbereiten
+with open(durations_path, "w", encoding="utf-8") as durations_file:
+    durations_file.write(f"Modell Ladezeit, {model_load_duration:.2f} Sekunden\n")
+    durations_file.write("Dateiname, Durchlaufzeit (Sekunden)\n")
+
 
 # Schleife über alle Bilder im Verzeichnis
 for filename in sorted(os.listdir(image_folder)):
@@ -23,13 +51,15 @@ for filename in sorted(os.listdir(image_folder)):
         image_path = os.path.join(image_folder, filename)
         image = Image.open(image_path).convert('RGB')  # Bild in RGB konvertieren
 
+        start_time = time.time()  # Startzeit für die Bildverarbeitung messen
+
         # Definiere die Eingabedaten für jedes Bild neu
         messages = [
             {
                 "role": "user",
                 "content": [
                     {"type": "image", "image": image},
-                    {"type": "text", "text": "I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document."},
+                    {"type": "text", "text": "I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks."},
                 ],
             }
         ]
@@ -83,9 +113,14 @@ for filename in sorted(os.listdir(image_folder)):
         with open(output_file, "w", encoding="utf-8") as f:
             f.write(output_text)
 
+        duration = time.time() - start_time  # Durchlaufzeit berechnen
+        with open(durations_path, "a", encoding="utf-8") as durations_file:
+            durations_file.write(f"{filename}, {duration:.2f}\n")
+
         # Ausgabe bestätigen
-        print(f"Text aus {filename} in {output_file} gespeichert.")
+        print(f"Text aus {filename} in {output_file} gespeichert. Durchlaufzeit: {duration:.2f} Sekunden")
 
         # Speicherbereinigung: Bild schließen und Eingabedaten löschen
         image.close()
         del inputs, generated_ids, generated_ids_trimmed, output_text
+print(f"Modell Ladezeit: {model_load_duration:.2f} Sekunden")

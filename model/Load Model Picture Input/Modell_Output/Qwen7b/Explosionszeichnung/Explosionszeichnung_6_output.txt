@@ -1,0 +1,65 @@
+Sure, here is the text from the document:
+
+```
+Volkswagen AG behält sich alle Rechte vor. Das gilt insbesondere für Erfindungsrechte, Know-how, Urheberrechte und Namensrechte sowie für das Recht, diese als gewerbliche Schutzrechte anzumelden. Jede Verfugungsbefugnis incl. Kopier- und Weitergabebericht liegt bei uns. Genehmigung von Erstlieferung und Änderung nach VW 0155.
+
+Volkswagon AG reserves all rights, including without limitation rights of invention, know-how, copyrights, rights to names, and the right to apply for industrial property rights. All rights of use and exploitation including the rightto copy and disseminate or distribute reside with us. Approval of first delivery and changes in accordance with VW  0 15 5. The English translation is believed to be accurate. In case of discrepancies the German version is alone authoritative and controlling.
+
+Typ-Pruef-Dok. und Typ-Prüf-Nr Type-appr.-doc. and type approval number Y
+
+CAD-System und Verwaltungssystem-Schluessel CAD system and administration code
+
+Catia V5 R24
+
+Name Krollig
+
+Konstruktions- Verantwortung/ Design Resp.
+
+Abt./Dept. NE-GP/D
+
+Tel. 30422
+
+Gez./Drawn Krolli
+
+Benennung
+
+Zusatzbenennung .
+
+Title Engine hood
+
+Additional title .
+
+Maßstab Scale
+
+Teil-Nr. / Part-no. 2H6.000.056
+
+Format D.Size A2
+
+Blatt Sheet 1
+
+von of 4
+
+Vereinfachte Darstellung Simplified representation
+
+Pos. Item Teilebenennnung/Part designation Werkstoff / Material Mat.-Dicke/ Mat.-Thickness
+
+1 Aussenteil /Outer panel Stahl/steel 0,7
+
+2 Innenteil/Inner part Stahl/stee 0.65
+
+3 Scharnierverstaerkung /Hinge reinforcement Stahl /steel 1,2
+
+4 Scharnierzverstaerung / Hinge reinforcement 1.2
+
+5 Verstaerzung Schliessbuegel /reinf. striker Stahl steel 1 4 14
+
+6 Scharnierr links /Hingel left Stahlsteel 2,5
+
+7 Scharner rechts /Hinger right Stahlstee 2.5
+
+8 Fanghaken/Buegel Stahl stee --
+
+Typ: 2 H.
+
+Frontklappe Engine hood
+```

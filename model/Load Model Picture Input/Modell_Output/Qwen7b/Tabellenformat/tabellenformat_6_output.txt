@@ -1,0 +1,25 @@
+Sure, here is the text from the image with the multi-columns layout correctly displayed:
+
+| Nr. No. | Benennung | Designation | Datum |
+| --- | --- | ---- | ---- |
+| - | - | List of approvals | 19.07.2013 |
+| LE10-75288 | Lage des Schildes und der FIN (983-984) | Location of the plate and the VIN (963-864)  | 01.012003 |
+LE11-71514 | Dauerbremse SFTP nach ADR | Endurance brake SFTP pursuant ADR  | - |
+LE-117517 | Vorschaldaempfer SV 6002 (903-694) Front silencer SV 000 (993-0644)   | -  | 
+LE1-17-5261 | Fabrikatschild (953-5646) | Manufacturers Statutory Plate (933-4645) | 20.02.2202 |
+LE 11 -75-272 [K7A] | AO Auspuff Actros 4 K7A OM936 | AO exhaust Actros K7 A OM926 | 30.12.11 |
+LE -11 75 -273 [K 71] | - AO Auspuft Actros Actros | AO Exhaust Actros OM940 | 8.05.2102 | 
+| LE 1- 17 -5274 [K-7A | AO Aupuff Actro 4K7 AOM470, OM471, OM 473 | AO Exhast Actros4 K 7AOM460,OM451,OM 453 | 9.10.2302|
+LE1 -17 52-76 [K -7B] |  | AO  | | 
+AO Auspuf Actros A 4 7BOM407,OM711,0M 431 | AO | 4007 | 7.08.2402| 
+LE  1 - 1 15 - 72 - 276  [K C] | | AO Actros Ausp 4 | AO E | 5.03.2503| 
+AO  | Ausp | 6507| 70.8.3004| 
+| AO Aus |  4 Actros C 7C | AO Endurance |  AO | 
+Actros 7 C |  Actros Endurance 4 C  | Actros Exh |  A |  C 4 Exh  | A | 
+4  | C  7 | C | |  |
+AO Aus | | | Actro |  Exh Actro C 5 | AO C 6 | | C Actro Exh C 2 | AO AO | | Exh AO | AO |
+AO | | Aus | Act |  Aus | Aus  | Ex |  E | | E | Ex  | E  | |
+AO 4 Aus | AO K7 | AO OM406 | OM411 | OM  | OM |  OM | | OM| | | |
+| AO | Auspu | Act 4 A | | K7  | K  | O | | M | | O  | M  ||
+AO | Aus pu | Act ro 4| | K |  K | | A  || |  O | M| | |
+LE |  -  5 2 7 7 [K D] | A O Ausp Actros Ac | AO ex |  tros  | tros |  ex | | t | | o | | e | | x | | u | | r | | s | | i | | n | | g | | a | | l | | b | | d | | c | | h | | k | | m | | p | | q | | w | | y | | z | | { | | } | | [ | | ] | | ^ | | _ | | ` | | ' | | " | | ; | | : | | , | | . | | ? | | ! | | @ | | # | | $ | | % | | & | | * | | ( | | ) | | + | | = | | -

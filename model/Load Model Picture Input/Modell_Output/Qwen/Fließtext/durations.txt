@@ -1,0 +1,10 @@
+Modell Ladezeit, 0.97 Sekunden
+Dateiname, Durchlaufzeit (Sekunden)
+Fließtext_1.png, 12.02
+Fließtext_2.png, 23.67
+Fließtext_3.png, 11.20
+Fließtext_4.png, 15.69
+Fließtext_5.png, 19.45
+Fließtext_6.png, 8.17
+Fließtext_7.png, 12.08
+Fließtext_8.png, 25.56

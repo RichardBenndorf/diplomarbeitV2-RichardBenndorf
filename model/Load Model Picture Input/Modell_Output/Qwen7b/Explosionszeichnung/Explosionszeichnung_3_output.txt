@@ -1,0 +1,83 @@
+Sure, here is the text from the document:
+
+```
+PRODUKT DETAIL MONTAGEANWEISUNG
+PRODUCT DESCRIPTION MANUAL
+
+VOLKSWAGEN AG
+
+Unterlagen
+References
+
+Vereinfachte Darstellung
+Simplified representation
+
+Volkswagen AG behält sich alle Rechte vor. Das gilt insbesondere für
+Einführungserlaubnisse, Know-how, Urheberrechte und Namensrechte sowie für
+das Recht, dies als gewerbliche Schutzrechte anzumelden. Jede Verfugungsbeugung
+inl. Kopier- und Weitergabeberechtigung bei uns. Genehmigung von
+Erlaubnis und Änderung nach VW 011 55.
+
+All rights remain with VOLKSWAGE AG. This applies especially to rights
+of invention, know-how, copyrights and rights to name as well as for the
+right to patent these as commercial protective rights. All rights of disposition,
+particularly for copying or distributing, reserved. Approval of first supply and
+changes acc. to VW 211.55.
+The English translation is believed to be accurate.
+In case of discrepancies the German version shall govern.
+
+Bemerkungen / Notes
+
+Form FE 114e 12.05
+( ) = Bezugsmaß
+Ref. dim.
+[ ] = Kontrollemaß Control dim.
+< > = Vorrichtungsmas
+Fixture dim.
+<< > = Kontrollmaß Fixure dim.
+<> = Ausblendsmaß Temporary dim.
+= = Prüfmaß Test dim.
+== = Prufmaß mit Bewertung
+Dim. to be inspected
+== = Theoretisches Maß
+Basic dim.
+> < = Werkstoff-Kennzeichnung
+Material-identification
+<> = Anziehdrehmomente
+Tightening torques
+= = Proz. Material
+Process material
+= Position
+Position
+
+Typ: 2H.
+
+Vereinbarte Darstellung Simplified representation
+
+Typ No. Datum Date Gesamt- Gesamt-
+Chg. Appr. Chg. Chk. App.
+03.03 .09 Str. EA 333/00
+
+Beschreibung der Änderungen und Äenderungsterminschlüssel
+Revision record and change date code
+
+Typ-Pruf-Dok. und Typ-Pruef-Nr./ Type appr.-doc. and type approval
+CAD-System und Verwaltungssystem- Schlüssel/ number
+CAD-system and administration code
+Y
+ISO Draw
+
+Konst. Verantw./Design resp.
+Name Krollig
+Abt./Dept. 1748 - NE-GSK
+Tel. +49/05361/9-30422
+Gez./Drawn
+
+Benennung Fahrwerk
+
+Title Chassis
+
+EA-Nr. / eng. proj. no. 001/022
+
+2H0.000.131
+```

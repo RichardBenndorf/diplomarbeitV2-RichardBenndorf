@@ -1,0 +1,45 @@
+Certainly! Here is the text from the image, formatted to maintain the multi-columns layout:
+
+---
+
+0 General / Allgemeine Angaben
+
+0.1 Make (trade name of manufacturer) / Fabrikmarke (Firmennname des Herstellers):
+
+KIRCHHOFF Ecotec GmbH
+
+02 Type completed vehicle / Typ vervollständigtes Fahrzeug:
+
+N321
+
+03 Type of base vehicle /Typ des Basisfahrzeugs:
+
+N212
+
+04 Category of vehicle / Fahrzeugklasse:
+
+N1, N1G
+
+05 Manufacturer's name and address / Name und Anschrift des Herstellers:
+
+KIRKHOFF ECOTEC GMBH
+
+Stefanstraße 2
+
+58638 Iserlohn
+
+08 Address of assembly plant / Name(n) und Anschriften der Fertigungsstätte(n):
+
+Refer to information folder / gemäß Beschreibungsbogen
+
+09 Name and address of representative / Name and Anschrift of the Beauftragten:
+
+FAUN Umwelttechnik GmbH & Co. KG
+
+Feldhorst 4
+
+27711 Osterholz-Scharmbeck
+
+---
+
+This text includes all the entries from the original document, formatted in a way that maintains the multi-colon layout.

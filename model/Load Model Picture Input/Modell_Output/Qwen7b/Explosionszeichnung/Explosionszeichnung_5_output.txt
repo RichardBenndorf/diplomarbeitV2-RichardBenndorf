@@ -1,0 +1,93 @@
+Sure, here is the text from the document:
+
+```
+Anbau Innenspiegel (Frontscheibe)
+Installation interior mirror (Windshield)
+
+Klebeplatte gehoert zum ZSB Scheibe
+Adhesive plate is part of ASSY window glass
+
+Spiegel aufgeschoben
+Mirror slipped on
+
+Abdeckung Spiegelfuss
+Cover, mirror support
+
+Regensensor
+Rain sensor
+
+ZSB Rueckblickspiegel, innen
+ASSY rear view mirror, interior
+
+VOLKSWAGEN AG behaelt sich alle Rechte vor. Das gilt insbesondere fuer
+Erfindungsrechte, Know-how, Urheberrechte und Namensrechte sowie
+fuer das Recht, diese als gewerbliche Schutzrechte anzumelden. Jede
+Verfugungsbeaufnugnis incl. Kopier- und Weitergaberecht liegt bei uns.
+Genehmigung von Erstlieferung und Aenderung nach VW 01155.
+
+All rights remain with VOLKSWAGE AG. This applies especially to
+rights of invention, know-how, copyrights and rights to name as well
+as to the right to patent these as commercial protective rights. All
+rights ot disposition, particulary for copying or distributing,
+reserved.
+
+Approval of first supply and changes acc. to VW  0 1 15 5. The English
+translation is believed to be accurate. In case of discrepancies the
+German version shall govern.
+
+Typ-Pruf-Dok. und
+Typ- Pruf-Nr.
+Type-appr.-doc. and
+type approval number
+
+CAD-System und Verwaltungssystem-Schluessel
+CAD system and administration code
+
+CATIA V5 R19
+Y
+
+Konstruktions-
+Verantwortung/
+Design Resp.
+
+Name
+Krollig
+
+Abt./ Dept.
+NE-GS/K
+
+Tel.
+30422
+
+Gez./ Drawn
+Krolig
+
+Benennung
+Spiegelsichtfelder
+Befestigung
+
+Title
+Mirror field of view
+Mounting
+
+Waszstab
+Scale
+
+Teil-Nr. / Part no.
+
+Format
+D.size
+A2
+
+Blatt
+Sheet
+004
+
+von
+of
+
+Typ: 2H.
+2H0.000.171
+04
+0 04 
+```

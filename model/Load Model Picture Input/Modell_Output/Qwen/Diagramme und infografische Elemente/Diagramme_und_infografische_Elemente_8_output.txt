@@ -1,10 +1,10 @@
-front master cylinder Ø 11 mm
-floating brake disc front Ø 300 mm
-brake disk rear Ø 240 mm
+front master cylinder Ø 11mm
+floating brake disc front Ø 300mm
+brake disk rear Ø 240mm
 
 ABS modulator Bosch 9MP
 brakespeed sensor (WSS) rear
 rear brake calliper
-brakemaster cylinder Ø13 mm
+brakemaster cylinder Ø13mm
 front brake callipere
-brakedisk front Ø30 mm
+brakedisk front Ø30mm

@@ -1,0 +1,68 @@
+Sure, here is the text from the document:
+
+```
+Z500
+Z400
+
+Z300 
+Z200 
+
+Z100  
+Z0
+
+Ww. Design Unterfahrschutz
+Opt. design underride protection
+
+Z-10
+X-900 X-800 Z-110
+
+Schliessteil Stossfaenger
+End plate bumper
+
+Abdeckung
+Cover
+
+Schaumteil
+Foam part
+
+Quertraeger
+Cross member
+
+ZSB Firmenzeichen
+ASSY company logo
+
+28.01.17
+MAF Neu fuer 17V196P
+
+Vereinfachte Darstellung
+Simplified representation
+
+Frontend
+
+Typ: 2H.
+
+Typ-Pruef-Dok. und
+Type-appr.-doc. and
+Typ- Pruef-Nr
+type approval number
+
+CAD-System und Verwaltungssystem-Schluessel
+CAD system and administration code
+
+Catia V5 R24
+
+Name Krollig
+Konstruktions- Verantwortung/
+Design Resp. NE-GP/D
+
+Tel. 30422
+Gez./Drawn Krolli
+
+Zusatzbenennung . Additional title .
+
+Format A2
+Blatt Sheet 002
+
+2H6.000.295
+o.W.
+```

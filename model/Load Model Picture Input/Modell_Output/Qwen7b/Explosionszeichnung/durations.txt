@@ -1,0 +1,10 @@
+Modell Ladezeit, 1.63 Sekunden
+Dateiname, Durchlaufzeit (Sekunden)
+Explosionszeichnung_1.png, 28.17
+Explosionszeichnung_2.png, 12.82
+Explosionszeichnung_3.png, 33.65
+Explosionszeichnung_4.png, 36.31
+Explosionszeichnung_5.png, 27.12
+Explosionszeichnung_6.png, 27.94
+Explosionszeichnung_7.png, 16.72
+Explosionszeichnung_8.png, 25.90

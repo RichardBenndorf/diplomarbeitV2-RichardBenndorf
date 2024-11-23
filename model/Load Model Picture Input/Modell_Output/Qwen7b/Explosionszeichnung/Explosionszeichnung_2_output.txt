@@ -1,0 +1,27 @@
+Sure, here is the text from the document:
+
+```
+Name des Herstellers wahlw. s. Tabelle
+Manufacturer's name optional, see table
+
+VOLKSWAGEN AG
+e1*2001/116
+WVWZZZ6NZSY000801
+1234 kg
+1- 1243 kg
+2-  1344 kg
+
+Typ 6N VERSIONE X05CAEV2 VAN
+
+motorkennbuchstabe
+wahlw. ohne Beschriftung
+Engine code letters
+optionally without legend
+
+Dieselabgasschild wahl.
+wahlw.o. Beschriftun
+Diesel exhaust plate
+optionaly without legend
+```
+
+Please note that this text is exactly as extracted from the image, including any formatting and layout.

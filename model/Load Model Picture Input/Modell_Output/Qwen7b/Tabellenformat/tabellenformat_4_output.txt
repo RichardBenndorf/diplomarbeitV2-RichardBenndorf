@@ -1,0 +1,25 @@
+Sure, here is the table from the old document with the multi-columns layout correctly displayed:
+
+| Component | Fault code | Monitoring strategy | Fault detection criteria | MI activation criteria | Secondary parameters | Preconditioning | Demonstration test |
+|-----------|------------|---------------------|-------------------------|------------------------|----------------------|-----------------|------------------|
+| VSS Failed Low | P0502 | Continuous | Vehicle speed sensor input is low for 3.97 seconds while engine is operating at a moderate speed and load. | Fault Detected | 2500 < Engine Speed < 4000 MAP_Load > 60.1 kPa | Ignition Cycle | Idle Cycle |
+| V SS Failed High | P 05 03 | Continuous A: Vehicle speed sen sor input is high for 5.96 seconds while en gine is operating a t a moderate spee d and load B: No pulses detected from vehicle speed sensor for 64 ms while vehicle speed exceeds 50 kph. | | Fault Dete cted | 1: 2 5 5 < Engine Spee d < 3 0 00 2: MAP_Load < 6 0. 1 k Pa | Ignitio n Cycle | I dle Cy cle |
+| Idle Speed Control - Unstable | P1005 | Continuous Sum of difference between max and min MAP values over 3 second periods exceeds threshold. |  | Fault Detec ted | TGS < 0 .9 % | Igni tion Cy cle | I dl e Cy cle  |
+| ECM EEPROM Memory Error | P2003  | Continuous ECM detects an internal error when writing nonvolatile memory. | Fa ult Dete ct ed | Ign ition Cy cle I dl  e Cy cl e |
+| 5 Volt Reference Out of Range | P3041 | Continuous analog supply 1 voltage < 5 .75 volts or analog supply voltage > 52.6 volts continuously for 16 ms | Fault Detect ed | Engine temperature or coolant temperature > 110 deg. C | Ign i tion Cy cl  e I dl ee Cy cle e |
+E C T Difference (High Temp) | P4019 | Continuous Engine temperature is more than 70 degrees C higher than coolant temperature continuously for .05 sec. | F a ult D etec ted  | Ign  i tion C y cle I d l e Cy c le |
+| TGS 2 A/D Validation Error |  P5070 | Continuous TGS2 measured value from A/D block one differs from TGS measured value of A/D blo c k and by more than .78 volts continuously 24 ms | F au lt D et ec ted | E ngine r unning f or > 2 sec | Igniti on Cy cle Id le Cy cle |
+
+| Component |
+|----------|
+| JSS Low |
+| J SS High/Open |
+| Power Limit Violation |
+| ETC Limited Performance Mode |
+| ET C Power Management Mode |
+Power Limit Violat ion | P5105 Continuous | Measured MAP_Load exceeds expected MAP at a speed and loa d indicative of tampering with the 35 kW limit. | Engine Speed Throttle Position | Ignite n Cy cle Idle Cy cle
+ET C Limited Performance Mo de | P610 Continuous | This DTC is set to indicate the vehicle is operating in Limited Performance Mod e. | Ign ign ition C ycle I dl el e Cy cycle
+ETC Power Management Mo de  | P711 Continuous | T his DTC i s set to indicat e the vehicle i s operating i n Power Management Mod e . | Ignign ition Cycle I dl le Cy ccle
+ET  C Forced Idle Mode | P812 Continuous | Th is DTC  i s se t to indic at e the vehic le i s operat ing i n Forc ed I d le Mod e | Ignig ition Cycl e I d I le Cy cl el e
+
+Please note that the table has been formatted to match the original layout as closely as possible, but some text may have been truncated or cut off due to the constraints of the text editor.

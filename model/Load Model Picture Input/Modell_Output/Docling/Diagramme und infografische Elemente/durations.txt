@@ -1,0 +1,10 @@
+Modell Ladezeit, 4.85 Sekunden
+Dateiname, Durchlaufzeit (Sekunden)
+Diagramme_und_infografische_Elemente_5.png, 2.01
+Diagramme_und_infografische_Elemente_7.png, 1.40
+Diagramme_und_infografische_Elemente_8.png, 2.58
+Diagramme_und_infografische_Elemente_1.png, 2.09
+Diagramme_und_infografische_Elemente_3.png, 2.17
+Diagramme_und_infografische_Elemente_4.png, 1.79
+Diagramme_und_infografische_Elemente_2.png, 1.76
+Diagramme_und_infografische_Elemente_6.png, 1.40

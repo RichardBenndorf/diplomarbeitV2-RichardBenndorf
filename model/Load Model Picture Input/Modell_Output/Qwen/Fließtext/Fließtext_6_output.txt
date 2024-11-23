@@ -1,20 +1,10 @@
-The text from your image is:
+Der unter No. 0.5 angegebene Beschreibungsblock und der darin beschriebene Typ entspricht der o.a. Prüfspezifikation.
 
-```plaintext
-4
-Schlussbescheinigung / Certification
-
-Der unter Nr. 0.5 angegebene Beschreibungsblock und der darin beschriebene Typ - entspricht - der o.a. Prüfspezifikation.
-
-The information document as mentioned under No. 5 and the type described therein are - i n c o m p l i a n t - with the test specification mentioned above.
-
-Die verwendeten Prüf muster waren im Hinblick auf das erforderliche Leistungsniveau für den zu genehmigenden Typ repräsentativ (siehe 1.1).
-
-With regard to the required level of performance to be achieved, the tested items were representative for the type to be approved (see 11).
+Die verwendeten Prüfmaschinen waren im Hinblick auf das erforderliche Leistungsniveau für den zu genehmigenden Typ repräsentativ (siehe 1.1).
 
 Dieser Prüferbericht umfasst Blatt 1 bis 9 sowie die Anlagen.
 
-Dieser Proberbericht darf nur vom Auftraggeber und nur in vollem Wortlaut vervielfältigt und weitergegeben werden. Eine auszugsweise Vervielfaltigung und Veröffentlichung des Prüberberichtes ist nur nach schriftlicher Genehmigung des Prürflaboratoriums zulässig.
+Dieser Testbericht darf nur vom Auftraggeber und nur in voller Wortlaut vervielfältigt und weitergegeben werden. Eine auszugsweise Vervielfaltigung und Veröffentlichung des Prüfterberichtes ist nur nach schriftlicher Genehmigung des Pruflaboratoriums zulässig.
 
 This Test Report comprises pages 1 to 9 and attachments.
 
@@ -25,4 +15,3 @@ PRÜFLABORATORIUM / TEST LABORATORY
 benannt von der Benennungsstelle des Kraftfahrt-Bundesamtes, Bundesrepublik Deutschland
 
 designated by designation department of Kraftfahr-Bundesanamt, Federal Republic of Germany
-```

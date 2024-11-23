@@ -1,13 +1,13 @@
-The complete text from a German document is:
+The text elements from the provided image are as follows:
 
-"FHZ-IDENTIFIZIERUNGSNUMMER / VEHICLE IDENTIFICATION NUMBER
-
+```plaintext
+FHZ-IDENTIFIZIERUNGSNUMMER / VEHICLE IDENTIFICATION NUMBER
 BEISPIEL / EXAMPLE:
 WDB9630031L479935
-
 AUFBAU DER NUMMER / STRUCTURE OF NUMBER:
 
-WDB 96 30 03 1 L 47 99 35
+WDB 96 30 03 1 L 4 7 9 9
+3 5
 6-stellige Zählnummer/ 6-digit counter
 Fertigungsstätte/ Plant
 Lenkung/ Steering system
@@ -15,5 +15,4 @@ Baumuster
 Welthersteller/ World manufacturer identifier
 WDB= Daimler AG
 WDF= DAIMLER AG
-
-Funk tioniert oft / I cant understand the text. Please extract the text and characters. But don't add any extra words."
+```
