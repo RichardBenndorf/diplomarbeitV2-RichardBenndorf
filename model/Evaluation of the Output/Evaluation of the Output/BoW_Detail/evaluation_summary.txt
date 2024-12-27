@@ -1,4 +1,0 @@
-1_output.txt: Jaccard-Index = 87.60%
-6_output.txt: Jaccard-Index = 55.47%
-4_output.txt: Jaccard-Index = 90.26%
-5_output.txt: Jaccard-Index = 63.75%

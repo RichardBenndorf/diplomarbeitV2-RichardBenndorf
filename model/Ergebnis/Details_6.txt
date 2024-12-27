@@ -1,0 +1,95 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,3 +1,15 @@
++Sure,
++here
++is
++the
++text
++from
++the
++document
++exactly
++as
++is:
++```
+ 4
+ Schlussbescheinigung
+ /
+@@ -85,7 +97,7 @@
+ be
+ approved
+ (see
+-1.1).
++1,1).
+ Dieser
+ Prüfbericht
+ umfasst
+@@ -96,8 +108,18 @@
+ sowie
+ die
+ Anlagen.
++This
++Test
++Report
++comprises
++pages
++1
++to
++9
++and
++attachments.
+ Dieser
+-Prüfbericht
++Testbericht
+ darf
+ nur
+ vom
+@@ -113,29 +135,19 @@
+ werden.
+ Eine
+ auszugsweise
+-Vervielfältigung
++Vervielfaltigung
+ und
+ Veröffentlichung
+ des
+-Prüfberichtes
++Prüferichtes
+ ist
+ nur
+ nach
+ schriftlicher
+ Genehmigung
+ des
+-Prüflaboratoriums
++Prufinstituts
+ zulässig.
+-This
+-Test
+-Report
+-compromises
+-pages
+-1
+-to
+-9
+-and
+-attachments.
+ The
+ Test
+ Report
+@@ -155,7 +167,6 @@
+ It
+ shall
+ be
+-reproduced
+ partially
+ with
+ the
+@@ -188,3 +199,4 @@
+ Republic
+ of
+ Germany
++```

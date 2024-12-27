@@ -6,9 +6,17 @@ from collections import Counter
 def clean_html_entities(text):
     return html.unescape(text)
 
+def add_space_around_numbers_and_special_chars(text):
+    # Fügt Leerzeichen zwischen Zahlen/Sonderzeichen und Wörtern hinzu
+    # Beispiel: "1.2.3Wort" -> "1.2.3 Wort"
+    text = re.sub(r'(\d+)([^\d\s])', r'\1 \2', text)  # Zahl gefolgt von einem Buchstaben/Sonderzeichen
+    text = re.sub(r'([^\d\s])(\d+)', r'\1 \2', text)  # Buchstabe/Sonderzeichen gefolgt von einer Zahl
+    return text
+
 def clean_special_characters(text):
-    # Entfernt alle Sonderzeichen außer einfachen Punkten und Kommata
-    return re.sub(r'[^a-zA-Z0-9äöüÄÖÜß .,]', '', text)
+    # Entfernt unerwünschte Sonderzeichen, außer Punkte und Kommas
+    text = re.sub(r'[^a-zA-Z0-9äöüÄÖÜß .,]', '', text)
+    return text
 
 def text_to_bow(text):
     # Verarbeitet den Text, um ein Bag-of-Words zu erstellen
@@ -20,6 +28,7 @@ def read_and_clean_text(filename):
     with open(filename, 'r', encoding='utf-8') as file:
         text = file.read()
         text = clean_html_entities(text)
+        text = add_space_around_numbers_and_special_chars(text)
         return clean_special_characters(text)
 
 def calculate_jaccard_index(bow1, bow2):
@@ -55,15 +64,25 @@ def write_detailed_output(filename, jaccard_index, common_words, incorrect_words
         file.write(f"\nJaccard-Index: {jaccard_index:.2%}\n")
 
 # Pfad zu den Goldstandard- und Modell_Output-Ordnern
-goldstandard_path = '../Load Model Picture Input/Goldstandard'
-model_output_path = '../Load Model Picture Input/Modell_Output'
-output_path = 'Evaluation of the Output/BoW_Detail'  # Ordner für die detaillierten Outputs'
+goldstandard_path = '../Load Model Picture Input/Goldstandard/Fließtext'
+model_output_path = '../Load Model Picture Input/Modell_Output/Qwen7b/Fließtext'
+output_path = 'Evaluation of the Output/BoW_Detail/Fließtext/Cleaned'  # Ordner für die detaillierten Outputs
 
-model_files = [f for f in os.listdir(model_output_path) if f.endswith('.txt')]
-gold_files = [f.replace('_output', '') for f in model_files]
+# Dateien filtern und Mappen erstellen
+model_files = [f for f in os.listdir(model_output_path) if f.startswith('Fließtext_') and f.endswith('_output.txt')]
+gold_files = [f for f in os.listdir(goldstandard_path) if f.startswith('Goldstandard_') and f.endswith('.txt')]
 
+# Mapping anhand der Nummern aus den Dateinamen erstellen
+gold_to_model_mapping = {}
+for model_file in model_files:
+    model_number = model_file.split('_')[1]  # Extrahiert die Nummer aus 'Fließtext_1_output.txt'
+    gold_file = f"Goldstandard_{model_number}.txt"
+    if gold_file in gold_files:
+        gold_to_model_mapping[gold_file] = model_file
+
+# Ergebnisse berechnen
 results = {}
-for gold_file, model_file in zip(gold_files, model_files):
+for gold_file, model_file in gold_to_model_mapping.items():
     gold_text = read_and_clean_text(os.path.join(goldstandard_path, gold_file))
     model_text = read_and_clean_text(os.path.join(model_output_path, model_file))
     
@@ -78,11 +97,13 @@ for gold_file, model_file in zip(gold_files, model_files):
     
     results[model_file] = {'jaccard_index': jaccard_index, 'detail_file': detailed_filename}
 
+# Zusammenfassung schreiben
 summary_filename = os.path.join(output_path, 'evaluation_summary.txt')
 with open(summary_filename, 'w', encoding='utf-8') as file:
     for filename, data in results.items():
         file.write(f"{filename}: Jaccard-Index = {data['jaccard_index']:.2%}\n")
 
+# Ausgabe auf der Konsole
 for filename, data in results.items():
     print(f"{filename}: Detailed output written to {data['detail_file']}")
 print(f"Summary of results written to {summary_filename}")

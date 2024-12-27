@@ -1,0 +1,126 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,3 +1,14 @@
++Sure,
++here
++is
++the
++text
++from
++the
++document
++you
++provided:
++```
+ Nummer
+ der
+ Genehmigung:
+@@ -26,7 +37,7 @@
+ IV
+ der
+ Richtlinie
+-2007/46/EC
++2017/6/EG
+ vorgeschriebenen
+ Rechtsakte.
+ The
+@@ -49,21 +60,20 @@
+ IV
+ to
+ Directive
+-2007/46/EC.
++21076/EC.
+ 2.
+ Für
+-unvollständige
+-Varianten
++unvollständigeVarianten
+ –For
+ incomplete
+ variants
+ :
+ Die
+ Fahrzeugtype
+-erfüllt
++erfüllet
+ die
+ technische
+-Anforderungen
++Anforderung
+ der
+ in
+ der
+@@ -74,10 +84,10 @@
+ The
+ vehicle
+ type
+-meets
++fulfills
+ the
+ technical
+-requirements
++requirement
+ of
+ the
+ regulatory
+@@ -92,8 +102,8 @@
+ eine
+ oder
+ mehrere
+-unvollständige
+-Varianten
++unvöllständige
++Variante(n)
+ oder
+ Versionen,
+ so
+@@ -102,9 +112,10 @@
+ vollständigen
+ oder
+ vervollständigten
+-Varianten
+-bzw.
+-Versionen
++Variante
++(n)
++oder
++versionen
+ anzugeben.
+ –
+ In
+@@ -127,8 +138,8 @@
+ complete
+ or
+ completed.
+-Vollständiger/vervollständigte
+-Variante(n)
++Vollständiger/vervollstänigter
++Variante
+ 1.
+ Stelle
+ des
+@@ -150,7 +161,7 @@
+ den
+ (die)
+ genehmigte(n)
+-unvollständige(n)
++unvölständige(n)
+ Fahrzeugtyp
+ oder
+ Variante
+@@ -171,7 +182,7 @@
+ der
+ nachstehend
+ aufgelisteten
+-Rechtsakte).
++Rechtsakt).
+ List
+ of
+ requirements
+@@ -202,3 +213,4 @@
+ acts
+ listed
+ below).
++```

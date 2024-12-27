@@ -1,0 +1,43 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -89,7 +89,7 @@
+ throttle
+ position
+ sensors
+-(TPS).
++(TP).
+ The
+ sensor
+ is
+@@ -100,7 +100,7 @@
+ potentiometer.
+ The
+ throttle
+-Position
++position
+ sensors
+ provide
+ information
+@@ -235,9 +235,9 @@
+ Throtte
+ Position
+ Sensor
+-(TP
++(
++TP
+ Sensor)
+--
+ The
+ TP
+ Sensor
+@@ -267,7 +267,7 @@
+ ECM
+ with
+ information
+-About
++about
+ throttle
+ angle
+ for
