@@ -10,7 +10,7 @@ Wortbasierte Metriken:
 - Levenshtein-Distanz (Wörter): 26
 - Relative Levenshtein-Distanz (Wörter): 12.75%
 - Word Error Rate (WER): 12.75%
-- Anzahl korrekt erkannter Wörter: 185 / 204 (90.69%)
+- Anzahl korrekt erkannter Wörter: 180 / 204 (88.24%)
 - Fehlende Wörter: 14
 - Zusätzliche Wörter: 16
 

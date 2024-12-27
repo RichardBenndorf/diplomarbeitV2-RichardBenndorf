@@ -4,6 +4,7 @@ from sklearn.metrics import precision_score, recall_score, f1_score
 from sklearn.feature_extraction.text import TfidfVectorizer
 from nltk.translate.bleu_score import sentence_bleu
 import os
+from collections import Counter
 
 def cosine_similarity(text1, text2):
     vectorizer = TfidfVectorizer()
@@ -32,8 +33,12 @@ def evaluate_extraction(goldstandard_path, extracted_path):
     word_error_rate = word_distance / len(goldstandard_words) if len(goldstandard_words) > 0 else 0
     relative_word_distance = word_distance / max(len(goldstandard_words), len(extracted_words)) if max(len(goldstandard_words), len(extracted_words)) > 0 else 0
 
-    # Anzahl korrekt erkannter Wörter (ohne Berücksichtigung der Reihenfolge)
-    correct_words = sum(1 for word in extracted_words if word in goldstandard_words)
+    # Häufigkeiten der Wörter berechnen
+    goldstandard_word_count = Counter(goldstandard_words)
+    extracted_word_count = Counter(extracted_words)
+
+    # Anzahl korrekt erkannter Wörter berechnen (unter Berücksichtigung der Häufigkeiten)
+    correct_words = sum(min(goldstandard_word_count[word], extracted_word_count[word]) for word in extracted_word_count)
     total_words = len(goldstandard_words)
     correct_word_percentage = (correct_words / total_words) * 100 if total_words > 0 else 0
 
@@ -96,7 +101,7 @@ Weitere Metriken:
 
     return summary_content, detailed_content
 
-def process_all_files(goldstandard_directory="../../Load Model Picture Input/Goldstandard/Fließtext", extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen/Fließtext", output_directory="Ergebnis_Qwen"):
+def process_all_files(goldstandard_directory="../../Load Model Picture Input/Goldstandard/Fließtext", extracted_directory="../../Load Model Picture Input/Modell_Output/Docling/Fließtext", output_directory="Ergebnis_Docling"):
     # Sicherstellen, dass das Ausgabe-Verzeichnis existiert
     os.makedirs(output_directory, exist_ok=True)
 
@@ -104,7 +109,7 @@ def process_all_files(goldstandard_directory="../../Load Model Picture Input/Gol
         if file_name.startswith("Goldstandard_") and file_name.endswith(".txt"):
             index = file_name.split("_")[1].split(".")[0]
             goldstandard_path = os.path.join(goldstandard_directory, file_name)
-            extracted_path = os.path.join(extracted_directory, f"Fließtext_{index}_output.txt")
+            extracted_path = os.path.join(extracted_directory, f"Fließtext_{index}.txt")
 
             if os.path.exists(extracted_path):
                 summary, details = evaluate_extraction(goldstandard_path, extracted_path)

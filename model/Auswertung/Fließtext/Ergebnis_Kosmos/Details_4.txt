@@ -1,0 +1,178 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -74,10 +74,10 @@
+ and
+ general
+ operation.
+-Throttle
++**Throttle
+ Position
+ Sensor
+-(TPS)
++(TPS)**
+ The
+ throttle
+ induction
+@@ -100,7 +100,7 @@
+ potentiometer.
+ The
+ throttle
+-Position
++position
+ sensors
+ provide
+ information
+@@ -113,11 +113,11 @@
+ and
+ spark
+ timing.
+-Crankshaft
++**Crankshaft
+ Position
+ Sensor
+ (CKP
+-Sensor)
++Sensor)**
+ The
+ CKP
+ Sensor
+@@ -176,12 +176,12 @@
+ Center
+ (TDC)
+ reference.
+-Engine
++**Engine
+ Coolant
+ Temperature
+ Sensor
+ (ECT
+-Sensor)
++Sensor)**
+ -
+ The
+ ECT
+@@ -232,18 +232,18 @@
+ during
+ elevated
+ temperatures.
+-Throtte
++**Throttle
+ Position
+ Sensor
+ (TP
+-Sensor)
++Sensor)**
+ -
+ The
+ TP
+ Sensor
+ is
+ a
+-potentiomter
++potentiometer
+ mounted
+ on
+ the
+@@ -267,7 +267,7 @@
+ ECM
+ with
+ information
+-About
++about
+ throttle
+ angle
+ for
+@@ -276,14 +276,14 @@
+ and
+ spark
+ timing.
+-Oxygen
+-Sensor
+-(O2)
+-Sensor
++**Oxygen
++Sensor
++(O~2~)
++Sensor**
+ -
+ Two
+ heated
+-O2
++O~2~
+ Sensors
+ are
+ used,
+@@ -299,7 +299,7 @@
+ exhaust
+ ports.
+ The
+-O2
++O~2~
+ Sensor
+ measures
+ oxygen
+@@ -313,7 +313,7 @@
+ input
+ from
+ the
+-O2
++O~2~
+ Sensor
+ to
+ keep
+@@ -322,10 +322,10 @@
+ fuel
+ mixture
+ balanced.
+-OTHER
+-FEATURES:
+-Wire
+-Harnesses
++**OTHER
++FEATURES:**
++**Wire
++Harnesses**
+ -
+ The
+ EFI
+@@ -339,11 +339,11 @@
+ on
+ the
+ vehicle.
+-Low
++**Low
+ Level
+ Fuel
+ Warning
+-Lamp
++Lamp**
+ -
+ A
+ fuel
+@@ -408,9 +408,9 @@
+ inside
+ the
+ tank.
+-Fuses
+-and
+-Relays
++**Fuses
++and
++Relays**
+ -
+ One
+ electrical
+@@ -449,9 +449,9 @@
+ contains
+ spare
+ fuses.
+-Check
++**Check
+ Engine
+-Lamp
++Lamp**
+ -
+ The
+ Check

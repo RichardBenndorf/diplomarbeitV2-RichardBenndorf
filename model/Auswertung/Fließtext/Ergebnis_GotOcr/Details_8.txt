@@ -1,0 +1,154 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -45,11 +45,10 @@
+ April
+ rückten
+ jedoch
+-amerikanischer
++amerikanische
+ Panzer
+-in
+-das
+-Eisenach
++im
++Eisenacher
+ Werk
+ ein,
+ noch
+@@ -70,7 +69,7 @@
+ zum
+ 5.
+ Juni
+-1045
++1945
+ endgültig
+ der
+ sowjetischen
+@@ -80,9 +79,9 @@
+ übernahmen
+ am
+ 03.Juli
+-1454
++1945
+ das
+-Eisenachers
++Eisenacher
+ Werk.
+ Die
+ Sowjets
+@@ -149,14 +148,14 @@
+ die
+ gebauten
+ R
+-5
++35
+ und
+ befanden
+ sie
+ für
+ gut
+ und
+-verfügt
++verfügten
+ daraufhin
+ den
+ Bau
+@@ -188,7 +187,7 @@
+ Sowjets
+ umzustimmen.
+ Im
+-Hauptquartier
++Hauptquarter
+ der
+ Sowjets
+ wurde
+@@ -205,7 +204,7 @@
+ Der
+ Trick
+ saß,
+-Shukov
++Shukow
+ verlangte
+ weitere
+ fünf
+@@ -217,7 +216,7 @@
+ Herstellung
+ der
+ Fahrzeuge
+-gelang
++glang
+ und
+ mit
+ Befehl
+@@ -241,7 +240,7 @@
+ war
+ die
+ drohende
+-Demontage
++Domontage
+ abgewendet.
+ Jährlich
+ sollten
+@@ -277,7 +276,8 @@
+ Produktion
+ der
+ BMW
+-R35
++R
++35
+ zum
+ zweiten
+ Mal.
+@@ -323,7 +323,7 @@
+ wurden:
+ "Sie
+ (die
+-Widerspruche)
++Widersprüche)
+ sind
+ nur
+ zu
+@@ -343,7 +343,7 @@
+ deutschen
+ Imperialismus
+ stehenden
+-Monopolherren
++Monopolhreren
+ und
+ Kriegstreiber
+ der
+@@ -360,7 +360,7 @@
+ die
+ Sowjetische
+ Aktiengesellschaft
+-Awtovelo
++Avwetolo
+ eingegliedert.
+ Die
+ Planwirtschaft
+@@ -378,12 +378,12 @@
+ Herstellung
+ von
+ 70
+-Motorrändern,
++Motorrädern,
+ gefertigt
+ wurden
+ 16.
+ Für
+-das
++die
+ Jahre
+ 1946-48
+ sind
+@@ -404,7 +404,7 @@
+ stieg
+ die
+ jährliche
+-Fertigungszahl
++Fertigungsstückzahl
+ von
+ 4250
+ im

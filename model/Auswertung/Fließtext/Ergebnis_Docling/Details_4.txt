@@ -1,0 +1,239 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,13 +1,13 @@
+ The
+ TMAP
+-Sensor,
++Sensor;
+ mounted
+ on
+ the
+ throttle
+ induction
+ module
+-assembly,
++assembly
+ monitors
+ both
+ manifold
+@@ -68,12 +68,13 @@
+ delivery
+ during
+ cold
+-start,
++start;
+ warm
+ up
+ and
+ general
+ operation.
++##
+ Throttle
+ Position
+ Sensor
+@@ -91,8 +92,7 @@
+ sensors
+ (TPS).
+ The
+-sensor
+-is
++sensoris
+ a
+ single
+ slope
+@@ -100,7 +100,7 @@
+ potentiometer.
+ The
+ throttle
+-Position
++position
+ sensors
+ provide
+ information
+@@ -112,7 +112,8 @@
+ fuel
+ and
+ spark
+-timing.
++timing
++##
+ Crankshaft
+ Position
+ Sensor
+@@ -122,7 +123,7 @@
+ CKP
+ Sensor
+ is
+-a
++&
+ magnetic
+ pickup
+ device
+@@ -135,17 +136,15 @@
+ cover
+ near
+ the
+-top.
+ To
+ calculate
+ engine
+ speed
+ for
+ the
+-ECM,
++ECM;
+ the
+ sensor
+-picks
+ up
+ signals
+ from
+@@ -170,19 +169,20 @@
+ two
+ teeth,
+ establishes
+-a
++:
+ Top
+ Dead
+ Center
+ (TDC)
+-reference.
++reference
++top.
++picks
+ Engine
+ Coolant
+ Temperature
+ Sensor
+ (ECT
+ Sensor)
+--
+ The
+ ECT
+ Sensor
+@@ -232,18 +232,17 @@
+ during
+ elevated
+ temperatures.
+-Throtte
++Throttle
+ Position
+ Sensor
+ (TP
+ Sensor)
+--
+ The
+ TP
+ Sensor
+ is
+-a
+-potentiomter
++:
++potentiometer
+ mounted
+ on
+ the
+@@ -267,7 +266,7 @@
+ ECM
+ with
+ information
+-About
++about
+ throttle
+ angle
+ for
+@@ -278,9 +277,8 @@
+ timing.
+ Oxygen
+ Sensor
+-(O2)
+-Sensor
+--
++(Oz)
++Sensor
+ Two
+ heated
+ O2
+@@ -322,30 +320,29 @@
+ fuel
+ mixture
+ balanced.
++##
+ OTHER
+-FEATURES:
++FEATURES;
+ Wire
+ Harnesses
+--
+ The
+ EFI
+ wire
+ harness
+-is
+-the
+-only
++i5
++the
+ wire
+ harness
+ on
+ the
+ vehicle.
++only
+ Low
+ Level
+ Fuel
+ Warning
+ Lamp
+--
+-A
++4
+ fuel
+ gauge
+ and
+@@ -381,7 +378,7 @@
+ is
+ turned
+ off
+-or
++Or
+ fuel
+ is
+ added.
+@@ -389,7 +386,7 @@
+ lamp
+ is
+ designed
+-so
++s0
+ that
+ it
+ will
+@@ -407,11 +404,10 @@
+ slosh
+ inside
+ the
+-tank.
++tank
+ Fuses
+ and
+ Relays
+--
+ One
+ electrical
+ relay
+@@ -449,10 +445,9 @@
+ contains
+ spare
+ fuses.
+-Check
++check
+ Engine
+ Lamp
+--
+ The
+ Check
+ Engine

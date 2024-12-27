@@ -1,0 +1,318 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,6 +1,6 @@
+ Throttle
+-Body
+-(TB)
++Body（
++TB)
+ and
+ fuel
+ rail
+@@ -66,7 +66,8 @@
+ sensors
+ provide
+ the
+-ECM
++E
++CM
+ with
+ data
+ on
+@@ -90,12 +91,14 @@
+ follows.
+ Crankshaft
+ Position
+-Sensor
+-(CKP
++Sensor(
++CK
++P
+ Sensor)
+ -
+ The
+-CKP
++CK
++P
+ Sensor
+ is
+ a
+@@ -118,7 +121,8 @@
+ speed
+ for
+ the
+-ECM,
++E
++CM,
+ the
+ sensor
+ picks
+@@ -149,14 +153,16 @@
+ a
+ Top
+ Dead
+-Center
+-(TDC)
++Center(
++TD
++C)
+ reference.
+ Coolant
+ Temperature
+-Sensor
+-(ET
+-Sensor)-
++Sensor(
++ET
++Sensor)
++-
+ The
+ ET
+ Sensor
+@@ -172,7 +178,8 @@
+ between
+ the
+ engine
+-‘V’.
++V'
++.
+ This
+ information
+ is
+@@ -180,10 +187,12 @@
+ used
+ by
+ the
+-ECM
++E
++CM
+ during
+ engine
+-warm-up
++warm-
++up
+ periods
+ for
+ the
+@@ -193,7 +202,8 @@
+ speed
+ adjustment.
+ The
+-ECM
++E
++CM
+ also
+ uses
+ the
+@@ -203,24 +213,29 @@
+ injector
+ pulse
+ width.
+-Intake
++In
++take
+ Air
+ Temperature
+-Sensor
+-(IAT
+-Sensor)-
++Sensor(
++I
++AT
++Sensor)
++-
+ Located
+ in
+ the
+ front
+ cylinder
+-intake,
++in
++take,
+ the
+ data
+ provided
+ by
+ the
+-IAT
++I
++AT
+ Sensor
+ is
+ used
+@@ -236,8 +251,8 @@
+ to
+ determine
+ oxygen
+-content
+-(air
++content(
++air
+ density)
+ for
+ adjustment
+@@ -248,12 +263,13 @@
+ cold
+ starting
+ and
+-warm-up.
++warm-
++up.
+ Manifold
+ Air
+ Pressure
+-Sensor
+-(MAP
++Sensor(
++MAP
+ Sensor)
+ -
+ The
+@@ -264,7 +280,8 @@
+ the
+ front
+ cylinder
+-intake,
++in
++take,
+ monitors
+ manifold
+ air
+@@ -280,8 +297,8 @@
+ timing.
+ Throttle
+ Position
+-Sensor
+-(TP
++Sensor(
++TP
+ Sensor)
+ -
+ The
+@@ -289,7 +306,9 @@
+ Sensor
+ is
+ a
+-potentiometer
++potenti
++o
++meter
+ mounted
+ on
+ the
+@@ -307,7 +326,8 @@
+ It
+ provides
+ the
+-ECM
++E
++CM
+ with
+ information
+ about
+@@ -322,8 +342,7 @@
+ Other
+ Features
+ Wire
+-Harnesses
+--
++Harnesses-
+ There
+ is
+ a
+@@ -347,8 +366,7 @@
+ Level
+ Fuel
+ Warning
+-Lamp
+--
++Lamp-
+ Since
+ the
+ fuel
+@@ -367,7 +385,8 @@
+ low
+ fuel
+ level
+-warning
++wamin
++g
+ lamp
+ have
+ been
+@@ -424,8 +443,7 @@
+ tank.
+ Fuses
+ and
+-Relays
+--
++Relays-
+ One
+ electrical
+ relay
+@@ -477,8 +495,7 @@
+ spare
+ fuses.
+ Air
+-Cleaner
+--
++Cleaner-
+ The
+ air
+ cleaner
+@@ -486,8 +503,7 @@
+ mounted
+ in
+ the
+-air
+-box.
++airbox.
+ It
+ is
+ located
+@@ -516,16 +532,15 @@
+ condition.
+ Data
+ Link
+-Connector
+--The
+-EFI
++Connector-
++The
++EFl
+ system
+ provides
+ two
+ levels
+ of
+-on
+-board
++onboard
+ diagnostics
+ to
+ assist
+@@ -547,12 +562,14 @@
+ connected
+ to
+ the
+-ECM
++E
++CM
+ and
+ allows
+ for
+ an
+-in-depth
++in-
++depth
+ diagnosis.
+ In
+ the
+@@ -594,4 +611,4 @@
+ Lamp
+ or
+ the
+-Scanalyser.
++Scanalyzer.

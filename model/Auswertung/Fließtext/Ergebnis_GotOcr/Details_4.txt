@@ -1,0 +1,40 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -100,7 +100,7 @@
+ potentiometer.
+ The
+ throttle
+-Position
++position
+ sensors
+ provide
+ information
+@@ -232,7 +232,7 @@
+ during
+ elevated
+ temperatures.
+-Throtte
++Throttle
+ Position
+ Sensor
+ (TP
+@@ -243,7 +243,7 @@
+ Sensor
+ is
+ a
+-potentiomter
++potentiometer
+ mounted
+ on
+ the
+@@ -267,7 +267,7 @@
+ ECM
+ with
+ information
+-About
++about
+ throttle
+ angle
+ for

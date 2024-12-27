@@ -1,0 +1,14 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -263,6 +263,6 @@
+ configuration
+ (5)):
+ siehe
+-2.11
+-see
+-2.11
++2.11.
++see
++2.11.

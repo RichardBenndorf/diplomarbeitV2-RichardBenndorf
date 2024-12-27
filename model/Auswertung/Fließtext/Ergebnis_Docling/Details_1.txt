@@ -1,0 +1,152 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,3 +1,4 @@
++##
+ Collateral
+ clauses
+ and
+@@ -6,6 +7,7 @@
+ right
+ to
+ appeal
++##
+ Collateral
+ clauses
+ All
+@@ -31,11 +33,9 @@
+ is
+ as
+ follows:
+--
+ see
+ German
+ version
+--
+ The
+ individual
+ production
+@@ -71,7 +71,8 @@
+ name
+ of
+ the
+-company,
++company
++,
+ the
+ address
+ and
+@@ -91,7 +92,7 @@
+ to
+ delivery
+ or
+-authorized
++authorised
+ representative
+ named
+ when
+@@ -101,12 +102,12 @@
+ granted
+ is
+ to
++be
+ immediately
+ disclosed
+ to
+ the
+-Kraftfahrt
+-Bundesamt.
++Kraftfahrt-Bundesamt.
+ Breach
+ of
+ this
+@@ -144,7 +145,8 @@
+ with
+ the
+ legal
+-requirements.
++requirements
++.
+ The
+ revocation
+ can
+@@ -191,7 +193,7 @@
+ conditions
+ to
+ this
+-approval,
++approval;
+ or
+ if
+ it
+@@ -200,6 +202,7 @@
+ that
+ the
+ approved
++type
+ does
+ not
+ comply
+@@ -213,7 +216,7 @@
+ environmental
+ protection.
+ The
+-Kraftfahr-Bundestamt
++Kraftfahrt-Bundesamt
+ may
+ check
+ the
+@@ -239,6 +242,7 @@
+ production
+ as
+ well
++as
+ the
+ measures
+ for
+@@ -264,7 +268,6 @@
+ the
+ Kraftfahrt-Bundesamt
+ may
+-get
+ unhindered
+ access
+ to
+@@ -273,6 +276,7 @@
+ and
+ storage
+ facilities.
++get
+ The
+ conferred
+ authority
+@@ -297,10 +301,11 @@
+ with
+ this
+ approval.
++##
+ Instruction
+ on
+ right
+-of
++to
+ appeal
+ This
+ approval
+@@ -316,7 +321,8 @@
+ appeal
+ is
+ to
+-file
++be
++filed
+ in
+ writing
+ or
+@@ -329,4 +335,4 @@
+ Fördestraße
+ 16,
+ DE-24944
+-Flensburg.
++Flensburg:

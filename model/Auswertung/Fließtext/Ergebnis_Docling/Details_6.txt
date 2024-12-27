@@ -1,0 +1,94 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,3 +1,4 @@
++##
+ 4
+ Schlussbescheinigung
+ /
+@@ -13,31 +14,36 @@
+ darin
+ beschriebene
+ Typ
+--
+-entspricht
+--
++e
++nt
++s
++p
++ri
++cht
+ der
+-o.
+-a.
++0
++a
+ Prüfspezifikation.
+ The
+-information
++inforation
+ document
+ as
+ mentioned
+ under
+-No.
+-5
++No
++0.5
+ and
+ the
+ type
+ described
+ therein
+ are
+--
+-in
+-compliance
+--
++~in
++c0
++M
++plian
++c
++e
+ with
+ the
+ test
+@@ -58,10 +64,10 @@
+ den
+ zu
+ genehmigenden
+-Typ
+-repräsentativ
++reprasentativ
+ (siehe
+ 1.1).
++Typ
+ With
+ regard
+ to
+@@ -166,6 +172,7 @@
+ Test
+ Laboratory
+ only.
++##
+ PRÜFLABORATORIUM
+ /
+ TEST
+@@ -179,12 +186,12 @@
+ Bundesrepublik
+ Deutschland
+ designated
+-by
+ designation
+ department
+ of
+-Kraftfahr-Bundesanamt,
++Kraftfahrt-Bundesamt;
+ Federal
+ Republic
+ of
+ Germany
++by

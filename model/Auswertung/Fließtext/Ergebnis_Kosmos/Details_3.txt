@@ -1,0 +1,147 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,21 +1,22 @@
+ Nummer
+ der
+ Genehmigung:
+-e1*2007/46*0734*03
++e1\*2007/46\*0734\*03
+ Approval
+ No.:
+ 1.
+ Für
+ vollständige
+ Varianten
+-–
++-
+ For
+ complete
+ variants
+ :
++&gt;
+ Der
+ Fahrzeugtyp
+-erfüllt
++**erfüllt**
+ die
+ technischen
+ Anforderungen
+@@ -26,13 +27,15 @@
+ IV
+ der
+ Richtlinie
+-2007/46/EC
++2007/46/EG
+ vorgeschriebenen
+ Rechtsakte.
++&gt;
++&gt;
+ The
+ vehicle
+ type
+-meets
++**meets**
+ the
+ technical
+ requirements
+@@ -50,31 +53,33 @@
+ to
+ Directive
+ 2007/46/EC.
+-2.
++1.
+ Für
+ unvollständige
+ Varianten
+-–For
++-
++For
+ incomplete
+ variants
+ :
+-Die
+-Fahrzeugtype
+-erfüllt
+-die
+-technische
++&gt;
++Der
++Fahrzeugtyp
++**erfüllt**
++die
++technischen
+ Anforderungen
+ der
+ in
+ der
+ Tabelle
+ aufgeführten
+-Rechtsakten
++Rechtsakte
+ -
+ The
+ vehicle
+ type
+-meets
++**meets**
+ the
+ technical
+ requirements
+@@ -94,7 +99,7 @@
+ mehrere
+ unvollständige
+ Varianten
+-oder
++bzw.
+ Versionen,
+ so
+ sind
+@@ -106,7 +111,7 @@
+ bzw.
+ Versionen
+ anzugeben.
+-–
++-
+ In
+ the
+ case
+@@ -127,23 +132,23 @@
+ complete
+ or
+ completed.
+-Vollständiger/vervollständigte
++Vollständige/vervollständigte
+ Variante(n)
+-1.
++**1.
+ Stelle
+ des
+ Variantenschlüssels:
+-K
++K**
+ -
+ Complete/completed
+ variant(s):
+-1.
++**1.
+ digit
+ in
+ code
+ of
+ variants:
+-K
++K**
+ Aufstellung
+ der
+ für
+@@ -198,7 +203,7 @@
+ each
+ of
+ the
+-regulative
++regulatory
+ acts
+ listed
+ below).

@@ -1,0 +1,70 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,7 +1,7 @@
+-4
+ Schlussbescheinigung
+ /
+ Certification
++4
+ Der
+ unter
+ Nr.
+@@ -14,7 +14,16 @@
+ beschriebene
+ Typ
+ -
+-entspricht
++e
++n
++t
++s
++p
++r
++i
++c
++h
++t
+ -
+ der
+ o.
+@@ -27,7 +36,7 @@
+ mentioned
+ under
+ No.
+-5
++0.5
+ and
+ the
+ type
+@@ -35,8 +44,18 @@
+ therein
+ are
+ -
+-in
+-compliance
++i
++n
++c
++o
++m
++p
++l
++i
++a
++n
++c
++e
+ -
+ with
+ the
+@@ -183,7 +202,7 @@
+ designation
+ department
+ of
+-Kraftfahr-Bundesanamt,
++Kraftfahrt-Bundesamt,
+ Federal
+ Republic
+ of

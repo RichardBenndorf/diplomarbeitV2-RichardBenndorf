@@ -1,0 +1,24 @@
+
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Levenshtein-Distanz (Zeichen): 47
+- Relative Levenshtein-Distanz (Zeichen): 3.03%
+- Character Error Rate (CER): 3.03%
+
+Wortbasierte Metriken:
+- Levenshtein-Distanz (Wörter): 31
+- Relative Levenshtein-Distanz (Wörter): 14.90%
+- Word Error Rate (WER): 15.20%
+- Anzahl korrekt erkannter Wörter: 181 / 204 (88.73%)
+- Fehlende Wörter: 20
+- Zusätzliche Wörter: 18
+
+Semantische Metriken:
+- Cosine Similarity: 97.98%
+- BLEU Score: 73.62%
+
+Weitere Metriken:
+- Precision: 98.42%
+- Recall: 91.67%
+- F1-Score: 94.92%
