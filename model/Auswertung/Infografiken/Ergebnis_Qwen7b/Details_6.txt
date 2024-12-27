@@ -1,0 +1,11 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -9,5 +9,5 @@
+ TURNSIGNAL
+ with
+ STEM
+-MIRROR
++MIRRO
+ LOCATION

@@ -96,7 +96,7 @@ Weitere Metriken:
 
     return summary_content, detailed_content
 
-def process_all_files(goldstandard_directory="../../Load Model Picture Input/Goldstandard/Fließtext", extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen/Fließtext", output_directory="Ergebnis/Qwen"):
+def process_all_files(goldstandard_directory="../../Load Model Picture Input/Goldstandard/Infografiken", extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen7b/Diagramme und infografische Elemente", output_directory="Ergebnis"):
     # Sicherstellen, dass das Ausgabe-Verzeichnis existiert
     os.makedirs(output_directory, exist_ok=True)
 
@@ -104,7 +104,7 @@ def process_all_files(goldstandard_directory="../../Load Model Picture Input/Gol
         if file_name.startswith("Goldstandard_") and file_name.endswith(".txt"):
             index = file_name.split("_")[1].split(".")[0]
             goldstandard_path = os.path.join(goldstandard_directory, file_name)
-            extracted_path = os.path.join(extracted_directory, f"Fließtext_{index}_output.txt")
+            extracted_path = os.path.join(extracted_directory, f"Diagramme_und_infografische_Elemente_{index}_output.txt")  # Unterstrich vor {index}
 
             if os.path.exists(extracted_path):
                 summary, details = evaluate_extraction(goldstandard_path, extracted_path)
@@ -123,6 +123,7 @@ def process_all_files(goldstandard_directory="../../Load Model Picture Input/Gol
                 print(f"Auswertung für Datei {index} abgeschlossen. Ergebnisse gespeichert.")
             else:
                 print(f"Passende Datei für {file_name} nicht gefunden.")
+
 
 # Beispielaufruf
 process_all_files()

@@ -1,0 +1,38 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -10,7 +10,7 @@
+ Filter
+ Cover
+ Air
+-Filter
++filter
+ Gasket,
+ Air
+ Box
+@@ -19,20 +19,12 @@
+ Bottom
+ Velocity
+ Stack
+-(front)
+-Version:
+-G#####
+-29438-01
+-T#####
+-29464-01
+-Velocity
+-Stack
+ (rear)
+ Version:
+-G#####
+-29521-01
+-T#####
+-29484-01
++G####
++29438-01
++T####
++20484-001
+ Air
+ Cleaner
+ Bottom

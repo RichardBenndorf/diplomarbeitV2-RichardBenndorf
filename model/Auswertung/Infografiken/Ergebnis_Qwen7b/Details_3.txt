@@ -1,0 +1,60 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -11,12 +11,9 @@
+ LEFT-HAND
+ CONTROL
+ RIGHT-HAND
+-CONTROL
++Control
+ ELECTRIC
+ STARTER
+-IGNITION
+-ON/OFF
+-SWITCH
+ INDICATOR
+ LIGHTS
+ -
+@@ -30,23 +27,25 @@
+ GEAR
+ BOX
+ NEUTRAL
+-(COLOR:
++(COLOR
++:
+ GREEN)
+ LEFT
+ TURN
+ SIGNAL
+-(COLOR:
++(COLOR;
+ GREEN)
+ ENGINE
+ OIL
+-(COLOR:
++(COLOR
++;
+ RED)
+ ABS
+ FUEL
+ LEVEL
+ (COLOR
+ AMBER)
+-HEADLIGHTS
++HEADLIGHT
+ (HIGH
+ BEAM)
+ (COLOR
+@@ -54,9 +53,9 @@
+ RIGHT
+ TURN
+ SIGNAL
+-(COLOR:
++COLOR:
+ GREEN)
+ CHECK
+ ENGINE
+-(COLOR:
++(COLOR.
+ AMBER)

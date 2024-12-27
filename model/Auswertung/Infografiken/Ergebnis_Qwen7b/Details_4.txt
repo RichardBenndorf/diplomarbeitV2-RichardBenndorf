@@ -1,0 +1,20 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -3,7 +3,7 @@
+ LIGHTING
+ DEVICES
+ Version(s):
+-####T#
++###T#
+ Side
+ Reflex
+ Reflectors
+@@ -30,5 +30,4 @@
+ Indicators
+ Rear
+ Direction
+-Indicators
+-FRONT
++Indicato
