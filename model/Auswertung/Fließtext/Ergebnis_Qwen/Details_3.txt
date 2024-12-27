@@ -1,0 +1,135 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -26,7 +26,7 @@
+ IV
+ der
+ Richtlinie
+-2007/46/EC
++2017/66/EG
+ vorgeschriebenen
+ Rechtsakte.
+ The
+@@ -42,42 +42,42 @@
+ relevant
+ regulatory
+ acts
+-as
+ prescribed
+ in
+ Annex
+ IV
+ to
+ Directive
+-2007/46/EC.
++27/20/EC.
+ 2.
+ Für
+ unvollständige
+-Varianten
+-–For
++Variante
++–
++For
+ incomplete
+ variants
+ :
+-Die
+-Fahrzeugtype
+-erfüllt
++Der
++FahrzeugTyp
++erfüllet
+ die
+ technische
+-Anforderungen
++Anforderung
+ der
+ in
+ der
+ Tabelle
+ aufgeführten
+-Rechtsakten
+--
++Rechtsakt
++–
+ The
+ vehicle
+ type
+ meets
+ the
+ technical
+-requirements
++requirement
+ of
+ the
+ regulatory
+@@ -92,9 +92,8 @@
+ eine
+ oder
+ mehrere
+-unvollständige
+-Varianten
+-oder
++unvOLLständigeVarianten
++bzw.
+ Versionen,
+ so
+ sind
+@@ -103,7 +102,7 @@
+ oder
+ vervollständigten
+ Varianten
+-bzw.
++bzw
+ Versionen
+ anzugeben.
+ –
+@@ -127,18 +126,16 @@
+ complete
+ or
+ completed.
+-Vollständiger/vervollständigte
++Vollständiger/vervollstandigter
+ Variante(n)
+-1.
+-Stelle
++1.Stelle
+ des
+-Variantenschlüssels:
++Variantenschlussels:
+ K
+ -
+ Complete/completed
+ variant(s):
+-1.
+-digit
++1.digit
+ in
+ code
+ of
+@@ -150,12 +147,12 @@
+ den
+ (die)
+ genehmigte(n)
+-unvollständige(n)
++unvollerständige(n)
+ Fahrzeugtyp
+ oder
+ Variante
+ bzw.
+-Version
++Versions
+ geltenden
+ Vorschriften
+ (jeweils
+@@ -198,7 +195,7 @@
+ each
+ of
+ the
+-regulative
++regulatary
+ acts
+ listed
+ below).

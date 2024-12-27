@@ -1,0 +1,150 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,52 +1,21 @@
+-4
+-Schlussbescheinigung
+-/
+-Certification
+ Der
+ unter
+-Nr.
++No.
+ 0.5
+ angegebene
+-Beschreibungsbogen
++Beschreibungsblock
+ und
+ der
+ darin
+ beschriebene
+ Typ
+--
+ entspricht
+--
+ der
+-o.
+-a.
++o.a.
+ Prüfspezifikation.
+-The
+-information
+-document
+-as
+-mentioned
+-under
+-No.
+-5
+-and
+-the
+-type
+-described
+-therein
+-are
+--
+-in
+-compliance
+--
+-with
+-the
+-test
+-specification
+-mentioned
+-above.
+ Die
+ verwendeten
+-Prüfmuster
++Prüfmaschinen
+ waren
+ im
+ Hinblick
+@@ -62,32 +31,8 @@
+ repräsentativ
+ (siehe
+ 1.1).
+-With
+-regard
+-to
+-the
+-required
+-level
+-of
+-performance
+-to
+-be
+-achieved,
+-the
+-tested
+-items
+-were
+-representative
+-for
+-the
+-type
+-to
+-be
+-approved
+-(see
+-1.1).
+ Dieser
+-Prüfbericht
++Prüferbericht
+ umfasst
+ Blatt
+ 1
+@@ -97,7 +42,7 @@
+ die
+ Anlagen.
+ Dieser
+-Prüfbericht
++Testbericht
+ darf
+ nur
+ vom
+@@ -105,7 +50,7 @@
+ und
+ nur
+ in
+-vollem
++voller
+ Wortlaut
+ vervielfältigt
+ und
+@@ -113,23 +58,23 @@
+ werden.
+ Eine
+ auszugsweise
+-Vervielfältigung
++Vervielfaltigung
+ und
+ Veröffentlichung
+ des
+-Prüfberichtes
++Prüfterberichtes
+ ist
+ nur
+ nach
+ schriftlicher
+ Genehmigung
+ des
+-Prüflaboratoriums
++Pruflaboratoriums
+ zulässig.
+ This
+ Test
+ Report
+-compromises
++comprises
+ pages
+ 1
+ to
+@@ -155,7 +100,7 @@
+ It
+ shall
+ be
+-reproduced
++replicated
+ partially
+ with
+ the

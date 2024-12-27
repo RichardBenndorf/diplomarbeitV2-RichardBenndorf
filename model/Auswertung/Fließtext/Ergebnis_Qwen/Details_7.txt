@@ -1,0 +1,123 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -34,7 +34,7 @@
+ materials
+ of
+ the
+-accessorie
++accessory
+ parts
+ are
+ to
+@@ -53,7 +53,6 @@
+ outside
+ environmental
+ influences.
+-5.
+ Kennzeichnung
+ des
+ Behälters
+@@ -61,7 +60,7 @@
+ on
+ the
+ fuel
+-tank)
++tanker)
+ Der
+ Behälter
+ ist
+@@ -87,7 +86,7 @@
+ to
+ the
+ fuel
+-tank;
++Tank;
+ it
+ shall
+ be
+@@ -126,18 +125,17 @@
+ Typ
+ und/oder
+ Handelsmarke
+-ww./opt.
+ Name
+ and/or
+ trademark
+ d)
+ TÜV-Kennzeichnung
+ 143XS0133
+-TÜV-marking
++TÜv-marking
+ Die
+ Gebrauchsfähigkeit
+ des
+-Behälters
++Behalters
+ ist
+ zu
+ überprüfen,
+@@ -154,13 +152,15 @@
+ Einbauverhältnisse
+ führen,
+ die
+-Behälterunterbringung,
+-die
+-Behälterbefestigung,
+-die
+-Behälterabmessungen,
++Behäl
++terunterbringung,
++die
++Beihalterbefestigung,
++die
++behälterabmessungen,
+ der
+-Behälterwerkstoff
++Behäl
++tersetwerkstoff
+ oder
+ das
+ Herstellungsverfahren
+@@ -171,7 +171,8 @@
+ ein
+ Nachtragsgutachten
+ der
+-TÜV
++TÜ
++V
+ Rheinland
+ Kraftfahrt
+ GmbH
+@@ -189,7 +190,8 @@
+ installation
+ of
+ the
+-fuel
++fu
++el
+ tank
+ -
+ or
+@@ -201,7 +203,7 @@
+ mounting
+ of
+ the
+-tank
++Tank
+ have
+ been
+ changed,
+@@ -210,9 +212,7 @@
+ approval
+ by
+ the
+-TÜV
+-Rheinland
+-Kraftfahrt
+-GmbH
++TÜ
++VRheinlandKraftfahrgmbh
+ is
+ necessary.

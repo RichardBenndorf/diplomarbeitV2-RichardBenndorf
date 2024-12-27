@@ -96,7 +96,7 @@ Weitere Metriken:
 
     return summary_content, detailed_content
 
-def process_all_files(goldstandard_directory="../../Load Model Picture Input/Goldstandard/Fließtext", extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen/Fließtext", output_directory="Ergebnis/Qwen"):
+def process_all_files(goldstandard_directory="../../Load Model Picture Input/Goldstandard/Fließtext", extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen/Fließtext", output_directory="Ergebnis_Qwen"):
     # Sicherstellen, dass das Ausgabe-Verzeichnis existiert
     os.makedirs(output_directory, exist_ok=True)
 
