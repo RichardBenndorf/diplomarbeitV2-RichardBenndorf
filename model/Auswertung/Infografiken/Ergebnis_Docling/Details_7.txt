@@ -1,0 +1,65 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,41 +1,24 @@
+-Kuehlwasser-Ausgang
+-Coolant
+-Outlet
+-Kuehlwaner-Eingang
+-Coolant
+-Inlet
+-AdBlue
+-Ausgang
+-AdBlue
+-Outlet
+-AdBlue
+-Eingang
+-AdBlue
+-Inlet
+-ACM-Box
+-Dosiereinheit
+-Dosing
+-Unit
++<!--
++image
++-->
+ LU
+-Versorgungseinheit
++Yersprgungseinheit
+ 12/24
+-V
+-LU
++Y
++Ll
+ Supply
+-Unit
++Init
+ 12/24
+-V
+-Durchfluß
+-bei
++"
++[urchfluB
++bpi
+ 2500
+-U/min
+-gegen
+-10
+-bar
+-Flow
+-Rate
+-At
+-2500rpm
+-Toward
+-10
+-bar
++Ulnin
++@Pren
++ICtar
++Flon
++Hate
++at
++2sjorpn
++Iqbarg
++Jobar

@@ -1,0 +1,84 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,49 +1,67 @@
++#
+ NOTE
++##
+ STEERING
+ ANGLE
+ R
+ :
+-46*
++45°
+ L
+ :
+-46*
++45°
++###
+ ANGLE
+ OF
+ LOCKED
+ STEERING
+-R:
+-43*
+-L:
+-43*
++R
++:
++43°
++L
++:
++43°
++###
+ STOPPER
+ HANDLE
+ LOCK
+-MATERIAL:STEEL
++###
++MATERIAL:
++STEEL
++####
+ M6
+ BOLT
+-(2
+-PIECES)
+-64.6
++####
++(2PIECES)
++####
+ LOCK
+ PIN
++####
+ MATERIAL:
+ CARBON
+ STEEL
++####
+ LOCK
+ BODY
++####
+ MATERIAL:
+ Zn
+ ALLOY
++###
+ STEERING
+ HANDLE
++####
+ LOCK
+ STAY
+ t3.2
+-MATERIAL
+-:STEEL
++####
++MATERIAL:
++STEEL
++####
+ LOCK
+ TYPE
++####
+ SHPO
++###
+ STEERING
+ HEAD
+ PIPE

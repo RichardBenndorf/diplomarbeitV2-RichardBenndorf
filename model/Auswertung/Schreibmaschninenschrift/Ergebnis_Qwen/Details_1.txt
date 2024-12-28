@@ -1,0 +1,293 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,16 +1,15 @@
+-...
+-Ausfertigung
+ Allgemeine
+ Betriebserlaubnis
+ Nr.
+ 207
+-Für
++für
+ die
+ Zugmaschinen
+ (Ackerschlepper)
+ Typ
+ 35
+-Ackerbulldog
++Acker-
++bulldog
+ D
+ 8506
+ der
+@@ -32,10 +31,10 @@
+ für
+ den
+ Kraftfahrzeugverkehr
+-(TÜ
++(ZGV
+ Mannheim)
+ in
+-Mannheim
++Mannhein
+ vom
+ 4.
+ November
+@@ -45,28 +44,28 @@
+ die
+ reihenweise
+ gefertigten
+-Zugmaschinen
+-(Ackerschlepper)
++Zugmaschen
++(Ackershlepperer)
+ Typ.
+-35
+-PS
+-Ackerbulldog
+-D
+-8506
+-der
++3S
++Ackerbldog
++D.
++8S06
++dcr
+ Firma
+-Heinrich
+-Lanz
++Heihrich
++L.
++anz
+ AG
+ in
+-Mannheim
++Mnnheim
+ widerruflich
+ die
+ allgemeine
+-Betriebserlaubnis
++Brieiebserlauubnis
+ gemäß
+ §
+-20
++26
+ Abs.
+ 1
+ der
+@@ -82,19 +81,18 @@
+ Straßenverkehr
+ vom
+ 13.
+-November
+-1937
++November.
++937
+ (StVZO)
+-erteilt.
++erl.
+ Die
+-Zugmaschinen
+-en
+-Typ
+-35
++Zugmascheren
++Typ
++25
+ PS
+-Ackerbulldog
++Ackerbulldog.
+ D
+-8506
++950c
+ werden
+ in
+ folgenden
+@@ -107,28 +105,29 @@
+ Ausführung
+ B
+ mit
+-Eisenbereifung.
+-2.
+-Auf.
+-Grund
++Eisenbereif.
++5.
++Auf
++Grond
+ des
+ §
+ 70
+ Abs.
+-I
++l
+ StVZO
+ werden
+ die
+-Zugmaschinen
+-Typ
+-35
+-Ackerbulldog
+-D
+-8506
+-der
+-Firma
+-Heinrich
+-Lanz
++Zugmasschinen
++Typ
++15
++PS
++Ackerbldog
++d.
++050
++der
++Fima
++Heinrich.
++Lanz.
+ AG,
+ Mannheim,
+ von
+@@ -146,34 +145,33 @@
+ die
+ Bedienbarkeit
+ der
+-Absperrvorrichtung
++Absperrror-
++richtung
+ in
+ der
+ Kraftstoffleitung
+-vom
+-Führersitz
++vonführersitz
+ aus
+ sowie
+ von
+ der
+-Erfüllung
++Erülllung
+ der
+ Vorschrift
+ des
+ §49
+ Abs.
+-1
++I
+ und
+-2
+-StVZO
+-über
+-die
+-höchstzulässige
++2StVZO
++über
++die
++hochstzulässige
+ Lautstärke
+ des
+-Fahrgeräusches
++Fahrgestücks
+ freigestellt.
+-3.
++6.
+ Der
+ Hersteller
+ hat
+@@ -184,7 +182,7 @@
+ entsprechende
+ Fahrzeug
+ einen
+-Kraftfahrzeugbrief
++Kraftfahrtzeugbrief
+ auszufüllen
+ sowie
+ die
+@@ -195,10 +193,10 @@
+ die
+ Beschaffenheit
+ des
+-Fahrzeuges
++Fahrzeugs
+ und
+ dessen
+-Übereinstimmung
++Überzeinstimmung
+ mit
+ dem
+ genehmigten
+@@ -213,7 +211,7 @@
+ sind
+ von
+ dem
+-Straßen-Zentralamt
++Straßer-Zentralamt
+ der
+ Verwaltung
+ für
+@@ -221,44 +219,43 @@
+ des
+ vereinigten
+ Wirtschaftsgebietes
+-(Sammelstelle
++(Sammlistelle
+ für
+ Nachrichten
+ über
+-Kraftfahrzeuge)
+-in
+-Bielefeld,
++Kraftfahrungzeuge)
++in
++Ebersfeld,
+ Herforder
+ Straße
+-8
++3
+ -
+ 10,
+ zu
+-beziehen.
++besuchen.
+ Bei
+ der
+ Ausfertigung
+ von
+-Kraftfahrzeugbriefen
+-für
+-die
+-Zugmaschinen
+-Typ
+-35
+-PS
++Kraftfahrenheitbriefen
++für
++die
++zugmaschienen
++Typ
++55
++PS.
+ Ackerbulldog
+ D
+-8506
+-der
+-Firma
++0S0c
++der
++Fira.
+ Heinrich
+-Lanz
++Lan.
+ AG
+ in
+-Mannheim
++Manheim
+ ist
+ unter
+-Nr.
+-19
++Nr.19
+ "Bemerkungen"
+ einzutragen:

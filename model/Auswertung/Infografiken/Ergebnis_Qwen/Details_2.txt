@@ -1,0 +1,67 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,14 +1,15 @@
+-AIR
+-CLEANER
+-ASSEMBLY
+ Air
+ Cleaner
+-Top
++Assembly
++Air
++Cleaner
++Too
+ Wing
+ Nut
+ Air
+ Filter
+ Cover
++Air
+ Air
+ Filter
+ Gasket,
+@@ -19,31 +20,25 @@
+ Bottom
+ Velocity
+ Stack
++(rear)
++Version:
++G######
++29438-01
++T######
++T######
++Velocity
++Stack
+ (front)
+ Version:
+-G#####
+-29438-01
+-T#####
+-29464-01
+-Velocity
+-Stack
+-(rear)
+-Version:
+-G#####
+-29521-01
+-T#####
+-29484-01
++29521-00
++2964-02
+ Air
+-Cleaner
+-Bottom
+ Retainer
+ Clip
+-(Qty-7)
+-Plug
+-BRACKET
+ Bottom
+ View
+ of
+ Air
+ Cleaner
+ Bottom
++Bracket

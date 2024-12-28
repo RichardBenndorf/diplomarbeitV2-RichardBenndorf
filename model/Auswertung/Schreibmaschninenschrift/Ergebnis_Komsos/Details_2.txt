@@ -1,0 +1,290 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,9 +1,10 @@
+-Ausführung
+-A
++Ausfährmg
++4
+ mit
+-Luftreifen
++Auftreifen
++&gt;
+ Die
+-Zugmaschine
++Zugnasciine
+ ist
+ von
+ der
+@@ -11,87 +12,20 @@
+ der
+ Vorschrift
+ des
+-§
+ 46
+ Abs.
+ 2
+ StVZO
+-über
++Über
+ die
+-Bedienbarkeit
++Bedienbereit
+ der
+ Absperrvorrichtung
+ in
+ der
+ Kraftstoffleitung
+ vom
+-Führersitz
+-aus
+-sowie
+-von
+-der
+-Erfüllung
+-des
+-Vorschriften
+-des
+-§49
+-Abs.1
+-und
+-2
+-StVZO
+-Über
+-die
+-Höchstzulässige
+-Lautstärke
+-des
+-Fahrgeräusches
+-freigestellt.
+-Das
+-Fahrzeug
+-genügt
+-hinsichtlich
+-der
+-Scheinwerferhöhe
+-nur
+-den
+-Vorschritten
+-für
+-die
+-Zugmaschinen
+-in
+-Land-
+-und
+-forstwirtschaftlichen
+-Betrieben.
+-Ausführung
+-B
+-mit
+-eisernen
+-Reifen
+-Die
+-Zugmaschine
+-ist
+-von
+-der
+-Erfüllung
+-der
+-Vorschrift
+-des
+-§
+-46
+-Abs.
+-2
+-StVZO
+-Uber
+-die
+-Bedienbarkeit
+-der
+-Absperrvorrichtung
+-in
+-der
+-Kraftstoffleitung
+-vom
+-Führersitz
++Prüversitz
+ aus
+ sowie
+ von
+@@ -100,79 +34,151 @@
+ der
+ Vorschrift
+ des
+-§
+ 49
+-Ab.
++Abs.
+ 1
+ und
+ 2
+ StVZO
+-über
++Über
+ die
+-höchstzulässige
+-Lautstärke
++höchstauldasige
++Kontestärke
+ des
+-Fahrzeugeräusches
+-freigestellt.
+-Das
++Fahrgeräusches
++Freigestellt.
++Der
+ Fahrzeug
+ genügt
+-hinsichtlich
++hinrichtlich
++der
++&gt;
++&gt;
++Sozialwerferhöhe
++nur
++den
++Vorschriften
++für
++die
++Zugnasciinen
++in
++land-
++und
++forstwirtschaftlichen
++Betrieben.
++Ausfährmg
++3
++mit
++eisernen
++Reifen
++&gt;
++Die
++Zugnasciine
++ist
++von
++der
++Erfüllung
++der
++Vorschrift
++des
++46
++Abs.
++2
++StVZO
++Über
++die
++Bedienbereit
++der
++Absperrvorrichtung
++in
++der
++Kraftstoffleitung
++vom
++Prüversitz
++aus
++sowie
++von
++der
++Erfüllung
++der
++Vorschrift
++des
++49
++Abs.
++1
++und
++2
++StVZO
++Über
++die
++höchstauldasige
++Kontestärke
++des
++Fahrgeräusches
++Freigestellt.
++Der
++Fahrzeug
++genügt
++hinrichtlich
+ der
+ eisernen
+ Bereifung
+ und
+ der
+-Scheinwerferhöhe
++Sozialwerferhöhe
+ nur
+ den
+ Vorschriften
+ für
+-Zugmaschinen
++Zugnasciinen
+ in
+-Land-
++land-
+ und
+-Forstwirtschaftlichen
++forstwirtschaftlichen
+ Betrieben.
+-4.
++4\.
+ Im
+-Falle
++Zelle
+ einer
+ Änderung
+ des
+-Typs
++Tyrs
+ ist
+ ein
+-entsprechen
+-der
+-Nachtrag
+-zu
++entsprechender
++&gt;
++Rechtreg
++an
+ der
+ allgemeinen
+-Betriebsanleitung
++Betriebserlaubnis
+ zu
+-beantragen.
++besatragen.
++&gt;
++&gt;
+ Die
+ auf
+ der
+ allgemeinen
+ Betriebserlaubnis
+ ruhenden
+-Befugnisse
++&gt;
++&gt;
++Rechtsses
+ erlöschen
+ mit
+-Ablauf
++Ablenr
+ des
+-19.
++15.
+ November
+ 1951,
+ wenn
+ sie
+ nicht
+ gemäß
+-§
+ 20
+-Abs.4
+-StVZ0
++Abs.
++4
++StVZO
+ verlängert
+ werden.

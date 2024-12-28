@@ -1,0 +1,212 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,46 +1,45 @@
+-D
+-8506
+ Zu
+ Ziffer
+ 7)
+ Art
+ des
+ Aufbaus:
+-Wird
++wird
+ das
+ Fahrzeug
+ mit
+ einem
+ Fahrersitzdach
+-ausgerüstet,
++ausge-
++rüstet,
+ so
+ ändert
+ sich:
+-c)
++o)
+ bei
+ Zugmaschinen:
+ festes
+ Wetterdach
+ mit
+-abnehmbaren
++ab-
++nehmbarer
+ Seitenteilen
+-Zur
++Zu
+ Ziffer.8)
+-Maße
++Hage
+ über
+ alles:
+ Bei
+-Ausstattung
++Ausrüstung
+ mit
+-Fahrersitzdach
++Fahrersittdach
+ ändern
+ sich
+-folgenden
++folgen-
++de
+ Angaben:
+-Länge:
++Lange:
+ 3408
+-mm
+-3390
+ mm
+ Höhe:
+ 2452
+@@ -49,22 +48,23 @@
+ Anbau
+ von
+ Kotflügeln
+-änderte
++ändet
+ sich:
+ Breite:
+ unverändert
+-1785
++1705
+ mm
+ Der
+ Fahrzeugtyp
+ entspricht
+ in
+-folgenden
++folgendem
+ nur
+ den
+ Vorschriften
+ für
+-Zugmaschinen
++Zugmaschin
++en
+ in
+ land-
+ und
+@@ -72,24 +72,28 @@
+ Betrieben:
+ Scheinwerferhöhe
+ über
++Eisenberei-
+ Fahrbahn
+ (
+ §
+ 50,3
+ StVZO
+ )
+-Eisenbereifung
+-(§
+-36,4
+-StVZO)
+-Scheinwerferhöhe
++(
++§36,4
++StVZ0)
++Scheinwerkfer-
++höhe
+ über
+-Fahrbahn
+-(§50,
+-3
+-StVZO)
++Fahrbah
++(
++§50.3
++St
++VZ0
++)
+ Der
+-Fahrzeugtyp
++Fahrzeugs
++typ
+ entspricht
+ vorstehenden
+ Angaben
+@@ -98,7 +102,7 @@
+ den
+ Anforderungen
+ der
+-Strassenverkehrs-Zulassungs-Ordnung
++Strassenverkehrs-Zula.sungs-Gründung
+ sowie
+ den
+ hierzu
+@@ -107,7 +111,8 @@
+ des
+ Reichsverkehrsministers
+ mit
+-folgenden
++fol-
++genden
+ Ausnahmen:
+ 1.)
+ Die
+@@ -115,42 +120,44 @@
+ die
+ Kraftstoffleitung
+ (Rohölleitung)
+-eingebaute
++eingegebte
+ Absperrvorrichtung
+ ist
+ von
+-Fahrersitz
++Fahrersiitz
+ aus
+ nicht
+-bedienbar
++be-
++dienbar
+ (
+ §46,2
+-StVZO
++StVzo
+ )
+ 2.)
+ Fahrgeräusch
+ und
+-Auspuffgeräusche
++Auspuffgeräusch
+ überschreiten
+-85
++35
+ Phon
+ (
+ §.49,1
+ u.
+ 2
+-StVZO
++St
++VZO
+ )
+ 3.)
+ Bei
+ den
+ Fahrzeugen
+ ohne
+-Kotflügel
++Kotflugel
+ ist
+ der
+ Abstand
+ der
+-Schlußlichter
++Schneblichter
+ voneinander
+ 100
+ cm
+@@ -160,5 +167,5 @@
+ cm
+ (
+ §
+-53,1
+-StVZO)
++.53,1
++StVzO)

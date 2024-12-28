@@ -1,0 +1,30 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,13 +1,13 @@
+-MIRROR
+-ATTACHMENT
+-MIRROR
+-SPACER
+-LOCK
+-WASHER
+-LOCK
+-WASHER
+-TURNSIGNAL
++Mirror
++Attachment
++Mirror
++Spacer
++Lock
++Washer
++Lock
++washer
++Turnsignal
+ with
+-STEM
+-MIRROR
+-LOCATION
++stem
++Mirror
++Location

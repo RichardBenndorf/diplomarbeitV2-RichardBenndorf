@@ -1,0 +1,300 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -3,18 +3,20 @@
+ der
+ Zugmaschine
+ 35
+-PS
+-Bulldog
+-(Ackerschlepper)
++1
++Bullig
++(Acker
++schlepper)
+ Ausführung
+-8506
++1
++33.6
+ A
+ und
+ B
+ Der
+-35
+-PS
+-Ackerbulldog
++39
++72
++Ackerbulling
+ wird
+ in
+ zwei
+@@ -22,56 +24,57 @@
+ hergestellt:
+ 1.
+ Normalausführung
+-D
+-8506
++8526
+ A
+ Der
+ Schlepper
+ besitzt
+ 6
+-Getriebsgänge
++Getriebezylinder
+ vorwärts
+ und
+ 2
+-Rückwärtsgänge
++Rückwärte-
++zylinder
+ mit
+ 2
+-Schalthebeln.
++Schaltthebeln.
+ Da
+ die
+ Fahrgeschwindigkeit
+-18
++13
+ km
+-beträgt,
++be-
++trägt,
+ ist
+ eran
+ den
+ Vorder-
+ und
+-Hinterräder
++Hintermotoren
+ luftbereift.
+ Der
+-Schlepper
++Schleppcr
+ hat
+ eine
+-Hinterradfußbremse
++Hinterraufußbremse
+ und
+ eine
+ feststellbare
+-Getriebehandbremse.
++Getriebeeinzelbremsc.
+ Der
+ Motor
+ ist
+ ein
+-Zweifakt-Glühkopfmotor
++Zweifakt-Clükkopfmotor
+ mit
+ elektrischer
+-Anlaßfzündung.
++Anlaufzündung.
+ Die
+ Ingangsetzung
+ erfolgt
+ durch
+-anwerfen
++Anwerfen
+ mittels
+ Handrad,
+ das
+@@ -86,14 +89,14 @@
+ Motors
+ geschieht
+ durch
+-Thermosiphon-Wasser
+-Umlaufkühlung
++Mercosyphon-Küster
++umlaufkühlung
+ und
+ Windflügel.
+ Die
+ Kraftübertragung
+ erfolgt
+-durch
++dureh
+ eine
+ Mehrscheibenkupplung.
+ Das
+@@ -101,8 +104,7 @@
+ ist
+ eine
+ Frischöl-Umlaufschmierung.
+-Der
+-Schlepper
++DerSchlepper
+ hat
+ zum
+ Schutz
+@@ -119,30 +121,30 @@
+ den
+ Bestimmungen
+ der
+-St.V.Z.O.
+-Die
+-Lenkung
+-erfolgt
+-durch
+-Achsenschenkellenkung.
++St.V.A.G.
++Die
++Leistung
++erfolgt
++durc11
++Acmaschenkellenkung.
+ 2.
+-D
+-8506
++L
++8626
+ B
+ mit
+-Sechsganggetriebe,
++Sechszylindertriebe,
+ jedoch
+ drei
+ Gänge
+-gesperrt
+-Der
+-Schlepper
++gespeist
++DerSchlepperc
+ wird
+ mit
+-Einsenreifen
++15sechzylinder
+ ausgerüstet,
+ für
+-Straßenfahrt
++Straßen-
++fahrt
+ werden
+ Laufringe
+ aufgebracht.
+@@ -152,23 +154,23 @@
+ über
+ 3
+ km
+-Fahrgeschwindigkeit
++Fahrgeschiidigkeit
+ entwickeln
+ kann,
+ wurden
+-oberen
+-3
++liebseren
+ Gänge
+-gesperrt,
++geseipt,
+ wobei
+ ein
+ Schalthebel
+ entfernt
+ und
+ die
+-Getriebeöffnung
++Getriebez-
++öffnung
+ durch
+-Blindflansch
++Flügelflansch
+ verschlossen
+ wird.
+ Die
+@@ -182,66 +184,67 @@
+ Der
+ Motor,
+ die
+-Ingangsetzung,
+-die
+-Kupplung,
+-die
+-Kühlung,
++Ingangssetzung,
++die
++Kupplng,
++die
++Kühlng,
+ das
+-Schmierung,
++Schmierg,
+ der
+ Aufbau,
+ die
+ elektr.
+-Beleuchtung
+-und
+-Lenkung
++Beleuchung
++und
++Leistung
+ sind
+ ebenfalls
+ die
+-gleichen
++gleicnen
+ wie
+ unter
+ l
+ Die
+ zwei
+-Ausführungen
++Ausfiihrungen
+ haben
+ den
+ gleichen
+-Aufbau,
++Aufbau.
+ Motor
+ und
+-Getriebe
++Getriehe
+ sind
+ als
+ Blockkonstruktion
+ in
+-Lanz-Perlitguß
++Lanz-Verlitgus
+ ausgeführt.
+-Der
+-Motor
++DerMotor
+ hat
+ Ein-
+ und
+ Leerlaufregler
+ und
+-Kupplung
+-mit
+-Riemenscheibe
++Kuplung
++mit
++Hiezenscheibe
+ für
+ Antrieb
+ von
+ landwirtschaftlichen
+ Maschinen.
+ Die
+-Kraftübertragung
++Kräf1übertra-
++gung
+ vom
+ Motor
+ auf
+ die
+-Hinterachse
+-erfolgt
+-durch
+-gebürstete
+-Zahn-
++Hinternd
++se
++erfolgt
++duich
++gebürzte
++Zaim-

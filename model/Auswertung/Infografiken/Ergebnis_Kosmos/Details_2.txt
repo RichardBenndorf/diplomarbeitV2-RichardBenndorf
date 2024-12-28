@@ -1,0 +1,52 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,16 +1,23 @@
++#
+ AIR
+ CLEANER
+ ASSEMBLY
+ Air
+ Cleaner
+ Top
+-Wing
+-Nut
+ Air
+ Filter
+ Cover
+ Air
+ Filter
++Velocity
++Stack
++(front)
++Version:
++G####
++29438-01
++T####
++29464-01
+ Gasket,
+ Air
+ Box
+@@ -19,19 +26,11 @@
+ Bottom
+ Velocity
+ Stack
+-(front)
+-Version:
+-G#####
+-29438-01
+-T#####
+-29464-01
+-Velocity
+-Stack
+ (rear)
+ Version:
+-G#####
++G####
+ 29521-01
+-T#####
++T####
+ 29484-01
+ Air
+ Cleaner

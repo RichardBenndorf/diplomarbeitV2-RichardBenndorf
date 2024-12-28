@@ -1,0 +1,328 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,15 +1,33 @@
+-...
+-Ausfertigung
+-Allgemeine
+-Betriebserlaubnis
+-Nr.
+-207
+-Für
+-die
++1.
++Auf
++Grund
++des
++anliegenden
++Gtachtena
++der
++Technische
++Früfstelle
++für
++den
++Kraftfahrzeugverkehr
++(TüV
++HannHein)
++in
++Läunheim
++vom
++4.
++Noverber
++1949
++wird
++für
++die
++reihenweise
++gefertigten
+ Zugmaschinen
+ (Ackerschlepper)
+ Typ
+ 35
++FS
+ Ackerbulldog
+ D
+ 8506
+@@ -20,46 +38,6 @@
+ AG
+ in
+ Mannheim
+-1.
+-Auf
+-Grund
+-des
+-anliegenden
+-Gutachtens
+-der
+-Technischen
+-Prüfstelle
+-für
+-den
+-Kraftfahrzeugverkehr
+-(TÜ
+-Mannheim)
+-in
+-Mannheim
+-vom
+-4.
+-November
+-1949
+-wird
+-für
+-die
+-reihenweise
+-gefertigten
+-Zugmaschinen
+-(Ackerschlepper)
+-Typ.
+-35
+-PS
+-Ackerbulldog
+-D
+-8506
+-der
+-Firma
+-Heinrich
+-Lanz
+-AG
+-in
+-Mannheim
+ widerruflich
+ die
+ allgemeine
+@@ -75,23 +53,22 @@
+ die
+ Zulassung
+ von
+-Personen
++Tersonen
+ und
+ Fahrzeugen
+ zum
+-Straßenverkehr
++Strafenverkehr
+ vom
+ 13.
+ November
+ 1937
+-(StVZO)
++(StVZC)
+ erteilt.
+ Die
+ Zugmaschinen
+-en
+-Typ
+-35
+-PS
++Typ
++35
++FS
+ Ackerbulldog
+ D
+ 8506
+@@ -107,46 +84,48 @@
+ Ausführung
+ B
+ mit
+-Eisenbereifung.
++Bisenbereifung.
+ 2.
+-Auf.
++Auf
+ Grund
+ des
+ §
+ 70
+ Abs.
+-I
++1
++StVZC
++werden
++die
++Zugmaschinen
++Typ
++35
++FS
++Ackerbulldog
++D
++8506
++der
++Firms
++Beinrich
++Lenz
++AG,
++Kannheim,
++von
++der
++Erfüllung
++der
++Vorschrift
++des
++§
++46
++Abs.
++2
+ StVZO
+-werden
+-die
+-Zugmaschinen
+-Typ
+-35
+-Ackerbulldog
+-D
+-8506
+-der
+-Firma
+-Heinrich
+-Lanz
+-AG,
+-Mannheim,
+-von
+-der
+-Erfüllung
+-der
+-Vorschrift
+-des
+-§.
+-46
+-Abs,
+-2
+-StVZ0
+-über
+-die
+-Bedienbarkeit
+-der
+-Absperrvorrichtung
++über
++die
++Sedienbarkeit
++der
++Absperrvor-
++richtung
+ in
+ der
+ Kraftstoffleitung
+@@ -160,32 +139,33 @@
+ der
+ Vorschrift
+ des
+-§49
+-Abs.
++§
++49
++'Abs.
+ 1
+ und
+ 2
+ StVZO
+ über
+ die
+-höchstzulässige
+-Lautstärke
+-des
+-Fahrgeräusches
++höchstulässige
++Leutettirke
++des
++Fahrerfuhesches
+ freigestellt.
+ 3.
+ Der
+ Hersteller
+-hat
++hast
+ für
+ jedes
+ dem
+ Typ
+-entsprechende
++entspreonende
+ Fahrzeug
+ einen
+ Kraftfahrzeugbrief
+-auszufüllen
++euszufüllen
+ sowie
+ die
+ Richtigkeit
+@@ -195,13 +175,13 @@
+ die
+ Beschaffenheit
+ des
+-Fahrzeuges
++Fahrzeugs
+ und
+ dessen
+ Übereinstimmung
+ mit
+ dem
+-genehmigten
++gemehigten
+ Typ
+ zu
+ bescheinigen.
+@@ -213,24 +193,24 @@
+ sind
+ von
+ dem
+-Straßen-Zentralamt
++Straßen-Zentralat
+ der
+ Verwaltung
+ für
+-Verkehr
++Verkeirr
+ des
+ vereinigten
+ Wirtschaftsgebietes
+-(Sammelstelle
+-für
+-Nachrichten
++(Samelstelle
++für
++Hechrichten
+ über
+ Kraftfahrzeuge)
+ in
+-Bielefeld,
+-Herforder
++Elefeld,
++Herfordcr
+ Straße
+-8
++3
+ -
+ 10,
+ zu
+@@ -245,14 +225,14 @@
+ Zugmaschinen
+ Typ
+ 35
+-PS
+-Ackerbulldog
+-D
+-8506
+-der
+-Firma
+-Heinrich
+-Lanz
++FS
++Ackerbulldog
++D
++8506
++der
++Firms
++Leinrich
++Lenz
+ AG
+ in
+ Mannheim
+@@ -260,5 +240,5 @@
+ unter
+ Nr.
+ 19
+-"Bemerkungen"
+-einzutragen:
++"Benerekungen"
++einnutragen:

@@ -1,0 +1,24 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,13 +1,10 @@
++#
+ MIRROR
+ ATTACHMENT
+-MIRROR
+-SPACER
+-LOCK
+-WASHER
+-LOCK
+-WASHER
+-TURNSIGNAL
+-with
+-STEM
++![MIRROR
++ATTACHMENT](LINK_SLOT)
++##
+ MIRROR
+ LOCATION
++![MIRROR
++LOCATION](LINK_SLOT)

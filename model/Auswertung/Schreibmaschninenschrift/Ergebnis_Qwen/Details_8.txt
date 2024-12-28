@@ -1,0 +1,114 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -8,12 +8,12 @@
+ Sechsganggetriebe,
+ Hinterachse
+ mit
+-Kegelradausgleichgetriebe,
++Kegelradausgleichgetriehe,
+ Hinterräder
+ b)
+ Übersetzung:
+-Zwischenräder
+-0,866
++Zwischenräume
++0,966
+ Getriebe:
+ 1.
+ Gang
+@@ -23,39 +23,40 @@
+ 7,24
+ 3.
+ "
++*
+ 5,41
+ R.1
+ "
+-7,65
++1,91
+ 4.
++"
+ "
+ 3,38
+ 5.
+ "
+-2,54
++Bei
++B
++gesperrt,
++Schalt-
++habel
++nicht
++vorhanden
+ 6.
+ "
+-1,91
+ R.2
+ "
+ 2,68
+-Bei
+-B
+-gesperrt,
+-Schalthebel
+-nicht
+-vorhanden
+-Hinterachse:
++Hinterachsse:
+ 4,21
+ 19.)
+ Art
+ der
+-Schalldämpfung:
++Schalldempfung:
+ Kegelige
+ Haube
+ mit
+ gelochtem
+-Prallteller
++Prallteiler
+ und
+ Siebeinsatz,
+ Auslaß
+@@ -80,11 +81,11 @@
+ a)
+ Eigengewicht
+ des
+-Fahrzeugs:
++Fahrzeugs;
+ Das
+-Eigengewicht
++Eigenggewicht
+ des
+-Fahrzeugs
++Fahrrzeugs
+ erhöht
+ sich
+ durch
+@@ -95,7 +96,7 @@
+ 60
+ kg
+ einer
+-Windschutzscheibe
++Windschitzscheibe
+ um
+ 30
+ kg
+@@ -105,13 +106,10 @@
+ um
+ 50
+ kg
+-Kotflügen
+-vor
+-und
+-hinten
+ 95
+ kg
+ einer
+-Zufuhr
+-50
++Zapfelle
++um
++10
+ kg

@@ -1,0 +1,89 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -4,19 +4,20 @@
+ BMW
+ R
+ 35
++================================
+ Nachstehende
+ Daten
+-kommen
++Kommen
+ noch
+ zusätzlich
+ zu
+ dem
+-bisherigen
++bisserigen
+ Typenschein
+-für
++fur
+ das
+ neue
+-Typenfachten
++Typgutachten
+ in
+ Frage:
+ Bohrung
+@@ -28,18 +29,19 @@
+ Akku
+ 6
+ Volt
+-Länge
++Linge
+ 2000
+ mm
+ Breite
+ 800
+-m
+-Höhe
++mm
++Höne
++-
+ 950
+ mm
+ Radantrieb
+ Kraftübertragung
+-Kardan
++Karuan
+ Reifen
+ vorn
+ 5,50
+@@ -50,8 +52,7 @@
+ atu
+ Reifen
+ hinten
+-3,5
+-0
++5,50
+ -
+ 19
+ Luftdruck
+@@ -62,21 +63,21 @@
+ Bremsanlage
+ mechanisch
+ BMW
+-Eigengewicht
++Nigengewicht
+ (mit
+-Öl
++Ul
+ und
+ Kraftstoff)
+ 162
+ kg
+-Zulässige
++Zulassige
+ Belastung
+ 2
+ Personen
+ =
+ 188
+ kg
+-Zulässiges
++Zulassiges
+ Gesamtgewicht
+ 350
+ kg

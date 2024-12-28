@@ -1,0 +1,129 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,3 +1,4 @@
++&gt;
+ front
+ master
+ cylinder
+@@ -5,84 +6,65 @@
+ 11mm
+ floating
+ brake
+-disk
++disc
+ front
+ Ø
+ 300mm
++&gt;
+ ABS
+ modulator
+ Bosch
+ 9MP
++front
+ brake
+-disk
++caliper
++&gt;
+ rear
++brake
++caliper
++front
++master
++cylinder
+ Ø
+-240mm
++13mm
++&gt;
++ABS
++modulator
++Bosch
++9MP
++front
++brake
++caliper
++&gt;
++rear
++brake
++caliper
+ wheel
+ speed
+ sensor
+ (WSS)
+ rear
+ rear
+-brake
+-calliper
+-rear
+-master
+-cylinder
+-ø
+-13mm
+-braking
+-fluid
+-reservoir
+-front
+-brake
+-calliper
+-wheel
+-Speed
+-sensor
+-(WSS)
+-front
+-front
+ master
+ cylinder
+ Ø
+-11mm
+-floating
+-brake
+-disk
+-front
+-Ø
+-300mm
+-ABS
+-modulator
+-Bosch
+-9MP
+-brake
+-disk
+-rear
+-Ø
+-240mm
++13mm
+ wheel
+ speed
+ sensor
+ (WSS)
+-rear
++front
++&gt;
++brake
++fluid
++reservoir
+ rear
+ brake
+-calliper
+-rear
+-master
+-cylinder
+-ø
+-13mm
+-braking
+-fluid
+-reservoir
++caliper
+ front
+ brake
+-calliper
+-wheel
+-Speed
+-sensor
+-(WSS)
+-front
++caliper
++&gt;
++rear
++brake
++caliper

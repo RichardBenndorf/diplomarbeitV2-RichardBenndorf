@@ -1,0 +1,309 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -7,7 +7,7 @@
+ Für
+ die
+ Zugmaschinen
+-(Ackerschlepper)
++(Ackerb)
+ Typ
+ 35
+ Ackerbulldog
+@@ -16,7 +16,10 @@
+ der
+ Firma
+ Heinrich
+-Lanz
++L
++a
++n
++z
+ AG
+ in
+ Mannheim
+@@ -35,7 +38,7 @@
+ (TÜ
+ Mannheim)
+ in
+-Mannheim
++Lingenheim
+ vom
+ 4.
+ November
+@@ -45,28 +48,29 @@
+ die
+ reihenweise
+ gefertigten
+-Zugmaschinen
++Zugmaschen
+ (Ackerschlepper)
+ Typ.
+-35
+-PS
+-Ackerbulldog
+-D
+-8506
+-der
+-Firma
+-Heinrich
++3S
++Ackerb.
++bulldog.
++D
++550.6
++der.
++Firma.
++Heinrich.
+ Lanz
+ AG
+ in
+-Mannheim
++L.ingenheim
+ widerruflich
+ die
+-allgemeine
+-Betriebserlaubnis
++allgemeine.
++Betriebse.
++rlaubniss
+ gemäß
+ §
+-20
++26
+ Abs.
+ 1
+ der
+@@ -82,32 +86,36 @@
+ Straßenverkehr
+ vom
+ 13.
+-November
+-1937
++November.
++1
++937
+ (StVZO)
+ erteilt.
+ Die
+-Zugmaschinen
++Zugmaschin.
+ en
+ Typ
+-35
+-PS
+-Ackerbulldog
+-D
+-8506
++5S
++A.
++ckerbulld.
++dog
++D
++3
++50
++6
+ werden
+ in
+ folgenden
+ Ausführungen
+ hergestellt:
+-Ausführung
++Ausbührung
+ A
+ mit
+ Luftbereifung,
+-Ausführung
++Ausbürhung
+ B
+ mit
+-Eisenbereifung.
++Eisenbereif.
+ 2.
+ Auf.
+ Grund
+@@ -119,16 +127,23 @@
+ StVZO
+ werden
+ die
+-Zugmaschinen
+-Typ
+-35
+-Ackerbulldog
+-D
+-8506
+-der
+-Firma
+-Heinrich
+-Lanz
++Zug.
++maschinen
++Typ
++3
++S
++Ackerbull.
++dog.
++D.
++8
++5
++0
++6
++der
++Firm.
++a
++Heinrich,
++Lanz.
+ AG,
+ Mannheim,
+ von
+@@ -150,32 +165,33 @@
+ in
+ der
+ Kraftstoffleitung
+-vom
+-Führersitz
++vomFührersitz
+ aus
+ sowie
+ von
+-der
+-Erfüllung
+-der
+-Vorschrift
++der.
++Erfü.
++llung
++der.
++Vorschrif.
++t
+ des
+ §49
+-Abs.
+-1
++Abs.1
+ und
+-2
+-StVZO
+-über
+-die
+-höchstzulässige
++2.
++StVzo
++über
++die
++höchstd.
++zulässige
+ Lautstärke
+ des
+ Fahrgeräusches
+ freigestellt.
+ 3.
+-Der
+-Hersteller
++Der.
++Harsteller
+ hat
+ für
+ jedes
+@@ -184,7 +200,7 @@
+ entsprechende
+ Fahrzeug
+ einen
+-Kraftfahrzeugbrief
++Kraftfahzeugbrief
+ auszufüllen
+ sowie
+ die
+@@ -193,15 +209,18 @@
+ Angaben
+ über
+ die
+-Beschaffenheit
++Bescha.
++ffenheit
+ des
+ Fahrzeuges
+ und
+ dessen
+-Übereinstimmung
++Über.
++einstimmung
+ mit
+ dem
+-genehmigten
++gemäß.
++igten
+ Typ
+ zu
+ bescheinigen.
+@@ -225,40 +244,46 @@
+ für
+ Nachrichten
+ über
+-Kraftfahrzeuge)
++Kraftf.ahrzeuge)
+ in
+ Bielefeld,
+ Herforder
+ Straße
+-8
++5
+ -
+ 10,
+ zu
+-beziehen.
++besuchen.
+ Bei
+ der
+-Ausfertigung
+-von
+-Kraftfahrzeugbriefen
+-für
+-die
+-Zugmaschinen
+-Typ
+-35
+-PS
+-Ackerbulldog
+-D
+-8506
+-der
+-Firma
++Ausferti.
++gung
++von
++Kraftfahrung.
++zeugbriefen
++für
++die
++Zugm.
++aschinen.
++Typ
++15
++FS
++Acker.
++bul.
++dog,
++D
++8.50,6
++der,
++Firma,
+ Heinrich
+-Lanz
+-AG
+-in
+-Mannheim
++Lan.
++z
++AG.
++in
++Mann.
++heim
+ ist
+ unter
+-Nr.
+-19
++Nr.19
+ "Bemerkungen"
+ einzutragen:

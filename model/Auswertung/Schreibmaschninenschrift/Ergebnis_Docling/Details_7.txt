@@ -1,0 +1,37 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,19 +1,19 @@
+ Der
+-Erteilung
+-des
+-Typscheins
++Brteilu:zg
++123
++Ipscusine
+ stehen
+-technische
++techniacbe
+ Bedenken
+ nicht
+-entgegen.
++entyegen.
+ Zu
+-diesem
+-Typgutachten
+-gehören:
++dle9e0
++Iypgutacaten
++geloren:
+ eine
+-Beschreibung
+-des
+-Fahrzeugs,
+-fünf
+-Zeichnungen
++Beacnreibillg
++de9
++Paurueuee,
++funf
++:siciungen

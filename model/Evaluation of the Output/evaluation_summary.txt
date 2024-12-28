@@ -1,2 +1,0 @@
-1: Genauigkeit = 0.83
-2: Genauigkeit = 0.78

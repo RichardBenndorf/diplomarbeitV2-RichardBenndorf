@@ -1,0 +1,36 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -4,31 +4,3 @@
+ DEVICES
+ Version(s):
+ ####T#
+-Side
+-Reflex
+-Reflectors
+-Stop
+-Light
+-/
+-Position
+-Light
+-Registration
+-Plate
+-Light
+-Rear
+-Reflex
+-Reflector
+-Passing
+-and
+-Driving
+-Light
+-/
+-Front
+-Position
+-Light
+-Direction
+-Indicators
+-Rear
+-Direction
+-Indicators
+-FRONT

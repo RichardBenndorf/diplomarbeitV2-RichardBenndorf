@@ -1,0 +1,24 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,3 +1,14 @@
++Sure,
++here
++is
++the
++text
++from
++the
++document
++you
++provided:
++```
+ Der
+ Erteilung
+ des
+@@ -17,3 +28,4 @@
+ Fahrzeugs,
+ fünf
+ Zeichnungen
++```

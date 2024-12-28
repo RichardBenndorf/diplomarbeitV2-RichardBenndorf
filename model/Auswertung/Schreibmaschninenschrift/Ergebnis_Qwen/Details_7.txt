@@ -1,0 +1,10 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -16,4 +16,4 @@
+ des
+ Fahrzeugs,
+ fünf
+-Zeichnungen
++Leichnungen

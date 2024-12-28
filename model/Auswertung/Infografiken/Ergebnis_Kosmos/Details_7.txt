@@ -1,0 +1,54 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,21 +1,22 @@
+ Kuehlwasser-Ausgang
++Kuehlwasser-Eingang
+ Coolant
+ Outlet
+-Kuehlwaner-Eingang
+ Coolant
+ Inlet
+ AdBlue
+ Ausgang
+ AdBlue
++Eingang
++AdBlue
+ Outlet
+ AdBlue
+-Eingang
+-AdBlue
+ Inlet
++Dosiereinheit
+ ACM-Box
+-Dosiereinheit
+ Dosing
+ Unit
++&gt;
+ LU
+ Versorgungseinheit
+ 12/24
+@@ -25,17 +26,17 @@
+ Unit
+ 12/24
+ V
++&gt;
++&gt;
+ Durchfluß
+ bei
+ 2500
+-U/min
++U/nin
+ gegen
+-10
+-bar
++10bar
+ Flow
+ Rate
+ At
+ 2500rpm
+ Toward
+-10
+-bar
++10bar

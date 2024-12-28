@@ -1,0 +1,93 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -4,19 +4,21 @@
+ BMW
+ R
+ 35
++===============
++===============
+ Nachstehende
+ Daten
+ kommen
+ noch
+-zusätzlich
++zusatzlich
+ zu
+ dem
+-bisherigen
++bisserigen
+ Typenschein
+-für
++fur
+ das
+ neue
+-Typenfachten
++Typgutachten
+ in
+ Frage:
+ Bohrung
+@@ -34,12 +36,12 @@
+ Breite
+ 800
+ m
+-Höhe
++Nane
+ 950
+ mm
+ Radantrieb
+ Kraftübertragung
+-Kardan
++Karatun
+ Reifen
+ vorn
+ 5,50
+@@ -50,21 +52,22 @@
+ atu
+ Reifen
+ hinten
+-3,5
+-0
+--
+-19
+-Luftdruck
+-1,9
++5.50-
++1
++9
++Luft
++druck
++1
++,9
+ atu
+ (mit
+-Sozius)
++Jozius)
+ Bremsanlage
+ mechanisch
+ BMW
+ Eigengewicht
+ (mit
+-Öl
++01
+ und
+ Kraftstoff)
+ 162
+@@ -74,9 +77,13 @@
+ 2
+ Personen
+ =
+-188
++180
+ kg
+-Zulässiges
++Zulas
++s
++i
++ge
+ Gesamtgewicht
+-350
++3
++50
+ kg

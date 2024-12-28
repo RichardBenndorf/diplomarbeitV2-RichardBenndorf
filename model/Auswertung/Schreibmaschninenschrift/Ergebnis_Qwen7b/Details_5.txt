@@ -1,0 +1,58 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -27,7 +27,7 @@
+ mm
+ Akku
+ 6
+-Volt
++Voit
+ Länge
+ 2000
+ mm
+@@ -39,7 +39,7 @@
+ mm
+ Radantrieb
+ Kraftübertragung
+-Kardan
++Karussell
+ Reifen
+ vorn
+ 5,50
+@@ -48,17 +48,16 @@
+ Luftdruck
+ 1,4
+ atu
+-Reifen
++Reif
++en
+ hinten
+-3,5
++2,5
+ 0
+--
+-19
+-Luftdruck
+-1,9
++-19
++Luifdruck1,9
+ atu
+ (mit
+-Sozius)
++Jozius)
+ Bremsanlage
+ mechanisch
+ BMW
+@@ -74,9 +73,8 @@
+ 2
+ Personen
+ =
+-188
++180
+ kg
+-Zulässiges
+ Gesamtgewicht
+-350
++330
+ kg

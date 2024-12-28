@@ -1,0 +1,176 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,12 +1,27 @@
+-TYPGUTACHTEN
++T
++Y
++P
++G
++U
++T
++A
++C
++H
++T
++•
++K
+ über
+ die
+ Zugmaschine
+-(Ackerschlepper)
++(
++Ackerschlepper
++)
+ Haupttyp
+-"35
++"
++35
+ PS
+-Ackerbulldog"
++Ackerbulldog
++•
+ der
+ Firma
+ Heinrich
+@@ -14,7 +29,8 @@
+ A
+ N
+ Z
+-A.,G.
++A,
++G.
+ Mannheim
+ Die
+ Zugmaschine
+@@ -35,92 +51,91 @@
+ Eisenbereifung,
+ Sechsganggetriebe,
+ 3
+-Gänge
++Gange
+ arretiert
+ Diese
+ Ausführungen
+ können
+ mit
+ nachstehenden
+-Zusatzteilen
+-ausgerüstet
++Zusatzteilon
++ausgerüst
+ werden:
+ Fahrersitzdach
+ Kotflügel
+-vorn
++vom
+ und
+ hinten
+ Windschutzscheibe
+-Zapfwelle
++Zapfwellc
+ Kotflügel
+ an
+ den
+-Hinterrädern
++Hinterzäjern
+ Für
+ den
+ 35
+-PS
++2S
+ Ackerbulldog
+ gelten
+-im
+-Übrigen
+-folgende
+-Merkmale:
++in
++übrigen
++fol
++enge
++Merkmole:
+ 1.)
+ Art
+ des
+-Fahrzeuges:
+-Zugmaschine
+-(Ackerschlepper)
+-2.)
++Fahrzeugs:
++2.
++)
+ Hersteller
+ des
+-Fahrzeuges:
++Fahrgestells:
+ Heinrich
+-Lan
+-z
+-A.,
+-G.,
+-Mannheim
++Lanz
++A.-G.,
++Hannheim
+ 3.)
+ Antriebsmaschine:
+ a)
+ Art
+ des
+-Antriebes:
+-Verbrennungsmaschine
+-(Glühkopfmotor,
+-Zylinder
+-liegend)
++Antriebs:
+ b)
+ Leistung:
+-35
+-PS
+-bei
+-540
+-U/min
+ c)
+ Hubraum:
+-10338
+-cm3
+ Zahl
+ der
+ Zylinder:
+-1
+ Durchmesser
+ des
+ Zylinders:
+ 225
+ mm
+ Kolbenhub:
++d)
++Hersteller:
++e)
++Takt:
++Verbrennungsmaschine
++(Gluhkopf-
++motor,
++Zylinder
++liegend)
++35
++PS
++bei
++540
++U/min
++10338
++cm3
++1
+ 260
+ mm
+-d)
+-Hersteller:
+ Heinrich
+ Lanz
+ A.G.,
+ Mannheim
+-e)
+-Takt:
+ Zweitakt

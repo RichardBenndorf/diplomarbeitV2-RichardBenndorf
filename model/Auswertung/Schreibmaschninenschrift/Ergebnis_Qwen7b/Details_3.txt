@@ -1,0 +1,116 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -17,7 +17,7 @@
+ A.,G.
+ Mannheim
+ Die
+-Zugmaschine
++Zugmaschmne
+ wird
+ in
+ folgenden
+@@ -32,18 +32,18 @@
+ Sechsganggetriebe
+ B:
+ mit
+-Eisenbereifung,
+-Sechsganggetriebe,
++Eisenbereifmg,
++Sechseganggetriebc,
+ 3
+ Gänge
+ arretiert
+ Diese
+-Ausführungen
++Ausführmgen
+ können
+ mit
+ nachstehenden
+ Zusatzteilen
+-ausgerüstet
++ausgerüst
+ werden:
+ Fahrersitzdach
+ Kotflügel
+@@ -52,14 +52,14 @@
+ hinten
+ Windschutzscheibe
+ Zapfwelle
+-Kotflügel
++Kotflugel
+ an
+ den
+ Hinterrädern
+ Für
+ den
+ 35
+-PS
++FS
+ Ackerbulldog
+ gelten
+ im
+@@ -70,8 +70,10 @@
+ Art
+ des
+ Fahrzeuges:
+-Zugmaschine
+-(Ackerschlepper)
++Zugmaschin
++e
++(Ack
++erschleper)
+ 2.)
+ Hersteller
+ des
+@@ -89,38 +91,39 @@
+ des
+ Antriebes:
+ Verbrennungsmaschine
+-(Glühkopfmotor,
++(Glühkopf-
++motor,
+ Zylinder
+ liegend)
+ b)
+ Leistung:
+-35
++3
++5
+ PS
+ bei
+ 540
+ U/min
+ c)
+ Hubraum:
+-10338
++10358
+ cm3
+ Zahl
+ der
+ Zylinder:
+-1
++225
++mm
+ Durchmesser
+ des
+ Zylinders:
+-225
+-mm
+-Kolbenhub:
+-260
++60
+ mm
+ d)
+ Hersteller:
+-Heinrich
++Hein
++rich
+ Lanz
+ A.G.,
+-Mannheim
++Mannhein
+ e)
+ Takt:
+ Zweitakt

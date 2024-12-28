@@ -1,0 +1,324 @@
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,20 +1,21 @@
+ Allgemeine
+ Beschreibung
+ der
+-Zugmaschine
++Jagresseine
+ 35
+-PS
+-Bulldog
+-(Ackerschlepper)
++in
++Bullion
++(AckerSchlepper)
+ Ausführung
+-8506
++1
++36.6
+ A
+ und
+ B
+ Der
+-35
+-PS
+-Ackerbulldog
++39
++72
++Ackerbullion
+ wird
+ in
+ zwei
+@@ -22,60 +23,60 @@
+ hergestellt:
+ 1.
+ Normalausführung
+-D
+-8506
++8536
+ A
+ Der
+ Schlepper
+ besitzt
+ 6
+-Getriebsgänge
+-vorwärts
++Getriebegegange
++vormärts
+ und
+ 2
+-Rückwärtsgänge
++Rückwärtsgegänge
+ mit
+ 2
+-Schalthebeln.
++Schaltthebeln.
+ Da
+ die
+ Fahrgeschwindigkeit
+-18
++13
+ km
+-beträgt,
++be-
++trägt,
+ ist
+ eran
+ den
+ Vorder-
+ und
+-Hinterräder
+-luftbereift.
+-Der
+-Schlepper
++Hinterrollern
++luftbereit.
++Der
++Schleppler
+ hat
+ eine
+-Hinterradfußbremse
++Hinterraufbrense
+ und
+ eine
+ feststellbare
+-Getriebehandbremse.
++Getriebehauptbrenne.
+ Der
+ Motor
+ ist
+ ein
+-Zweifakt-Glühkopfmotor
++Zweizylinder-Clutchkopf-Motor
+ mit
+ elektrischer
+-Anlaßfzündung.
++Anladzündung.
+ Die
+ Ingangsetzung
+ erfolgt
+ durch
+-anwerfen
++Anwerfen
+ mittels
+-Handrad,
++Anker,
+ das
+-abnehmbar
++abnehbar
+ am
+ Lenkstock
+ angeordnet
+@@ -86,23 +87,24 @@
+ Motors
+ geschieht
+ durch
+-Thermosiphon-Wasser
+-Umlaufkühlung
+-und
+-Windflügel.
++Mercosyphon-Käser
++umlaufkühlung
++und
++Einflügel.
+ Die
+ Kraftübertragung
+ erfolgt
+-durch
+-eine
+-Mehrscheibenkupplung.
+-Das
++dureh
++eine
++Mehrschelbenkupplung.
++die
+ Schmierung
+ ist
+ eine
+-Frischöl-Umlaufschmierung.
+-Der
+-Schlepper
++Frisch
++Öl-Unteraufschmierung.
++Der
++Schlapper
+ hat
+ zum
+ Schutz
+@@ -119,54 +121,55 @@
+ den
+ Bestimmungen
+ der
+-St.V.Z.O.
++St.V.2.6.
+ Die
+ Lenkung
+-erfolgt
+-durch
+-Achsenschenkellenkung.
++erfolggt
++durch
++Achsenkellenkung.
+ 2.
+-D
+-8506
+-B
+-mit
+-Sechsganggetriebe,
++L
++8936
++3
++mit
++Sechszylindergetriebe,
+ jedoch
+ drei
+ Gänge
+-gesperrt
+-Der
+-Schlepper
++ausgestellt
++Der
++Schiepper
+ wird
+ mit
+-Einsenreifen
+-ausgerüstet,
++lisenztem
++Ausgestellt,
+ für
+-Straßenfahrt
+-werden
++Straßen-
++fahrt
++werfen
+ Laufringe
+-aufgebracht.
++angebracht.
+ Damit
+ er
+ nicht
+ über
+ 3
+-km
++im
+ Fahrgeschwindigkeit
+ entwickeln
+ kann,
+ wurden
+-oberen
+-3
++lie3oberen
+ Gänge
+-gesperrt,
++gespart,
+ wobei
+ ein
+-Schalthebel
++Schaltthel
+ entfernt
+ und
+ die
+-Getriebeöffnung
++Getriebee-
++ßnung
+ durch
+ Blindflansch
+ verschlossen
+@@ -182,66 +185,68 @@
+ Der
+ Motor,
+ die
+-Ingangsetzung,
+-die
+-Kupplung,
++Ingangseitung,
++die
++Kupplungen,
+ die
+ Kühlung,
+-das
+-Schmierung,
++die
++Schmiierung,
+ der
+ Aufbau,
+ die
+-elektr.
+-Beleuchtung
+-und
+-Lenkung
++Elektr.
++Beleuchung
++und
++Lenkungen
+ sind
+ ebenfalls
+ die
+-gleichen
++glei-
++chen
+ wie
+ unter
+ l
+ Die
+ zwei
+-Ausführungen
++Ausführung
+ haben
+ den
+ gleichen
+-Aufbau,
++Aufbau.
+ Motor
+ und
+-Getriebe
++Getrieße
+ sind
+ als
+ Blockkonstruktion
+ in
+-Lanz-Perlitguß
++Lanz-Verlitzgus
+ ausgeführt.
+ Der
+-Motor
+-hat
++Motort
++mit
+ Ein-
+ und
+-Leerlaufregler
+-und
+-Kupplung
+-mit
+-Riemenscheibe
++Leerlaufreifer
++und
++Kuppling
++mit
++Hiesenscheibe
+ für
+ Antrieb
+ von
+ landwirtschaftlichen
+ Maschinen.
+ Die
+-Kraftübertragung
+-vom
++Kräftübertra-
++gung
++von
+ Motor
+ auf
+ die
+-Hinterachse
++Hinterrode
+ erfolgt
+-durch
+-gebürstete
++Durch
++gehärtete
+ Zahn-
