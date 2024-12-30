@@ -1,0 +1,1431 @@
+Durchlauf 7:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -16,4 +16,4 @@
+ des
+ Fahrzeugs,
+ fünf
+-Zeichnungen
++Leichnungen
+
+Durchlauf 5:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -4,19 +4,21 @@
+ BMW
+ R
+ 35
++===============
++===============
+ Nachstehende
+ Daten
+ kommen
+ noch
+-zusätzlich
++zusatzlich
+ zu
+ dem
+-bisherigen
++bisserigen
+ Typenschein
+-für
++fur
+ das
+ neue
+-Typenfachten
++Typgutachten
+ in
+ Frage:
+ Bohrung
+@@ -34,12 +36,12 @@
+ Breite
+ 800
+ m
+-Höhe
++Nane
+ 950
+ mm
+ Radantrieb
+ Kraftübertragung
+-Kardan
++Karatun
+ Reifen
+ vorn
+ 5,50
+@@ -50,21 +52,22 @@
+ atu
+ Reifen
+ hinten
+-3,5
+-0
+--
+-19
+-Luftdruck
+-1,9
++5.50-
++1
++9
++Luft
++druck
++1
++,9
+ atu
+ (mit
+-Sozius)
++Jozius)
+ Bremsanlage
+ mechanisch
+ BMW
+ Eigengewicht
+ (mit
+-Öl
++01
+ und
+ Kraftstoff)
+ 162
+@@ -74,9 +77,13 @@
+ 2
+ Personen
+ =
+-188
++180
+ kg
+-Zulässiges
++Zulas
++s
++i
++ge
+ Gesamtgewicht
+-350
++3
++50
+ kg
+
+Durchlauf 6:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,20 +1,21 @@
+ Allgemeine
+ Beschreibung
+ der
+-Zugmaschine
++Jagresseine
+ 35
+-PS
+-Bulldog
+-(Ackerschlepper)
++in
++Bullion
++(AckerSchlepper)
+ Ausführung
+-8506
++1
++36.6
+ A
+ und
+ B
+ Der
+-35
+-PS
+-Ackerbulldog
++39
++72
++Ackerbullion
+ wird
+ in
+ zwei
+@@ -22,60 +23,60 @@
+ hergestellt:
+ 1.
+ Normalausführung
+-D
+-8506
++8536
+ A
+ Der
+ Schlepper
+ besitzt
+ 6
+-Getriebsgänge
+-vorwärts
++Getriebegegange
++vormärts
+ und
+ 2
+-Rückwärtsgänge
++Rückwärtsgegänge
+ mit
+ 2
+-Schalthebeln.
++Schaltthebeln.
+ Da
+ die
+ Fahrgeschwindigkeit
+-18
++13
+ km
+-beträgt,
++be-
++trägt,
+ ist
+ eran
+ den
+ Vorder-
+ und
+-Hinterräder
+-luftbereift.
+-Der
+-Schlepper
++Hinterrollern
++luftbereit.
++Der
++Schleppler
+ hat
+ eine
+-Hinterradfußbremse
++Hinterraufbrense
+ und
+ eine
+ feststellbare
+-Getriebehandbremse.
++Getriebehauptbrenne.
+ Der
+ Motor
+ ist
+ ein
+-Zweifakt-Glühkopfmotor
++Zweizylinder-Clutchkopf-Motor
+ mit
+ elektrischer
+-Anlaßfzündung.
++Anladzündung.
+ Die
+ Ingangsetzung
+ erfolgt
+ durch
+-anwerfen
++Anwerfen
+ mittels
+-Handrad,
++Anker,
+ das
+-abnehmbar
++abnehbar
+ am
+ Lenkstock
+ angeordnet
+@@ -86,23 +87,24 @@
+ Motors
+ geschieht
+ durch
+-Thermosiphon-Wasser
+-Umlaufkühlung
+-und
+-Windflügel.
++Mercosyphon-Käser
++umlaufkühlung
++und
++Einflügel.
+ Die
+ Kraftübertragung
+ erfolgt
+-durch
+-eine
+-Mehrscheibenkupplung.
+-Das
++dureh
++eine
++Mehrschelbenkupplung.
++die
+ Schmierung
+ ist
+ eine
+-Frischöl-Umlaufschmierung.
+-Der
+-Schlepper
++Frisch
++Öl-Unteraufschmierung.
++Der
++Schlapper
+ hat
+ zum
+ Schutz
+@@ -119,54 +121,55 @@
+ den
+ Bestimmungen
+ der
+-St.V.Z.O.
++St.V.2.6.
+ Die
+ Lenkung
+-erfolgt
+-durch
+-Achsenschenkellenkung.
++erfolggt
++durch
++Achsenkellenkung.
+ 2.
+-D
+-8506
+-B
+-mit
+-Sechsganggetriebe,
++L
++8936
++3
++mit
++Sechszylindergetriebe,
+ jedoch
+ drei
+ Gänge
+-gesperrt
+-Der
+-Schlepper
++ausgestellt
++Der
++Schiepper
+ wird
+ mit
+-Einsenreifen
+-ausgerüstet,
++lisenztem
++Ausgestellt,
+ für
+-Straßenfahrt
+-werden
++Straßen-
++fahrt
++werfen
+ Laufringe
+-aufgebracht.
++angebracht.
+ Damit
+ er
+ nicht
+ über
+ 3
+-km
++im
+ Fahrgeschwindigkeit
+ entwickeln
+ kann,
+ wurden
+-oberen
+-3
++lie3oberen
+ Gänge
+-gesperrt,
++gespart,
+ wobei
+ ein
+-Schalthebel
++Schaltthel
+ entfernt
+ und
+ die
+-Getriebeöffnung
++Getriebee-
++ßnung
+ durch
+ Blindflansch
+ verschlossen
+@@ -182,66 +185,68 @@
+ Der
+ Motor,
+ die
+-Ingangsetzung,
+-die
+-Kupplung,
++Ingangseitung,
++die
++Kupplungen,
+ die
+ Kühlung,
+-das
+-Schmierung,
++die
++Schmiierung,
+ der
+ Aufbau,
+ die
+-elektr.
+-Beleuchtung
+-und
+-Lenkung
++Elektr.
++Beleuchung
++und
++Lenkungen
+ sind
+ ebenfalls
+ die
+-gleichen
++glei-
++chen
+ wie
+ unter
+ l
+ Die
+ zwei
+-Ausführungen
++Ausführung
+ haben
+ den
+ gleichen
+-Aufbau,
++Aufbau.
+ Motor
+ und
+-Getriebe
++Getrieße
+ sind
+ als
+ Blockkonstruktion
+ in
+-Lanz-Perlitguß
++Lanz-Verlitzgus
+ ausgeführt.
+ Der
+-Motor
+-hat
++Motort
++mit
+ Ein-
+ und
+-Leerlaufregler
+-und
+-Kupplung
+-mit
+-Riemenscheibe
++Leerlaufreifer
++und
++Kuppling
++mit
++Hiesenscheibe
+ für
+ Antrieb
+ von
+ landwirtschaftlichen
+ Maschinen.
+ Die
+-Kraftübertragung
+-vom
++Kräftübertra-
++gung
++von
+ Motor
+ auf
+ die
+-Hinterachse
++Hinterrode
+ erfolgt
+-durch
+-gebürstete
++Durch
++gehärtete
+ Zahn-
+
+Durchlauf 8:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -8,12 +8,12 @@
+ Sechsganggetriebe,
+ Hinterachse
+ mit
+-Kegelradausgleichgetriebe,
++Kegelradausgleichgetriehe,
+ Hinterräder
+ b)
+ Übersetzung:
+-Zwischenräder
+-0,866
++Zwischenräume
++0,966
+ Getriebe:
+ 1.
+ Gang
+@@ -23,39 +23,40 @@
+ 7,24
+ 3.
+ "
++*
+ 5,41
+ R.1
+ "
+-7,65
++1,91
+ 4.
++"
+ "
+ 3,38
+ 5.
+ "
+-2,54
++Bei
++B
++gesperrt,
++Schalt-
++habel
++nicht
++vorhanden
+ 6.
+ "
+-1,91
+ R.2
+ "
+ 2,68
+-Bei
+-B
+-gesperrt,
+-Schalthebel
+-nicht
+-vorhanden
+-Hinterachse:
++Hinterachsse:
+ 4,21
+ 19.)
+ Art
+ der
+-Schalldämpfung:
++Schalldempfung:
+ Kegelige
+ Haube
+ mit
+ gelochtem
+-Prallteller
++Prallteiler
+ und
+ Siebeinsatz,
+ Auslaß
+@@ -80,11 +81,11 @@
+ a)
+ Eigengewicht
+ des
+-Fahrzeugs:
++Fahrzeugs;
+ Das
+-Eigengewicht
++Eigenggewicht
+ des
+-Fahrzeugs
++Fahrrzeugs
+ erhöht
+ sich
+ durch
+@@ -95,7 +96,7 @@
+ 60
+ kg
+ einer
+-Windschutzscheibe
++Windschitzscheibe
+ um
+ 30
+ kg
+@@ -105,13 +106,10 @@
+ um
+ 50
+ kg
+-Kotflügen
+-vor
+-und
+-hinten
+ 95
+ kg
+ einer
+-Zufuhr
+-50
++Zapfelle
++um
++10
+ kg
+
+Durchlauf 3:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,12 +1,26 @@
++Certainly!
++Here
++is
++the
++extracted
++text
++from
++the
++documents:
++---
+ TYPGUTACHTEN
+ über
+ die
+ Zugmaschine
+-(Ackerschlepper)
++(
++Ackerschlepper
++)
+ Haupttyp
+-"35
++"
++35
+ PS
+-Ackerbulldog"
++Ackerbulldog
++"
+ der
+ Firma
+ Heinrich
+@@ -14,10 +28,11 @@
+ A
+ N
+ Z
+-A.,G.
++A.,
++G.
+ Mannheim
+ Die
+-Zugmaschine
++Zugmaschinen
+ wird
+ in
+ folgenden
+@@ -32,95 +47,89 @@
+ Sechsganggetriebe
+ B:
+ mit
+-Eisenbereifung,
+-Sechsganggetriebe,
++Eisenbereifun,
++Sechseganggetrieb,
+ 3
+ Gänge
+ arretiert
+ Diese
+-Ausführungen
++Ausführun
+ können
+ mit
+ nachstehenden
+ Zusatzteilen
+-ausgerüstet
++ausgerüst
+ werden:
+ Fahrersitzdach
+-Kotflügel
+-vorn
+-und
+-hinten
+ Windschutzscheibe
+-Zapfwelle
+ Kotflügel
+ an
+ den
+ Hinterrädern
+ Für
+ den
+-35
+-PS
++3S
+ Ackerbulldog
+ gelten
+ im
+ Übrigen
+ folgende
+-Merkmale:
++Werkzeile:
+ 1.)
+ Art
+ des
+-Fahrzeuges:
+-Zugmaschine
+-(Ackerschlepper)
++Fahrzeugs:
+ 2.)
+ Hersteller
+ des
+-Fahrzeuges:
+-Heinrich
+-Lan
+-z
+-A.,
+-G.,
+-Mannheim
++Fahrgestell:
+ 3.)
+ Antriebsmaschine:
+ a)
+ Art
+ des
+ Antriebes:
++b)
++Leistung:
++c)
++Hubraum:
++d)
++Hersteller:
++e)
++Takt:
+ Verbrennungsmaschine
+-(Glühkopfmotor,
++(Glühkopf-
++motor,
+ Zylinder
+ liegend)
+-b)
+-Leistung:
+-35
++3
++5
+ PS
+ bei
+ 540
+ U/min
+-c)
+-Hubraum:
+-10338
++10358
+ cm3
+-Zahl
+-der
+-Zylinder:
+ 1
+-Durchmesser
+-des
+-Zylinders:
+ 225
+ mm
+-Kolbenhub:
+ 260
+ mm
+-d)
+-Hersteller:
+-Heinrich
+-Lanz
++HeinrichLanz
+ A.G.,
+ Mannheim
+-e)
+-Takt:
+ Zweitakt
++---
++I
++hope
++this
++helps!
++Let
++me
++know
++if
++you
++need
++any
++further
++assistance.
+
+Durchlauf 2:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,7 +1,3 @@
+-Ausführung
+-A
+-mit
+-Luftreifen
+ Die
+ Zugmaschine
+ ist
+@@ -20,113 +16,44 @@
+ die
+ Bedienbarkeit
+ der
+-Absperrvorrichtung
++Abgasverrichtung
+ in
+ der
+ Kraftstoffleitung
+ vom
+-Führersitz
++Mührenitz
+ aus
+ sowie
+ von
+ der
+-Erfüllung
+-des
+-Vorschriften
++Erfindung
++der
++Vorwirtschaft
+ des
+ §49
+ Abs.1
+ und
+-2
+-StVZO
++2StVZO
+ Über
+ die
+-Höchstzulässige
++Höchstaulülsige
+ Lautstärke
+ des
+-Fahrgeräusches
++Fahrerumchses
+ freigestellt.
+-Das
++Der
+ Fahrzeug
+-genügt
+-hinsichtlich
++gerät
++hin-
++sichtlich
+ der
+-Scheinwerferhöhe
++Erscheinung
++und
++der
++Sichtbarkeit
+ nur
+ den
+-Vorschritten
+-für
+-die
+-Zugmaschinen
+-in
+-Land-
+-und
+-forstwirtschaftlichen
+-Betrieben.
+-Ausführung
+-B
+-mit
+-eisernen
+-Reifen
+-Die
+-Zugmaschine
+-ist
+-von
+-der
+-Erfüllung
+-der
+-Vorschrift
+-des
+-§
+-46
+-Abs.
+-2
+-StVZO
+-Uber
+-die
+-Bedienbarkeit
+-der
+-Absperrvorrichtung
+-in
+-der
+-Kraftstoffleitung
+-vom
+-Führersitz
+-aus
+-sowie
+-von
+-der
+-Erfüllung
+-der
+-Vorschrift
+-des
+-§
+-49
+-Ab.
+-1
+-und
+-2
+-StVZO
+-über
+-die
+-höchstzulässige
+-Lautstärke
+-des
+-Fahrzeugeräusches
+-freigestellt.
+-Das
+-Fahrzeug
+-genügt
+-hinsichtlich
+-der
+-eisernen
+-Bereifung
+-und
+-der
+-Scheinwerferhöhe
+-nur
+-den
+-Vorschriften
++Vorwissenschaften
+ für
+ Zugmaschinen
+ in
+@@ -134,45 +61,3 @@
+ und
+ Forstwirtschaftlichen
+ Betrieben.
+-4.
+-Im
+-Falle
+-einer
+-Änderung
+-des
+-Typs
+-ist
+-ein
+-entsprechen
+-der
+-Nachtrag
+-zu
+-der
+-allgemeinen
+-Betriebsanleitung
+-zu
+-beantragen.
+-Die
+-auf
+-der
+-allgemeinen
+-Betriebserlaubnis
+-ruhenden
+-Befugnisse
+-erlöschen
+-mit
+-Ablauf
+-des
+-19.
+-November
+-1951,
+-wenn
+-sie
+-nicht
+-gemäß
+-§
+-20
+-Abs.4
+-StVZ0
+-verlängert
+-werden.
+
+Durchlauf 4:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,46 +1,45 @@
+-D
+-8506
+ Zu
+ Ziffer
+ 7)
+ Art
+ des
+ Aufbaus:
+-Wird
++wird
+ das
+ Fahrzeug
+ mit
+ einem
+ Fahrersitzdach
+-ausgerüstet,
++ausge-
++rüstet,
+ so
+ ändert
+ sich:
+-c)
++o)
+ bei
+ Zugmaschinen:
+ festes
+ Wetterdach
+ mit
+-abnehmbaren
++ab-
++nehmbarer
+ Seitenteilen
+-Zur
++Zu
+ Ziffer.8)
+-Maße
++Hage
+ über
+ alles:
+ Bei
+-Ausstattung
++Ausrüstung
+ mit
+-Fahrersitzdach
++Fahrersittdach
+ ändern
+ sich
+-folgenden
++folgen-
++de
+ Angaben:
+-Länge:
++Lange:
+ 3408
+-mm
+-3390
+ mm
+ Höhe:
+ 2452
+@@ -49,22 +48,23 @@
+ Anbau
+ von
+ Kotflügeln
+-änderte
++ändet
+ sich:
+ Breite:
+ unverändert
+-1785
++1705
+ mm
+ Der
+ Fahrzeugtyp
+ entspricht
+ in
+-folgenden
++folgendem
+ nur
+ den
+ Vorschriften
+ für
+-Zugmaschinen
++Zugmaschin
++en
+ in
+ land-
+ und
+@@ -72,24 +72,28 @@
+ Betrieben:
+ Scheinwerferhöhe
+ über
++Eisenberei-
+ Fahrbahn
+ (
+ §
+ 50,3
+ StVZO
+ )
+-Eisenbereifung
+-(§
+-36,4
+-StVZO)
+-Scheinwerferhöhe
++(
++§36,4
++StVZ0)
++Scheinwerkfer-
++höhe
+ über
+-Fahrbahn
+-(§50,
+-3
+-StVZO)
++Fahrbah
++(
++§50.3
++St
++VZ0
++)
+ Der
+-Fahrzeugtyp
++Fahrzeugs
++typ
+ entspricht
+ vorstehenden
+ Angaben
+@@ -98,7 +102,7 @@
+ den
+ Anforderungen
+ der
+-Strassenverkehrs-Zulassungs-Ordnung
++Strassenverkehrs-Zula.sungs-Gründung
+ sowie
+ den
+ hierzu
+@@ -107,7 +111,8 @@
+ des
+ Reichsverkehrsministers
+ mit
+-folgenden
++fol-
++genden
+ Ausnahmen:
+ 1.)
+ Die
+@@ -115,42 +120,44 @@
+ die
+ Kraftstoffleitung
+ (Rohölleitung)
+-eingebaute
++eingegebte
+ Absperrvorrichtung
+ ist
+ von
+-Fahrersitz
++Fahrersiitz
+ aus
+ nicht
+-bedienbar
++be-
++dienbar
+ (
+ §46,2
+-StVZO
++StVzo
+ )
+ 2.)
+ Fahrgeräusch
+ und
+-Auspuffgeräusche
++Auspuffgeräusch
+ überschreiten
+-85
++35
+ Phon
+ (
+ §.49,1
+ u.
+ 2
+-StVZO
++St
++VZO
+ )
+ 3.)
+ Bei
+ den
+ Fahrzeugen
+ ohne
+-Kotflügel
++Kotflugel
+ ist
+ der
+ Abstand
+ der
+-Schlußlichter
++Schneblichter
+ voneinander
+ 100
+ cm
+@@ -160,5 +167,5 @@
+ cm
+ (
+ §
+-53,1
+-StVZO)
++.53,1
++StVzO)
+
+Durchlauf 1:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,16 +1,15 @@
+-...
+-Ausfertigung
+ Allgemeine
+ Betriebserlaubnis
+ Nr.
+ 207
+-Für
++für
+ die
+ Zugmaschinen
+ (Ackerschlepper)
+ Typ
+ 35
+-Ackerbulldog
++Acker-
++bulldog
+ D
+ 8506
+ der
+@@ -32,10 +31,10 @@
+ für
+ den
+ Kraftfahrzeugverkehr
+-(TÜ
++(ZGV
+ Mannheim)
+ in
+-Mannheim
++Mannhein
+ vom
+ 4.
+ November
+@@ -45,28 +44,28 @@
+ die
+ reihenweise
+ gefertigten
+-Zugmaschinen
+-(Ackerschlepper)
++Zugmaschen
++(Ackershlepperer)
+ Typ.
+-35
+-PS
+-Ackerbulldog
+-D
+-8506
+-der
++3S
++Ackerbldog
++D.
++8S06
++dcr
+ Firma
+-Heinrich
+-Lanz
++Heihrich
++L.
++anz
+ AG
+ in
+-Mannheim
++Mnnheim
+ widerruflich
+ die
+ allgemeine
+-Betriebserlaubnis
++Brieiebserlauubnis
+ gemäß
+ §
+-20
++26
+ Abs.
+ 1
+ der
+@@ -82,19 +81,18 @@
+ Straßenverkehr
+ vom
+ 13.
+-November
+-1937
++November.
++937
+ (StVZO)
+-erteilt.
++erl.
+ Die
+-Zugmaschinen
+-en
+-Typ
+-35
++Zugmascheren
++Typ
++25
+ PS
+-Ackerbulldog
++Ackerbulldog.
+ D
+-8506
++950c
+ werden
+ in
+ folgenden
+@@ -107,28 +105,29 @@
+ Ausführung
+ B
+ mit
+-Eisenbereifung.
+-2.
+-Auf.
+-Grund
++Eisenbereif.
++5.
++Auf
++Grond
+ des
+ §
+ 70
+ Abs.
+-I
++l
+ StVZO
+ werden
+ die
+-Zugmaschinen
+-Typ
+-35
+-Ackerbulldog
+-D
+-8506
+-der
+-Firma
+-Heinrich
+-Lanz
++Zugmasschinen
++Typ
++15
++PS
++Ackerbldog
++d.
++050
++der
++Fima
++Heinrich.
++Lanz.
+ AG,
+ Mannheim,
+ von
+@@ -146,34 +145,33 @@
+ die
+ Bedienbarkeit
+ der
+-Absperrvorrichtung
++Absperrror-
++richtung
+ in
+ der
+ Kraftstoffleitung
+-vom
+-Führersitz
++vonführersitz
+ aus
+ sowie
+ von
+ der
+-Erfüllung
++Erülllung
+ der
+ Vorschrift
+ des
+ §49
+ Abs.
+-1
++I
+ und
+-2
+-StVZO
+-über
+-die
+-höchstzulässige
++2StVZO
++über
++die
++hochstzulässige
+ Lautstärke
+ des
+-Fahrgeräusches
++Fahrgestücks
+ freigestellt.
+-3.
++6.
+ Der
+ Hersteller
+ hat
+@@ -184,7 +182,7 @@
+ entsprechende
+ Fahrzeug
+ einen
+-Kraftfahrzeugbrief
++Kraftfahrtzeugbrief
+ auszufüllen
+ sowie
+ die
+@@ -195,10 +193,10 @@
+ die
+ Beschaffenheit
+ des
+-Fahrzeuges
++Fahrzeugs
+ und
+ dessen
+-Übereinstimmung
++Überzeinstimmung
+ mit
+ dem
+ genehmigten
+@@ -213,7 +211,7 @@
+ sind
+ von
+ dem
+-Straßen-Zentralamt
++Straßer-Zentralamt
+ der
+ Verwaltung
+ für
+@@ -221,44 +219,43 @@
+ des
+ vereinigten
+ Wirtschaftsgebietes
+-(Sammelstelle
++(Sammlistelle
+ für
+ Nachrichten
+ über
+-Kraftfahrzeuge)
+-in
+-Bielefeld,
++Kraftfahrungzeuge)
++in
++Ebersfeld,
+ Herforder
+ Straße
+-8
++3
+ -
+ 10,
+ zu
+-beziehen.
++besuchen.
+ Bei
+ der
+ Ausfertigung
+ von
+-Kraftfahrzeugbriefen
+-für
+-die
+-Zugmaschinen
+-Typ
+-35
+-PS
++Kraftfahrenheitbriefen
++für
++die
++zugmaschienen
++Typ
++55
++PS.
+ Ackerbulldog
+ D
+-8506
+-der
+-Firma
++0S0c
++der
++Fira.
+ Heinrich
+-Lanz
++Lan.
+ AG
+ in
+-Mannheim
++Manheim
+ ist
+ unter
+-Nr.
+-19
++Nr.19
+ "Bemerkungen"
+ einzutragen:
+

@@ -191,7 +191,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 # Beispielaufruf
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/Schreibmaschinenschrift",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/GotOcr/Schreibmaschinenschrift",
-    output_directory="Ergebnis_GotOcr",
-    excel_path="Ergebnis_GotOcr/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen7b/Schreibmaschinenschrift",
+    output_directory="Ergebnis_Qwen7b",
+    excel_path="Ergebnis_Qwen7b/results.xlsx"
 )
