@@ -1,0 +1,2273 @@
+Durchlauf 7:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,4 +1,4 @@
+-Korrosionsbeständigkeit
++Korrosionsbestandigkeit
+ (Resistance
+ to
+ corrosion)
+@@ -52,8 +52,10 @@
+ also
+ outside
+ environmental
+-influences.
+-5.
++influences
++.
++##
++5
+ Kennzeichnung
+ des
+ Behälters
+@@ -70,14 +72,14 @@
+ in
+ eingebautem
+ Zustand
+-gut
+ lesbar
+ zu
+ kennzeichnen.
+ Die
+ Kennzeichnung
+-muß
++muls
+ enthalten:
++gut
+ The
+ following
+ markings
+@@ -105,14 +107,15 @@
+ on
+ the
+ vehicle:
+-a)
++-
+ Hersteller
+ des
+-Behälters
++Behalters
+ Manufacturer
+ of
+ the
+ tank
++-
+ b)
+ Herstellungsmonat
+ und
+@@ -122,43 +125,44 @@
+ year
+ of
+ manufacturing
+-c)
++-
+ Typ
+-und/oder
++undoder
+ Handelsmarke
+-ww./opt.
+-Name
+-and/or
++Jame
++andlor
+ trademark
++-
+ d)
+ TÜV-Kennzeichnung
+-143XS0133
+ TÜV-marking
++ww/opt.
++143X50133
+ Die
+ Gebrauchsfähigkeit
+ des
+ Behälters
+ ist
+ zu
+-überprüfen,
++überprüfen;
+ wenn
+ wesentliche
+ Teile
+ des
+-Fahrzeugs,
++Fahrzeuges;
+ die
+ zu
+ einer
+ Veränderung
+ der
+ Einbauverhältnisse
+-führen,
+-die
+-Behälterunterbringung,
++führen;
++die
++Behälterunterbringung;
+ die
+ Behälterbefestigung,
+ die
+-Behälterabmessungen,
++Behälterabmessungen;
+ der
+ Behälterwerkstoff
+ oder
+@@ -182,7 +186,6 @@
+ of
+ the
+ vehicle
+--
+ especially
+ concerning
+ the
+@@ -191,7 +194,7 @@
+ the
+ fuel
+ tank
+--
++=
+ or
+ material,
+ manufacturing
+@@ -215,4 +218,5 @@
+ Kraftfahrt
+ GmbH
+ is
+-necessary.
++necessary
++.
+
+Durchlauf 5:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,3 +1,4 @@
++##
+ Throttle
+ Body
+ (TB)
+@@ -6,69 +7,70 @@
+ rail
+ The
+ Throttle
+-Body,
++Body.
+ which
+-distributes
+-fuel
+-and
+-air
+-to
+-the
+-engine
+-cylinders,
+-is
++distributos
++fuel
++and
++alr
++t
++th0
++argine
++cylindors,
++{s
+ an
+ aluminum
+ dual
+ runner
+-with
+-separate
++withi
++aeparate
+ manifolds.
+ The
+ TB
+ and
+ fuel
+ rail
+-houses
+-the
+-fuel
+-injectors,
+-fuel
+-pressure
+-regulator,
+-throttle
++housos
++the
++fuel
++injoctors,
++luel
++prcssure
++regulator;
++thromie
+ position
+ sensor,
+-idle
+-speed
++Idle
++specd
+ control
+ actuator,
+ and
+ the
+-throttle
++lhrottle
+ plates
+ and
+-linkages.
++Iinkages.
+ Fuel
+-fittings
+-connect
+-the
+-fuel
+-supply
+-and
+-return
+-to
+-the
+-fuel
+-tank.
++fitings
++conneci
++the
++{uel
++cupply
++and
++roturn
++lo
++Io
++fuel
++tank
++##
+ Sensors
+-Five
+-sensors
+-provide
+-the
++Fivo
++sGnsors
++provlde
++Ihe
+ ECM
+ with
+-data
++dala
+ on
+ the
+ environmental
+@@ -83,50 +85,50 @@
+ requirements.
+ A
+ brief
+-description
++descrlption
+ of
+ each
+-sensor
+-follows.
++sengor
++[ollows.
+ Crankshaft
+ Position
+ Sensor
+ (CKP
+-Sensor)
++Sonsor)
+ -
+ The
+ CKP
+ Sensor
+-is
+-a
+-magnetic
+-pickup
++i6
++a
++fagnelic
++pIckup
+ device
+ mounted
+ in
+ the
+-left
+-crankcase
+-half
++lef
++crarikcase
++hall
+ near
+ the
+-alternator
+-plug.
++allernalor
++plug-
+ To
+-calculate
++calculale
+ engine
+ speed
+ for
+-the
++Ihe
+ ECM,
+-the
++te
+ sensor
+-picks
+-up
++plcke
++VP
+ signals
+ from
+ the
+-presence
++presonce
+ of
+ 24
+ teeth
+@@ -134,24 +136,24 @@
+ into
+ the
+ left
+-flywheel
+-cheek.
++fywheel
++cheek
+ A
+-gap,
++g2p,
+ created
+ by
+ the
+ removal
+ of
+ two
+-teeth,
++teoth,
+ establishes
+ a
+-Top
+ Dead
+ Center
+-(TDC)
++(TDC}
+ reference.
++Top
+ Coolant
+ Temperature
+ Sensor
+@@ -164,83 +166,84 @@
+ temperature
+ of
+ the
+-engine
+-coolant
++engino
++cooiant
+ and
+ is
+ mounted
+ between
+ the
+ engine
+-‘V’.
++'V'
+ This
+-information
++informnation
+ is
+ primarily
+ used
+ by
+ the
+ ECM
+-during
++durlng
+ engine
+ warm-up
+ periods
+-for
+-the
++{or
++tho
+ purpose
+ of
+-idle
++Idle
+ speed
+-adjustment.
++aojustmient.
+ The
+ ECM
+ also
+ uses
+ the
+ data
+-to
++l0
+ determine
+-injector
+-pulse
+-width.
++Injector
++pulze
++width
++.
+ Intake
+ Air
+ Temperature
+ Sensor
+-(IAT
+-Sensor)-
++(LAT
++Sonsor)-
+ Located
+ in
+ the
+ front
+ cylinder
+-intake,
++intake;
+ the
+ data
+ provided
+ by
+-the
++Ihe
+ IAT
+ Sensor
+ is
+-used
++u8ed
+ in
+ conjunction
+ with
+ the
+ data
+ from
+-the
++Ihe
+ MAP
+ Sensor
+ to
+-determine
+-oxygen
++datermine
++Oxygen
+ content
+ (air
+ density)
+ for
+-adjustment
++adjustnent
+ of
+ fuel
+ delivery
+@@ -248,13 +251,13 @@
+ cold
+ starting
+ and
+-warm-up.
+-Manifold
++warm-UP,
++Manlfold
+ Air
+-Pressure
++Prebsure
+ Sensor
+ (MAP
+-Sensor)
++Sensor]
+ -
+ The
+ MAP
+@@ -264,22 +267,22 @@
+ the
+ front
+ cylinder
+-intake,
++intake;
+ monitors
+ manifold
+-air
+-pressure
+-and
+-senses
+-engine
++alr
++prossure
++and
++sen805
++cngine
+ load
+ for
+ fuel
+ and
+ spark
+-timing.
+-Throttle
+-Position
++tming.
++Throttlo
++Posltlon
+ Sensor
+ (TP
+ Sensor)
+@@ -287,31 +290,31 @@
+ The
+ TP
+ Sensor
+-is
++i8
+ a
+ potentiometer
+ mounted
+ on
+ the
+-throttle
++throtile
+ body
+ and
+ attached
+-to
+-the
++%0
++Ihe
+ end
+ of
+ the
+-throttle
+-shaft.
++throtle
++shalt
+ It
+ provides
+ the
+ ECM
+ with
+-information
++infcrmatlon
+ about
+-throttle
++throtile
+ angle
+ for
+ transient
+@@ -319,25 +322,25 @@
+ and
+ spark
+ timing.
++##
+ Other
+ Features
+-Wire
+-Harnesses
+--
++WIre
++Harnesses-
+ There
+ is
+-a
++0
+ single
+ main
+ harness.
+ There
+ is
+-a
+-separate
+-small
++à
++separale
++smiall
+ engine
+ harness
+-connected
++connecled
+ to
+ the
+ main
+@@ -346,26 +349,25 @@
+ Low
+ Level
+ Fuel
+-Warning
+-Lamp
+--
++WarnIng
++Lamp-
+ Since
+ the
+ fuel
+ valve
+-and
++a@d
+ mechanical
+ reserve
+ have
+ been
+-eliminated,
+-a
+-fuel
++eliminaled,
++a
++(uel
+ gauge
+ and
+ a
+ low
+-fuel
++luel
+ level
+ warning
+ lamp
+@@ -374,16 +376,16 @@
+ provided.
+ The
+ lamp
+-is
++i6
+ activated
+ when
+ the
+ fuel
+-level
+-reaches
++levcl
++rcaches
+ about
+-1/2
+-to
++7/2
++t0
+ 1.5
+ gallons
+ and
+@@ -396,69 +398,66 @@
+ turned
+ off
+ or
+-fuel
+-is
+-added.
++{uel
++is
++added
+ The
+ lamp
+-is
++i8
+ designed
+-so
++s0
+ that
+ it
+ will
+ not
+ blink
+ when
+-movement
+-of
+-the
++movemient
++of
++Ihe
+ vehicle
+ causes
+ the
+ fuel
+-to
++1o
+ slosh
+-inside
+-the
+-tank.
++inslde
++Ihe
++Iank.
+ Fuses
+ and
+-Relays
+--
++Relays-
+ One
+-electrical
+-relay
+-is
+-provided,
+-which
++eleclrical
++Is
++provided
++,
++whlch
+ powers
+-the
+-fuel
++Ihe
++[uel
+ pump,
+ ignition
+ coil
+ and
+-injectors.
+-The
+-relays
++injeclors.
++The
+ are
+ similar
+ to
+-the
++Ihe
+ starter
+-relay
+ currently
+ used
+ on
+ production
+-vehicles.
++vehicles,
+ To
+ provide
+ circuit
+-protection,
+-the
+-appropriate
++prolection;
++Ihe
++appropriale
+ fuses
+ are
+ supplied
+@@ -475,12 +474,15 @@
+ location
+ contains
+ spare
+-fuses.
++fusos.
++relay
++relays
++relay
+ Air
+ Cleaner
+ -
+ The
+-air
++alr
+ cleaner
+ is
+ mounted
+@@ -489,13 +491,13 @@
+ air
+ box.
+ It
+-is
++i3
+ located
+ on
+ top
+ of
+ the
+-cylinders.
++cylinders,
+ Check
+ Engine
+ Lamp-
+@@ -505,42 +507,42 @@
+ Lamp
+ on
+ the
+-instrument
++instrurent
+ panel
+ indicates
+ the
+ existence
+ of
+ a
+-fault
+-condition.
++fau;t
++condition:.
+ Data
+ Link
+-Connector
+--The
++Connector-
++The
+ EFI
+ system
+-provides
+-two
++provideg
++twvo
+ levels
+ of
+-on
++cn
+ board
+-diagnostics
++diagnoslics
+ to
+-assist
+-in
+-determining
++asslat
++In
++delerminirg
+ the
+ source
+-of
++0f
+ system
+ problems.
+ In
+ the
+ more
+ sophisticated
+-mode,
++mode;
+ the
+ Scanalyzer
+ is
+@@ -557,8 +559,8 @@
+ In
+ the
+ other
+-mode,
+-a
++mode;
++&
+ Diagnostics
+ Test
+ Lamp
+@@ -566,24 +568,24 @@
+ observed
+ by
+ the
+-technician.
++lechnician.
+ The
+ lamp
+ flashes
+-a
++0
+ code
+ that
+ correlates
+-to
+-a
+-particular
+-problem
+-area.
++t0
++&
++paricular
++protlem
++areà.
+ The
+ Data
+ Link
+ Connector
+-provides
++provices
+ for
+ connection
+ of
+@@ -592,6 +594,6 @@
+ Diagnostics
+ Test
+ Lamp
+-or
+-the
+-Scanalyser.
++cr
++the
++Scanalyzer.
+
+Durchlauf 6:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,3 +1,4 @@
++##
+ 4
+ Schlussbescheinigung
+ /
+@@ -13,31 +14,36 @@
+ darin
+ beschriebene
+ Typ
+--
+-entspricht
+--
++e
++nt
++s
++p
++ri
++cht
+ der
+-o.
+-a.
++0
++a
+ Prüfspezifikation.
+ The
+-information
++inforation
+ document
+ as
+ mentioned
+ under
+-No.
+-5
++No
++0.5
+ and
+ the
+ type
+ described
+ therein
+ are
+--
+-in
+-compliance
+--
++~in
++c0
++M
++plian
++c
++e
+ with
+ the
+ test
+@@ -58,10 +64,10 @@
+ den
+ zu
+ genehmigenden
+-Typ
+-repräsentativ
++reprasentativ
+ (siehe
+ 1.1).
++Typ
+ With
+ regard
+ to
+@@ -166,6 +172,7 @@
+ Test
+ Laboratory
+ only.
++##
+ PRÜFLABORATORIUM
+ /
+ TEST
+@@ -179,12 +186,12 @@
+ Bundesrepublik
+ Deutschland
+ designated
+-by
+ designation
+ department
+ of
+-Kraftfahr-Bundesanamt,
++Kraftfahrt-Bundesamt;
+ Federal
+ Republic
+ of
+ Germany
++by
+
+Durchlauf 8:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -8,26 +8,26 @@
+ das
+ Eisenacher
+ BMW-Werk
+-erheblich
+-zerstört,
+-die
++erhcbllch
++rerstort;
++Idie
+ Maschinen
+ wurden
+-zusammen
++Iusanmen
+ mit
+-Teilebeständen
+-in
+-den
+-umliegenden
++Teilebestanden
++In
++den
++umllcgenden
+ Schächten
+ der
+-Kali-Bergwerke
++Kall-Bergwerke
+ versteckt.
+ Das
+ Werk
+ sollte
+ laut
+-"Führerbefehl"
++"Führerbefchl"
+ im
+ April
+ 1945
+@@ -39,74 +39,73 @@
+ Armee
+ immer
+ näher
+-rückte.
++ruckte.
+ Am
+ 6.
+ April
+-rückten
++ruckten
+ jedoch
+-amerikanischer
+-Panzer
+-in
+-das
+-Eisenach
++amerikanlsche
++Panrer
++iM
++Eisenacher
+ Werk
+-ein,
+ noch
+ bevor
+-es
+-zur
++e5
++IuF
+ Sprengung
+-kam.
++[kam.
++ein;
+ Im
+ Rahmen
+ der
+-Aufteilung
++Auftellung
+ Deutschlands
+ in
+ Besatzungszonen
+ fiel
+ Thüringen
+-zum
++um
+ 5.
+ Juni
+-1045
+-endgültig
++1945
++endgultig
+ der
+ sowjetischen
+ Besatzungszone
+-zu.
++Z,
+ Diese
+-übernahmen
+-am
++lubernahmen
++aM
+ 03.Juli
+-1454
++1945
+ das
+-Eisenachers
++Eisenacher
+ Werk.
+-Die
++[Die
+ Sowjets
+ planten
+ das
+ Werk
+ zu
+-demontieren,
++demontieren;
+ auch
+-die
++dic
+ versteckten
+-Teile
+-und
+-Maschinen
++Telle
++undi
++[Maschinen
+ wurden
+-schnell
++schneli
+ entdeckt.
+-BMW-Motorräder
++DMW-Motorrider
+ standen
+ bei
+ den
+ Sowjets
+ hoch
+-im
++in
+ Kurs
+ (man
+ erinnere
+@@ -117,10 +116,10 @@
+ =
+ M72)
+ und
+-so
++50
+ forderte
+-man
+-aus
++Man
++au5
+ den
+ verbliebenen
+ Teilen
+@@ -128,15 +127,15 @@
+ Motorräder
+ zu
+ fertigen.
+-Für
+-die
+-ersten
++Fur
++die
++lersten
+ 220
+-BMW
++EMW
+ R
+ 35
+ mussten
+-lediglich
++Iedlglich
+ die
+ nicht
+ eingelagerten
+@@ -149,20 +148,20 @@
+ die
+ gebauten
+ R
+-5
++35
+ und
+ befanden
+ sie
+-für
+-gut
+-und
+-verfügt
++fur
++und
++verfügten
+ daraufhin
+ den
+ Bau
+ von
+ weiteren
+-Motorrädern.
++Motorrsdern.
++gut
+ Um
+ die
+ durch
+@@ -177,17 +176,17 @@
+ damalige
+ Leiter
+ der
+-Motorradproduktion,
++Motorradproduktion;
+ Albert
+-Siedler,
+-und
+-seine
++[Siedler,
++und
++scine
+ verbliebenen
+ Männer
+ die
+ Sowjets
+-umzustimmen.
+-Im
++umzustimmen,
++Iml
+ Hauptquartier
+ der
+ Sowjets
+@@ -198,24 +197,24 @@
+ die
+ letzte
+ intakte
+-verbliebene
++verblicbene
+ BMW
+ 321-Limousine
+-vorgeführt.
++vorgefuhrt.
+ Der
+ Trick
+ saß,
+-Shukov
++Shukow
+ verlangte
+ weitere
+-fünf
++fünt
+ Neuwagen
+ innerhalb
+-kürzester
+-Zeit.
++kurzester
++Zeit:
+ Die
+ Herstellung
+-der
++den
+ Fahrzeuge
+ gelang
+ und
+@@ -223,22 +222,22 @@
+ Befehl
+ Nummer
+ 93
+-zur
+-"Sicherstellung
++zuF
++'Sicherstellung
+ der
+ Herausbringung
+ der
+-neuen
++neven
+ Personenkraftwagen
+ und
+ Motorräder
+ in
+ der
+-Fahrzeug-
+-und
++"
++Fahrzeugund
+ Maschinenfabrik
+-Thüringen"
+-war
++Thuringen
++War
+ die
+ drohende
+ Demontage
+@@ -252,10 +251,10 @@
+ 321
+ und
+ die
+-gleiche
++glelche
+ Anzahl
+ von
+-Motorrädern
++Motorradern
+ Typ
+ R
+ 35
+@@ -263,25 +262,26 @@
+ werden.
+ Die
+ Maschinen
+-zur
++zuN
+ Fahrzeugherstellung
+ kamen
+ zurück
+ ins
+ Werk,
+-im
++Im
+ November
+ 1945
+ begann
+-die
++diel
+ Produktion
+ der
+ BMW
+-R35
+-zum
++R
++35
++zuM
+ zweiten
+ Mal.
+-Diese
++Dlese
+ Fahrzeuge
+ gingen
+ vorerst
+@@ -289,29 +289,28 @@
+ Reparationsleistung
+ in
+ die
+-Sowjetunion.
++Sowjetunion;
+ Mit
+ der
+-Verfügung
++Verfugung
+ des
+-Präsidenten
++Prisidenten
+ des
+ Landes
+ Thüringen
+ waren
+-im
++Imn
+ September
+ 1945
+ alle
+ Betriebsanlagen
+ enteignet
+ worden.
+-Natürlich
+-gab
+-es
+-Widersprüche
++Naturlich
++2s
++Widerspruche
+ aus
+-München,
++Hunchen,
+ die
+ seitens
+ der
+@@ -319,25 +318,25 @@
+ Machthaber
+ wie
+ folgt
+-interpretiert
++Interpreticrt
+ wurden:
+ "Sie
+ (die
+ Widerspruche)
+ sind
+-nur
++nuF
+ zu
+ bewerten
+ als
+-Raubansprüche
++Raubanspruche
+ der
+ auch
+ heute
+ wieder
+-in
++In
+ Westdeutschland
+ in
+-führender
++tuhrender
+ Position
+ des
+ deutschen
+@@ -345,10 +344,11 @@
+ stehenden
+ Monopolherren
+ und
+-Kriegstreiber
+-der
+-BMW-München.
+-..."
++0r
++Kriegstrelber
++der
++BMW-Munchen.
++200
+ Am
+ 15.
+ September
+@@ -356,39 +356,40 @@
+ wurde
+ das
+ Werk
+-in
+-die
+-Sowjetische
++lin
++die
++SowjetIsche
+ Aktiengesellschaft
+ Awtovelo
+ eingegliedert.
++gab
+ Die
+ Planwirtschaft
+ hatte
+ also
+-zugeschlagen.
++rugeschlagen.
+ Erste
+-Planansätze
+-für
++Planansatze
++fdr
+ das
+-Jahr
++Jahn
+ 1945
+ forderten
+ die
+ Herstellung
+ von
+ 70
+-Motorrändern,
++Motorrädern,
+ gefertigt
+ wurden
+ 16.
+ Für
+-das
++die
+ Jahre
+ 1946-48
+ sind
+ Planzahlen
+-bekannt,
++bekannt;
+ aber
+ keine
+ konkreten
+@@ -396,21 +397,21 @@
+ Erst
+ ab
+ 1949
+-liegen
+-zuverlässigere
++Iiegen
++zuverlassigere
+ Werte
+ vor:
+-so
+-stieg
+-die
++50
++sticg
++dic
+ jährliche
+-Fertigungszahl
+-von
++Fertigungsstuckzahl
++Von
+ 4250
+ im
+ Jahre
+ 1949
+-auf
++Juf
+ 13700
+ im
+ Jahre
+@@ -429,10 +430,10 @@
+ worden.
+ Andere
+ Quellen
+-(Schröder,
++(Schroder;
+ siehe
+ Literaturverweis)
+ sprechen
+ von
+-ca.
++€a.
+ 81000
+
+Durchlauf 3:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -3,12 +3,12 @@
+ Genehmigung:
+ e1*2007/46*0734*03
+ Approval
+-No.:
+-1.
++No:
++-
+ Für
+ vollständige
+ Varianten
+-–
++"
+ For
+ complete
+ variants
+@@ -26,9 +26,9 @@
+ IV
+ der
+ Richtlinie
+-2007/46/EC
++2007/46/EG
+ vorgeschriebenen
+-Rechtsakte.
++Rechtsakte
+ The
+ vehicle
+ type
+@@ -50,27 +50,26 @@
+ to
+ Directive
+ 2007/46/EC.
+-2.
++-
++2
+ Für
+ unvollständige
+ Varianten
+-–For
++For
+ incomplete
+ variants
+-:
+-Die
+-Fahrzeugtype
++Der
++Fahrzeugtyp
+ erfüllt
+ die
+-technische
++technischen
+ Anforderungen
+ der
+ in
+ der
+ Tabelle
+ aufgeführten
+-Rechtsakten
+--
++Rechtsakte
+ The
+ vehicle
+ type
+@@ -94,9 +93,9 @@
+ mehrere
+ unvollständige
+ Varianten
+-oder
+-Versionen,
+-so
++bzw.
++Versionen;
++s0
+ sind
+ die
+ vollständigen
+@@ -106,7 +105,6 @@
+ bzw.
+ Versionen
+ anzugeben.
+-–
+ In
+ the
+ case
+@@ -118,7 +116,7 @@
+ or
+ more
+ incomplete
+-variants,
++variants;
+ list
+ those
+ variants
+@@ -127,16 +125,20 @@
+ complete
+ or
+ completed.
+-Vollständiger/vervollständigte
++Vollständige
++vervollständigte
+ Variante(n)
++-
+ 1.
+ Stelle
+ des
+ Variantenschlüssels:
+ K
+ -
+-Complete/completed
++Complete
++completed
+ variant(s):
++-
+ 1.
+ digit
+ in
+@@ -171,7 +173,8 @@
+ der
+ nachstehend
+ aufgelisteten
+-Rechtsakte).
++Rechtsakte)
++.
+ List
+ of
+ requirements
+@@ -185,7 +188,8 @@
+ or
+ variant
+ (as
+-appropriate,
++appropriate
++,
+ taking
+ account
+ of
+@@ -198,7 +202,7 @@
+ each
+ of
+ the
+-regulative
++regulatory
+ acts
+ listed
+-below).
++below)
+
+Durchlauf 2:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,4 +1,5 @@
+-2.12.2.
++##
++2.12.2
+ des
+ Sattelanhängers
+ oder
+@@ -13,10 +14,11 @@
+ entfällt
+ not
+ applicable
++##
+ 2.16.
+ Bei
+ der
+-Zulassung/im
++Zulassunglim
+ Betrieb
+ vorgesehene
+ zulässige
+@@ -37,7 +39,7 @@
+ überprüft
+ werden):
+ Intended
+-registration/in
++registrationlin
+ service
+ maximum
+ permissible
+@@ -62,11 +64,12 @@
+ IV
+ to
+ Directive
+-97/27/EC):
++97I27/EC):
++##
+ 2.16.1.
+ Bei
+ der
+-Zulassung/im
++Zulassunglim
+ Betrieb
+ vorgesehene
+ höchstzulässige
+@@ -79,8 +82,10 @@
+ Konfigurationen
+ möglich
+ (5)):
+-Intended
+-registration/in
++siehe
++28.
++Intended
++registrationlin
+ service
+ maximum
+ permissible
+@@ -94,14 +99,13 @@
+ technical
+ configuration
+ (5)):
+-siehe
+-2.8.
+-see
+-2.8.
++see
++28
++##
+ 2.16.2.
+ Bei
+ der
+-Zulassung/im
++Zulassunglim
+ Betrieb
+ vorgesehene
+ höchstzulässige
+@@ -138,8 +142,10 @@
+ Konfigurationen
+ möglich
+ (5)):
+-Intended
+-registration/in
++siehe
++28.
++Intended
++registrationlin
+ service
+ maximum
+ permissible
+@@ -187,14 +193,31 @@
+ technical
+ configuration
+ (5)):
+-siehe
+-2.8.
+-see
+-2.8.
+-2.16.3.
+-Bei
+-der
+-Zulassung/im
++see
++28
++##
++2.16.3-
++Intended
++registrationlin
++service
++maximum
++permissible
++mass
++on
++each
++axle
++group
++(several
++entries
++possible
++for
++each
++technical
++configuration
++(5)):
++Bei
++der
++Zulassunglim
+ Betrieb
+ vorgesehene
+ höchstzulässige
+@@ -209,32 +232,30 @@
+ Konfigurationen
+ möglich
+ (5)):
+-Intended
+-registration/in
+-service
+-maximum
+-permissible
+-mass
+-on
+-each
+-axle
+-group
+-(several
+-entries
+-possible
+-for
+-each
+-technical
+-configuration
+-(5)):
+-siehe
+-2.8.
+-see
+-2.8.
++siehe
++28
++see
++28
++##
+ 2.16.4.
+-Bei
+-der
+-Zulassung/im
++Intended
++registrationlin
++service
++maximum
++permissible
++towable
++mass
++(several
++entries
++possible
++for
++each
++technical
++configuration
++(5)):
++Bei
++der
++Zulassunglim
+ Betrieb
+ vorgesehene
+ höchstzulässige
+@@ -247,22 +268,7 @@
+ Konfigurationen
+ möglich
+ (5)):
+-Intended
+-registration/in
+-service
+-maximum
+-permissible
+-towable
+-mass
+-(several
+-entries
+-possible
+-for
+-each
+-technical
+-configuration
+-(5)):
+-siehe
+-2.11
+-see
+-2.11
++siehe
++211.
++see
++211.
+
+Durchlauf 4:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,13 +1,13 @@
+ The
+ TMAP
+-Sensor,
++Sensor;
+ mounted
+ on
+ the
+ throttle
+ induction
+ module
+-assembly,
++assembly
+ monitors
+ both
+ manifold
+@@ -68,12 +68,13 @@
+ delivery
+ during
+ cold
+-start,
++start;
+ warm
+ up
+ and
+ general
+ operation.
++##
+ Throttle
+ Position
+ Sensor
+@@ -91,8 +92,7 @@
+ sensors
+ (TPS).
+ The
+-sensor
+-is
++sensoris
+ a
+ single
+ slope
+@@ -100,7 +100,7 @@
+ potentiometer.
+ The
+ throttle
+-Position
++position
+ sensors
+ provide
+ information
+@@ -112,7 +112,8 @@
+ fuel
+ and
+ spark
+-timing.
++timing
++##
+ Crankshaft
+ Position
+ Sensor
+@@ -122,7 +123,7 @@
+ CKP
+ Sensor
+ is
+-a
++&
+ magnetic
+ pickup
+ device
+@@ -135,17 +136,15 @@
+ cover
+ near
+ the
+-top.
+ To
+ calculate
+ engine
+ speed
+ for
+ the
+-ECM,
++ECM;
+ the
+ sensor
+-picks
+ up
+ signals
+ from
+@@ -170,19 +169,20 @@
+ two
+ teeth,
+ establishes
+-a
++:
+ Top
+ Dead
+ Center
+ (TDC)
+-reference.
++reference
++top.
++picks
+ Engine
+ Coolant
+ Temperature
+ Sensor
+ (ECT
+ Sensor)
+--
+ The
+ ECT
+ Sensor
+@@ -232,18 +232,17 @@
+ during
+ elevated
+ temperatures.
+-Throtte
++Throttle
+ Position
+ Sensor
+ (TP
+ Sensor)
+--
+ The
+ TP
+ Sensor
+ is
+-a
+-potentiomter
++:
++potentiometer
+ mounted
+ on
+ the
+@@ -267,7 +266,7 @@
+ ECM
+ with
+ information
+-About
++about
+ throttle
+ angle
+ for
+@@ -278,9 +277,8 @@
+ timing.
+ Oxygen
+ Sensor
+-(O2)
+-Sensor
+--
++(Oz)
++Sensor
+ Two
+ heated
+ O2
+@@ -322,30 +320,29 @@
+ fuel
+ mixture
+ balanced.
++##
+ OTHER
+-FEATURES:
++FEATURES;
+ Wire
+ Harnesses
+--
+ The
+ EFI
+ wire
+ harness
+-is
+-the
+-only
++i5
++the
+ wire
+ harness
+ on
+ the
+ vehicle.
++only
+ Low
+ Level
+ Fuel
+ Warning
+ Lamp
+--
+-A
++4
+ fuel
+ gauge
+ and
+@@ -381,7 +378,7 @@
+ is
+ turned
+ off
+-or
++Or
+ fuel
+ is
+ added.
+@@ -389,7 +386,7 @@
+ lamp
+ is
+ designed
+-so
++s0
+ that
+ it
+ will
+@@ -407,11 +404,10 @@
+ slosh
+ inside
+ the
+-tank.
++tank
+ Fuses
+ and
+ Relays
+--
+ One
+ electrical
+ relay
+@@ -449,10 +445,9 @@
+ contains
+ spare
+ fuses.
+-Check
++check
+ Engine
+ Lamp
+--
+ The
+ Check
+ Engine
+
+Durchlauf 1:
+Detaillierter Vergleich:
+-----------------------
+--- 
++++ 
+@@ -1,3 +1,4 @@
++##
+ Collateral
+ clauses
+ and
+@@ -6,6 +7,7 @@
+ right
+ to
+ appeal
++##
+ Collateral
+ clauses
+ All
+@@ -31,11 +33,9 @@
+ is
+ as
+ follows:
+--
+ see
+ German
+ version
+--
+ The
+ individual
+ production
+@@ -71,7 +71,8 @@
+ name
+ of
+ the
+-company,
++company
++,
+ the
+ address
+ and
+@@ -91,7 +92,7 @@
+ to
+ delivery
+ or
+-authorized
++authorised
+ representative
+ named
+ when
+@@ -101,12 +102,12 @@
+ granted
+ is
+ to
++be
+ immediately
+ disclosed
+ to
+ the
+-Kraftfahrt
+-Bundesamt.
++Kraftfahrt-Bundesamt.
+ Breach
+ of
+ this
+@@ -144,7 +145,8 @@
+ with
+ the
+ legal
+-requirements.
++requirements
++.
+ The
+ revocation
+ can
+@@ -191,7 +193,7 @@
+ conditions
+ to
+ this
+-approval,
++approval;
+ or
+ if
+ it
+@@ -200,6 +202,7 @@
+ that
+ the
+ approved
++type
+ does
+ not
+ comply
+@@ -213,7 +216,7 @@
+ environmental
+ protection.
+ The
+-Kraftfahr-Bundestamt
++Kraftfahrt-Bundesamt
+ may
+ check
+ the
+@@ -239,6 +242,7 @@
+ production
+ as
+ well
++as
+ the
+ measures
+ for
+@@ -264,7 +268,6 @@
+ the
+ Kraftfahrt-Bundesamt
+ may
+-get
+ unhindered
+ access
+ to
+@@ -273,6 +276,7 @@
+ and
+ storage
+ facilities.
++get
+ The
+ conferred
+ authority
+@@ -297,10 +301,11 @@
+ with
+ this
+ approval.
++##
+ Instruction
+ on
+ right
+-of
++to
+ appeal
+ This
+ approval
+@@ -316,7 +321,8 @@
+ appeal
+ is
+ to
+-file
++be
++filed
+ in
+ writing
+ or
+@@ -329,4 +335,4 @@
+ Fördestraße
+ 16,
+ DE-24944
+-Flensburg.
++Flensburg:
+
