@@ -5,7 +5,7 @@ Detaillierter Vergleich:
 +++ 
 @@ -16,4 +16,4 @@
  des
- Fahrzeugs,
+ Fahrzeugs
  fünf
 -Zeichnungen
 +Leichnungen
@@ -15,13 +15,7 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -4,19 +4,21 @@
- BMW
- R
- 35
-+===============
-+===============
- Nachstehende
+@@ -8,15 +8,15 @@
  Daten
  kommen
  noch
@@ -39,9 +33,9 @@ Detaillierter Vergleich:
 -Typenfachten
 +Typgutachten
  in
- Frage:
+ Frage
  Bohrung
-@@ -34,12 +36,12 @@
+@@ -34,12 +34,12 @@
  Breite
  800
  m
@@ -55,42 +49,41 @@ Detaillierter Vergleich:
 +Karatun
  Reifen
  vorn
- 5,50
-@@ -50,21 +52,22 @@
+ 550
+@@ -49,20 +49,22 @@
  atu
  Reifen
  hinten
--3,5
+-35
 -0
---
 -19
 -Luftdruck
--1,9
-+5.50-
+-19
++550
 +1
 +9
 +Luft
 +druck
 +1
-+,9
++9
  atu
- (mit
--Sozius)
-+Jozius)
+ mit
+-Sozius
++Jozius
  Bremsanlage
  mechanisch
  BMW
  Eigengewicht
- (mit
+ mit
 -Öl
 +01
  und
- Kraftstoff)
+ Kraftstoff
  162
-@@ -74,9 +77,13 @@
+@@ -71,9 +73,13 @@
+ Belastung
  2
  Personen
- =
 -188
 +180
  kg
@@ -119,14 +112,14 @@ Detaillierter Vergleich:
  35
 -PS
 -Bulldog
--(Ackerschlepper)
+-Ackerschlepper
 +in
 +Bullion
-+(AckerSchlepper)
++AckerSchlepper
  Ausführung
 -8506
 +1
-+36.6
++366
  A
  und
  B
@@ -141,8 +134,8 @@ Detaillierter Vergleich:
  in
  zwei
 @@ -22,60 +23,60 @@
- hergestellt:
- 1.
+ hergestellt
+ 1
  Normalausführung
 -D
 -8506
@@ -162,28 +155,28 @@ Detaillierter Vergleich:
 +Rückwärtsgegänge
  mit
  2
--Schalthebeln.
-+Schaltthebeln.
+-Schalthebeln
++Schaltthebeln
  Da
  die
  Fahrgeschwindigkeit
 -18
 +13
  km
--beträgt,
-+be-
-+trägt,
+-beträgt
++be
++trägt
  ist
  eran
  den
- Vorder-
+ Vorder
  und
 -Hinterräder
--luftbereift.
+-luftbereift
 -Der
 -Schlepper
 +Hinterrollern
-+luftbereit.
++luftbereit
 +Der
 +Schleppler
  hat
@@ -193,18 +186,18 @@ Detaillierter Vergleich:
  und
  eine
  feststellbare
--Getriebehandbremse.
-+Getriebehauptbrenne.
+-Getriebehandbremse
++Getriebehauptbrenne
  Der
  Motor
  ist
  ein
--Zweifakt-Glühkopfmotor
-+Zweizylinder-Clutchkopf-Motor
+-ZweifaktGlühkopfmotor
++ZweizylinderClutchkopfMotor
  mit
  elektrischer
--Anlaßfzündung.
-+Anladzündung.
+-Anlaßfzündung
++Anladzündung
  Die
  Ingangsetzung
  erfolgt
@@ -212,8 +205,8 @@ Detaillierter Vergleich:
 -anwerfen
 +Anwerfen
  mittels
--Handrad,
-+Anker,
+-Handrad
++Anker
  das
 -abnehmbar
 +abnehbar
@@ -224,33 +217,33 @@ Detaillierter Vergleich:
  Motors
  geschieht
  durch
--Thermosiphon-Wasser
+-ThermosiphonWasser
 -Umlaufkühlung
 -und
--Windflügel.
-+Mercosyphon-Käser
+-Windflügel
++MercosyphonKäser
 +umlaufkühlung
 +und
-+Einflügel.
++Einflügel
  Die
  Kraftübertragung
  erfolgt
 -durch
 -eine
--Mehrscheibenkupplung.
+-Mehrscheibenkupplung
 -Das
 +dureh
 +eine
-+Mehrschelbenkupplung.
++Mehrschelbenkupplung
 +die
  Schmierung
  ist
  eine
--Frischöl-Umlaufschmierung.
+-FrischölUmlaufschmierung
 -Der
 -Schlepper
 +Frisch
-+Öl-Unteraufschmierung.
++ÖlUnteraufschmierung
 +Der
 +Schlapper
  hat
@@ -260,27 +253,27 @@ Detaillierter Vergleich:
  den
  Bestimmungen
  der
--St.V.Z.O.
-+St.V.2.6.
+-StVZO
++StV26
  Die
  Lenkung
 -erfolgt
 -durch
--Achsenschenkellenkung.
+-Achsenschenkellenkung
 +erfolggt
 +durch
-+Achsenkellenkung.
- 2.
++Achsenkellenkung
+ 2
 -D
 -8506
 -B
 -mit
--Sechsganggetriebe,
+-Sechsganggetriebe
 +L
 +8936
 +3
 +mit
-+Sechszylindergetriebe,
++Sechszylindergetriebe
  jedoch
  drei
  Gänge
@@ -293,18 +286,18 @@ Detaillierter Vergleich:
  wird
  mit
 -Einsenreifen
--ausgerüstet,
+-ausgerüstet
 +lisenztem
-+Ausgestellt,
++Ausgestellt
  für
 -Straßenfahrt
 -werden
-+Straßen-
++Straßen
 +fahrt
 +werfen
  Laufringe
--aufgebracht.
-+angebracht.
+-aufgebracht
++angebracht
  Damit
  er
  nicht
@@ -314,14 +307,14 @@ Detaillierter Vergleich:
 +im
  Fahrgeschwindigkeit
  entwickeln
- kann,
+ kann
  wurden
 -oberen
 -3
 +lie3oberen
  Gänge
--gesperrt,
-+gespart,
+-gesperrt
++gespart
  wobei
  ein
 -Schalthebel
@@ -330,35 +323,35 @@ Detaillierter Vergleich:
  und
  die
 -Getriebeöffnung
-+Getriebee-
++Getriebee
 +ßnung
  durch
  Blindflansch
  verschlossen
 @@ -182,66 +185,68 @@
  Der
- Motor,
+ Motor
  die
--Ingangsetzung,
+-Ingangsetzung
 -die
--Kupplung,
-+Ingangseitung,
+-Kupplung
++Ingangseitung
 +die
-+Kupplungen,
++Kupplungen
  die
- Kühlung,
+ Kühlung
 -das
--Schmierung,
+-Schmierung
 +die
-+Schmiierung,
++Schmiierung
  der
- Aufbau,
+ Aufbau
  die
--elektr.
+-elektr
 -Beleuchtung
 -und
 -Lenkung
-+Elektr.
++Elektr
 +Beleuchung
 +und
 +Lenkungen
@@ -366,7 +359,7 @@ Detaillierter Vergleich:
  ebenfalls
  die
 -gleichen
-+glei-
++glei
 +chen
  wie
  unter
@@ -378,8 +371,7 @@ Detaillierter Vergleich:
  haben
  den
  gleichen
--Aufbau,
-+Aufbau.
+ Aufbau
  Motor
  und
 -Getriebe
@@ -388,15 +380,15 @@ Detaillierter Vergleich:
  als
  Blockkonstruktion
  in
--Lanz-Perlitguß
-+Lanz-Verlitzgus
- ausgeführt.
+-LanzPerlitguß
++LanzVerlitzgus
+ ausgeführt
  Der
 -Motor
 -hat
 +Motort
 +mit
- Ein-
+ Ein
  und
 -Leerlaufregler
 -und
@@ -412,11 +404,11 @@ Detaillierter Vergleich:
  Antrieb
  von
  landwirtschaftlichen
- Maschinen.
+ Maschinen
  Die
 -Kraftübertragung
 -vom
-+Kräftübertra-
++Kräftübertra
 +gung
 +von
  Motor
@@ -429,7 +421,7 @@ Detaillierter Vergleich:
 -gebürstete
 +Durch
 +gehärtete
- Zahn-
+ Zahn
 
 Durchlauf 8:
 Detaillierter Vergleich:
@@ -437,65 +429,54 @@ Detaillierter Vergleich:
 --- 
 +++ 
 @@ -8,12 +8,12 @@
- Sechsganggetriebe,
+ Sechsganggetriebe
  Hinterachse
  mit
--Kegelradausgleichgetriebe,
-+Kegelradausgleichgetriehe,
+-Kegelradausgleichgetriebe
++Kegelradausgleichgetriehe
  Hinterräder
- b)
- Übersetzung:
+ b
+ Übersetzung
 -Zwischenräder
--0,866
+-0866
 +Zwischenräume
-+0,966
- Getriebe:
- 1.
++0966
+ Getriebe
+ 1
  Gang
-@@ -23,39 +23,40 @@
- 7,24
- 3.
- "
-+*
- 5,41
- R.1
- "
--7,65
-+1,91
- 4.
-+"
- "
- 3,38
- 5.
- "
--2,54
-+Bei
-+B
-+gesperrt,
-+Schalt-
-+habel
-+nicht
-+vorhanden
- 6.
- "
--1,91
- R.2
- "
- 2,68
--Bei
--B
--gesperrt,
+@@ -23,32 +23,31 @@
+ 3
+ 541
+ R1
+-765
++191
+ 4
+ 338
+ 5
+-254
+-6
+-191
+-R2
+-268
+ Bei
+ B
+ gesperrt
 -Schalthebel
--nicht
--vorhanden
--Hinterachse:
-+Hinterachsse:
- 4,21
- 19.)
++Schalt
++habel
+ nicht
+ vorhanden
+-Hinterachse
++6
++R2
++268
++Hinterachsse
+ 421
+ 19
  Art
  der
--Schalldämpfung:
-+Schalldempfung:
+-Schalldämpfung
++Schalldempfung
  Kegelige
  Haube
  mit
@@ -503,14 +484,11 @@ Detaillierter Vergleich:
 -Prallteller
 +Prallteiler
  und
- Siebeinsatz,
+ Siebeinsatz
  Auslaß
-@@ -80,11 +81,11 @@
- a)
- Eigengewicht
+@@ -74,9 +73,9 @@
  des
--Fahrzeugs:
-+Fahrzeugs;
+ Fahrzeugs
  Das
 -Eigengewicht
 +Eigenggewicht
@@ -520,7 +498,7 @@ Detaillierter Vergleich:
  erhöht
  sich
  durch
-@@ -95,7 +96,7 @@
+@@ -87,7 +86,7 @@
  60
  kg
  einer
@@ -529,7 +507,7 @@ Detaillierter Vergleich:
  um
  30
  kg
-@@ -105,13 +106,10 @@
+@@ -97,13 +96,10 @@
  um
  50
  kg
@@ -552,32 +530,13 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -2,11 +2,15 @@
- über
- die
- Zugmaschine
--(Ackerschlepper)
-+(
-+Ackerschlepper
-+)
- Haupttyp
--"35
-+"
-+35
- PS
--Ackerbulldog"
-+Ackerbulldog
-+"
- der
- Firma
- Heinrich
-@@ -14,10 +18,11 @@
+@@ -14,10 +14,11 @@
  A
  N
  Z
--A.,G.
-+A.,
-+G.
+-AG
++A
++G
  Mannheim
  Die
 -Zugmaschine
@@ -585,14 +544,14 @@ Detaillierter Vergleich:
  wird
  in
  folgenden
-@@ -32,95 +37,75 @@
+@@ -32,95 +33,75 @@
  Sechsganggetriebe
- B:
+ B
  mit
--Eisenbereifung,
--Sechsganggetriebe,
-+Eisenbereifun,
-+Sechseganggetrieb,
+-Eisenbereifung
+-Sechsganggetriebe
++Eisenbereifun
++Sechseganggetrieb
  3
  Gänge
  arretiert
@@ -605,7 +564,7 @@ Detaillierter Vergleich:
  Zusatzteilen
 -ausgerüstet
 +ausgerüst
- werden:
+ werden
  Fahrersitzdach
 -Kotflügel
 -vorn
@@ -627,81 +586,81 @@ Detaillierter Vergleich:
  im
  Übrigen
  folgende
--Merkmale:
-+Werkzeile:
- 1.)
+-Merkmale
++Werkzeile
+ 1
  Art
  des
--Fahrzeuges:
+-Fahrzeuges
 -Zugmaschine
--(Ackerschlepper)
-+Fahrzeugs:
- 2.)
+-Ackerschlepper
++Fahrzeugs
+ 2
  Hersteller
  des
--Fahrzeuges:
+-Fahrzeuges
 -Heinrich
 -Lan
 -z
--A.,
--G.,
+-A
+-G
 -Mannheim
-+Fahrgestell:
- 3.)
- Antriebsmaschine:
- a)
++Fahrgestell
+ 3
+ Antriebsmaschine
+ a
  Art
  des
- Antriebes:
-+b)
-+Leistung:
-+c)
-+Hubraum:
-+d)
-+Hersteller:
-+e)
-+Takt:
+ Antriebes
++b
++Leistung
++c
++Hubraum
++d
++Hersteller
++e
++Takt
  Verbrennungsmaschine
--(Glühkopfmotor,
-+(Glühkopf-
-+motor,
+-Glühkopfmotor
++Glühkopf
++motor
  Zylinder
- liegend)
--b)
--Leistung:
+ liegend
+-b
+-Leistung
 -35
 +3
 +5
  PS
  bei
  540
- U/min
--c)
--Hubraum:
+ Umin
+-c
+-Hubraum
 -10338
 +10358
  cm3
 -Zahl
 -der
--Zylinder:
+-Zylinder
  1
 -Durchmesser
 -des
--Zylinders:
+-Zylinders
  225
  mm
--Kolbenhub:
+-Kolbenhub
  260
  mm
--d)
--Hersteller:
+-d
+-Hersteller
 -Heinrich
 -Lanz
 +HeinrichLanz
- A.G.,
+ AG
  Mannheim
--e)
--Takt:
+-e
+-Takt
  Zweitakt
 
 Durchlauf 2:
@@ -717,7 +676,7 @@ Detaillierter Vergleich:
  Die
  Zugmaschine
  ist
-@@ -20,113 +16,44 @@
+@@ -19,111 +15,44 @@
  die
  Bedienbarkeit
  der
@@ -740,8 +699,8 @@ Detaillierter Vergleich:
 +der
 +Vorwirtschaft
  des
- §49
- Abs.1
+ 49
+ Abs1
  und
 -2
 -StVZO
@@ -754,14 +713,14 @@ Detaillierter Vergleich:
  des
 -Fahrgeräusches
 +Fahrerumchses
- freigestellt.
+ freigestellt
 -Das
 +Der
  Fahrzeug
 -genügt
 -hinsichtlich
 +gerät
-+hin-
++hin
 +sichtlich
  der
 -Scheinwerferhöhe
@@ -776,10 +735,10 @@ Detaillierter Vergleich:
 -die
 -Zugmaschinen
 -in
--Land-
+-Land
 -und
 -forstwirtschaftlichen
--Betrieben.
+-Betrieben
 -Ausführung
 -B
 -mit
@@ -794,9 +753,8 @@ Detaillierter Vergleich:
 -der
 -Vorschrift
 -des
--§
 -46
--Abs.
+-Abs
 -2
 -StVZO
 -Uber
@@ -817,9 +775,8 @@ Detaillierter Vergleich:
 -der
 -Vorschrift
 -des
--§
 -49
--Ab.
+-Ab
 -1
 -und
 -2
@@ -830,7 +787,7 @@ Detaillierter Vergleich:
 -Lautstärke
 -des
 -Fahrzeugeräusches
--freigestellt.
+-freigestellt
 -Das
 -Fahrzeug
 -genügt
@@ -848,11 +805,11 @@ Detaillierter Vergleich:
  für
  Zugmaschinen
  in
-@@ -134,45 +61,3 @@
+@@ -131,44 +60,3 @@
  und
  Forstwirtschaftlichen
- Betrieben.
--4.
+ Betrieben
+-4
 -Im
 -Falle
 -einer
@@ -869,7 +826,7 @@ Detaillierter Vergleich:
 -allgemeinen
 -Betriebsanleitung
 -zu
--beantragen.
+-beantragen
 -Die
 -auf
 -der
@@ -881,19 +838,18 @@ Detaillierter Vergleich:
 -mit
 -Ablauf
 -des
--19.
+-19
 -November
--1951,
+-1951
 -wenn
 -sie
 -nicht
 -gemäß
--§
 -20
--Abs.4
+-Abs4
 -StVZ0
 -verlängert
--werden.
+-werden
 
 Durchlauf 4:
 Detaillierter Vergleich:
@@ -905,10 +861,10 @@ Detaillierter Vergleich:
 -8506
  Zu
  Ziffer
- 7)
+ 7
  Art
  des
- Aufbaus:
+ Aufbaus
 -Wird
 +wird
  das
@@ -916,30 +872,30 @@ Detaillierter Vergleich:
  mit
  einem
  Fahrersitzdach
--ausgerüstet,
-+ausge-
-+rüstet,
+-ausgerüstet
++ausge
++rüstet
  so
  ändert
- sich:
--c)
-+o)
+ sich
+-c
++o
  bei
- Zugmaschinen:
+ Zugmaschinen
  festes
  Wetterdach
  mit
 -abnehmbaren
-+ab-
++ab
 +nehmbarer
  Seitenteilen
 -Zur
 +Zu
- Ziffer.8)
+ Ziffer8
 -Maße
 +Hage
  über
- alles:
+ alles
  Bei
 -Ausstattung
 +Ausrüstung
@@ -949,16 +905,16 @@ Detaillierter Vergleich:
  ändern
  sich
 -folgenden
-+folgen-
++folgen
 +de
- Angaben:
--Länge:
-+Lange:
+ Angaben
+-Länge
++Lange
  3408
 -mm
 -3390
  mm
- Höhe:
+ Höhe
  2452
 @@ -49,22 +48,23 @@
  Anbau
@@ -966,8 +922,8 @@ Detaillierter Vergleich:
  Kotflügeln
 -änderte
 +ändet
- sich:
- Breite:
+ sich
+ Breite
  unverändert
 -1785
 +1705
@@ -986,40 +942,32 @@ Detaillierter Vergleich:
 +Zugmaschin
 +en
  in
- land-
+ land
  und
-@@ -72,24 +72,28 @@
- Betrieben:
+@@ -72,20 +72,22 @@
+ Betrieben
  Scheinwerferhöhe
  über
-+Eisenberei-
++Eisenberei
  Fahrbahn
- (
- §
- 50,3
+ 503
  StVZO
- )
 -Eisenbereifung
--(§
--36,4
--StVZO)
+ 364
+-StVZO
 -Scheinwerferhöhe
-+(
-+§36,4
-+StVZ0)
-+Scheinwerkfer-
++StVZ0
++Scheinwerkfer
 +höhe
  über
 -Fahrbahn
--(§50,
+-50
 -3
--StVZO)
+-StVZO
 +Fahrbah
-+(
-+§50.3
++503
 +St
 +VZ0
-+)
  Der
 -Fahrzeugtyp
 +Fahrzeugs
@@ -1027,29 +975,29 @@ Detaillierter Vergleich:
  entspricht
  vorstehenden
  Angaben
-@@ -98,7 +102,7 @@
+@@ -94,7 +96,7 @@
  den
  Anforderungen
  der
--Strassenverkehrs-Zulassungs-Ordnung
-+Strassenverkehrs-Zula.sungs-Gründung
+-StrassenverkehrsZulassungsOrdnung
++StrassenverkehrsZulasungsGründung
  sowie
  den
  hierzu
-@@ -107,7 +111,8 @@
+@@ -103,7 +105,8 @@
  des
  Reichsverkehrsministers
  mit
 -folgenden
-+fol-
++fol
 +genden
- Ausnahmen:
- 1.)
+ Ausnahmen
+ 1
  Die
-@@ -115,42 +120,44 @@
+@@ -111,38 +114,40 @@
  die
  Kraftstoffleitung
- (Rohölleitung)
+ Rohölleitung
 -eingebaute
 +eingegebte
  Absperrvorrichtung
@@ -1060,14 +1008,12 @@ Detaillierter Vergleich:
  aus
  nicht
 -bedienbar
-+be-
++be
 +dienbar
- (
- §46,2
+ 462
 -StVZO
 +StVzo
- )
- 2.)
+ 2
  Fahrgeräusch
  und
 -Auspuffgeräusche
@@ -1076,15 +1022,13 @@ Detaillierter Vergleich:
 -85
 +35
  Phon
- (
- §.49,1
- u.
+ 491
+ u
  2
 -StVZO
 +St
 +VZO
- )
- 3.)
+ 3
  Bei
  den
  Fahrzeugen
@@ -1100,82 +1044,82 @@ Detaillierter Vergleich:
  voneinander
  100
  cm
-@@ -160,5 +167,5 @@
+@@ -151,4 +156,4 @@
+ 110
  cm
- (
- §
--53,1
--StVZO)
-+.53,1
-+StVzO)
+ 531
+-StVZO
++StVzO
 
 Durchlauf 1:
 Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,16 +1,15 @@
--...
+@@ -1,15 +1,15 @@
 -Ausfertigung
  Allgemeine
  Betriebserlaubnis
- Nr.
+ Nr
  207
 -Für
 +für
  die
  Zugmaschinen
- (Ackerschlepper)
+ Ackerschlepper
  Typ
  35
 -Ackerbulldog
-+Acker-
++Acker
 +bulldog
  D
  8506
  der
-@@ -32,10 +31,10 @@
+@@ -31,10 +31,10 @@
  für
  den
  Kraftfahrzeugverkehr
--(TÜ
-+(ZGV
- Mannheim)
+-TÜ
++ZGV
+ Mannheim
  in
 -Mannheim
 +Mannhein
  vom
- 4.
+ 4
  November
-@@ -45,28 +44,28 @@
+@@ -44,27 +44,27 @@
  die
  reihenweise
  gefertigten
 -Zugmaschinen
--(Ackerschlepper)
-+Zugmaschen
-+(Ackershlepperer)
- Typ.
+-Ackerschlepper
+-Typ
 -35
 -PS
 -Ackerbulldog
 -D
 -8506
 -der
++Zugmaschen
++Ackershlepperer
++Typ
 +3S
 +Ackerbldog
-+D.
++D
 +8S06
 +dcr
  Firma
 -Heinrich
 -Lanz
-+Heihrich
-+L.
-+anz
- AG
- in
+-AG
+-in
 -Mannheim
++Heihrich
++L
++anz
++AG
++in
 +Mnnheim
  widerruflich
  die
@@ -1183,23 +1127,20 @@ Detaillierter Vergleich:
 -Betriebserlaubnis
 +Brieiebserlauubnis
  gemäß
- §
 -20
 +26
- Abs.
+ Abs
  1
  der
-@@ -82,19 +81,18 @@
- Straßenverkehr
+@@ -81,18 +81,17 @@
  vom
- 13.
--November
+ 13
+ November
 -1937
-+November.
 +937
- (StVZO)
--erteilt.
-+erl.
+ StVZO
+-erteilt
++erl
  Die
 -Zugmaschinen
 -en
@@ -1209,30 +1150,27 @@ Detaillierter Vergleich:
 +Typ
 +25
  PS
--Ackerbulldog
-+Ackerbulldog.
+ Ackerbulldog
  D
 -8506
 +950c
  werden
  in
  folgenden
-@@ -107,28 +105,29 @@
+@@ -105,25 +104,26 @@
  Ausführung
  B
  mit
--Eisenbereifung.
--2.
--Auf.
+-Eisenbereifung
+-2
++Eisenbereif
++5
+ Auf
 -Grund
-+Eisenbereif.
-+5.
-+Auf
 +Grond
  des
- §
  70
- Abs.
+ Abs
 -I
 +l
  StVZO
@@ -1246,28 +1184,24 @@ Detaillierter Vergleich:
 -8506
 -der
 -Firma
--Heinrich
--Lanz
 +Zugmasschinen
 +Typ
 +15
 +PS
 +Ackerbldog
-+d.
++d
 +050
 +der
 +Fima
-+Heinrich.
-+Lanz.
- AG,
- Mannheim,
- von
-@@ -146,34 +145,33 @@
+ Heinrich
+ Lanz
+ AG
+@@ -142,34 +142,33 @@
  die
  Bedienbarkeit
  der
 -Absperrvorrichtung
-+Absperrror-
++Absperrror
 +richtung
  in
  der
@@ -1284,8 +1218,8 @@ Detaillierter Vergleich:
  der
  Vorschrift
  des
- §49
- Abs.
+ 49
+ Abs
 -1
 +I
  und
@@ -1302,13 +1236,13 @@ Detaillierter Vergleich:
  des
 -Fahrgeräusches
 +Fahrgestücks
- freigestellt.
--3.
-+6.
+ freigestellt
+-3
++6
  Der
  Hersteller
  hat
-@@ -184,7 +182,7 @@
+@@ -180,7 +179,7 @@
  entsprechende
  Fahrzeug
  einen
@@ -1317,7 +1251,7 @@ Detaillierter Vergleich:
  auszufüllen
  sowie
  die
-@@ -195,10 +193,10 @@
+@@ -191,10 +190,10 @@
  die
  Beschaffenheit
  des
@@ -1330,39 +1264,38 @@ Detaillierter Vergleich:
  mit
  dem
  genehmigten
-@@ -213,7 +211,7 @@
+@@ -209,7 +208,7 @@
  sind
  von
  dem
--Straßen-Zentralamt
-+Straßer-Zentralamt
+-StraßenZentralamt
++StraßerZentralamt
  der
  Verwaltung
  für
-@@ -221,44 +219,43 @@
+@@ -217,43 +216,42 @@
  des
  vereinigten
  Wirtschaftsgebietes
--(Sammelstelle
-+(Sammlistelle
+-Sammelstelle
++Sammlistelle
  für
  Nachrichten
  über
--Kraftfahrzeuge)
+-Kraftfahrzeuge
 -in
--Bielefeld,
-+Kraftfahrungzeuge)
+-Bielefeld
++Kraftfahrungzeuge
 +in
-+Ebersfeld,
++Ebersfeld
  Herforder
  Straße
 -8
 +3
- -
- 10,
+ 10
  zu
--beziehen.
-+besuchen.
+-beziehen
++besuchen
  Bei
  der
  Ausfertigung
@@ -1373,14 +1306,13 @@ Detaillierter Vergleich:
 -Zugmaschinen
 -Typ
 -35
--PS
 +Kraftfahrenheitbriefen
 +für
 +die
 +zugmaschienen
 +Typ
 +55
-+PS.
+ PS
  Ackerbulldog
  D
 -8506
@@ -1388,19 +1320,21 @@ Detaillierter Vergleich:
 -Firma
 +0S0c
 +der
-+Fira.
++Fira
  Heinrich
 -Lanz
-+Lan.
- AG
- in
+-AG
+-in
 -Mannheim
++Lan
++AG
++in
 +Manheim
  ist
  unter
--Nr.
+-Nr
 -19
-+Nr.19
- "Bemerkungen"
- einzutragen:
++Nr19
+ Bemerkungen
+ einzutragen
 
