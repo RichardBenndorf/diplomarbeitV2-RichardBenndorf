@@ -1,1249 +1,1443 @@
 Durchlauf 7:
-Detaillierter Vergleich:
------------------------
-
+KORREKT: Der
+KORREKT: Erteilung
+KORREKT: des
+KORREKT: Typscheins
+KORREKT: stehen
+KORREKT: technische
+KORREKT: Bedenken
+KORREKT: nicht
+KORREKT: entgegen
+KORREKT: Zu
+KORREKT: diesem
+KORREKT: Typgutachten
+KORREKT: gehören
+KORREKT: eine
+KORREKT: Beschreibung
+KORREKT: des
+KORREKT: Fahrzeugs
+KORREKT: fünf
+KORREKT: Zeichnungen
 Durchlauf 5:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -27,7 +27,7 @@
- mm
- Akku
- 6
--Volt
-+Voit
- Länge
- 2000
- mm
-@@ -39,7 +39,7 @@
- mm
- Radantrieb
- Kraftübertragung
--Kardan
-+Karussell
- Reifen
- vorn
- 550
-@@ -47,16 +47,16 @@
- Luftdruck
- 14
- atu
--Reifen
-+Reif
-+en
- hinten
--35
-+25
- 0
- 19
--Luftdruck
--19
-+Luifdruck19
- atu
- mit
--Sozius
-+Jozius
- Bremsanlage
- mechanisch
- BMW
-@@ -71,9 +71,8 @@
- Belastung
- 2
- Personen
--188
-+180
- kg
--Zulässiges
- Gesamtgewicht
--350
-+330
- kg
-
+KORREKT: Technische
+KORREKT: Daten
+KORREKT: Motorrad
+KORREKT: BMW
+KORREKT: R
+KORREKT: 35
+KORREKT: Nachstehende
+KORREKT: Daten
+KORREKT: kommen
+KORREKT: noch
+KORREKT: zusätzlich
+KORREKT: zu
+KORREKT: dem
+KORREKT: bisherigen
+KORREKT: Typenschein
+KORREKT: für
+KORREKT: das
+KORREKT: neue
+KORREKT: Typenfachten
+KORREKT: in
+KORREKT: Frage
+KORREKT: Bohrung
+KORREKT: 72
+KORREKT: mm
+KORREKT: Hub
+KORREKT: 84
+KORREKT: mm
+KORREKT: Akku
+KORREKT: 6
+FAST KORREKT: Volt
+KORREKT: Länge
+KORREKT: 2000
+KORREKT: mm
+KORREKT: Breite
+KORREKT: 800
+KORREKT: m
+KORREKT: Höhe
+KORREKT: 950
+KORREKT: mm
+KORREKT: Radantrieb
+KORREKT: Kraftübertragung
+FEHLT: Kardan
+KORREKT: Reifen
+KORREKT: vorn
+KORREKT: 550
+KORREKT: 19
+KORREKT: Luftdruck
+KORREKT: 14
+KORREKT: atu
+KORREKT: Reifen
+KORREKT: hinten
+KORREKT: 35
+KORREKT: 0
+KORREKT: 19
+KORREKT: Luftdruck
+KORREKT: 19
+KORREKT: atu
+KORREKT: mit
+FAST KORREKT: Sozius
+KORREKT: Bremsanlage
+KORREKT: mechanisch
+KORREKT: BMW
+KORREKT: Eigengewicht
+KORREKT: mit
+KORREKT: Öl
+KORREKT: und
+KORREKT: Kraftstoff
+KORREKT: 162
+KORREKT: kg
+KORREKT: Zulässige
+KORREKT: Belastung
+KORREKT: 2
+KORREKT: Personen
+FAST KORREKT: 188
+KORREKT: kg
+FAST KORREKT: Zulässiges
+KORREKT: Gesamtgewicht
+FAST KORREKT: 350
+KORREKT: kg
+ZUSÄTZLICH: Voit
+ZUSÄTZLICH: Karussell
+ZUSÄTZLICH: Reif
+ZUSÄTZLICH: en
+ZUSÄTZLICH: 25
+ZUSÄTZLICH: Luifdruck19
+ZUSÄTZLICH: Jozius
+ZUSÄTZLICH: 180
+ZUSÄTZLICH: 330
 Durchlauf 6:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -3,18 +3,20 @@
- der
- Zugmaschine
- 35
--PS
--Bulldog
--Ackerschlepper
-+1
-+Bullig
-+Acker
-+schlepper
- Ausführung
--8506
-+1
-+336
- A
- und
- B
- Der
--35
--PS
--Ackerbulldog
-+39
-+72
-+Ackerbulling
- wird
- in
- zwei
-@@ -22,56 +24,57 @@
- hergestellt
- 1
- Normalausführung
--D
--8506
-+8526
- A
- Der
- Schlepper
- besitzt
- 6
--Getriebsgänge
-+Getriebezylinder
- vorwärts
- und
- 2
--Rückwärtsgänge
-+Rückwärte
-+zylinder
- mit
- 2
--Schalthebeln
-+Schaltthebeln
- Da
- die
- Fahrgeschwindigkeit
--18
-+13
- km
--beträgt
-+be
-+trägt
- ist
- eran
- den
- Vorder
- und
--Hinterräder
-+Hintermotoren
- luftbereift
- Der
--Schlepper
-+Schleppcr
- hat
- eine
--Hinterradfußbremse
-+Hinterraufußbremse
- und
- eine
- feststellbare
--Getriebehandbremse
-+Getriebeeinzelbremsc
- Der
- Motor
- ist
- ein
--ZweifaktGlühkopfmotor
-+ZweifaktClükkopfmotor
- mit
- elektrischer
--Anlaßfzündung
-+Anlaufzündung
- Die
- Ingangsetzung
- erfolgt
- durch
--anwerfen
-+Anwerfen
- mittels
- Handrad
- das
-@@ -86,14 +89,14 @@
- Motors
- geschieht
- durch
--ThermosiphonWasser
--Umlaufkühlung
-+MercosyphonKüster
-+umlaufkühlung
- und
- Windflügel
- Die
- Kraftübertragung
- erfolgt
--durch
-+dureh
- eine
- Mehrscheibenkupplung
- Das
-@@ -101,8 +104,7 @@
- ist
- eine
- FrischölUmlaufschmierung
--Der
--Schlepper
-+DerSchlepper
- hat
- zum
- Schutz
-@@ -119,30 +121,30 @@
- den
- Bestimmungen
- der
--StVZO
--Die
--Lenkung
--erfolgt
--durch
--Achsenschenkellenkung
-+StVAG
-+Die
-+Leistung
-+erfolgt
-+durc11
-+Acmaschenkellenkung
- 2
--D
--8506
-+L
-+8626
- B
- mit
--Sechsganggetriebe
-+Sechszylindertriebe
- jedoch
- drei
- Gänge
--gesperrt
--Der
--Schlepper
-+gespeist
-+DerSchlepperc
- wird
- mit
--Einsenreifen
-+15sechzylinder
- ausgerüstet
- für
--Straßenfahrt
-+Straßen
-+fahrt
- werden
- Laufringe
- aufgebracht
-@@ -152,23 +154,23 @@
- über
- 3
- km
--Fahrgeschwindigkeit
-+Fahrgeschiidigkeit
- entwickeln
- kann
- wurden
--oberen
--3
-+liebseren
- Gänge
--gesperrt
-+geseipt
- wobei
- ein
- Schalthebel
- entfernt
- und
- die
--Getriebeöffnung
-+Getriebez
-+öffnung
- durch
--Blindflansch
-+Flügelflansch
- verschlossen
- wird
- Die
-@@ -182,66 +184,67 @@
- Der
- Motor
- die
--Ingangsetzung
--die
--Kupplung
--die
--Kühlung
-+Ingangssetzung
-+die
-+Kupplng
-+die
-+Kühlng
- das
--Schmierung
-+Schmierg
- der
- Aufbau
- die
- elektr
--Beleuchtung
--und
--Lenkung
-+Beleuchung
-+und
-+Leistung
- sind
- ebenfalls
- die
--gleichen
-+gleicnen
- wie
- unter
- l
- Die
- zwei
--Ausführungen
-+Ausfiihrungen
- haben
- den
- gleichen
- Aufbau
- Motor
- und
--Getriebe
-+Getriehe
- sind
- als
- Blockkonstruktion
- in
--LanzPerlitguß
-+LanzVerlitgus
- ausgeführt
--Der
--Motor
-+DerMotor
- hat
- Ein
- und
- Leerlaufregler
- und
--Kupplung
--mit
--Riemenscheibe
-+Kuplung
-+mit
-+Hiezenscheibe
- für
- Antrieb
- von
- landwirtschaftlichen
- Maschinen
- Die
--Kraftübertragung
-+Kräf1übertra
-+gung
- vom
- Motor
- auf
- die
--Hinterachse
--erfolgt
--durch
--gebürstete
--Zahn
-+Hinternd
-+se
-+erfolgt
-+duich
-+gebürzte
-+Zaim
-
+KORREKT: Allgemeine
+KORREKT: Beschreibung
+KORREKT: der
+KORREKT: Zugmaschine
+KORREKT: 35
+FAST KORREKT: PS
+FAST KORREKT: Bulldog
+FEHLT: Ackerschlepper
+KORREKT: Ausführung
+FAST KORREKT: 8506
+KORREKT: A
+KORREKT: und
+KORREKT: B
+KORREKT: Der
+KORREKT: 35
+FAST KORREKT: PS
+FAST KORREKT: Ackerbulldog
+KORREKT: wird
+KORREKT: in
+KORREKT: zwei
+KORREKT: Ausführungen
+KORREKT: hergestellt
+KORREKT: 1
+KORREKT: Normalausführung
+FAST KORREKT: D
+FAST KORREKT: 8506
+KORREKT: A
+KORREKT: Der
+KORREKT: Schlepper
+KORREKT: besitzt
+KORREKT: 6
+FEHLT: Getriebsgänge
+KORREKT: vorwärts
+KORREKT: und
+KORREKT: 2
+FEHLT: Rückwärtsgänge
+KORREKT: mit
+KORREKT: 2
+FAST KORREKT: Schalthebeln
+KORREKT: Da
+KORREKT: die
+KORREKT: Fahrgeschwindigkeit
+FAST KORREKT: 18
+KORREKT: km
+FAST KORREKT: beträgt
+KORREKT: ist
+KORREKT: eran
+KORREKT: den
+KORREKT: Vorder
+KORREKT: und
+FEHLT: Hinterräder
+KORREKT: luftbereift
+KORREKT: Der
+KORREKT: Schlepper
+KORREKT: hat
+KORREKT: eine
+FAST KORREKT: Hinterradfußbremse
+KORREKT: und
+KORREKT: eine
+KORREKT: feststellbare
+FEHLT: Getriebehandbremse
+KORREKT: Der
+KORREKT: Motor
+KORREKT: ist
+KORREKT: ein
+FAST KORREKT: ZweifaktGlühkopfmotor
+KORREKT: mit
+KORREKT: elektrischer
+FAST KORREKT: Anlaßfzündung
+KORREKT: Die
+KORREKT: Ingangsetzung
+KORREKT: erfolgt
+KORREKT: durch
+FAST KORREKT: anwerfen
+KORREKT: mittels
+KORREKT: Handrad
+KORREKT: das
+KORREKT: abnehmbar
+KORREKT: am
+KORREKT: Lenkstock
+KORREKT: angeordnet
+KORREKT: ist
+KORREKT: Die
+KORREKT: Kühlung
+KORREKT: des
+KORREKT: Motors
+KORREKT: geschieht
+KORREKT: durch
+FEHLT: ThermosiphonWasser
+FAST KORREKT: Umlaufkühlung
+KORREKT: und
+KORREKT: Windflügel
+KORREKT: Die
+KORREKT: Kraftübertragung
+KORREKT: erfolgt
+KORREKT: durch
+KORREKT: eine
+KORREKT: Mehrscheibenkupplung
+KORREKT: Das
+KORREKT: Schmierung
+KORREKT: ist
+KORREKT: eine
+KORREKT: FrischölUmlaufschmierung
+KORREKT: Der
+KORREKT: Schlepper
+KORREKT: hat
+KORREKT: zum
+KORREKT: Schutz
+KORREKT: des
+KORREKT: Fahrers
+KORREKT: Plattform
+KORREKT: und
+KORREKT: Seitenbleche
+KORREKT: Er
+KORREKT: besitzet
+KORREKT: elektrische
+KORREKT: Beleuchtung
+KORREKT: nach
+KORREKT: den
+KORREKT: Bestimmungen
+KORREKT: der
+FAST KORREKT: StVZO
+KORREKT: Die
+FEHLT: Lenkung
+KORREKT: erfolgt
+KORREKT: durch
+FEHLT: Achsenschenkellenkung
+KORREKT: 2
+FAST KORREKT: D
+FAST KORREKT: 8506
+KORREKT: B
+KORREKT: mit
+FEHLT: Sechsganggetriebe
+KORREKT: jedoch
+KORREKT: drei
+KORREKT: Gänge
+FAST KORREKT: gesperrt
+KORREKT: Der
+KORREKT: Schlepper
+KORREKT: wird
+KORREKT: mit
+FEHLT: Einsenreifen
+KORREKT: ausgerüstet
+KORREKT: für
+FEHLT: Straßenfahrt
+KORREKT: werden
+KORREKT: Laufringe
+KORREKT: aufgebracht
+KORREKT: Damit
+KORREKT: er
+KORREKT: nicht
+KORREKT: über
+KORREKT: 3
+KORREKT: km
+KORREKT: Fahrgeschwindigkeit
+KORREKT: entwickeln
+KORREKT: kann
+KORREKT: wurden
+FEHLT: oberen
+KORREKT: 3
+KORREKT: Gänge
+FAST KORREKT: gesperrt
+KORREKT: wobei
+KORREKT: ein
+KORREKT: Schalthebel
+KORREKT: entfernt
+KORREKT: und
+KORREKT: die
+FEHLT: Getriebeöffnung
+KORREKT: durch
+FEHLT: Blindflansch
+KORREKT: verschlossen
+KORREKT: wird
+KORREKT: Die
+KORREKT: Bremsen
+KORREKT: sind
+KORREKT: die
+KORREKT: gleichen
+KORREKT: wie
+KORREKT: unter
+KORREKT: 1
+KORREKT: Der
+KORREKT: Motor
+KORREKT: die
+KORREKT: Ingangsetzung
+KORREKT: die
+FAST KORREKT: Kupplung
+KORREKT: die
+KORREKT: Kühlung
+KORREKT: das
+KORREKT: Schmierung
+KORREKT: der
+KORREKT: Aufbau
+KORREKT: die
+KORREKT: elektr
+KORREKT: Beleuchtung
+KORREKT: und
+FEHLT: Lenkung
+KORREKT: sind
+KORREKT: ebenfalls
+KORREKT: die
+KORREKT: gleichen
+KORREKT: wie
+KORREKT: unter
+KORREKT: l
+KORREKT: Die
+KORREKT: zwei
+KORREKT: Ausführungen
+KORREKT: haben
+KORREKT: den
+KORREKT: gleichen
+KORREKT: Aufbau
+KORREKT: Motor
+KORREKT: und
+FAST KORREKT: Getriebe
+KORREKT: sind
+KORREKT: als
+KORREKT: Blockkonstruktion
+KORREKT: in
+FAST KORREKT: LanzPerlitguß
+KORREKT: ausgeführt
+KORREKT: Der
+KORREKT: Motor
+KORREKT: hat
+KORREKT: Ein
+KORREKT: und
+KORREKT: Leerlaufregler
+KORREKT: und
+FAST KORREKT: Kupplung
+KORREKT: mit
+FAST KORREKT: Riemenscheibe
+KORREKT: für
+KORREKT: Antrieb
+KORREKT: von
+KORREKT: landwirtschaftlichen
+KORREKT: Maschinen
+KORREKT: Die
+KORREKT: Kraftübertragung
+KORREKT: vom
+KORREKT: Motor
+KORREKT: auf
+KORREKT: die
+FEHLT: Hinterachse
+KORREKT: erfolgt
+KORREKT: durch
+FEHLT: gebürstete
+FAST KORREKT: Zahn
+ZUSÄTZLICH: Bullig
+ZUSÄTZLICH: Acker
+ZUSÄTZLICH: schlepper
+ZUSÄTZLICH: 336
+ZUSÄTZLICH: 39
+ZUSÄTZLICH: 72
+ZUSÄTZLICH: Ackerbulling
+ZUSÄTZLICH: 8526
+ZUSÄTZLICH: Getriebezylinder
+ZUSÄTZLICH: Rückwärte
+ZUSÄTZLICH: zylinder
+ZUSÄTZLICH: Schaltthebeln
+ZUSÄTZLICH: 13
+ZUSÄTZLICH: be
+ZUSÄTZLICH: trägt
+ZUSÄTZLICH: Hintermotoren
+ZUSÄTZLICH: Schleppcr
+ZUSÄTZLICH: Hinterraufußbremse
+ZUSÄTZLICH: Getriebeeinzelbremsc
+ZUSÄTZLICH: ZweifaktClükkopfmotor
+ZUSÄTZLICH: Anlaufzündung
+ZUSÄTZLICH: Anwerfen
+ZUSÄTZLICH: MercosyphonKüster
+ZUSÄTZLICH: umlaufkühlung
+ZUSÄTZLICH: dureh
+ZUSÄTZLICH: DerSchlepper
+ZUSÄTZLICH: StVAG
+ZUSÄTZLICH: Leistung
+ZUSÄTZLICH: durc11
+ZUSÄTZLICH: Acmaschenkellenkung
+ZUSÄTZLICH: L
+ZUSÄTZLICH: 8626
+ZUSÄTZLICH: Sechszylindertriebe
+ZUSÄTZLICH: gespeist
+ZUSÄTZLICH: DerSchlepperc
+ZUSÄTZLICH: 15sechzylinder
+ZUSÄTZLICH: Straßen
+ZUSÄTZLICH: fahrt
+ZUSÄTZLICH: Fahrgeschiidigkeit
+ZUSÄTZLICH: liebseren
+ZUSÄTZLICH: geseipt
+ZUSÄTZLICH: Getriebez
+ZUSÄTZLICH: öffnung
+ZUSÄTZLICH: Flügelflansch
+ZUSÄTZLICH: Ingangssetzung
+ZUSÄTZLICH: Kupplng
+ZUSÄTZLICH: Kühlng
+ZUSÄTZLICH: Schmierg
+ZUSÄTZLICH: Beleuchung
+ZUSÄTZLICH: Leistung
+ZUSÄTZLICH: gleicnen
+ZUSÄTZLICH: Ausfiihrungen
+ZUSÄTZLICH: Getriehe
+ZUSÄTZLICH: LanzVerlitgus
+ZUSÄTZLICH: DerMotor
+ZUSÄTZLICH: Kuplung
+ZUSÄTZLICH: Hiezenscheibe
+ZUSÄTZLICH: Kräf1übertra
+ZUSÄTZLICH: gung
+ZUSÄTZLICH: Hinternd
+ZUSÄTZLICH: se
+ZUSÄTZLICH: duich
+ZUSÄTZLICH: gebürzte
+ZUSÄTZLICH: Zaim
 Durchlauf 8:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -6,14 +6,15 @@
- Zweischeibenkupplung
- Zwischenräder
- Sechsganggetriebe
--Hinterachse
-+Hinterschse
- mit
--Kegelradausgleichgetriebe
-+Kegelradausgleich
-+getriebe
- Hinterräder
- b
- Übersetzung
--Zwischenräder
--0866
-+Zwischenrader
-+0966
- Getriebe
- 1
- Gang
-@@ -23,19 +24,19 @@
- 3
- 541
- R1
--765
- 4
-+766
-+5
- 338
--5
-+6
- 254
--6
-+R2
- 191
--R2
--268
- Bei
- B
- gesperrt
--Schalthebel
-+Schalt
-+habel
- nicht
- vorhanden
- Hinterachse
-@@ -48,7 +49,7 @@
- Haube
- mit
- gelochtem
--Prallteller
-+Prallteiler
- und
- Siebeinsatz
- Auslaß
-@@ -57,7 +58,7 @@
- 20
- Fassungsvermögen
- des
--Kraftstoffbehälters
-+kraftstoffbehälters
- 90
- ltr
- Rohöl
-@@ -74,7 +75,7 @@
- des
- Fahrzeugs
- Das
--Eigengewicht
-+Eigenggewicht
- des
- Fahrzeugs
- erhöht
-@@ -105,5 +106,5 @@
- kg
- einer
- Zufuhr
--50
-+55
- kg
-
+KORREKT: 18
+KORREKT: Kraftübertragung
+KORREKT: a
+KORREKT: Art
+KORREKT: Motor
+KORREKT: Zweischeibenkupplung
+KORREKT: Zwischenräder
+KORREKT: Sechsganggetriebe
+KORREKT: Hinterachse
+KORREKT: mit
+FEHLT: Kegelradausgleichgetriebe
+KORREKT: Hinterräder
+KORREKT: b
+KORREKT: Übersetzung
+KORREKT: Zwischenräder
+FAST KORREKT: 0866
+KORREKT: Getriebe
+KORREKT: 1
+KORREKT: Gang
+KORREKT: 965
+KORREKT: 2
+KORREKT: 724
+KORREKT: 3
+KORREKT: 541
+KORREKT: R1
+FAST KORREKT: 765
+KORREKT: 4
+KORREKT: 338
+KORREKT: 5
+KORREKT: 254
+KORREKT: 6
+KORREKT: 191
+KORREKT: R2
+FAST KORREKT: 268
+KORREKT: Bei
+KORREKT: B
+KORREKT: gesperrt
+FEHLT: Schalthebel
+KORREKT: nicht
+KORREKT: vorhanden
+KORREKT: Hinterachse
+KORREKT: 421
+KORREKT: 19
+KORREKT: Art
+KORREKT: der
+KORREKT: Schalldämpfung
+KORREKT: Kegelige
+KORREKT: Haube
+KORREKT: mit
+KORREKT: gelochtem
+FAST KORREKT: Prallteller
+KORREKT: und
+KORREKT: Siebeinsatz
+KORREKT: Auslaß
+KORREKT: nach
+KORREKT: oben
+KORREKT: 20
+KORREKT: Fassungsvermögen
+KORREKT: des
+FAST KORREKT: Kraftstoffbehälters
+KORREKT: 90
+KORREKT: ltr
+KORREKT: Rohöl
+KORREKT: 7
+KORREKT: Ltr
+KORREKT: Benzin
+KORREKT: 22
+KORREKT: Bemerkungen
+KORREKT: Zu
+KORREKT: Ziffer
+KORREKT: 4
+KORREKT: a
+KORREKT: Eigengewicht
+KORREKT: des
+KORREKT: Fahrzeugs
+KORREKT: Das
+KORREKT: Eigengewicht
+KORREKT: des
+KORREKT: Fahrzeugs
+KORREKT: erhöht
+KORREKT: sich
+KORREKT: durch
+KORREKT: Anbau
+KORREKT: eines
+KORREKT: Fahrersitzdaches
+KORREKT: um
+KORREKT: 60
+KORREKT: kg
+KORREKT: einer
+KORREKT: Windschutzscheibe
+KORREKT: um
+KORREKT: 30
+KORREKT: kg
+KORREKT: von
+KORREKT: Kotflügeln
+KORREKT: hinten
+KORREKT: um
+KORREKT: 50
+KORREKT: kg
+KORREKT: Kotflügen
+KORREKT: vor
+KORREKT: und
+KORREKT: hinten
+KORREKT: 95
+KORREKT: kg
+KORREKT: einer
+KORREKT: Zufuhr
+KORREKT: 50
+KORREKT: kg
+ZUSÄTZLICH: Hinterschse
+ZUSÄTZLICH: Kegelradausgleich
+ZUSÄTZLICH: getriebe
+ZUSÄTZLICH: Zwischenrader
+ZUSÄTZLICH: 0966
+ZUSÄTZLICH: 766
+ZUSÄTZLICH: Schalt
+ZUSÄTZLICH: habel
+ZUSÄTZLICH: Prallteiler
+ZUSÄTZLICH: kraftstoffbehälters
+ZUSÄTZLICH: Eigenggewicht
+ZUSÄTZLICH: 55
 Durchlauf 3:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -17,7 +17,7 @@
- AG
- Mannheim
- Die
--Zugmaschine
-+Zugmaschmne
- wird
- in
- folgenden
-@@ -32,18 +32,18 @@
- Sechsganggetriebe
- B
- mit
--Eisenbereifung
--Sechsganggetriebe
-+Eisenbereifmg
-+Sechseganggetriebc
- 3
- Gänge
- arretiert
- Diese
--Ausführungen
-+Ausführmgen
- können
- mit
- nachstehenden
- Zusatzteilen
--ausgerüstet
-+ausgerüst
- werden
- Fahrersitzdach
- Kotflügel
-@@ -52,14 +52,14 @@
- hinten
- Windschutzscheibe
- Zapfwelle
--Kotflügel
-+Kotflugel
- an
- den
- Hinterrädern
- Für
- den
- 35
--PS
-+FS
- Ackerbulldog
- gelten
- im
-@@ -70,8 +70,10 @@
- Art
- des
- Fahrzeuges
--Zugmaschine
--Ackerschlepper
-+Zugmaschin
-+e
-+Ack
-+erschleper
- 2
- Hersteller
- des
-@@ -89,38 +91,39 @@
- des
- Antriebes
- Verbrennungsmaschine
--Glühkopfmotor
-+Glühkopf
-+motor
- Zylinder
- liegend
- b
- Leistung
--35
-+3
-+5
- PS
- bei
- 540
- Umin
- c
- Hubraum
--10338
-+10358
- cm3
- Zahl
- der
- Zylinder
--1
-+225
-+mm
- Durchmesser
- des
- Zylinders
--225
--mm
--Kolbenhub
--260
-+60
- mm
- d
- Hersteller
--Heinrich
-+Hein
-+rich
- Lanz
- AG
--Mannheim
-+Mannhein
- e
- Takt
- Zweitakt
-
+KORREKT: TYPGUTACHTEN
+KORREKT: über
+KORREKT: die
+KORREKT: Zugmaschine
+KORREKT: Ackerschlepper
+KORREKT: Haupttyp
+KORREKT: 35
+KORREKT: PS
+KORREKT: Ackerbulldog
+KORREKT: der
+KORREKT: Firma
+KORREKT: Heinrich
+KORREKT: L
+KORREKT: A
+KORREKT: N
+KORREKT: Z
+KORREKT: AG
+KORREKT: Mannheim
+KORREKT: Die
+KORREKT: Zugmaschine
+KORREKT: wird
+KORREKT: in
+KORREKT: folgenden
+KORREKT: Ausführungen
+KORREKT: hergestellt
+KORREKT: D
+KORREKT: 8506
+KORREKT: A
+KORREKT: mit
+KORREKT: Luftbereifung
+KORREKT: mit
+KORREKT: Sechsganggetriebe
+KORREKT: B
+KORREKT: mit
+FAST KORREKT: Eisenbereifung
+KORREKT: Sechsganggetriebe
+KORREKT: 3
+KORREKT: Gänge
+KORREKT: arretiert
+KORREKT: Diese
+KORREKT: Ausführungen
+KORREKT: können
+KORREKT: mit
+KORREKT: nachstehenden
+KORREKT: Zusatzteilen
+FAST KORREKT: ausgerüstet
+KORREKT: werden
+KORREKT: Fahrersitzdach
+KORREKT: Kotflügel
+KORREKT: vorn
+KORREKT: und
+KORREKT: hinten
+KORREKT: Windschutzscheibe
+KORREKT: Zapfwelle
+KORREKT: Kotflügel
+KORREKT: an
+KORREKT: den
+KORREKT: Hinterrädern
+KORREKT: Für
+KORREKT: den
+KORREKT: 35
+KORREKT: PS
+KORREKT: Ackerbulldog
+KORREKT: gelten
+KORREKT: im
+KORREKT: Übrigen
+KORREKT: folgende
+KORREKT: Merkmale
+KORREKT: 1
+KORREKT: Art
+KORREKT: des
+KORREKT: Fahrzeuges
+KORREKT: Zugmaschine
+KORREKT: Ackerschlepper
+KORREKT: 2
+KORREKT: Hersteller
+KORREKT: des
+KORREKT: Fahrzeuges
+KORREKT: Heinrich
+KORREKT: Lan
+KORREKT: z
+KORREKT: A
+KORREKT: G
+KORREKT: Mannheim
+KORREKT: 3
+KORREKT: Antriebsmaschine
+KORREKT: a
+KORREKT: Art
+KORREKT: des
+KORREKT: Antriebes
+KORREKT: Verbrennungsmaschine
+FEHLT: Glühkopfmotor
+KORREKT: Zylinder
+KORREKT: liegend
+KORREKT: b
+KORREKT: Leistung
+KORREKT: 35
+KORREKT: PS
+KORREKT: bei
+KORREKT: 540
+KORREKT: Umin
+KORREKT: c
+KORREKT: Hubraum
+FAST KORREKT: 10338
+KORREKT: cm3
+KORREKT: Zahl
+KORREKT: der
+KORREKT: Zylinder
+KORREKT: 1
+KORREKT: Durchmesser
+KORREKT: des
+KORREKT: Zylinders
+KORREKT: 225
+KORREKT: mm
+FEHLT: Kolbenhub
+FAST KORREKT: 260
+KORREKT: mm
+KORREKT: d
+KORREKT: Hersteller
+KORREKT: Heinrich
+KORREKT: Lanz
+KORREKT: AG
+KORREKT: Mannheim
+KORREKT: e
+KORREKT: Takt
+KORREKT: Zweitakt
+ZUSÄTZLICH: Zugmaschmne
+ZUSÄTZLICH: Eisenbereifmg
+ZUSÄTZLICH: Sechseganggetriebc
+ZUSÄTZLICH: Ausführmgen
+ZUSÄTZLICH: ausgerüst
+ZUSÄTZLICH: Kotflugel
+ZUSÄTZLICH: FS
+ZUSÄTZLICH: Zugmaschin
+ZUSÄTZLICH: Ack
+ZUSÄTZLICH: erschleper
+ZUSÄTZLICH: Glühkopf
+ZUSÄTZLICH: motor
+ZUSÄTZLICH: 5
+ZUSÄTZLICH: 10358
+ZUSÄTZLICH: 60
+ZUSÄTZLICH: Hein
+ZUSÄTZLICH: rich
+ZUSÄTZLICH: Mannhein
 Durchlauf 2:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,7 +1,7 @@
--Ausführung
-+Auszührung
- A
- mit
--Luftreifen
-+Laufreifen
- Die
- Zugmaschine
- ist
-@@ -19,12 +19,12 @@
- die
- Bedienbarkeit
- der
--Absperrvorrichtung
-+Abgassvorrichtung
- in
- der
- Kraftstoffleitung
- vom
--Führersitz
-+Fahrerseits
- aus
- sowie
- von
-@@ -37,20 +37,19 @@
- Abs1
- und
- 2
--StVZO
-+3tVZO
- Über
- die
--Höchstzulässige
--Lautstärke
-+höchstauflassige
-+Leistung
- des
--Fahrgeräusches
-+Fahrerzuschus
- freigestellt
--Das
--Fahrzeug
--genügt
-+Der
-+Fahrzeuggeräte
- hinsichtlich
- der
--Scheinwerferhöhe
-+Leistungsfähigkeit
- nur
- den
- Vorschritten
-@@ -60,79 +59,76 @@
- in
- Land
- und
--forstwirtschaftlichen
-+Forstwirtschaftlichen
- Betrieben
--Ausführung
-+Auszführung
- B
- mit
--eisernen
--Reifen
-+eigener
-+Reihe
- Die
--Zugmaschine
-+Zugsmachine
- ist
- von
--der
--Erfüllung
--der
--Vorschrift
--des
--46
--Abs
--2
--StVZO
-+derr
-+Erfüillung
-+derVorschrift
-+ders
-+146
-+Ab
-+1
-+2StVZO
- Uber
- die
--Bedienbarkeit
-+Bediehbarkeit
-+ders
-+Abgarr
-+vorrichtungin
- der
--Absperrvorrichtung
--in
--der
--Kraftstoffleitung
-+Kraftstofleitun
- vom
--Führersitz
-+Fahrersits
- aus
--sowie
-+sowies
- von
- der
--Erfüllung
-+Eruillung
-+ders
-+Vorscricht
-+des
-+149
-+Ab1
-+uncl
-+23t
-+VZO
-+Uber
-+ders
-+höchstaufflassige
-+Leistung
-+des
-+Fährerzusches
-+freigestell
-+Der
-+Fährzeuggerät
-+hinsichllich
- der
--Vorschrift
--des
--49
--Ab
--1
--und
--2
--StVZO
--über
--die
--höchstzulässige
--Lautstärke
--des
--Fahrzeugeräusches
--freigestellt
--Das
--Fahrzeug
--genügt
--hinsichtlich
--der
--eisernen
-+eigener
- Bereifung
- und
- der
--Scheinwerferhöhe
-+Leistungsfahe
- nur
- den
--Vorschriften
--für
--Zugmaschinen
-+Vorsschritten
-+fur
-+Zugmaschen
- in
- Land
- und
--Forstwirtschaftlichen
--Betrieben
--4
--Im
-+Forstr
-+wirtschaftlichen
-+Bctrieben
-+In
- Falle
- einer
- Änderung
-@@ -148,21 +144,21 @@
- allgemeinen
- Betriebsanleitung
- zu
--beantragen
-+beschrägen
- Die
- auf
- der
--allgemeinen
--Betriebserlaubnis
-+allgeimein
-+Betrieberlaubnis
- ruhenden
--Befugnisse
--erlöschen
-+Defugnisse
-+erlöchen
- mit
- Ablauf
- des
--19
-+15
- November
--1951
-+1971
- wenn
- sie
- nicht
-@@ -170,5 +166,5 @@
- 20
- Abs4
- StVZ0
--verlängert
-+verliegert
- werden
-
+FAST KORREKT: Ausführung
+KORREKT: A
+KORREKT: mit
+FAST KORREKT: Luftreifen
+KORREKT: Die
+KORREKT: Zugmaschine
+KORREKT: ist
+KORREKT: von
+KORREKT: der
+KORREKT: Erfüllung
+KORREKT: der
+KORREKT: Vorschrift
+KORREKT: des
+KORREKT: 46
+KORREKT: Abs
+KORREKT: 2
+KORREKT: StVZO
+KORREKT: über
+KORREKT: die
+KORREKT: Bedienbarkeit
+KORREKT: der
+FEHLT: Absperrvorrichtung
+KORREKT: in
+KORREKT: der
+KORREKT: Kraftstoffleitung
+KORREKT: vom
+FAST KORREKT: Führersitz
+KORREKT: aus
+KORREKT: sowie
+KORREKT: von
+KORREKT: der
+KORREKT: Erfüllung
+KORREKT: des
+KORREKT: Vorschriften
+KORREKT: des
+KORREKT: 49
+KORREKT: Abs1
+KORREKT: und
+KORREKT: 2
+KORREKT: StVZO
+KORREKT: Über
+KORREKT: die
+FEHLT: Höchstzulässige
+FEHLT: Lautstärke
+KORREKT: des
+FEHLT: Fahrgeräusches
+KORREKT: freigestellt
+FAST KORREKT: Das
+FEHLT: Fahrzeug
+FEHLT: genügt
+KORREKT: hinsichtlich
+KORREKT: der
+FEHLT: Scheinwerferhöhe
+KORREKT: nur
+KORREKT: den
+KORREKT: Vorschritten
+KORREKT: für
+KORREKT: die
+KORREKT: Zugmaschinen
+KORREKT: in
+KORREKT: Land
+KORREKT: und
+FAST KORREKT: forstwirtschaftlichen
+KORREKT: Betrieben
+FAST KORREKT: Ausführung
+KORREKT: B
+KORREKT: mit
+FEHLT: eisernen
+FAST KORREKT: Reifen
+KORREKT: Die
+KORREKT: Zugmaschine
+KORREKT: ist
+KORREKT: von
+KORREKT: der
+KORREKT: Erfüllung
+KORREKT: der
+KORREKT: Vorschrift
+KORREKT: des
+KORREKT: 46
+KORREKT: Abs
+KORREKT: 2
+KORREKT: StVZO
+KORREKT: Uber
+KORREKT: die
+KORREKT: Bedienbarkeit
+KORREKT: der
+FEHLT: Absperrvorrichtung
+KORREKT: in
+KORREKT: der
+KORREKT: Kraftstoffleitung
+KORREKT: vom
+FAST KORREKT: Führersitz
+KORREKT: aus
+KORREKT: sowie
+KORREKT: von
+KORREKT: der
+KORREKT: Erfüllung
+KORREKT: der
+KORREKT: Vorschrift
+KORREKT: des
+KORREKT: 49
+KORREKT: Ab
+KORREKT: 1
+KORREKT: und
+KORREKT: 2
+KORREKT: StVZO
+KORREKT: über
+KORREKT: die
+FEHLT: höchstzulässige
+FEHLT: Lautstärke
+KORREKT: des
+FEHLT: Fahrzeugeräusches
+KORREKT: freigestellt
+FAST KORREKT: Das
+FEHLT: Fahrzeug
+FEHLT: genügt
+KORREKT: hinsichtlich
+KORREKT: der
+FEHLT: eisernen
+KORREKT: Bereifung
+KORREKT: und
+KORREKT: der
+FEHLT: Scheinwerferhöhe
+KORREKT: nur
+KORREKT: den
+KORREKT: Vorschriften
+KORREKT: für
+KORREKT: Zugmaschinen
+KORREKT: in
+KORREKT: Land
+KORREKT: und
+KORREKT: Forstwirtschaftlichen
+KORREKT: Betrieben
+FAST KORREKT: 4
+FAST KORREKT: Im
+KORREKT: Falle
+KORREKT: einer
+KORREKT: Änderung
+KORREKT: des
+KORREKT: Typs
+KORREKT: ist
+KORREKT: ein
+KORREKT: entsprechen
+KORREKT: der
+KORREKT: Nachtrag
+KORREKT: zu
+KORREKT: der
+KORREKT: allgemeinen
+KORREKT: Betriebsanleitung
+KORREKT: zu
+FEHLT: beantragen
+KORREKT: Die
+KORREKT: auf
+KORREKT: der
+KORREKT: allgemeinen
+FAST KORREKT: Betriebserlaubnis
+KORREKT: ruhenden
+FAST KORREKT: Befugnisse
+FAST KORREKT: erlöschen
+KORREKT: mit
+KORREKT: Ablauf
+KORREKT: des
+FAST KORREKT: 19
+KORREKT: November
+FAST KORREKT: 1951
+KORREKT: wenn
+KORREKT: sie
+KORREKT: nicht
+KORREKT: gemäß
+KORREKT: 20
+KORREKT: Abs4
+KORREKT: StVZ0
+FAST KORREKT: verlängert
+KORREKT: werden
+ZUSÄTZLICH: Auszührung
+ZUSÄTZLICH: Laufreifen
+ZUSÄTZLICH: Abgassvorrichtung
+ZUSÄTZLICH: Fahrerseits
+ZUSÄTZLICH: 3tVZO
+ZUSÄTZLICH: höchstauflassige
+ZUSÄTZLICH: Leistung
+ZUSÄTZLICH: Fahrerzuschus
+ZUSÄTZLICH: Der
+ZUSÄTZLICH: Fahrzeuggeräte
+ZUSÄTZLICH: Leistungsfähigkeit
+ZUSÄTZLICH: Auszführung
+ZUSÄTZLICH: eigener
+ZUSÄTZLICH: Reihe
+ZUSÄTZLICH: Zugsmachine
+ZUSÄTZLICH: derr
+ZUSÄTZLICH: Erfüillung
+ZUSÄTZLICH: derVorschrift
+ZUSÄTZLICH: ders
+ZUSÄTZLICH: 146
+ZUSÄTZLICH: 2StVZO
+ZUSÄTZLICH: Bediehbarkeit
+ZUSÄTZLICH: ders
+ZUSÄTZLICH: Abgarr
+ZUSÄTZLICH: vorrichtungin
+ZUSÄTZLICH: Kraftstofleitun
+ZUSÄTZLICH: Fahrersits
+ZUSÄTZLICH: sowies
+ZUSÄTZLICH: Eruillung
+ZUSÄTZLICH: ders
+ZUSÄTZLICH: Vorscricht
+ZUSÄTZLICH: 149
+ZUSÄTZLICH: Ab1
+ZUSÄTZLICH: uncl
+ZUSÄTZLICH: 23t
+ZUSÄTZLICH: VZO
+ZUSÄTZLICH: ders
+ZUSÄTZLICH: höchstaufflassige
+ZUSÄTZLICH: Leistung
+ZUSÄTZLICH: Fährerzusches
+ZUSÄTZLICH: freigestell
+ZUSÄTZLICH: Der
+ZUSÄTZLICH: Fährzeuggerät
+ZUSÄTZLICH: hinsichllich
+ZUSÄTZLICH: eigener
+ZUSÄTZLICH: Leistungsfahe
+ZUSÄTZLICH: Vorsschritten
+ZUSÄTZLICH: fur
+ZUSÄTZLICH: Zugmaschen
+ZUSÄTZLICH: Forstr
+ZUSÄTZLICH: wirtschaftlichen
+ZUSÄTZLICH: Bctrieben
+ZUSÄTZLICH: In
+ZUSÄTZLICH: beschrägen
+ZUSÄTZLICH: allgeimein
+ZUSÄTZLICH: Betrieberlaubnis
+ZUSÄTZLICH: Defugnisse
+ZUSÄTZLICH: erlöchen
+ZUSÄTZLICH: 15
+ZUSÄTZLICH: 1971
+ZUSÄTZLICH: verliegert
 Durchlauf 4:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -12,7 +12,7 @@
- mit
- einem
- Fahrersitzdach
--ausgerüstet
-+ausgestattet
- so
- ändert
- sich
-@@ -23,16 +23,16 @@
- Wetterdach
- mit
- abnehmbaren
--Seitenteilen
-+Seitenwänden
- Zur
- Ziffer8
--Maße
-+Hase
- über
- alles
- Bei
- Ausstattung
- mit
--Fahrersitzdach
-+Fahrersitzzdach
- ändern
- sich
- folgenden
-@@ -42,8 +42,9 @@
- mm
- 3390
- mm
--Höhe
--2452
-+Breite
-+unverändert
-+1705
- mm
- Durch
- Anbau
-@@ -51,10 +52,6 @@
- Kotflügeln
- änderte
- sich
--Breite
--unverändert
--1785
--mm
- Der
- Fahrzeugtyp
- entspricht
-@@ -64,7 +61,8 @@
- den
- Vorschriften
- für
--Zugmaschinen
-+Zugmaschin
-+en
- in
- land
- und
-@@ -72,21 +70,26 @@
- Betrieben
- Scheinwerferhöhe
- über
--Fahrbahn
-+Eisenbahn
- 503
- StVZO
--Eisenbereifung
--364
--StVZO
--Scheinwerferhöhe
-+564
-+StVZ0
-+Scheinw
-+erfer
-+höhe
- über
--Fahrbahn
--50
-+Fahr
-+bahn
-+5
-+0
- 3
--StVZO
-+St
-+VZO
- Der
--Fahrzeugtyp
--entspricht
-+Fahrzeuggestyp
-+entsprich
-+t
- vorstehenden
- Angaben
- und
-@@ -94,14 +97,15 @@
- den
- Anforderungen
- der
--StrassenverkehrsZulassungsOrdnung
-+StrassenverkehrsZulassungsGrundung
- sowie
- den
- hierzu
- erlassenen
- Anweisungen
- des
--Reichsverkehrsministers
-+Reichsverkehrsamini
-+sters
- mit
- folgenden
- Ausnahmen
-@@ -110,34 +114,36 @@
- in
- die
- Kraftstoffleitung
--Rohölleitung
-+Rohrleitung
- eingebaute
- Absperrvorrichtung
- ist
- von
--Fahrersitz
-+Fahrersatz
- aus
- nicht
--bedienbar
-+be
-+dienbar
- 462
--StVZO
-+StVzo
- 2
- Fahrgeräusch
- und
- Auspuffgeräusche
- überschreiten
--85
-+95
- Phon
- 491
- u
- 2
--StVZO
-+St
-+Vzo
- 3
- Bei
- den
- Fahrzeugen
- ohne
--Kotflügel
-+Kotflugel
- ist
- der
- Abstand
-@@ -151,4 +157,4 @@
- 110
- cm
- 531
--StVZO
-+StVz0
-
+KORREKT: D
+KORREKT: 8506
+KORREKT: Zu
+KORREKT: Ziffer
+KORREKT: 7
+KORREKT: Art
+KORREKT: des
+KORREKT: Aufbaus
+KORREKT: Wird
+KORREKT: das
+KORREKT: Fahrzeug
+KORREKT: mit
+KORREKT: einem
+KORREKT: Fahrersitzdach
+FEHLT: ausgerüstet
+KORREKT: so
+KORREKT: ändert
+KORREKT: sich
+KORREKT: c
+KORREKT: bei
+KORREKT: Zugmaschinen
+KORREKT: festes
+KORREKT: Wetterdach
+KORREKT: mit
+KORREKT: abnehmbaren
+FEHLT: Seitenteilen
+KORREKT: Zur
+KORREKT: Ziffer8
+FAST KORREKT: Maße
+KORREKT: über
+KORREKT: alles
+KORREKT: Bei
+KORREKT: Ausstattung
+KORREKT: mit
+KORREKT: Fahrersitzdach
+KORREKT: ändern
+KORREKT: sich
+KORREKT: folgenden
+KORREKT: Angaben
+KORREKT: Länge
+KORREKT: 3408
+KORREKT: mm
+KORREKT: 3390
+KORREKT: mm
+FAST KORREKT: Höhe
+FAST KORREKT: 2452
+KORREKT: mm
+KORREKT: Durch
+KORREKT: Anbau
+KORREKT: von
+KORREKT: Kotflügeln
+KORREKT: änderte
+KORREKT: sich
+KORREKT: Breite
+KORREKT: unverändert
+FAST KORREKT: 1785
+KORREKT: mm
+KORREKT: Der
+KORREKT: Fahrzeugtyp
+KORREKT: entspricht
+KORREKT: in
+KORREKT: folgenden
+KORREKT: nur
+KORREKT: den
+KORREKT: Vorschriften
+KORREKT: für
+KORREKT: Zugmaschinen
+KORREKT: in
+KORREKT: land
+KORREKT: und
+KORREKT: forstwirtschaftlichen
+KORREKT: Betrieben
+KORREKT: Scheinwerferhöhe
+KORREKT: über
+FEHLT: Fahrbahn
+KORREKT: 503
+KORREKT: StVZO
+FEHLT: Eisenbereifung
+FAST KORREKT: 364
+KORREKT: StVZO
+KORREKT: Scheinwerferhöhe
+KORREKT: über
+FEHLT: Fahrbahn
+FAST KORREKT: 50
+KORREKT: 3
+KORREKT: StVZO
+KORREKT: Der
+KORREKT: Fahrzeugtyp
+KORREKT: entspricht
+KORREKT: vorstehenden
+KORREKT: Angaben
+KORREKT: und
+KORREKT: genügt
+KORREKT: den
+KORREKT: Anforderungen
+KORREKT: der
+FEHLT: StrassenverkehrsZulassungsOrdnung
+KORREKT: sowie
+KORREKT: den
+KORREKT: hierzu
+KORREKT: erlassenen
+KORREKT: Anweisungen
+KORREKT: des
+FEHLT: Reichsverkehrsministers
+KORREKT: mit
+KORREKT: folgenden
+KORREKT: Ausnahmen
+KORREKT: 1
+KORREKT: Die
+KORREKT: in
+KORREKT: die
+KORREKT: Kraftstoffleitung
+FAST KORREKT: Rohölleitung
+KORREKT: eingebaute
+KORREKT: Absperrvorrichtung
+KORREKT: ist
+KORREKT: von
+FAST KORREKT: Fahrersitz
+KORREKT: aus
+KORREKT: nicht
+FAST KORREKT: bedienbar
+KORREKT: 462
+KORREKT: StVZO
+KORREKT: 2
+KORREKT: Fahrgeräusch
+KORREKT: und
+KORREKT: Auspuffgeräusche
+KORREKT: überschreiten
+FAST KORREKT: 85
+KORREKT: Phon
+KORREKT: 491
+KORREKT: u
+KORREKT: 2
+KORREKT: StVZO
+KORREKT: 3
+KORREKT: Bei
+KORREKT: den
+KORREKT: Fahrzeugen
+KORREKT: ohne
+FAST KORREKT: Kotflügel
+KORREKT: ist
+KORREKT: der
+KORREKT: Abstand
+KORREKT: der
+KORREKT: Schlußlichter
+KORREKT: voneinander
+KORREKT: 100
+KORREKT: cm
+KORREKT: statt
+KORREKT: mindestens
+KORREKT: 110
+KORREKT: cm
+KORREKT: 531
+KORREKT: StVZO
+ZUSÄTZLICH: ausgestattet
+ZUSÄTZLICH: Seitenwänden
+ZUSÄTZLICH: Hase
+ZUSÄTZLICH: Fahrersitzzdach
+ZUSÄTZLICH: 1705
+ZUSÄTZLICH: Zugmaschin
+ZUSÄTZLICH: en
+ZUSÄTZLICH: Eisenbahn
+ZUSÄTZLICH: 564
+ZUSÄTZLICH: StVZ0
+ZUSÄTZLICH: Scheinw
+ZUSÄTZLICH: erfer
+ZUSÄTZLICH: höhe
+ZUSÄTZLICH: Fahr
+ZUSÄTZLICH: bahn
+ZUSÄTZLICH: 5
+ZUSÄTZLICH: 0
+ZUSÄTZLICH: St
+ZUSÄTZLICH: VZO
+ZUSÄTZLICH: Fahrzeuggestyp
+ZUSÄTZLICH: entsprich
+ZUSÄTZLICH: t
+ZUSÄTZLICH: StrassenverkehrsZulassungsGrundung
+ZUSÄTZLICH: Reichsverkehrsamini
+ZUSÄTZLICH: sters
+ZUSÄTZLICH: Rohrleitung
+ZUSÄTZLICH: Fahrersatz
+ZUSÄTZLICH: be
+ZUSÄTZLICH: dienbar
+ZUSÄTZLICH: StVzo
+ZUSÄTZLICH: 95
+ZUSÄTZLICH: St
+ZUSÄTZLICH: Vzo
+ZUSÄTZLICH: Kotflugel
+ZUSÄTZLICH: StVz0
 Durchlauf 1:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -6,7 +6,7 @@
- Für
- die
- Zugmaschinen
--Ackerschlepper
-+Ackerb
- Typ
- 35
- Ackerbulldog
-@@ -15,7 +15,10 @@
- der
- Firma
- Heinrich
--Lanz
-+L
-+a
-+n
-+z
- AG
- in
- Mannheim
-@@ -34,7 +37,7 @@
- TÜ
- Mannheim
- in
--Mannheim
-+Lingenheim
- vom
- 4
- November
-@@ -44,27 +47,28 @@
- die
- reihenweise
- gefertigten
--Zugmaschinen
-+Zugmaschen
- Ackerschlepper
- Typ
--35
--PS
--Ackerbulldog
--D
--8506
-+3S
-+Ackerb
-+bulldog
-+D
-+5506
- der
- Firma
- Heinrich
- Lanz
- AG
- in
--Mannheim
-+Lingenheim
- widerruflich
- die
- allgemeine
--Betriebserlaubnis
-+Betriebse
-+rlaubniss
- gemäß
--20
-+26
- Abs
- 1
- der
-@@ -81,31 +85,35 @@
- vom
- 13
- November
--1937
-+1
-+937
- StVZO
- erteilt
- Die
--Zugmaschinen
-+Zugmaschin
- en
- Typ
--35
--PS
--Ackerbulldog
--D
--8506
-+5S
-+A
-+ckerbulld
-+dog
-+D
-+3
-+50
-+6
- werden
- in
- folgenden
- Ausführungen
- hergestellt
--Ausführung
-+Ausbührung
- A
- mit
- Luftbereifung
--Ausführung
-+Ausbürhung
- B
- mit
--Eisenbereifung
-+Eisenbereif
- 2
- Auf
- Grund
-@@ -116,14 +124,21 @@
- StVZO
- werden
- die
--Zugmaschinen
--Typ
--35
--Ackerbulldog
--D
--8506
--der
--Firma
-+Zug
-+maschinen
-+Typ
-+3
-+S
-+Ackerbull
-+dog
-+D
-+8
-+5
-+0
-+6
-+der
-+Firm
-+a
- Heinrich
- Lanz
- AG
-@@ -146,32 +161,33 @@
- in
- der
- Kraftstoffleitung
--vom
--Führersitz
-+vomFührersitz
- aus
- sowie
- von
- der
--Erfüllung
--der
--Vorschrift
-+Erfü
-+llung
-+der
-+Vorschrif
-+t
- des
- 49
--Abs
--1
-+Abs1
- und
- 2
--StVZO
--über
--die
--höchstzulässige
-+StVzo
-+über
-+die
-+höchstd
-+zulässige
- Lautstärke
- des
- Fahrgeräusches
- freigestellt
- 3
- Der
--Hersteller
-+Harsteller
- hat
- für
- jedes
-@@ -180,7 +196,7 @@
- entsprechende
- Fahrzeug
- einen
--Kraftfahrzeugbrief
-+Kraftfahzeugbrief
- auszufüllen
- sowie
- die
-@@ -189,15 +205,18 @@
- Angaben
- über
- die
--Beschaffenheit
-+Bescha
-+ffenheit
- des
- Fahrzeuges
- und
- dessen
--Übereinstimmung
-+Über
-+einstimmung
- mit
- dem
--genehmigten
-+gemäß
-+igten
- Typ
- zu
- bescheinigen
-@@ -226,34 +245,40 @@
- Bielefeld
- Herforder
- Straße
--8
-+5
- 10
- zu
--beziehen
-+besuchen
- Bei
- der
--Ausfertigung
--von
--Kraftfahrzeugbriefen
--für
--die
--Zugmaschinen
--Typ
--35
--PS
--Ackerbulldog
-+Ausferti
-+gung
-+von
-+Kraftfahrung
-+zeugbriefen
-+für
-+die
-+Zugm
-+aschinen
-+Typ
-+15
-+FS
-+Acker
-+bul
-+dog
- D
- 8506
- der
- Firma
- Heinrich
--Lanz
--AG
--in
--Mannheim
-+Lan
-+z
-+AG
-+in
-+Mann
-+heim
- ist
- unter
--Nr
--19
-+Nr19
- Bemerkungen
- einzutragen
-
+KORREKT: Ausfertigung
+KORREKT: Allgemeine
+KORREKT: Betriebserlaubnis
+KORREKT: Nr
+KORREKT: 207
+KORREKT: Für
+KORREKT: die
+KORREKT: Zugmaschinen
+KORREKT: Ackerschlepper
+KORREKT: Typ
+KORREKT: 35
+KORREKT: Ackerbulldog
+KORREKT: D
+KORREKT: 8506
+KORREKT: der
+KORREKT: Firma
+KORREKT: Heinrich
+KORREKT: Lanz
+KORREKT: AG
+KORREKT: in
+KORREKT: Mannheim
+KORREKT: 1
+KORREKT: Auf
+KORREKT: Grund
+KORREKT: des
+KORREKT: anliegenden
+KORREKT: Gutachtens
+KORREKT: der
+KORREKT: Technischen
+KORREKT: Prüfstelle
+KORREKT: für
+KORREKT: den
+KORREKT: Kraftfahrzeugverkehr
+KORREKT: TÜ
+KORREKT: Mannheim
+KORREKT: in
+KORREKT: Mannheim
+KORREKT: vom
+KORREKT: 4
+KORREKT: November
+KORREKT: 1949
+KORREKT: wird
+KORREKT: für
+KORREKT: die
+KORREKT: reihenweise
+KORREKT: gefertigten
+KORREKT: Zugmaschinen
+KORREKT: Ackerschlepper
+KORREKT: Typ
+KORREKT: 35
+FAST KORREKT: PS
+KORREKT: Ackerbulldog
+KORREKT: D
+KORREKT: 8506
+KORREKT: der
+KORREKT: Firma
+KORREKT: Heinrich
+KORREKT: Lanz
+KORREKT: AG
+KORREKT: in
+KORREKT: Mannheim
+KORREKT: widerruflich
+KORREKT: die
+KORREKT: allgemeine
+KORREKT: Betriebserlaubnis
+KORREKT: gemäß
+FAST KORREKT: 20
+KORREKT: Abs
+KORREKT: 1
+KORREKT: der
+KORREKT: Verordnung
+KORREKT: über
+KORREKT: die
+KORREKT: Zulassung
+KORREKT: von
+KORREKT: Personen
+KORREKT: und
+KORREKT: Fahrzeugen
+KORREKT: zum
+KORREKT: Straßenverkehr
+KORREKT: vom
+KORREKT: 13
+KORREKT: November
+FAST KORREKT: 1937
+KORREKT: StVZO
+KORREKT: erteilt
+KORREKT: Die
+KORREKT: Zugmaschinen
+KORREKT: en
+KORREKT: Typ
+KORREKT: 35
+FAST KORREKT: PS
+KORREKT: Ackerbulldog
+KORREKT: D
+KORREKT: 8506
+KORREKT: werden
+KORREKT: in
+KORREKT: folgenden
+KORREKT: Ausführungen
+KORREKT: hergestellt
+FAST KORREKT: Ausführung
+KORREKT: A
+KORREKT: mit
+KORREKT: Luftbereifung
+FAST KORREKT: Ausführung
+KORREKT: B
+KORREKT: mit
+FEHLT: Eisenbereifung
+KORREKT: 2
+KORREKT: Auf
+KORREKT: Grund
+KORREKT: des
+KORREKT: 70
+KORREKT: Abs
+KORREKT: I
+KORREKT: StVZO
+KORREKT: werden
+KORREKT: die
+KORREKT: Zugmaschinen
+KORREKT: Typ
+KORREKT: 35
+KORREKT: Ackerbulldog
+KORREKT: D
+KORREKT: 8506
+KORREKT: der
+KORREKT: Firma
+KORREKT: Heinrich
+KORREKT: Lanz
+KORREKT: AG
+KORREKT: Mannheim
+KORREKT: von
+KORREKT: der
+KORREKT: Erfüllung
+KORREKT: der
+KORREKT: Vorschrift
+KORREKT: des
+KORREKT: 46
+KORREKT: Abs
+KORREKT: 2
+KORREKT: StVZ0
+KORREKT: über
+KORREKT: die
+KORREKT: Bedienbarkeit
+KORREKT: der
+KORREKT: Absperrvorrichtung
+KORREKT: in
+KORREKT: der
+KORREKT: Kraftstoffleitung
+KORREKT: vom
+FEHLT: Führersitz
+KORREKT: aus
+KORREKT: sowie
+KORREKT: von
+KORREKT: der
+KORREKT: Erfüllung
+KORREKT: der
+KORREKT: Vorschrift
+KORREKT: des
+KORREKT: 49
+KORREKT: Abs
+KORREKT: 1
+KORREKT: und
+KORREKT: 2
+KORREKT: StVZO
+KORREKT: über
+KORREKT: die
+FEHLT: höchstzulässige
+KORREKT: Lautstärke
+KORREKT: des
+KORREKT: Fahrgeräusches
+KORREKT: freigestellt
+KORREKT: 3
+KORREKT: Der
+FAST KORREKT: Hersteller
+KORREKT: hat
+KORREKT: für
+KORREKT: jedes
+KORREKT: dem
+KORREKT: Typ
+KORREKT: entsprechende
+KORREKT: Fahrzeug
+KORREKT: einen
+FAST KORREKT: Kraftfahrzeugbrief
+KORREKT: auszufüllen
+KORREKT: sowie
+KORREKT: die
+KORREKT: Richtigkeit
+KORREKT: der
+KORREKT: Angaben
+KORREKT: über
+KORREKT: die
+FEHLT: Beschaffenheit
+KORREKT: des
+KORREKT: Fahrzeuges
+KORREKT: und
+KORREKT: dessen
+FEHLT: Übereinstimmung
+KORREKT: mit
+KORREKT: dem
+FEHLT: genehmigten
+KORREKT: Typ
+KORREKT: zu
+KORREKT: bescheinigen
+KORREKT: Die
+KORREKT: Vordrucke
+KORREKT: für
+KORREKT: die
+KORREKT: Briefe
+KORREKT: sind
+KORREKT: von
+KORREKT: dem
+KORREKT: StraßenZentralamt
+KORREKT: der
+KORREKT: Verwaltung
+KORREKT: für
+KORREKT: Verkehr
+KORREKT: des
+KORREKT: vereinigten
+KORREKT: Wirtschaftsgebietes
+KORREKT: Sammelstelle
+KORREKT: für
+KORREKT: Nachrichten
+KORREKT: über
+KORREKT: Kraftfahrzeuge
+KORREKT: in
+KORREKT: Bielefeld
+KORREKT: Herforder
+KORREKT: Straße
+KORREKT: 8
+KORREKT: 10
+KORREKT: zu
+FEHLT: beziehen
+KORREKT: Bei
+KORREKT: der
+KORREKT: Ausfertigung
+KORREKT: von
+FEHLT: Kraftfahrzeugbriefen
+KORREKT: für
+KORREKT: die
+KORREKT: Zugmaschinen
+KORREKT: Typ
+KORREKT: 35
+FAST KORREKT: PS
+KORREKT: Ackerbulldog
+KORREKT: D
+KORREKT: 8506
+KORREKT: der
+KORREKT: Firma
+KORREKT: Heinrich
+KORREKT: Lanz
+KORREKT: AG
+KORREKT: in
+KORREKT: Mannheim
+KORREKT: ist
+KORREKT: unter
+KORREKT: Nr
+FAST KORREKT: 19
+KORREKT: Bemerkungen
+KORREKT: einzutragen
+ZUSÄTZLICH: Ackerb
+ZUSÄTZLICH: L
+ZUSÄTZLICH: a
+ZUSÄTZLICH: n
+ZUSÄTZLICH: z
+ZUSÄTZLICH: Lingenheim
+ZUSÄTZLICH: Zugmaschen
+ZUSÄTZLICH: 3S
+ZUSÄTZLICH: Ackerb
+ZUSÄTZLICH: bulldog
+ZUSÄTZLICH: 5506
+ZUSÄTZLICH: Lingenheim
+ZUSÄTZLICH: Betriebse
+ZUSÄTZLICH: rlaubniss
+ZUSÄTZLICH: 26
+ZUSÄTZLICH: 937
+ZUSÄTZLICH: Zugmaschin
+ZUSÄTZLICH: 5S
+ZUSÄTZLICH: ckerbulld
+ZUSÄTZLICH: dog
+ZUSÄTZLICH: 50
+ZUSÄTZLICH: 6
+ZUSÄTZLICH: Ausbührung
+ZUSÄTZLICH: Ausbürhung
+ZUSÄTZLICH: Eisenbereif
+ZUSÄTZLICH: Zug
+ZUSÄTZLICH: maschinen
+ZUSÄTZLICH: S
+ZUSÄTZLICH: Ackerbull
+ZUSÄTZLICH: dog
+ZUSÄTZLICH: 5
+ZUSÄTZLICH: 0
+ZUSÄTZLICH: 6
+ZUSÄTZLICH: Firm
+ZUSÄTZLICH: a
+ZUSÄTZLICH: vomFührersitz
+ZUSÄTZLICH: Erfü
+ZUSÄTZLICH: llung
+ZUSÄTZLICH: Vorschrif
+ZUSÄTZLICH: t
+ZUSÄTZLICH: Abs1
+ZUSÄTZLICH: StVzo
+ZUSÄTZLICH: höchstd
+ZUSÄTZLICH: zulässige
+ZUSÄTZLICH: Harsteller
+ZUSÄTZLICH: Kraftfahzeugbrief
+ZUSÄTZLICH: Bescha
+ZUSÄTZLICH: ffenheit
+ZUSÄTZLICH: Über
+ZUSÄTZLICH: einstimmung
+ZUSÄTZLICH: igten
+ZUSÄTZLICH: 5
+ZUSÄTZLICH: besuchen
+ZUSÄTZLICH: Ausferti
+ZUSÄTZLICH: gung
+ZUSÄTZLICH: Kraftfahrung
+ZUSÄTZLICH: zeugbriefen
+ZUSÄTZLICH: Zugm
+ZUSÄTZLICH: aschinen
+ZUSÄTZLICH: 15
+ZUSÄTZLICH: FS
+ZUSÄTZLICH: Acker
+ZUSÄTZLICH: bul
+ZUSÄTZLICH: dog
+ZUSÄTZLICH: Lan
+ZUSÄTZLICH: z
+ZUSÄTZLICH: Mann
+ZUSÄTZLICH: heim
+ZUSÄTZLICH: Nr19

@@ -1,2349 +1,2179 @@
 Durchlauf 7:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,19 +1,19 @@
- Der
--Erteilung
--des
--Typscheins
-+Brteiluzg
-+123
-+Ipscusine
- stehen
--technische
-+techniacbe
- Bedenken
- nicht
--entgegen
-+entyegen
- Zu
--diesem
--Typgutachten
--gehören
-+dle9e0
-+Iypgutacaten
-+geloren
- eine
--Beschreibung
--des
--Fahrzeugs
--fünf
--Zeichnungen
-+Beacnreibillg
-+de9
-+Paurueuee
-+funf
-+siciungen
-
+KORREKT: Der
+FAST KORREKT: Erteilung
+FAST KORREKT: des
+FEHLT: Typscheins
+KORREKT: stehen
+FAST KORREKT: technische
+KORREKT: Bedenken
+KORREKT: nicht
+FAST KORREKT: entgegen
+KORREKT: Zu
+FEHLT: diesem
+FAST KORREKT: Typgutachten
+FAST KORREKT: gehören
+KORREKT: eine
+FEHLT: Beschreibung
+FAST KORREKT: des
+FEHLT: Fahrzeugs
+FAST KORREKT: fünf
+FEHLT: Zeichnungen
+ZUSÄTZLICH: Brteiluzg
+ZUSÄTZLICH: 123
+ZUSÄTZLICH: Ipscusine
+ZUSÄTZLICH: techniacbe
+ZUSÄTZLICH: entyegen
+ZUSÄTZLICH: dle9e0
+ZUSÄTZLICH: Iypgutacaten
+ZUSÄTZLICH: geloren
+ZUSÄTZLICH: Beacnreibillg
+ZUSÄTZLICH: de9
+ZUSÄTZLICH: Paurueuee
+ZUSÄTZLICH: funf
+ZUSÄTZLICH: siciungen
 Durchlauf 5:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,79 +1,69 @@
--Technische
--Daten
--Motorrad
--BMW
--R
--35
--Nachstehende
--Daten
--kommen
--noch
--zusätzlich
--zu
--dem
--bisherigen
--Typenschein
--für
--das
--neue
--Typenfachten
--in
--Frage
--Bohrung
-+Zcustche11e
-+Joton
-+1201710n
-+Zoci
-+u91tz110n
-+34
-+uem
-+bljnrizen
-+Zypsnscncin
-+Eur
-+d2a
-+Maub
-+Tyrautoenton
-+In
-+res0
-+Bouz
- 72
--mm
--Hub
--84
--mm
--Akku
-+A7
-+Wub
-+81
-+E2
-+4k
- 6
--Volt
--Länge
--2000
--mm
--Breite
--800
--m
--Höhe
-+foit
-+Lanfe
-+Zo00
-+Broite
-+000
-+Ione
-+930
-+Zedontried
-+ZruftudertJud
-+Duruun
-+eifen
-+vor
-+350
-+19
-+Lurtdruck
-+14
-+Atv
-+Zeifen
-+hinten
- 950
--mm
--Radantrieb
--Kraftübertragung
--Kardan
--Reifen
--vorn
--550
--19
--Luftdruck
--14
--atu
--Reifen
--hinten
--35
--0
- 19
- Luftdruck
- 19
--atu
--mit
--Sozius
--Bremsanlage
--mechanisch
--BMW
--Eigengewicht
--mit
--Öl
-+tu
-+n1t
-+Joziua
-+Bromgan1ag0
-+oohunlgch
-+19
-+risengovicf
-+n1t
-+L1
- und
--Kraftstoff
-+Sreftotoff
- 162
--kg
--Zulässige
--Belastung
-+26
-+Zulaba1se
-+Balugtunz
- 2
--Personen
--188
--kg
--Zulässiges
--Gesamtgewicht
-+Forsouon
-+1bu
-+13
-+2ulasg1328
-+J2uatGowicat
- 350
--kg
-+26
-
+FEHLT: Technische
+FEHLT: Daten
+FEHLT: Motorrad
+FEHLT: BMW
+FAST KORREKT: R
+FAST KORREKT: 35
+FEHLT: Nachstehende
+FEHLT: Daten
+FEHLT: kommen
+FAST KORREKT: noch
+FEHLT: zusätzlich
+FAST KORREKT: zu
+FAST KORREKT: dem
+FEHLT: bisherigen
+FEHLT: Typenschein
+FAST KORREKT: für
+FAST KORREKT: das
+FEHLT: neue
+FEHLT: Typenfachten
+FAST KORREKT: in
+FEHLT: Frage
+FEHLT: Bohrung
+KORREKT: 72
+FAST KORREKT: mm
+FAST KORREKT: Hub
+FAST KORREKT: 84
+FAST KORREKT: mm
+FEHLT: Akku
+KORREKT: 6
+FAST KORREKT: Volt
+FAST KORREKT: Länge
+FAST KORREKT: 2000
+FAST KORREKT: mm
+FAST KORREKT: Breite
+FAST KORREKT: 800
+FAST KORREKT: m
+FEHLT: Höhe
+KORREKT: 950
+FAST KORREKT: mm
+FEHLT: Radantrieb
+FEHLT: Kraftübertragung
+FEHLT: Kardan
+FAST KORREKT: Reifen
+FAST KORREKT: vorn
+FAST KORREKT: 550
+KORREKT: 19
+KORREKT: Luftdruck
+KORREKT: 14
+FAST KORREKT: atu
+FAST KORREKT: Reifen
+KORREKT: hinten
+FAST KORREKT: 35
+FAST KORREKT: 0
+KORREKT: 19
+KORREKT: Luftdruck
+KORREKT: 19
+FAST KORREKT: atu
+FAST KORREKT: mit
+FAST KORREKT: Sozius
+FEHLT: Bremsanlage
+FEHLT: mechanisch
+FEHLT: BMW
+FEHLT: Eigengewicht
+FAST KORREKT: mit
+FAST KORREKT: Öl
+KORREKT: und
+FEHLT: Kraftstoff
+KORREKT: 162
+FAST KORREKT: kg
+FEHLT: Zulässige
+FEHLT: Belastung
+KORREKT: 2
+FEHLT: Personen
+FAST KORREKT: 188
+FAST KORREKT: kg
+FEHLT: Zulässiges
+FEHLT: Gesamtgewicht
+KORREKT: 350
+FAST KORREKT: kg
+ZUSÄTZLICH: Zcustche11e
+ZUSÄTZLICH: Joton
+ZUSÄTZLICH: 1201710n
+ZUSÄTZLICH: Zoci
+ZUSÄTZLICH: u91tz110n
+ZUSÄTZLICH: 34
+ZUSÄTZLICH: uem
+ZUSÄTZLICH: bljnrizen
+ZUSÄTZLICH: Zypsnscncin
+ZUSÄTZLICH: Eur
+ZUSÄTZLICH: d2a
+ZUSÄTZLICH: Maub
+ZUSÄTZLICH: Tyrautoenton
+ZUSÄTZLICH: In
+ZUSÄTZLICH: res0
+ZUSÄTZLICH: Bouz
+ZUSÄTZLICH: A7
+ZUSÄTZLICH: Wub
+ZUSÄTZLICH: 81
+ZUSÄTZLICH: E2
+ZUSÄTZLICH: 4k
+ZUSÄTZLICH: foit
+ZUSÄTZLICH: Lanfe
+ZUSÄTZLICH: Zo00
+ZUSÄTZLICH: Broite
+ZUSÄTZLICH: 000
+ZUSÄTZLICH: Ione
+ZUSÄTZLICH: 930
+ZUSÄTZLICH: Zedontried
+ZUSÄTZLICH: ZruftudertJud
+ZUSÄTZLICH: Duruun
+ZUSÄTZLICH: eifen
+ZUSÄTZLICH: vor
+ZUSÄTZLICH: Lurtdruck
+ZUSÄTZLICH: Atv
+ZUSÄTZLICH: Zeifen
+ZUSÄTZLICH: tu
+ZUSÄTZLICH: n1t
+ZUSÄTZLICH: Joziua
+ZUSÄTZLICH: Bromgan1ag0
+ZUSÄTZLICH: oohunlgch
+ZUSÄTZLICH: risengovicf
+ZUSÄTZLICH: n1t
+ZUSÄTZLICH: L1
+ZUSÄTZLICH: Sreftotoff
+ZUSÄTZLICH: 26
+ZUSÄTZLICH: Zulaba1se
+ZUSÄTZLICH: Balugtunz
+ZUSÄTZLICH: Forsouon
+ZUSÄTZLICH: 1bu
+ZUSÄTZLICH: 13
+ZUSÄTZLICH: 2ulasg1328
+ZUSÄTZLICH: J2uatGowicat
+ZUSÄTZLICH: 26
 Durchlauf 6:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,247 +1,271 @@
--Allgemeine
--Beschreibung
--der
--Zugmaschine
-+41l0t0L6
-+soehrelbuzg
-+Sera490ire
-+39
-+22
-+9u110
-+ehurrelle
-+e
-+uafrarc
- 35
--PS
--Bulldog
--Ackerschlepper
--Ausführung
--8506
--A
--und
--B
-+41
-+2
-+BI
-+35
-+eferbul_2
-+lr
-+n
-+52
-+uJflrure
-+WrwjE26
-+1
-+cllid2
-+252
-+Ser
-+chle
-+besif2t
-+6
-+Gplriasfr
-+ce
-+vonarl
-+222
-+2
-+ayk
-+18
-+Ense
-+rit
-+2
-+Cclthebsln
-+31
-+210
-+722e3222122128242
-+2
-+62
-+EC
-+tri
-+t
-+1at
-+eran
-+Jen
-+Vorserun
-+Wlf
-+lefigein
-+lurtrerci
-+er
-+Schle
-+Wnt
-+elnc
-+lrcrrn
-+uwbr
-+Tie
-+4
-+eIne
-+feptsGilht
-+Ge
-+Lrlbce1
-+breaae
- Der
--35
--PS
--Ackerbulldog
--wird
--in
--zwei
--Ausführungen
--hergestellt
--1
--Normalausführung
--D
--8506
--A
-+ZBtJ
-+Iot
-+n
-+ZsitaklGl
-+179tar
-+Ill
-+elortriscler
-+2121022ale
-+le
-+1n34884247
-+erfjl
-+usch
-+4n
-+Crien
-+atels
-+dvcraj
-+9
-+be
-+tbr
-+1
-+Lenl
-+ajck
-+n
-+e01
-+e
-+106
-+le
-+Ylhlusg
-+229
-+otOB
-+E0
-+Lelt
-+Surse
-+Serco9jplo2195er
-+ualfklhlu
-+2
-+123
-+121251
-+112
-+Liftlbertfrun
-+672982
-+Ilfen
-+6128
-+selrscielbenku
-+126
-+10
-+chlsrre
-+il
-+242e
-+Frlacd
-+Bljuinurocsler
-+8
-+rer
-+SchlerF
-+Git
-+215
-+ZcCat2
-+202
-+19
-+eT
-+snlttora
-+L
-+eltanbleelc
-+becltst
-+elertrlsela
-+Yclo8l82y
-+nech
-+n
-+8e441
-+fur2n
-+Bf
-+B642
-+2Lp
-+Lenkune
-+Ilalt
-+Scch
-+qenaehenrcllenk
-+EYdF
-+W4
-+2
-+28526
-+1L
-+Besu9c21
-+rlehelHEl22
-+re1
-+Qre
-+2ll242l
- Der
--Schlepper
--besitzt
--6
--Getriebsgänge
--vorwärts
--und
--2
--Rückwärtsgänge
--mit
--2
--Schalthebeln
--Da
--die
--Fahrgeschwindigkeit
--18
--km
--beträgt
--ist
--eran
--den
--Vorder
--und
--Hinterräder
--luftbereift
--Der
--Schlepper
--hat
--eine
--Hinterradfußbremse
--und
--eine
--feststellbare
--Getriebehandbremse
--Der
--Motor
--ist
-+Schlerfer
-+mr
-+cit
-+ci262
-+1222I29e
-+flF
-+3t1n2485fnrt
-+Frr7
-+rlese
-+Q190foct
-+Fadf
-+er
-+Ricrf
-+Crer
-+3
-+alrfebcwlr_lekcit
-+ertlzenid
-+719
-+Hufer
-+2f2
-+5
-+Ceopertt
-+obei
- ein
--ZweifaktGlühkopfmotor
--mit
--elektrischer
--Anlaßfzündung
--Die
--Ingangsetzung
--erfolgt
--durch
--anwerfen
--mittels
--Handrad
--das
--abnehmbar
--am
--Lenkstock
--angeordnet
--ist
--Die
--Kühlung
--des
--Motors
--geschieht
--durch
--ThermosiphonWasser
--Umlaufkühlung
--und
--Windflügel
--Die
--Kraftübertragung
--erfolgt
--durch
--eine
--Mehrscheibenkupplung
--Das
--Schmierung
--ist
--eine
--FrischölUmlaufschmierung
--Der
--Schlepper
--hat
--zum
--Schutz
--des
--Fahrers
--Plattform
--und
--Seitenbleche
--Er
--besitzet
--elektrische
--Beleuchtung
--nach
--den
--Bestimmungen
--der
--StVZO
--Die
--Lenkung
--erfolgt
--durch
--Achsenschenkellenkung
--2
--D
--8506
--B
--mit
--Sechsganggetriebe
--jedoch
--drei
--Gänge
--gesperrt
--Der
--Schlepper
--wird
--mit
--Einsenreifen
--ausgerüstet
--für
--Straßenfahrt
--werden
--Laufringe
--aufgebracht
--Damit
--er
--nicht
--über
--3
--km
--Fahrgeschwindigkeit
--entwickeln
--kann
--wurden
--oberen
--3
--Gänge
--gesperrt
--wobei
--ein
--Schalthebel
--entfernt
--und
--die
--Getriebeöffnung
--durch
--Blindflansch
--verschlossen
--wird
--Die
--Bremsen
--sind
--die
--gleichen
--wie
--unter
--1
--Der
--Motor
--die
--Ingangsetzung
--die
--Kupplung
--die
--Kühlung
--das
--Schmierung
--der
--Aufbau
--die
--elektr
--Beleuchtung
--und
--Lenkung
--sind
--ebenfalls
--die
--gleichen
--wie
--unter
-+Scholth
-+1
-+Ftrenat
-+24
-+222
-+Gelfive
-+BIfnunc
-+Jurch
-+Blfn
-+Mfluneck
-+Vcractlegcr
-+2r2
-+320
-+2re
-+e3
-+912220
-+Ziclanen
-+e
-+Wfet
-+1
-+rer
-+ulJf
-+e
-+Idcong9elru5
-+1e
-+Kuplu
-+21e
-+Rluluns
-+410
-+2
-+rflervne
-+I
-+Lfdav
-+ale
-+lekti
-+Jeleucuelnf
-+ni
-+Iejruac
-+918
-+Pvenralla
-+e
-+Eleicren
-+lc
-+Liter
-+1
-+jberer
-+210
-+201
-+safwlEes
-+21l0
-+Fn
-+Elele
-+fbau
-+otv
-+34
-+Getrlej2
-+01
-+223
-+239c8o73rui3
-+2
-+iozBIlitgu
-+a4320fl
-+t
-+Zer
-+Jtar
- l
--Die
--zwei
--Ausführungen
--haben
--den
--gleichen
--Aufbau
--Motor
--und
--Getriebe
--sind
--als
--Blockkonstruktion
--in
--LanzPerlitguß
--ausgeführt
--Der
--Motor
--hat
--Ein
--und
--Leerlaufregler
--und
--Kupplung
--mit
--Riemenscheibe
--für
--Antrieb
--von
--landwirtschaftlichen
--Maschinen
--Die
--Kraftübertragung
--vom
--Motor
--auf
--die
--Hinterachse
--erfolgt
--durch
--gebürstete
--Zahn
-+nCur
-+Scerlaurecler
-+4
-+Syflug
-+Bl0
-+Flesenacreite
-+fT
-+trleb
-+Vor
-+lan
-+Zalrtsc
-+32112404
-+14015pg
-+40
-+nleucrtraEung
-+Vor
-+ZOtor
-+Ou1
-+ale
-+ainter
-+c
-+3e
-+erfcl2t
-+Surck
-+reffete
-+221
-
+FEHLT: Allgemeine
+FEHLT: Beschreibung
+FAST KORREKT: der
+FEHLT: Zugmaschine
+KORREKT: 35
+FAST KORREKT: PS
+FEHLT: Bulldog
+FEHLT: Ackerschlepper
+FEHLT: Ausführung
+FAST KORREKT: 8506
+FAST KORREKT: A
+FAST KORREKT: und
+FAST KORREKT: B
+KORREKT: Der
+KORREKT: 35
+FAST KORREKT: PS
+FEHLT: Ackerbulldog
+FEHLT: wird
+FAST KORREKT: in
+FAST KORREKT: zwei
+FEHLT: Ausführungen
+FEHLT: hergestellt
+KORREKT: 1
+FEHLT: Normalausführung
+FAST KORREKT: D
+FAST KORREKT: 8506
+FAST KORREKT: A
+KORREKT: Der
+FAST KORREKT: Schlepper
+FAST KORREKT: besitzt
+KORREKT: 6
+FEHLT: Getriebsgänge
+FEHLT: vorwärts
+FAST KORREKT: und
+KORREKT: 2
+FEHLT: Rückwärtsgänge
+FAST KORREKT: mit
+KORREKT: 2
+FEHLT: Schalthebeln
+FAST KORREKT: Da
+FAST KORREKT: die
+FEHLT: Fahrgeschwindigkeit
+KORREKT: 18
+FAST KORREKT: km
+FEHLT: beträgt
+FAST KORREKT: ist
+KORREKT: eran
+FAST KORREKT: den
+FEHLT: Vorder
+FAST KORREKT: und
+FEHLT: Hinterräder
+FEHLT: luftbereift
+KORREKT: Der
+FAST KORREKT: Schlepper
+FAST KORREKT: hat
+FAST KORREKT: eine
+FEHLT: Hinterradfußbremse
+FAST KORREKT: und
+FAST KORREKT: eine
+FEHLT: feststellbare
+FEHLT: Getriebehandbremse
+KORREKT: Der
+FAST KORREKT: Motor
+FAST KORREKT: ist
+KORREKT: ein
+FEHLT: ZweifaktGlühkopfmotor
+FAST KORREKT: mit
+FEHLT: elektrischer
+FEHLT: Anlaßfzündung
+FAST KORREKT: Die
+FEHLT: Ingangsetzung
+FAST KORREKT: erfolgt
+FAST KORREKT: durch
+FEHLT: anwerfen
+FEHLT: mittels
+FEHLT: Handrad
+FAST KORREKT: das
+FEHLT: abnehmbar
+FAST KORREKT: am
+FEHLT: Lenkstock
+FEHLT: angeordnet
+FAST KORREKT: ist
+FAST KORREKT: Die
+FEHLT: Kühlung
+FAST KORREKT: des
+FEHLT: Motors
+FEHLT: geschieht
+FAST KORREKT: durch
+FEHLT: ThermosiphonWasser
+FEHLT: Umlaufkühlung
+FAST KORREKT: und
+FEHLT: Windflügel
+FAST KORREKT: Die
+FEHLT: Kraftübertragung
+FAST KORREKT: erfolgt
+FAST KORREKT: durch
+FAST KORREKT: eine
+FEHLT: Mehrscheibenkupplung
+FAST KORREKT: Das
+FEHLT: Schmierung
+FAST KORREKT: ist
+FAST KORREKT: eine
+FEHLT: FrischölUmlaufschmierung
+KORREKT: Der
+FAST KORREKT: Schlepper
+FAST KORREKT: hat
+FAST KORREKT: zum
+FEHLT: Schutz
+FAST KORREKT: des
+FEHLT: Fahrers
+FEHLT: Plattform
+FAST KORREKT: und
+FEHLT: Seitenbleche
+FAST KORREKT: Er
+FEHLT: besitzet
+FEHLT: elektrische
+FEHLT: Beleuchtung
+FAST KORREKT: nach
+FAST KORREKT: den
+FEHLT: Bestimmungen
+FAST KORREKT: der
+FEHLT: StVZO
+FAST KORREKT: Die
+FAST KORREKT: Lenkung
+FAST KORREKT: erfolgt
+FAST KORREKT: durch
+FEHLT: Achsenschenkellenkung
+KORREKT: 2
+FAST KORREKT: D
+FAST KORREKT: 8506
+FAST KORREKT: B
+FAST KORREKT: mit
+FEHLT: Sechsganggetriebe
+FEHLT: jedoch
+FAST KORREKT: drei
+FEHLT: Gänge
+FEHLT: gesperrt
+KORREKT: Der
+FAST KORREKT: Schlepper
+FEHLT: wird
+FAST KORREKT: mit
+FEHLT: Einsenreifen
+FEHLT: ausgerüstet
+FAST KORREKT: für
+FEHLT: Straßenfahrt
+FEHLT: werden
+FEHLT: Laufringe
+FEHLT: aufgebracht
+FEHLT: Damit
+KORREKT: er
+FAST KORREKT: nicht
+FAST KORREKT: über
+KORREKT: 3
+FAST KORREKT: km
+FEHLT: Fahrgeschwindigkeit
+FEHLT: entwickeln
+FAST KORREKT: kann
+FEHLT: wurden
+FAST KORREKT: oberen
+KORREKT: 3
+FEHLT: Gänge
+FEHLT: gesperrt
+FAST KORREKT: wobei
+KORREKT: ein
+FEHLT: Schalthebel
+FEHLT: entfernt
+FAST KORREKT: und
+FAST KORREKT: die
+FEHLT: Getriebeöffnung
+FAST KORREKT: durch
+FEHLT: Blindflansch
+FEHLT: verschlossen
+FEHLT: wird
+FAST KORREKT: Die
+FEHLT: Bremsen
+FAST KORREKT: sind
+FAST KORREKT: die
+FAST KORREKT: gleichen
+FAST KORREKT: wie
+FAST KORREKT: unter
+KORREKT: 1
+KORREKT: Der
+FAST KORREKT: Motor
+FAST KORREKT: die
+FEHLT: Ingangsetzung
+FAST KORREKT: die
+FEHLT: Kupplung
+FAST KORREKT: die
+FEHLT: Kühlung
+FAST KORREKT: das
+FEHLT: Schmierung
+FAST KORREKT: der
+FAST KORREKT: Aufbau
+FAST KORREKT: die
+FAST KORREKT: elektr
+FEHLT: Beleuchtung
+FAST KORREKT: und
+FAST KORREKT: Lenkung
+FAST KORREKT: sind
+FEHLT: ebenfalls
+FAST KORREKT: die
+FAST KORREKT: gleichen
+FAST KORREKT: wie
+FAST KORREKT: unter
+KORREKT: l
+FAST KORREKT: Die
+FAST KORREKT: zwei
+FEHLT: Ausführungen
+FEHLT: haben
+FAST KORREKT: den
+FAST KORREKT: gleichen
+FAST KORREKT: Aufbau
+FAST KORREKT: Motor
+FAST KORREKT: und
+FEHLT: Getriebe
+FAST KORREKT: sind
+FAST KORREKT: als
+FEHLT: Blockkonstruktion
+FAST KORREKT: in
+FEHLT: LanzPerlitguß
+FEHLT: ausgeführt
+KORREKT: Der
+FAST KORREKT: Motor
+FAST KORREKT: hat
+FAST KORREKT: Ein
+FAST KORREKT: und
+FEHLT: Leerlaufregler
+FAST KORREKT: und
+FEHLT: Kupplung
+FAST KORREKT: mit
+FEHLT: Riemenscheibe
+FAST KORREKT: für
+FEHLT: Antrieb
+FAST KORREKT: von
+FEHLT: landwirtschaftlichen
+FEHLT: Maschinen
+FAST KORREKT: Die
+FEHLT: Kraftübertragung
+FAST KORREKT: vom
+FAST KORREKT: Motor
+FAST KORREKT: auf
+FAST KORREKT: die
+FEHLT: Hinterachse
+FAST KORREKT: erfolgt
+FAST KORREKT: durch
+FEHLT: gebürstete
+FAST KORREKT: Zahn
+ZUSÄTZLICH: 41l0t0L6
+ZUSÄTZLICH: soehrelbuzg
+ZUSÄTZLICH: Sera490ire
+ZUSÄTZLICH: 39
+ZUSÄTZLICH: 22
+ZUSÄTZLICH: 9u110
+ZUSÄTZLICH: ehurrelle
+ZUSÄTZLICH: e
+ZUSÄTZLICH: uafrarc
+ZUSÄTZLICH: 41
+ZUSÄTZLICH: BI
+ZUSÄTZLICH: eferbul_2
+ZUSÄTZLICH: lr
+ZUSÄTZLICH: n
+ZUSÄTZLICH: 52
+ZUSÄTZLICH: uJflrure
+ZUSÄTZLICH: WrwjE26
+ZUSÄTZLICH: cllid2
+ZUSÄTZLICH: 252
+ZUSÄTZLICH: Ser
+ZUSÄTZLICH: chle
+ZUSÄTZLICH: besif2t
+ZUSÄTZLICH: Gplriasfr
+ZUSÄTZLICH: ce
+ZUSÄTZLICH: vonarl
+ZUSÄTZLICH: 222
+ZUSÄTZLICH: ayk
+ZUSÄTZLICH: Ense
+ZUSÄTZLICH: rit
+ZUSÄTZLICH: Cclthebsln
+ZUSÄTZLICH: 31
+ZUSÄTZLICH: 210
+ZUSÄTZLICH: 722e3222122128242
+ZUSÄTZLICH: 62
+ZUSÄTZLICH: EC
+ZUSÄTZLICH: tri
+ZUSÄTZLICH: t
+ZUSÄTZLICH: 1at
+ZUSÄTZLICH: Jen
+ZUSÄTZLICH: Vorserun
+ZUSÄTZLICH: Wlf
+ZUSÄTZLICH: lefigein
+ZUSÄTZLICH: lurtrerci
+ZUSÄTZLICH: Schle
+ZUSÄTZLICH: Wnt
+ZUSÄTZLICH: elnc
+ZUSÄTZLICH: lrcrrn
+ZUSÄTZLICH: uwbr
+ZUSÄTZLICH: Tie
+ZUSÄTZLICH: 4
+ZUSÄTZLICH: eIne
+ZUSÄTZLICH: feptsGilht
+ZUSÄTZLICH: Ge
+ZUSÄTZLICH: Lrlbce1
+ZUSÄTZLICH: breaae
+ZUSÄTZLICH: ZBtJ
+ZUSÄTZLICH: Iot
+ZUSÄTZLICH: n
+ZUSÄTZLICH: ZsitaklGl
+ZUSÄTZLICH: 179tar
+ZUSÄTZLICH: Ill
+ZUSÄTZLICH: elortriscler
+ZUSÄTZLICH: 2121022ale
+ZUSÄTZLICH: le
+ZUSÄTZLICH: 1n34884247
+ZUSÄTZLICH: erfjl
+ZUSÄTZLICH: usch
+ZUSÄTZLICH: 4n
+ZUSÄTZLICH: Crien
+ZUSÄTZLICH: atels
+ZUSÄTZLICH: dvcraj
+ZUSÄTZLICH: 9
+ZUSÄTZLICH: be
+ZUSÄTZLICH: tbr
+ZUSÄTZLICH: Lenl
+ZUSÄTZLICH: ajck
+ZUSÄTZLICH: n
+ZUSÄTZLICH: e01
+ZUSÄTZLICH: e
+ZUSÄTZLICH: 106
+ZUSÄTZLICH: le
+ZUSÄTZLICH: Ylhlusg
+ZUSÄTZLICH: 229
+ZUSÄTZLICH: otOB
+ZUSÄTZLICH: E0
+ZUSÄTZLICH: Lelt
+ZUSÄTZLICH: Surse
+ZUSÄTZLICH: Serco9jplo2195er
+ZUSÄTZLICH: ualfklhlu
+ZUSÄTZLICH: 123
+ZUSÄTZLICH: 121251
+ZUSÄTZLICH: 112
+ZUSÄTZLICH: Liftlbertfrun
+ZUSÄTZLICH: 672982
+ZUSÄTZLICH: Ilfen
+ZUSÄTZLICH: 6128
+ZUSÄTZLICH: selrscielbenku
+ZUSÄTZLICH: 126
+ZUSÄTZLICH: 10
+ZUSÄTZLICH: chlsrre
+ZUSÄTZLICH: il
+ZUSÄTZLICH: 242e
+ZUSÄTZLICH: Frlacd
+ZUSÄTZLICH: Bljuinurocsler
+ZUSÄTZLICH: 8
+ZUSÄTZLICH: rer
+ZUSÄTZLICH: SchlerF
+ZUSÄTZLICH: Git
+ZUSÄTZLICH: 215
+ZUSÄTZLICH: ZcCat2
+ZUSÄTZLICH: 202
+ZUSÄTZLICH: 19
+ZUSÄTZLICH: eT
+ZUSÄTZLICH: snlttora
+ZUSÄTZLICH: L
+ZUSÄTZLICH: eltanbleelc
+ZUSÄTZLICH: becltst
+ZUSÄTZLICH: elertrlsela
+ZUSÄTZLICH: Yclo8l82y
+ZUSÄTZLICH: nech
+ZUSÄTZLICH: n
+ZUSÄTZLICH: 8e441
+ZUSÄTZLICH: fur2n
+ZUSÄTZLICH: Bf
+ZUSÄTZLICH: B642
+ZUSÄTZLICH: 2Lp
+ZUSÄTZLICH: Lenkune
+ZUSÄTZLICH: Ilalt
+ZUSÄTZLICH: Scch
+ZUSÄTZLICH: qenaehenrcllenk
+ZUSÄTZLICH: EYdF
+ZUSÄTZLICH: W4
+ZUSÄTZLICH: 28526
+ZUSÄTZLICH: 1L
+ZUSÄTZLICH: Besu9c21
+ZUSÄTZLICH: rlehelHEl22
+ZUSÄTZLICH: re1
+ZUSÄTZLICH: Qre
+ZUSÄTZLICH: 2ll242l
+ZUSÄTZLICH: Schlerfer
+ZUSÄTZLICH: mr
+ZUSÄTZLICH: cit
+ZUSÄTZLICH: ci262
+ZUSÄTZLICH: 1222I29e
+ZUSÄTZLICH: flF
+ZUSÄTZLICH: 3t1n2485fnrt
+ZUSÄTZLICH: Frr7
+ZUSÄTZLICH: rlese
+ZUSÄTZLICH: Q190foct
+ZUSÄTZLICH: Fadf
+ZUSÄTZLICH: Ricrf
+ZUSÄTZLICH: Crer
+ZUSÄTZLICH: alrfebcwlr_lekcit
+ZUSÄTZLICH: ertlzenid
+ZUSÄTZLICH: 719
+ZUSÄTZLICH: Hufer
+ZUSÄTZLICH: 2f2
+ZUSÄTZLICH: 5
+ZUSÄTZLICH: Ceopertt
+ZUSÄTZLICH: obei
+ZUSÄTZLICH: Scholth
+ZUSÄTZLICH: Ftrenat
+ZUSÄTZLICH: 24
+ZUSÄTZLICH: 222
+ZUSÄTZLICH: Gelfive
+ZUSÄTZLICH: BIfnunc
+ZUSÄTZLICH: Jurch
+ZUSÄTZLICH: Blfn
+ZUSÄTZLICH: Mfluneck
+ZUSÄTZLICH: Vcractlegcr
+ZUSÄTZLICH: 2r2
+ZUSÄTZLICH: 320
+ZUSÄTZLICH: 2re
+ZUSÄTZLICH: e3
+ZUSÄTZLICH: 912220
+ZUSÄTZLICH: Ziclanen
+ZUSÄTZLICH: e
+ZUSÄTZLICH: Wfet
+ZUSÄTZLICH: rer
+ZUSÄTZLICH: ulJf
+ZUSÄTZLICH: e
+ZUSÄTZLICH: Idcong9elru5
+ZUSÄTZLICH: 1e
+ZUSÄTZLICH: Kuplu
+ZUSÄTZLICH: 21e
+ZUSÄTZLICH: Rluluns
+ZUSÄTZLICH: 410
+ZUSÄTZLICH: rflervne
+ZUSÄTZLICH: I
+ZUSÄTZLICH: Lfdav
+ZUSÄTZLICH: ale
+ZUSÄTZLICH: lekti
+ZUSÄTZLICH: Jeleucuelnf
+ZUSÄTZLICH: ni
+ZUSÄTZLICH: Iejruac
+ZUSÄTZLICH: 918
+ZUSÄTZLICH: Pvenralla
+ZUSÄTZLICH: e
+ZUSÄTZLICH: Eleicren
+ZUSÄTZLICH: lc
+ZUSÄTZLICH: Liter
+ZUSÄTZLICH: jberer
+ZUSÄTZLICH: 210
+ZUSÄTZLICH: 201
+ZUSÄTZLICH: safwlEes
+ZUSÄTZLICH: 21l0
+ZUSÄTZLICH: Fn
+ZUSÄTZLICH: Elele
+ZUSÄTZLICH: fbau
+ZUSÄTZLICH: otv
+ZUSÄTZLICH: 34
+ZUSÄTZLICH: Getrlej2
+ZUSÄTZLICH: 01
+ZUSÄTZLICH: 223
+ZUSÄTZLICH: 239c8o73rui3
+ZUSÄTZLICH: iozBIlitgu
+ZUSÄTZLICH: a4320fl
+ZUSÄTZLICH: t
+ZUSÄTZLICH: Zer
+ZUSÄTZLICH: Jtar
+ZUSÄTZLICH: nCur
+ZUSÄTZLICH: Scerlaurecler
+ZUSÄTZLICH: 4
+ZUSÄTZLICH: Syflug
+ZUSÄTZLICH: Bl0
+ZUSÄTZLICH: Flesenacreite
+ZUSÄTZLICH: fT
+ZUSÄTZLICH: trleb
+ZUSÄTZLICH: Vor
+ZUSÄTZLICH: lan
+ZUSÄTZLICH: Zalrtsc
+ZUSÄTZLICH: 32112404
+ZUSÄTZLICH: 14015pg
+ZUSÄTZLICH: 40
+ZUSÄTZLICH: nleucrtraEung
+ZUSÄTZLICH: Vor
+ZUSÄTZLICH: ZOtor
+ZUSÄTZLICH: Ou1
+ZUSÄTZLICH: ale
+ZUSÄTZLICH: ainter
+ZUSÄTZLICH: c
+ZUSÄTZLICH: 3e
+ZUSÄTZLICH: erfcl2t
+ZUSÄTZLICH: Surck
+ZUSÄTZLICH: reffete
+ZUSÄTZLICH: 221
 Durchlauf 8:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,109 +1,114 @@
- 18
--Kraftübertragung
-+Eroftubortrorunf
- a
- Art
--Motor
--Zweischeibenkupplung
--Zwischenräder
--Sechsganggetriebe
--Hinterachse
--mit
--Kegelradausgleichgetriebe
--Hinterräder
- b
--Übersetzung
--Zwischenräder
--0866
--Getriebe
-+Ubereetewg
-+Zulschentader
-+ctrisbe
- 1
--Gang
--965
-+Ga2g
- 2
--724
- 3
--541
- R1
--765
- 4
--338
- 5
--254
- 6
--191
--R2
--268
--Bei
--B
--gesperrt
--Schalthebel
--nicht
--vorhanden
--Hinterachse
-+42
-+Hinterachao
- 421
- 19
- Art
--der
--Schalldämpfung
--Kegelige
--Haube
--mit
--gelochtem
--Prallteller
--und
--Siebeinsatz
--Auslaß
--nach
--oben
-+e1
-+ScbolltEofLE
- 20
--Fassungsvermögen
--des
--Kraftstoffbehälters
--90
--ltr
--Rohöl
--7
--Ltr
--Benzin
-+048849
-+5add
-+492
- 22
--Bemerkungen
-+BereIkuee
- Zu
- Ziffer
- 4
--a
--Eigengewicht
--des
--Fahrzeugs
--Das
--Eigengewicht
--des
--Fahrzeugs
--erhöht
--sich
--durch
--Anbau
--eines
--Fahrersitzdaches
--um
--60
--kg
--einer
--Windschutzscheibe
--um
--30
--kg
-+9
-+Elgemxemignt
-+209
-+Fahrzevssi
-+1aa
-+Eicenfeviont
-+d29
-+Fohrzeuga
-+erbtlt
-+sicb
-+Gurcn
-+Fbau
-+01neg
-+Iabrereitzdaches
-+ua
-+22245
-+fnbchtzachile
-+uz
- von
--Kotflügeln
--hinten
--um
-+Kotfluseln
-+hint
-+n
-+L
-+Vfn
-+uni
-+Lirten
-+0
-+Vor
-+Kotfluseln
-+Pizpr
-+Ze
-+fel12
-+6C
-+rg
-+J0
-+I
-+5c
-+Is
-+95
-+Is
- 50
--kg
--Kotflügen
--vor
-+Kegelige
-+Haube
-+Ift
-+Eelochted
-+Prgllleller
- und
--hinten
--95
--kg
--einer
--Zufuhr
--50
--kg
-+Slebelnsatz
-+4u9118
-+7acb
-+oben
-+90
-+Itr
-+Robul
-+7
-+Lir
-+G2n2_n
-+ZuIschelbenrupplunz
-+SechagaSsetrieber
-+Hinternchge
-+Eegelradausgleicb
-+Setrieber
-+Hintertider
-+45056252323
-+5
-+0
-+966
-+965
-+724
-+541
-+765
-+556
-+254
-+191
-+260
-+Hei
-+0
-+geaperrt
-+5cha14
-+hbel
-+nicnt
-+vorhanden
-
+KORREKT: 18
+FEHLT: Kraftübertragung
+KORREKT: a
+KORREKT: Art
+FEHLT: Motor
+FEHLT: Zweischeibenkupplung
+FEHLT: Zwischenräder
+FEHLT: Sechsganggetriebe
+FAST KORREKT: Hinterachse
+FAST KORREKT: mit
+FEHLT: Kegelradausgleichgetriebe
+FAST KORREKT: Hinterräder
+KORREKT: b
+FEHLT: Übersetzung
+FEHLT: Zwischenräder
+FAST KORREKT: 0866
+FAST KORREKT: Getriebe
+KORREKT: 1
+FAST KORREKT: Gang
+KORREKT: 965
+KORREKT: 2
+KORREKT: 724
+KORREKT: 3
+KORREKT: 541
+KORREKT: R1
+KORREKT: 765
+KORREKT: 4
+FAST KORREKT: 338
+KORREKT: 5
+KORREKT: 254
+KORREKT: 6
+KORREKT: 191
+FAST KORREKT: R2
+FAST KORREKT: 268
+FAST KORREKT: Bei
+FAST KORREKT: B
+FAST KORREKT: gesperrt
+FEHLT: Schalthebel
+FAST KORREKT: nicht
+KORREKT: vorhanden
+FAST KORREKT: Hinterachse
+KORREKT: 421
+KORREKT: 19
+KORREKT: Art
+FAST KORREKT: der
+FEHLT: Schalldämpfung
+KORREKT: Kegelige
+KORREKT: Haube
+FAST KORREKT: mit
+FAST KORREKT: gelochtem
+FAST KORREKT: Prallteller
+KORREKT: und
+FAST KORREKT: Siebeinsatz
+FEHLT: Auslaß
+FAST KORREKT: nach
+KORREKT: oben
+KORREKT: 20
+FEHLT: Fassungsvermögen
+FAST KORREKT: des
+FEHLT: Kraftstoffbehälters
+KORREKT: 90
+FAST KORREKT: ltr
+FAST KORREKT: Rohöl
+KORREKT: 7
+FAST KORREKT: Ltr
+FEHLT: Benzin
+KORREKT: 22
+FEHLT: Bemerkungen
+KORREKT: Zu
+KORREKT: Ziffer
+KORREKT: 4
+KORREKT: a
+FEHLT: Eigengewicht
+FAST KORREKT: des
+FAST KORREKT: Fahrzeugs
+FAST KORREKT: Das
+FEHLT: Eigengewicht
+FAST KORREKT: des
+FAST KORREKT: Fahrzeugs
+FEHLT: erhöht
+FAST KORREKT: sich
+FAST KORREKT: durch
+FAST KORREKT: Anbau
+FEHLT: eines
+FEHLT: Fahrersitzdaches
+FAST KORREKT: um
+FAST KORREKT: 60
+FAST KORREKT: kg
+FEHLT: einer
+FEHLT: Windschutzscheibe
+FAST KORREKT: um
+FAST KORREKT: 30
+FAST KORREKT: kg
+KORREKT: von
+FAST KORREKT: Kotflügeln
+FAST KORREKT: hinten
+FAST KORREKT: um
+KORREKT: 50
+FAST KORREKT: kg
+FEHLT: Kotflügen
+FAST KORREKT: vor
+KORREKT: und
+FAST KORREKT: hinten
+KORREKT: 95
+FAST KORREKT: kg
+FEHLT: einer
+FEHLT: Zufuhr
+KORREKT: 50
+FAST KORREKT: kg
+ZUSÄTZLICH: Eroftubortrorunf
+ZUSÄTZLICH: Ubereetewg
+ZUSÄTZLICH: Zulschentader
+ZUSÄTZLICH: ctrisbe
+ZUSÄTZLICH: Ga2g
+ZUSÄTZLICH: 42
+ZUSÄTZLICH: Hinterachao
+ZUSÄTZLICH: e1
+ZUSÄTZLICH: ScbolltEofLE
+ZUSÄTZLICH: 048849
+ZUSÄTZLICH: 5add
+ZUSÄTZLICH: 492
+ZUSÄTZLICH: BereIkuee
+ZUSÄTZLICH: 9
+ZUSÄTZLICH: Elgemxemignt
+ZUSÄTZLICH: 209
+ZUSÄTZLICH: Fahrzevssi
+ZUSÄTZLICH: 1aa
+ZUSÄTZLICH: Eicenfeviont
+ZUSÄTZLICH: d29
+ZUSÄTZLICH: Fohrzeuga
+ZUSÄTZLICH: erbtlt
+ZUSÄTZLICH: sicb
+ZUSÄTZLICH: Gurcn
+ZUSÄTZLICH: Fbau
+ZUSÄTZLICH: 01neg
+ZUSÄTZLICH: Iabrereitzdaches
+ZUSÄTZLICH: ua
+ZUSÄTZLICH: 22245
+ZUSÄTZLICH: fnbchtzachile
+ZUSÄTZLICH: uz
+ZUSÄTZLICH: Kotfluseln
+ZUSÄTZLICH: hint
+ZUSÄTZLICH: n
+ZUSÄTZLICH: L
+ZUSÄTZLICH: Vfn
+ZUSÄTZLICH: uni
+ZUSÄTZLICH: Lirten
+ZUSÄTZLICH: 0
+ZUSÄTZLICH: Vor
+ZUSÄTZLICH: Kotfluseln
+ZUSÄTZLICH: Pizpr
+ZUSÄTZLICH: Ze
+ZUSÄTZLICH: fel12
+ZUSÄTZLICH: 6C
+ZUSÄTZLICH: rg
+ZUSÄTZLICH: J0
+ZUSÄTZLICH: I
+ZUSÄTZLICH: 5c
+ZUSÄTZLICH: Is
+ZUSÄTZLICH: Is
+ZUSÄTZLICH: Ift
+ZUSÄTZLICH: Eelochted
+ZUSÄTZLICH: Prgllleller
+ZUSÄTZLICH: Slebelnsatz
+ZUSÄTZLICH: 4u9118
+ZUSÄTZLICH: 7acb
+ZUSÄTZLICH: Itr
+ZUSÄTZLICH: Robul
+ZUSÄTZLICH: Lir
+ZUSÄTZLICH: G2n2_n
+ZUSÄTZLICH: ZuIschelbenrupplunz
+ZUSÄTZLICH: SechagaSsetrieber
+ZUSÄTZLICH: Hinternchge
+ZUSÄTZLICH: Eegelradausgleicb
+ZUSÄTZLICH: Setrieber
+ZUSÄTZLICH: Hintertider
+ZUSÄTZLICH: 45056252323
+ZUSÄTZLICH: 0
+ZUSÄTZLICH: 966
+ZUSÄTZLICH: 556
+ZUSÄTZLICH: 260
+ZUSÄTZLICH: Hei
+ZUSÄTZLICH: 0
+ZUSÄTZLICH: geaperrt
+ZUSÄTZLICH: 5cha14
+ZUSÄTZLICH: hbel
+ZUSÄTZLICH: nicnt
 Durchlauf 3:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,126 +1,143 @@
--TYPGUTACHTEN
--über
--die
--Zugmaschine
--Ackerschlepper
--Haupttyp
-+1
-+Y
-+P
-+G
-+V
-+4
-+H
-+G
-+5
-+urer
-+dle
-+Zugnischle
-+Ackerachleper
-+Bsupttyp
- 35
--PS
--Ackerbulldog
--der
--Firma
--Heinrich
--L
-+Fs
-+Ackerbullgog
-+n
-+Ger
-+Fifne
-+Helutich
-+1
-+4
-+4
-+3
- A
--N
--Z
--AG
--Mannheim
--Die
--Zugmaschine
--wird
--in
--folgenden
--Ausführungen
--hergestellt
-+0
-+Mannhelr
-+Dic
-+Zugmuachlne
-+lrd
-+1
-+folgersen
-+Ausfuhrunger
-+herzsatellt
- D
- 8506
- A
--mit
--Luftbereifung
--mit
--Sechsganggetriebe
- B
--mit
--Eisenbereifung
--Sechsganggetriebe
-+nit
-+Luftberaifung
-+I4t
-+Sechagagcetricbe
-+Sechagagcetricbe
-+lt
-+Elgenbereifurb
-+Secbbeugletrlebd
- 3
--Gänge
-+Cenbe
- arretiert
--Diese
--Ausführungen
--können
--mit
--nachstehenden
--Zusatzteilen
--ausgerüstet
--werden
--Fahrersitzdach
--Kotflügel
--vorn
--und
--hinten
--Windschutzscheibe
--Zapfwelle
--Kotflügel
--an
-+Diege
-+Aujfuhrnzen
-+kunnen
-+Dlt
-+nachatehenJen
-+Zugitzfeilcn
-+Ruacer9t
-+erden
-+Fahretgitedach
-+Kotflvgel
-+vaf
-+ura
-+bnten
-+Iindackuzscncibe
-+Zapfuelle
-+Eotflugel
-+An
- den
--Hinterrädern
--Für
--den
-+Anterrifern
-+ir
-+Len
-+35
-+25
-+Ackerbulldog
-+gelten
-+12
-+Gbrisen
-+fol
-+enàe
-+Kerkunle
-+1
-+Art
-+10g
-+Dabrgel
-+Zugaaschirc
-+Acrersclle
-+Per
-+2
-+ereteller
-+529
-+Eohrzestelle
-+Heinricd
-+Lanz
-+AG1
-+3
-+trisbalaagble
-+9
-+Art
-+401
-+4n
-+trlebg
-+b
-+Leistung
-+c
-+Hubreve
-+annheid
-+Verbrennungannaachine
-+GlukopíDotor
-+Zylindcr
-+liesead
- 35
- PS
--Ackerbulldog
--gelten
--im
--Übrigen
--folgende
--Merkmale
-+bel
-+540
-+Doin
-+3
-+10338
-+C
- 1
--Art
--des
--Fahrzeuges
--Zugmaschine
--Ackerschlepper
--2
--Hersteller
--des
--Fahrzeuges
--Heinrich
--Lan
--z
--A
--G
--Mannheim
--3
--Antriebsmaschine
--a
--Art
--des
--Antriebes
--Verbrennungsmaschine
--Glühkopfmotor
--Zylinder
--liegend
--b
--Leistung
--35
--PS
--bei
--540
--Umin
--c
--Hubraum
--10338
--cm3
--Zahl
--der
--Zylinder
--1
--Durchmesser
--des
--Zylinders
- 225
--mm
--Kolbenhub
- 260
--mm
--d
--Hersteller
--Heinrich
-+MD
-+Deinr
-+ch
- Lanz
- AG
--Mannheim
--e
--Takt
--Zweitakt
-+Wenaheid
-+Zueftakt
-+d03
-+Zyllndera
-+Zabl
-+der
-+Zyllnder
-+Du
-+rcoceg9er
-+Rolbenbub
-+d03
-+Zyllndera
-+4
-+Herateller
-+0
-+Ikt
-+1
-
+FEHLT: TYPGUTACHTEN
+FAST KORREKT: über
+FAST KORREKT: die
+FEHLT: Zugmaschine
+FAST KORREKT: Ackerschlepper
+FAST KORREKT: Haupttyp
+KORREKT: 35
+KORREKT: PS
+KORREKT: Ackerbulldog
+KORREKT: der
+FEHLT: Firma
+FAST KORREKT: Heinrich
+FAST KORREKT: L
+KORREKT: A
+FAST KORREKT: N
+FAST KORREKT: Z
+KORREKT: AG
+FAST KORREKT: Mannheim
+FAST KORREKT: Die
+FEHLT: Zugmaschine
+FAST KORREKT: wird
+FAST KORREKT: in
+FAST KORREKT: folgenden
+FAST KORREKT: Ausführungen
+FEHLT: hergestellt
+KORREKT: D
+KORREKT: 8506
+KORREKT: A
+FAST KORREKT: mit
+FAST KORREKT: Luftbereifung
+FAST KORREKT: mit
+FEHLT: Sechsganggetriebe
+KORREKT: B
+FAST KORREKT: mit
+FEHLT: Eisenbereifung
+FEHLT: Sechsganggetriebe
+KORREKT: 3
+FEHLT: Gänge
+KORREKT: arretiert
+FAST KORREKT: Diese
+FAST KORREKT: Ausführungen
+FAST KORREKT: können
+FAST KORREKT: mit
+FAST KORREKT: nachstehenden
+FEHLT: Zusatzteilen
+FEHLT: ausgerüstet
+FAST KORREKT: werden
+FEHLT: Fahrersitzdach
+FAST KORREKT: Kotflügel
+FAST KORREKT: vorn
+FAST KORREKT: und
+FAST KORREKT: hinten
+FEHLT: Windschutzscheibe
+FAST KORREKT: Zapfwelle
+FAST KORREKT: Kotflügel
+FAST KORREKT: an
+KORREKT: den
+FEHLT: Hinterrädern
+FAST KORREKT: Für
+KORREKT: den
+KORREKT: 35
+KORREKT: PS
+KORREKT: Ackerbulldog
+KORREKT: gelten
+FAST KORREKT: im
+FAST KORREKT: Übrigen
+FEHLT: folgende
+FEHLT: Merkmale
+KORREKT: 1
+KORREKT: Art
+FAST KORREKT: des
+FEHLT: Fahrzeuges
+FEHLT: Zugmaschine
+FAST KORREKT: Ackerschlepper
+KORREKT: 2
+FAST KORREKT: Hersteller
+FAST KORREKT: des
+FEHLT: Fahrzeuges
+FAST KORREKT: Heinrich
+FAST KORREKT: Lan
+FAST KORREKT: z
+KORREKT: A
+KORREKT: G
+FAST KORREKT: Mannheim
+KORREKT: 3
+FEHLT: Antriebsmaschine
+FAST KORREKT: a
+KORREKT: Art
+FAST KORREKT: des
+FEHLT: Antriebes
+FEHLT: Verbrennungsmaschine
+FEHLT: Glühkopfmotor
+FAST KORREKT: Zylinder
+FAST KORREKT: liegend
+KORREKT: b
+KORREKT: Leistung
+KORREKT: 35
+KORREKT: PS
+FAST KORREKT: bei
+KORREKT: 540
+FAST KORREKT: Umin
+KORREKT: c
+FEHLT: Hubraum
+KORREKT: 10338
+FAST KORREKT: cm3
+FAST KORREKT: Zahl
+KORREKT: der
+FAST KORREKT: Zylinder
+KORREKT: 1
+FEHLT: Durchmesser
+FAST KORREKT: des
+FAST KORREKT: Zylinders
+KORREKT: 225
+FAST KORREKT: mm
+FAST KORREKT: Kolbenhub
+KORREKT: 260
+FAST KORREKT: mm
+FAST KORREKT: d
+FAST KORREKT: Hersteller
+FAST KORREKT: Heinrich
+KORREKT: Lanz
+KORREKT: AG
+FAST KORREKT: Mannheim
+FAST KORREKT: e
+FAST KORREKT: Takt
+FAST KORREKT: Zweitakt
+ZUSÄTZLICH: Y
+ZUSÄTZLICH: P
+ZUSÄTZLICH: V
+ZUSÄTZLICH: 4
+ZUSÄTZLICH: H
+ZUSÄTZLICH: 5
+ZUSÄTZLICH: urer
+ZUSÄTZLICH: dle
+ZUSÄTZLICH: Zugnischle
+ZUSÄTZLICH: Ackerachleper
+ZUSÄTZLICH: Bsupttyp
+ZUSÄTZLICH: Fs
+ZUSÄTZLICH: Ackerbullgog
+ZUSÄTZLICH: n
+ZUSÄTZLICH: Ger
+ZUSÄTZLICH: Fifne
+ZUSÄTZLICH: Helutich
+ZUSÄTZLICH: 4
+ZUSÄTZLICH: 4
+ZUSÄTZLICH: 0
+ZUSÄTZLICH: Mannhelr
+ZUSÄTZLICH: Dic
+ZUSÄTZLICH: Zugmuachlne
+ZUSÄTZLICH: lrd
+ZUSÄTZLICH: folgersen
+ZUSÄTZLICH: Ausfuhrunger
+ZUSÄTZLICH: herzsatellt
+ZUSÄTZLICH: nit
+ZUSÄTZLICH: Luftberaifung
+ZUSÄTZLICH: I4t
+ZUSÄTZLICH: Sechagagcetricbe
+ZUSÄTZLICH: Sechagagcetricbe
+ZUSÄTZLICH: lt
+ZUSÄTZLICH: Elgenbereifurb
+ZUSÄTZLICH: Secbbeugletrlebd
+ZUSÄTZLICH: Cenbe
+ZUSÄTZLICH: Diege
+ZUSÄTZLICH: Aujfuhrnzen
+ZUSÄTZLICH: kunnen
+ZUSÄTZLICH: Dlt
+ZUSÄTZLICH: nachatehenJen
+ZUSÄTZLICH: Zugitzfeilcn
+ZUSÄTZLICH: Ruacer9t
+ZUSÄTZLICH: erden
+ZUSÄTZLICH: Fahretgitedach
+ZUSÄTZLICH: Kotflvgel
+ZUSÄTZLICH: vaf
+ZUSÄTZLICH: ura
+ZUSÄTZLICH: bnten
+ZUSÄTZLICH: Iindackuzscncibe
+ZUSÄTZLICH: Zapfuelle
+ZUSÄTZLICH: Eotflugel
+ZUSÄTZLICH: An
+ZUSÄTZLICH: Anterrifern
+ZUSÄTZLICH: ir
+ZUSÄTZLICH: Len
+ZUSÄTZLICH: 25
+ZUSÄTZLICH: 12
+ZUSÄTZLICH: Gbrisen
+ZUSÄTZLICH: fol
+ZUSÄTZLICH: enàe
+ZUSÄTZLICH: Kerkunle
+ZUSÄTZLICH: 10g
+ZUSÄTZLICH: Dabrgel
+ZUSÄTZLICH: Zugaaschirc
+ZUSÄTZLICH: Acrersclle
+ZUSÄTZLICH: Per
+ZUSÄTZLICH: ereteller
+ZUSÄTZLICH: 529
+ZUSÄTZLICH: Eohrzestelle
+ZUSÄTZLICH: Heinricd
+ZUSÄTZLICH: AG1
+ZUSÄTZLICH: trisbalaagble
+ZUSÄTZLICH: 9
+ZUSÄTZLICH: 401
+ZUSÄTZLICH: 4n
+ZUSÄTZLICH: trlebg
+ZUSÄTZLICH: Hubreve
+ZUSÄTZLICH: annheid
+ZUSÄTZLICH: Verbrennungannaachine
+ZUSÄTZLICH: GlukopíDotor
+ZUSÄTZLICH: Zylindcr
+ZUSÄTZLICH: liesead
+ZUSÄTZLICH: bel
+ZUSÄTZLICH: Doin
+ZUSÄTZLICH: C
+ZUSÄTZLICH: MD
+ZUSÄTZLICH: Deinr
+ZUSÄTZLICH: ch
+ZUSÄTZLICH: Wenaheid
+ZUSÄTZLICH: Zueftakt
+ZUSÄTZLICH: d03
+ZUSÄTZLICH: Zyllndera
+ZUSÄTZLICH: Zabl
+ZUSÄTZLICH: Zyllnder
+ZUSÄTZLICH: Du
+ZUSÄTZLICH: rcoceg9er
+ZUSÄTZLICH: Rolbenbub
+ZUSÄTZLICH: d03
+ZUSÄTZLICH: Zyllndera
+ZUSÄTZLICH: 4
+ZUSÄTZLICH: Herateller
+ZUSÄTZLICH: 0
+ZUSÄTZLICH: Ikt
 Durchlauf 2:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,174 +1,183 @@
--Ausführung
--A
--mit
--Luftreifen
--Die
--Zugmaschine
-+424255252242
-+2225524202
-+310
-+3e22901442
- ist
--von
-+vo
-+je2
-+32rl13u5
-+67
-+70nja2
-+223
-+3
-+46
-+228
-+2
-+3572
-+0r
-+24
-+YedZarherBit
-+882
-+S_errfjroutung
-+In
-+dez
-+rertatofleituzs
-+792
-+29920351t3
-+2
-+23910
-+72
- der
--Erfüllung
-+Srfullur
-+d81
-+Yospe22t
-+Jea
-+43
-+29
-+1
-+2
-+2
-+3t7zo
-+Wsar
-+J26
-+S8ca0t8u1llaj150
-+Jatatarke
-+498
-+7a2rbar2acl199
-+fredzeate_lf
-+72irz9ng
-+Geru5d
-+lizsicatic
-+Jr
-+22
-+1
-+205feriz8
-+211
-+422
-+Voracr2rte
-+rlr
-+214
-+3u59024221
-+1
-+222
-+328
-+Zorscairtec2224120225
-+23g
-+188e1
-+325
-+2222522222
-+2
-+122_2122522222222
-+22
-+Zususaclin0
-+ia
-+7o2
-+492
-+Zfllluss
-+Jer
-+orge1i2t
-+Ge3
-+5
-+46
-+1ba
-+2
-+Stzo
-+oer
-+j1
-+Zociesderbrelt
-+er
-+bsperr7c27a0261112
-+i
-+Ger
-+Irfbstorcleite
-+Vo
-+74p2
-+1t5
-+Evs
-+J6wia
-+V92
-+ler
-+3rfllil1g
-+Ger
-+Vorgchrift
-+885
-+2
-+49
-+499
-+1
-+Wanj
-+2
-+JtzC
-+Eber
-+die
-+8e20t2ule991se
-+actta2rla
-+428
-+702220121302128
-+frigeptallt
-+D22
-+25132195
-+58
-+st
-+2i33202t2282
- der
--Vorschrift
--des
--46
--Abs
--2
--StVZO
--über
--die
--Bedienbarkeit
--der
--Absperrvorrichtung
--in
--der
--Kraftstoffleitung
--vom
--Führersitz
--aus
--sowie
--von
--der
--Erfüllung
--des
--Vorschriften
--des
--49
--Abs1
--und
--2
--StVZO
--Über
--die
--Höchstzulässige
--Lautstärke
--des
--Fahrgeräusches
--freigestellt
--Das
--Fahrzeug
--genügt
--hinsichtlich
--der
--Scheinwerferhöhe
--nur
--den
--Vorschritten
--für
--die
--Zugmaschinen
--in
--Land
--und
--forstwirtschaftlichen
--Betrieben
--Ausführung
--B
--mit
--eisernen
--Reifen
--Die
--Zugmaschine
--ist
--von
--der
--Erfüllung
--der
--Vorschrift
--des
--46
--Abs
--2
--StVZO
--Uber
--die
--Bedienbarkeit
--der
--Absperrvorrichtung
--in
--der
--Kraftstoffleitung
--vom
--Führersitz
--aus
--sowie
--von
--der
--Erfüllung
--der
--Vorschrift
--des
--49
--Ab
-+eserrer
-+393612418
-+Wi
-+àer
-+Ja
-+a2
-+WerferË
-+ar
-+002
-+Torao_ci2taz
-+Cr
-+ZeSe3cainen
-+ic
-+22
-+8
-+ui
-+20292WErsecZtllcuaz
-+Setwfede
- 1
--und
--2
--StVZO
--über
--die
--höchstzulässige
--Lautstärke
--des
--Fahrzeugeräusches
--freigestellt
--Das
--Fahrzeug
--genügt
--hinsichtlich
--der
--eisernen
--Bereifung
--und
--der
--Scheinwerferhöhe
--nur
--den
--Vorschriften
--für
--Zugmaschinen
--in
--Land
--und
--Forstwirtschaftlichen
--Betrieben
-+lla
-+sine
-+Zujertyg
-+dea
-+Iy8
-+2t
-+a1
-+e2tacracezi0r
-+Sertce
-+51
-+292
-+ells9uelen
-+Zeia99rlend1
-+591
-+295t21592
-+222
-+62
-+allgeve1
-+41
-+Zetriabaerleubifs
-+ruhlenc01
-+29212222999
-+08achel
-+C1f
-+2614n1
-+ras
-+15
-+FovuVer
-+1551
-+9e3
-+Pie
-+Jicat
-+50162
-+5
-+20
-+22
- 4
--Im
--Falle
--einer
--Änderung
--des
--Typs
--ist
--ein
--entsprechen
--der
--Nachtrag
--zu
--der
--allgemeinen
--Betriebsanleitung
--zu
--beantragen
--Die
--auf
--der
--allgemeinen
--Betriebserlaubnis
--ruhenden
--Befugnisse
--erlöschen
--mit
--Ablauf
--des
--19
--November
--1951
--wenn
--sie
--nicht
--gemäß
--20
--Abs4
--StVZ0
--verlängert
--werden
-+BtYZ0
-+verlgart
-+5622321
-+192
-
+FEHLT: Ausführung
+FAST KORREKT: A
+FAST KORREKT: mit
+FEHLT: Luftreifen
+FAST KORREKT: Die
+FEHLT: Zugmaschine
+KORREKT: ist
+FAST KORREKT: von
+KORREKT: der
+FEHLT: Erfüllung
+KORREKT: der
+FAST KORREKT: Vorschrift
+FAST KORREKT: des
+KORREKT: 46
+FAST KORREKT: Abs
+KORREKT: 2
+FEHLT: StVZO
+FAST KORREKT: über
+KORREKT: die
+FEHLT: Bedienbarkeit
+KORREKT: der
+FEHLT: Absperrvorrichtung
+FAST KORREKT: in
+KORREKT: der
+FEHLT: Kraftstoffleitung
+FAST KORREKT: vom
+FEHLT: Führersitz
+FAST KORREKT: aus
+FEHLT: sowie
+FAST KORREKT: von
+KORREKT: der
+FEHLT: Erfüllung
+FAST KORREKT: des
+FEHLT: Vorschriften
+FAST KORREKT: des
+KORREKT: 49
+FEHLT: Abs1
+FAST KORREKT: und
+KORREKT: 2
+FEHLT: StVZO
+FAST KORREKT: Über
+KORREKT: die
+FEHLT: Höchstzulässige
+FEHLT: Lautstärke
+FAST KORREKT: des
+FEHLT: Fahrgeräusches
+FEHLT: freigestellt
+FAST KORREKT: Das
+FEHLT: Fahrzeug
+FEHLT: genügt
+FEHLT: hinsichtlich
+KORREKT: der
+FEHLT: Scheinwerferhöhe
+FAST KORREKT: nur
+FAST KORREKT: den
+FEHLT: Vorschritten
+FAST KORREKT: für
+KORREKT: die
+FEHLT: Zugmaschinen
+FAST KORREKT: in
+FAST KORREKT: Land
+FAST KORREKT: und
+FEHLT: forstwirtschaftlichen
+FEHLT: Betrieben
+FEHLT: Ausführung
+FAST KORREKT: B
+FAST KORREKT: mit
+FEHLT: eisernen
+FEHLT: Reifen
+FAST KORREKT: Die
+FEHLT: Zugmaschine
+KORREKT: ist
+FAST KORREKT: von
+KORREKT: der
+FEHLT: Erfüllung
+KORREKT: der
+FAST KORREKT: Vorschrift
+FAST KORREKT: des
+KORREKT: 46
+FAST KORREKT: Abs
+KORREKT: 2
+FEHLT: StVZO
+FAST KORREKT: Uber
+KORREKT: die
+FEHLT: Bedienbarkeit
+KORREKT: der
+FEHLT: Absperrvorrichtung
+FAST KORREKT: in
+KORREKT: der
+FEHLT: Kraftstoffleitung
+FAST KORREKT: vom
+FEHLT: Führersitz
+FAST KORREKT: aus
+FEHLT: sowie
+FAST KORREKT: von
+KORREKT: der
+FEHLT: Erfüllung
+KORREKT: der
+FAST KORREKT: Vorschrift
+FAST KORREKT: des
+KORREKT: 49
+FAST KORREKT: Ab
+KORREKT: 1
+FAST KORREKT: und
+KORREKT: 2
+FEHLT: StVZO
+FAST KORREKT: über
+KORREKT: die
+FEHLT: höchstzulässige
+FEHLT: Lautstärke
+FAST KORREKT: des
+FEHLT: Fahrzeugeräusches
+FEHLT: freigestellt
+FAST KORREKT: Das
+FEHLT: Fahrzeug
+FEHLT: genügt
+FEHLT: hinsichtlich
+KORREKT: der
+FEHLT: eisernen
+FEHLT: Bereifung
+FAST KORREKT: und
+KORREKT: der
+FEHLT: Scheinwerferhöhe
+FAST KORREKT: nur
+FAST KORREKT: den
+FEHLT: Vorschriften
+FAST KORREKT: für
+FEHLT: Zugmaschinen
+FAST KORREKT: in
+FAST KORREKT: Land
+FAST KORREKT: und
+FEHLT: Forstwirtschaftlichen
+FEHLT: Betrieben
+KORREKT: 4
+FAST KORREKT: Im
+FEHLT: Falle
+FAST KORREKT: einer
+FEHLT: Änderung
+FAST KORREKT: des
+FEHLT: Typs
+KORREKT: ist
+FAST KORREKT: ein
+FEHLT: entsprechen
+KORREKT: der
+FEHLT: Nachtrag
+FAST KORREKT: zu
+KORREKT: der
+FEHLT: allgemeinen
+FEHLT: Betriebsanleitung
+FAST KORREKT: zu
+FEHLT: beantragen
+FAST KORREKT: Die
+FAST KORREKT: auf
+KORREKT: der
+FEHLT: allgemeinen
+FEHLT: Betriebserlaubnis
+FEHLT: ruhenden
+FEHLT: Befugnisse
+FEHLT: erlöschen
+FAST KORREKT: mit
+FEHLT: Ablauf
+FAST KORREKT: des
+FAST KORREKT: 19
+FEHLT: November
+FAST KORREKT: 1951
+FEHLT: wenn
+FAST KORREKT: sie
+FAST KORREKT: nicht
+FEHLT: gemäß
+KORREKT: 20
+FEHLT: Abs4
+FAST KORREKT: StVZ0
+FEHLT: verlängert
+FEHLT: werden
+ZUSÄTZLICH: 424255252242
+ZUSÄTZLICH: 2225524202
+ZUSÄTZLICH: 310
+ZUSÄTZLICH: 3e22901442
+ZUSÄTZLICH: vo
+ZUSÄTZLICH: je2
+ZUSÄTZLICH: 32rl13u5
+ZUSÄTZLICH: 67
+ZUSÄTZLICH: 70nja2
+ZUSÄTZLICH: 223
+ZUSÄTZLICH: 3
+ZUSÄTZLICH: 228
+ZUSÄTZLICH: 3572
+ZUSÄTZLICH: 0r
+ZUSÄTZLICH: 24
+ZUSÄTZLICH: YedZarherBit
+ZUSÄTZLICH: 882
+ZUSÄTZLICH: S_errfjroutung
+ZUSÄTZLICH: In
+ZUSÄTZLICH: dez
+ZUSÄTZLICH: rertatofleituzs
+ZUSÄTZLICH: 792
+ZUSÄTZLICH: 29920351t3
+ZUSÄTZLICH: 23910
+ZUSÄTZLICH: 72
+ZUSÄTZLICH: Srfullur
+ZUSÄTZLICH: d81
+ZUSÄTZLICH: Yospe22t
+ZUSÄTZLICH: Jea
+ZUSÄTZLICH: 43
+ZUSÄTZLICH: 29
+ZUSÄTZLICH: 3t7zo
+ZUSÄTZLICH: Wsar
+ZUSÄTZLICH: J26
+ZUSÄTZLICH: S8ca0t8u1llaj150
+ZUSÄTZLICH: Jatatarke
+ZUSÄTZLICH: 498
+ZUSÄTZLICH: 7a2rbar2acl199
+ZUSÄTZLICH: fredzeate_lf
+ZUSÄTZLICH: 72irz9ng
+ZUSÄTZLICH: Geru5d
+ZUSÄTZLICH: lizsicatic
+ZUSÄTZLICH: Jr
+ZUSÄTZLICH: 22
+ZUSÄTZLICH: 205feriz8
+ZUSÄTZLICH: 211
+ZUSÄTZLICH: 422
+ZUSÄTZLICH: Voracr2rte
+ZUSÄTZLICH: rlr
+ZUSÄTZLICH: 214
+ZUSÄTZLICH: 3u59024221
+ZUSÄTZLICH: 222
+ZUSÄTZLICH: 328
+ZUSÄTZLICH: Zorscairtec2224120225
+ZUSÄTZLICH: 23g
+ZUSÄTZLICH: 188e1
+ZUSÄTZLICH: 325
+ZUSÄTZLICH: 2222522222
+ZUSÄTZLICH: 122_2122522222222
+ZUSÄTZLICH: 22
+ZUSÄTZLICH: Zususaclin0
+ZUSÄTZLICH: ia
+ZUSÄTZLICH: 7o2
+ZUSÄTZLICH: 492
+ZUSÄTZLICH: Zfllluss
+ZUSÄTZLICH: Jer
+ZUSÄTZLICH: orge1i2t
+ZUSÄTZLICH: Ge3
+ZUSÄTZLICH: 5
+ZUSÄTZLICH: 1ba
+ZUSÄTZLICH: Stzo
+ZUSÄTZLICH: oer
+ZUSÄTZLICH: j1
+ZUSÄTZLICH: Zociesderbrelt
+ZUSÄTZLICH: er
+ZUSÄTZLICH: bsperr7c27a0261112
+ZUSÄTZLICH: i
+ZUSÄTZLICH: Ger
+ZUSÄTZLICH: Irfbstorcleite
+ZUSÄTZLICH: Vo
+ZUSÄTZLICH: 74p2
+ZUSÄTZLICH: 1t5
+ZUSÄTZLICH: Evs
+ZUSÄTZLICH: J6wia
+ZUSÄTZLICH: V92
+ZUSÄTZLICH: ler
+ZUSÄTZLICH: 3rfllil1g
+ZUSÄTZLICH: Ger
+ZUSÄTZLICH: Vorgchrift
+ZUSÄTZLICH: 885
+ZUSÄTZLICH: 499
+ZUSÄTZLICH: Wanj
+ZUSÄTZLICH: JtzC
+ZUSÄTZLICH: Eber
+ZUSÄTZLICH: 8e20t2ule991se
+ZUSÄTZLICH: actta2rla
+ZUSÄTZLICH: 428
+ZUSÄTZLICH: 702220121302128
+ZUSÄTZLICH: frigeptallt
+ZUSÄTZLICH: D22
+ZUSÄTZLICH: 25132195
+ZUSÄTZLICH: 58
+ZUSÄTZLICH: st
+ZUSÄTZLICH: 2i33202t2282
+ZUSÄTZLICH: eserrer
+ZUSÄTZLICH: 393612418
+ZUSÄTZLICH: Wi
+ZUSÄTZLICH: àer
+ZUSÄTZLICH: Ja
+ZUSÄTZLICH: a2
+ZUSÄTZLICH: WerferË
+ZUSÄTZLICH: ar
+ZUSÄTZLICH: 002
+ZUSÄTZLICH: Torao_ci2taz
+ZUSÄTZLICH: Cr
+ZUSÄTZLICH: ZeSe3cainen
+ZUSÄTZLICH: ic
+ZUSÄTZLICH: 22
+ZUSÄTZLICH: 8
+ZUSÄTZLICH: ui
+ZUSÄTZLICH: 20292WErsecZtllcuaz
+ZUSÄTZLICH: Setwfede
+ZUSÄTZLICH: lla
+ZUSÄTZLICH: sine
+ZUSÄTZLICH: Zujertyg
+ZUSÄTZLICH: dea
+ZUSÄTZLICH: Iy8
+ZUSÄTZLICH: 2t
+ZUSÄTZLICH: a1
+ZUSÄTZLICH: e2tacracezi0r
+ZUSÄTZLICH: Sertce
+ZUSÄTZLICH: 51
+ZUSÄTZLICH: 292
+ZUSÄTZLICH: ells9uelen
+ZUSÄTZLICH: Zeia99rlend1
+ZUSÄTZLICH: 591
+ZUSÄTZLICH: 295t21592
+ZUSÄTZLICH: 222
+ZUSÄTZLICH: 62
+ZUSÄTZLICH: allgeve1
+ZUSÄTZLICH: 41
+ZUSÄTZLICH: Zetriabaerleubifs
+ZUSÄTZLICH: ruhlenc01
+ZUSÄTZLICH: 29212222999
+ZUSÄTZLICH: 08achel
+ZUSÄTZLICH: C1f
+ZUSÄTZLICH: 2614n1
+ZUSÄTZLICH: ras
+ZUSÄTZLICH: 15
+ZUSÄTZLICH: FovuVer
+ZUSÄTZLICH: 1551
+ZUSÄTZLICH: 9e3
+ZUSÄTZLICH: Pie
+ZUSÄTZLICH: Jicat
+ZUSÄTZLICH: 50162
+ZUSÄTZLICH: 5
+ZUSÄTZLICH: 22
+ZUSÄTZLICH: BtYZ0
+ZUSÄTZLICH: verlgart
+ZUSÄTZLICH: 5622321
+ZUSÄTZLICH: 192
 Durchlauf 4:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,154 +1,164 @@
--D
--8506
-+Z
-+Bffer
-+7
-+ar
-+Zlovg
-+Zird
-+d19
-+Indrzeub
-+Eit
-+819f0
-+Fobrergifzi134
-+1839
-+rctetr
-+40
-+Srjert
-+5122
-+0
-+Je1
-+Zucmlscuinen
-+feste9
-+Hetterds
-+it
-+alnebGharen
-+Seitesfcilen
- Zu
--Ziffer
--7
--Art
--des
--Aufbaus
--Wird
--das
--Fahrzeug
--mit
--einem
--Fahrersitzdach
--ausgerüstet
--so
--ändert
--sich
--c
--bei
--Zugmaschinen
--festes
--Wetterdach
--mit
--abnehmbaren
--Seitenteilen
--Zur
--Ziffer8
--Maße
--über
--alles
-+ziff9
-+220
-+ibar
-+2llel
- Bei
--Ausstattung
--mit
--Fahrersitzdach
--ändern
--sich
--folgenden
--Angaben
--Länge
--3408
--mm
--3390
--mm
--Höhe
--2452
--mm
--Durch
-+Ausrubtung
-+it
-+Fabrergltzdacb
-+Bnder
-+aicd
-+folsenie
-+Wnsaben
-+IArbe
-+Bhe
-+2432
-+N
-+urch
- Anbau
--von
--Kotflügeln
--änderte
--sich
--Breite
--unverändert
--1785
--mm
-+van
-+Rolfluseln
-+Brderl
-+aich
-+Brelte
-+urvernfort
-+1735
-+LLa
-+DeI
-+Tanrzeugtyo
-+entaprlcnt
-+in
-+folselued
-+nur
-+on
-+Vorsecriftan
-+idr
-+Zuguuachinen
-+1l
-+1474n
-+forgtwirtecoaftlichen
-+Metrieben
-+Scdeizverferhobe
-+Fsurbain
-+503
-+Stv2o
-+uber
-+Eisenderei_
-+fre
-+364
-+St1Z0
-+Schelnacrer
-+hihe
-+uaer
-+Furbasn
-+5
-+50
-+StVzo
- Der
--Fahrzeugtyp
--entspricht
--in
--folgenden
--nur
--den
--Vorschriften
--für
--Zugmaschinen
--in
--land
-+Fahraeugty
-+n
-+tprient
-+vorateienden
-+AiEnben
- und
--forstwirtschaftlichen
--Betrieben
--Scheinwerferhöhe
--über
--Fahrbahn
--503
--StVZO
--Eisenbereifung
--364
--StVZO
--Scheinwerferhöhe
--über
--Fahrbahn
--50
--3
--StVZO
--Der
--Fahrzeugtyp
--entspricht
--vorstehenden
--Angaben
--und
--genügt
--den
--Anforderungen
-+Genict
-+Cen
-+Anforderuugen
- der
--StrassenverkehrsZulassungsOrdnung
--sowie
--den
--hierzu
--erlassenen
--Anweisungen
--des
--Reichsverkehrsministers
--mit
--folgenden
--Ausnahmen
-+Btrnbbenvetkehrs
-+Zula
-+aWnlyCrutung
-+901e
-+3cn
-+hlerzu
-+eIlasenen
-+Anheljungen
-+8e9
-+hciccaverkehrauinfslera
-+Iit
-+fol
-+Benden
-+Au
-+snannen
- 1
- Die
--in
--die
--Kraftstoffleitung
--Rohölleitung
--eingebaute
--Absperrvorrichtung
--ist
--von
--Fahrersitz
--aus
-+i
-+ile
-+Erftatoffleitunp
-+Rob8lleitung
-+eingedate
-+Absperrvorrlehtung
-+156
-+Yol
-+Fabrersitz
-+749
- nicht
--bedienbar
-+B6
-+dienbar
- 462
--StVZO
-+stvzo
- 2
--Fahrgeräusch
--und
--Auspuffgeräusche
--überschreiten
--85
--Phon
-+Pabrgery
-+uaol
-+unz
-+1
-+Eruffceruach
-+ubergcnceifen
-+25
-+flcnl
- 491
--u
-+1
- 2
--StVZO
-+5tVz0
- 3
- Bei
- den
--Fahrzeugen
--ohne
--Kotflügel
--ist
--der
--Abstand
--der
--Schlußlichter
--voneinander
-+Fahrzeugon
-+olne
-+Kotflugel
-+ft
-+Jer
-+4b9i2d
-+Ger
-+Scbluplichter
-+voreinnnder
- 100
--cm
--statt
--mindestens
-+C0
-+8tatt
-+Dindestens
- 110
--cm
-+02
- 531
--StVZO
-+tVz0
-+3400
-+373c
-+LE
-+4
-+B
-+1
-+8506
-
+FAST KORREKT: D
+KORREKT: 8506
+KORREKT: Zu
+FAST KORREKT: Ziffer
+KORREKT: 7
+FAST KORREKT: Art
+FAST KORREKT: des
+FEHLT: Aufbaus
+FAST KORREKT: Wird
+FAST KORREKT: das
+FAST KORREKT: Fahrzeug
+FAST KORREKT: mit
+FEHLT: einem
+FEHLT: Fahrersitzdach
+FEHLT: ausgerüstet
+FAST KORREKT: so
+FAST KORREKT: ändert
+FAST KORREKT: sich
+FAST KORREKT: c
+FAST KORREKT: bei
+FEHLT: Zugmaschinen
+FAST KORREKT: festes
+FEHLT: Wetterdach
+FAST KORREKT: mit
+FEHLT: abnehmbaren
+FEHLT: Seitenteilen
+FAST KORREKT: Zur
+FEHLT: Ziffer8
+FEHLT: Maße
+FAST KORREKT: über
+FAST KORREKT: alles
+KORREKT: Bei
+FEHLT: Ausstattung
+FAST KORREKT: mit
+FEHLT: Fahrersitzdach
+FAST KORREKT: ändern
+FAST KORREKT: sich
+FEHLT: folgenden
+FAST KORREKT: Angaben
+FEHLT: Länge
+FAST KORREKT: 3408
+FAST KORREKT: mm
+FAST KORREKT: 3390
+FAST KORREKT: mm
+FAST KORREKT: Höhe
+FAST KORREKT: 2452
+FAST KORREKT: mm
+FAST KORREKT: Durch
+KORREKT: Anbau
+FAST KORREKT: von
+FAST KORREKT: Kotflügeln
+FEHLT: änderte
+FAST KORREKT: sich
+FAST KORREKT: Breite
+FEHLT: unverändert
+FAST KORREKT: 1785
+FAST KORREKT: mm
+KORREKT: Der
+FAST KORREKT: Fahrzeugtyp
+FEHLT: entspricht
+KORREKT: in
+FEHLT: folgenden
+KORREKT: nur
+KORREKT: den
+FEHLT: Vorschriften
+FAST KORREKT: für
+FEHLT: Zugmaschinen
+KORREKT: in
+FAST KORREKT: land
+KORREKT: und
+FEHLT: forstwirtschaftlichen
+FAST KORREKT: Betrieben
+FEHLT: Scheinwerferhöhe
+FAST KORREKT: über
+FEHLT: Fahrbahn
+KORREKT: 503
+FAST KORREKT: StVZO
+FEHLT: Eisenbereifung
+KORREKT: 364
+FAST KORREKT: StVZO
+FEHLT: Scheinwerferhöhe
+FAST KORREKT: über
+FEHLT: Fahrbahn
+KORREKT: 50
+KORREKT: 3
+FAST KORREKT: StVZO
+KORREKT: Der
+FAST KORREKT: Fahrzeugtyp
+FEHLT: entspricht
+FAST KORREKT: vorstehenden
+FAST KORREKT: Angaben
+KORREKT: und
+FEHLT: genügt
+KORREKT: den
+FAST KORREKT: Anforderungen
+KORREKT: der
+FEHLT: StrassenverkehrsZulassungsOrdnung
+FEHLT: sowie
+KORREKT: den
+FAST KORREKT: hierzu
+FAST KORREKT: erlassenen
+FEHLT: Anweisungen
+FAST KORREKT: des
+FEHLT: Reichsverkehrsministers
+FAST KORREKT: mit
+FEHLT: folgenden
+FEHLT: Ausnahmen
+KORREKT: 1
+KORREKT: Die
+KORREKT: in
+FAST KORREKT: die
+FEHLT: Kraftstoffleitung
+FAST KORREKT: Rohölleitung
+FAST KORREKT: eingebaute
+FAST KORREKT: Absperrvorrichtung
+FAST KORREKT: ist
+FAST KORREKT: von
+FAST KORREKT: Fahrersitz
+FAST KORREKT: aus
+KORREKT: nicht
+FAST KORREKT: bedienbar
+KORREKT: 462
+FAST KORREKT: StVZO
+KORREKT: 2
+FEHLT: Fahrgeräusch
+KORREKT: und
+FEHLT: Auspuffgeräusche
+FEHLT: überschreiten
+FAST KORREKT: 85
+FAST KORREKT: Phon
+KORREKT: 491
+FAST KORREKT: u
+KORREKT: 2
+FAST KORREKT: StVZO
+KORREKT: 3
+KORREKT: Bei
+KORREKT: den
+FAST KORREKT: Fahrzeugen
+FAST KORREKT: ohne
+FAST KORREKT: Kotflügel
+FAST KORREKT: ist
+KORREKT: der
+FEHLT: Abstand
+KORREKT: der
+FAST KORREKT: Schlußlichter
+FAST KORREKT: voneinander
+KORREKT: 100
+FAST KORREKT: cm
+FAST KORREKT: statt
+FAST KORREKT: mindestens
+KORREKT: 110
+FAST KORREKT: cm
+KORREKT: 531
+FAST KORREKT: StVZO
+ZUSÄTZLICH: Z
+ZUSÄTZLICH: Bffer
+ZUSÄTZLICH: ar
+ZUSÄTZLICH: Zlovg
+ZUSÄTZLICH: Zird
+ZUSÄTZLICH: d19
+ZUSÄTZLICH: Indrzeub
+ZUSÄTZLICH: Eit
+ZUSÄTZLICH: 819f0
+ZUSÄTZLICH: Fobrergifzi134
+ZUSÄTZLICH: 1839
+ZUSÄTZLICH: rctetr
+ZUSÄTZLICH: 40
+ZUSÄTZLICH: Srjert
+ZUSÄTZLICH: 5122
+ZUSÄTZLICH: 0
+ZUSÄTZLICH: Je1
+ZUSÄTZLICH: Zucmlscuinen
+ZUSÄTZLICH: feste9
+ZUSÄTZLICH: Hetterds
+ZUSÄTZLICH: it
+ZUSÄTZLICH: alnebGharen
+ZUSÄTZLICH: Seitesfcilen
+ZUSÄTZLICH: ziff9
+ZUSÄTZLICH: 220
+ZUSÄTZLICH: ibar
+ZUSÄTZLICH: 2llel
+ZUSÄTZLICH: Ausrubtung
+ZUSÄTZLICH: it
+ZUSÄTZLICH: Fabrergltzdacb
+ZUSÄTZLICH: Bnder
+ZUSÄTZLICH: aicd
+ZUSÄTZLICH: folsenie
+ZUSÄTZLICH: Wnsaben
+ZUSÄTZLICH: IArbe
+ZUSÄTZLICH: Bhe
+ZUSÄTZLICH: 2432
+ZUSÄTZLICH: N
+ZUSÄTZLICH: urch
+ZUSÄTZLICH: van
+ZUSÄTZLICH: Rolfluseln
+ZUSÄTZLICH: Brderl
+ZUSÄTZLICH: aich
+ZUSÄTZLICH: Brelte
+ZUSÄTZLICH: urvernfort
+ZUSÄTZLICH: 1735
+ZUSÄTZLICH: LLa
+ZUSÄTZLICH: DeI
+ZUSÄTZLICH: Tanrzeugtyo
+ZUSÄTZLICH: entaprlcnt
+ZUSÄTZLICH: folselued
+ZUSÄTZLICH: on
+ZUSÄTZLICH: Vorsecriftan
+ZUSÄTZLICH: idr
+ZUSÄTZLICH: Zuguuachinen
+ZUSÄTZLICH: 1l
+ZUSÄTZLICH: 1474n
+ZUSÄTZLICH: forgtwirtecoaftlichen
+ZUSÄTZLICH: Metrieben
+ZUSÄTZLICH: Scdeizverferhobe
+ZUSÄTZLICH: Fsurbain
+ZUSÄTZLICH: Stv2o
+ZUSÄTZLICH: uber
+ZUSÄTZLICH: Eisenderei_
+ZUSÄTZLICH: fre
+ZUSÄTZLICH: St1Z0
+ZUSÄTZLICH: Schelnacrer
+ZUSÄTZLICH: hihe
+ZUSÄTZLICH: uaer
+ZUSÄTZLICH: Furbasn
+ZUSÄTZLICH: 5
+ZUSÄTZLICH: StVzo
+ZUSÄTZLICH: Fahraeugty
+ZUSÄTZLICH: n
+ZUSÄTZLICH: tprient
+ZUSÄTZLICH: vorateienden
+ZUSÄTZLICH: AiEnben
+ZUSÄTZLICH: Genict
+ZUSÄTZLICH: Cen
+ZUSÄTZLICH: Anforderuugen
+ZUSÄTZLICH: Btrnbbenvetkehrs
+ZUSÄTZLICH: Zula
+ZUSÄTZLICH: aWnlyCrutung
+ZUSÄTZLICH: 901e
+ZUSÄTZLICH: 3cn
+ZUSÄTZLICH: hlerzu
+ZUSÄTZLICH: eIlasenen
+ZUSÄTZLICH: Anheljungen
+ZUSÄTZLICH: 8e9
+ZUSÄTZLICH: hciccaverkehrauinfslera
+ZUSÄTZLICH: Iit
+ZUSÄTZLICH: fol
+ZUSÄTZLICH: Benden
+ZUSÄTZLICH: Au
+ZUSÄTZLICH: snannen
+ZUSÄTZLICH: i
+ZUSÄTZLICH: ile
+ZUSÄTZLICH: Erftatoffleitunp
+ZUSÄTZLICH: Rob8lleitung
+ZUSÄTZLICH: eingedate
+ZUSÄTZLICH: Absperrvorrlehtung
+ZUSÄTZLICH: 156
+ZUSÄTZLICH: Yol
+ZUSÄTZLICH: Fabrersitz
+ZUSÄTZLICH: 749
+ZUSÄTZLICH: B6
+ZUSÄTZLICH: dienbar
+ZUSÄTZLICH: stvzo
+ZUSÄTZLICH: Pabrgery
+ZUSÄTZLICH: uaol
+ZUSÄTZLICH: unz
+ZUSÄTZLICH: Eruffceruach
+ZUSÄTZLICH: ubergcnceifen
+ZUSÄTZLICH: 25
+ZUSÄTZLICH: flcnl
+ZUSÄTZLICH: 5tVz0
+ZUSÄTZLICH: Fahrzeugon
+ZUSÄTZLICH: olne
+ZUSÄTZLICH: Kotflugel
+ZUSÄTZLICH: ft
+ZUSÄTZLICH: Jer
+ZUSÄTZLICH: 4b9i2d
+ZUSÄTZLICH: Ger
+ZUSÄTZLICH: Scbluplichter
+ZUSÄTZLICH: voreinnnder
+ZUSÄTZLICH: C0
+ZUSÄTZLICH: 8tatt
+ZUSÄTZLICH: Dindestens
+ZUSÄTZLICH: 02
+ZUSÄTZLICH: tVz0
+ZUSÄTZLICH: 3400
+ZUSÄTZLICH: 373c
+ZUSÄTZLICH: LE
+ZUSÄTZLICH: 4
+ZUSÄTZLICH: B
 Durchlauf 1:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,259 +1,268 @@
--Ausfertigung
--Allgemeine
--Betriebserlaubnis
--Nr
--207
--Für
--die
--Zugmaschinen
--Ackerschlepper
--Typ
--35
--Ackerbulldog
-+1
-+sfertisus
-+u
-+9y
-+7
-+412e22229
-+2e2riek9e5l232
-+292
-+1Y
-+fur
-+d10
-+Sugnascilinea
-+ckerac
-+le_fer
-+Ijp
-+35
-+2c2or2111d06
- D
- 8506
- der
--Firma
--Heinrich
--Lanz
--AG
--in
--Mannheim
-+Zir_3
-+Seir1c1
-+2
-+2
-+2
-+Zenle12
-+1855
-+Juxi
-+LO
-+staeiscus
- 1
--Auf
--Grund
--des
--anliegenden
--Gutachtens
--der
--Technischen
--Prüfstelle
--für
--den
--Kraftfahrzeugverkehr
--TÜ
--Mannheim
--in
--Mannheim
--vom
--4
--November
--1949
--wird
--für
--die
--reihenweise
--gefertigten
--Zugmaschinen
--Ackerschlepper
--Typ
--35
--PS
--Ackerbulldog
-+au
-+Crund
-+Jeg
-+e5liegend02
-+Btechte1
-+der
-+10cn1aclea
-+27uf3t0116
-+fGr
-+dea
-+Sraftferrzaugverrehr
-+V
-+erHaiu
-+12
-+reiaheiz
-+502
-+2
-+ore_ber
-+1648
-+ird
-+flr
-+die
-+rellleumege
-+38fortlgter
-+Cuslschinca
-+Icreracalerper
-+Ijp
-+35
-+I5
-+ickeroull4og
- D
- 8506
--der
--Firma
--Heinrich
--Lanz
--AG
--in
--Mannheim
--widerruflich
--die
--allgemeine
--Betriebserlaubnis
--gemäß
--20
--Abs
--1
--der
--Verordnung
--über
--die
--Zulassung
--von
--Personen
-+dar
-+Pirla
-+Relarich
-+De13
-+40
-+1n
-+Yannhels
-+Lerryfllcg
-+die
-+llgenl912e
-+Setrietaarleubils
-+Cen2b
-+9
-+26
-+105
-+1der
-+Verorinue
-+Eer
-+dic
-+Zuleauns
-+Fon
-+Zergonon
- und
--Fahrzeugen
--zum
--Straßenverkehr
--vom
-+Belrzeusen
-+215
-+Streeuverkenr
-+7on
- 13
--November
-+Hovember
- 1937
--StVZO
-+3tZC
- erteilt
- Die
--Zugmaschinen
--en
--Typ
--35
--PS
--Ackerbulldog
--D
--8506
-+Zucme9chino
-+Ij
-+35
-+Z3
-+Acerculldog
-+3506
- werden
--in
-+1n
- folgenden
--Ausführungen
--hergestellt
--Ausführung
--A
--mit
--Luftbereifung
--Ausführung
-+Auafuhrnfez
-+nergaetellt
-+Jugfuhrung
-+ulf
-+Zurtbereifvg
-+auafuhrung
- B
--mit
--Eisenbereifung
-+uif
-+Bisenbereifuns
- 2
- Auf
--Grund
--des
--70
--Abs
--I
--StVZO
-+Drund
-+de6
-+7o
-+Eb31
-+Sfi3L
- werden
- die
--Zugmaschinen
--Typ
--35
--Ackerbulldog
--D
--8506
--der
--Firma
--Heinrich
--Lanz
--AG
--Mannheim
--von
--der
--Erfüllung
--der
--Vorschrift
--des
--46
--Abs
--2
--StVZ0
--über
--die
--Bedienbarkeit
--der
--Absperrvorrichtung
--in
--der
--Kraftstoffleitung
--vom
--Führersitz
--aus
--sowie
--von
--der
--Erfüllung
--der
--Vorschrift
--des
--49
--Abs
-+Zusko3ohlnen
-+7yp
-+35
-+15
-+ackerbulldoz
-+D
-+3506
-+der
-+Biraa
-+Helurio
-+Zes2
-+40
-+22
-+21n0
-+Vow
-+der
-+Srfullung
-+der
-+Vorscurift
-+de8
-+26
-+4dB
-+2
-+81750
-+uber
-+die
-+Sediemrerireit
-+der
-+Ataerrvor
-+rlcltung
-+In
-+der
-+Freftatoffleit2zg
-+vojzrrereitz
-+21y
-+30012
-+v0n
-+Der
-+Srfilluns
-+der
-+Yorscfift
-+dee
-+7
-+4920a
- 1
--und
--2
--StVZO
--über
--die
--höchstzulässige
--Lautstärke
--des
--Fahrgeräusches
--freigestellt
-+n0
-+2
-+BtVzo
-+ber
-+die
-+bdohstzulagslse
-+Leuteterre
-+400
-+Jerserlusckes
-+Sreigetellt
-+1c
- 3
- Der
--Hersteller
--hat
--für
--jedes
--dem
--Typ
--entsprechende
--Fahrzeug
--einen
--Kraftfahrzeugbrief
--auszufüllen
--sowie
--die
--Richtigkeit
--der
--Angaben
--über
--die
--Beschaffenheit
--des
--Fahrzeuges
--und
--dessen
--Übereinstimmung
--mit
--dem
--genehmigten
--Typ
--zu
--bescheinigen
--Die
--Vordrucke
--für
--die
--Briefe
--sind
--von
--dem
--StraßenZentralamt
--der
--Verwaltung
--für
--Verkehr
--des
--vereinigten
--Wirtschaftsgebietes
--Sammelstelle
--für
--Nachrichten
--über
--Kraftfahrzeuge
--in
--Bielefeld
--Herforder
--Straße
--8
-+Snrbteller
-+uet
-+fur
-+Jedee
-+dex
-+Cyp
-+Bntsreocende
-+72ur2uvg
-+e1ner
-+Dreftfarzeugoris2
-+Bugzufwilen
-+307110
-+d1e
-+Dlcatiskeit
-+der
-+MizEder
-+rer
-+die
-+Sasc8ffenl91t
-+193
-+7arzeug
-+Wd
-+de9a82
-+Cdezeinatfuowg
-+Wit
-+402
-+sexohlztan
-+Iyp
-+5u
-+reacbeisiser
-+Did
-+Yorirzcle
-+fur
-+419
-+3r1ere
-+aind
-+9a
-+dew
-+StralerZestreleit
-+Jor
-+Yezneltuns
-+Ur
-+Yorcehr
-+dab
-+terainistez
-+Wirtacheftssejleteg
-+Jozlzolatalle
-+fur
-+Hecstichtaj
-+iiber
-+Irartfelrzeuga
-+12
-+Zielafeld
-+Xerfordes
-+Strese
-+3
-+51
-+Deslale
-+201
-+J0r
-+Rngfertising
-+4011
-+Iraftfenrzevcbriefen
-+fur
-+J1g
-+Zugueaealnen
-+Irp
-+35
-+73
-+Ackerbulldos
-+D
-+8506
-+er
-+Firua
-+Zelrion
-+Lanz
-+2G
-+In
-+Lerniheiz
-+15
-+unter
-+Zr
-+19
-+Bex0rkunsen
-+1l
-+esutrecen
- 10
--zu
--beziehen
--Bei
--der
--Ausfertigung
--von
--Kraftfahrzeugbriefen
--für
--die
--Zugmaschinen
--Typ
--35
--PS
--Ackerbulldog
--D
--8506
--der
--Firma
--Heinrich
--Lanz
--AG
--in
--Mannheim
--ist
--unter
--Nr
--19
--Bemerkungen
--einzutragen
-
+FEHLT: Ausfertigung
+FEHLT: Allgemeine
+FEHLT: Betriebserlaubnis
+FAST KORREKT: Nr
+FAST KORREKT: 207
+FAST KORREKT: Für
+KORREKT: die
+FEHLT: Zugmaschinen
+FEHLT: Ackerschlepper
+FAST KORREKT: Typ
+KORREKT: 35
+FAST KORREKT: Ackerbulldog
+KORREKT: D
+KORREKT: 8506
+KORREKT: der
+FAST KORREKT: Firma
+FEHLT: Heinrich
+KORREKT: Lanz
+FAST KORREKT: AG
+FAST KORREKT: in
+FEHLT: Mannheim
+KORREKT: 1
+KORREKT: Auf
+FAST KORREKT: Grund
+FAST KORREKT: des
+FEHLT: anliegenden
+FEHLT: Gutachtens
+KORREKT: der
+FEHLT: Technischen
+FEHLT: Prüfstelle
+FAST KORREKT: für
+FAST KORREKT: den
+FEHLT: Kraftfahrzeugverkehr
+FAST KORREKT: TÜ
+FEHLT: Mannheim
+FAST KORREKT: in
+FEHLT: Mannheim
+FAST KORREKT: vom
+FAST KORREKT: 4
+FAST KORREKT: November
+FAST KORREKT: 1949
+FAST KORREKT: wird
+FAST KORREKT: für
+KORREKT: die
+FEHLT: reihenweise
+FEHLT: gefertigten
+FEHLT: Zugmaschinen
+FEHLT: Ackerschlepper
+FAST KORREKT: Typ
+KORREKT: 35
+FAST KORREKT: PS
+FAST KORREKT: Ackerbulldog
+KORREKT: D
+KORREKT: 8506
+KORREKT: der
+FAST KORREKT: Firma
+FEHLT: Heinrich
+KORREKT: Lanz
+FAST KORREKT: AG
+FAST KORREKT: in
+FEHLT: Mannheim
+FEHLT: widerruflich
+KORREKT: die
+FEHLT: allgemeine
+FEHLT: Betriebserlaubnis
+FEHLT: gemäß
+FAST KORREKT: 20
+FAST KORREKT: Abs
+KORREKT: 1
+KORREKT: der
+FEHLT: Verordnung
+FAST KORREKT: über
+KORREKT: die
+FEHLT: Zulassung
+FAST KORREKT: von
+FEHLT: Personen
+KORREKT: und
+FEHLT: Fahrzeugen
+FAST KORREKT: zum
+FEHLT: Straßenverkehr
+FAST KORREKT: vom
+KORREKT: 13
+FAST KORREKT: November
+KORREKT: 1937
+FEHLT: StVZO
+KORREKT: erteilt
+KORREKT: Die
+FEHLT: Zugmaschinen
+FAST KORREKT: en
+FAST KORREKT: Typ
+KORREKT: 35
+FAST KORREKT: PS
+FAST KORREKT: Ackerbulldog
+KORREKT: D
+KORREKT: 8506
+KORREKT: werden
+FAST KORREKT: in
+KORREKT: folgenden
+FEHLT: Ausführungen
+FEHLT: hergestellt
+FEHLT: Ausführung
+FAST KORREKT: A
+FAST KORREKT: mit
+FEHLT: Luftbereifung
+FEHLT: Ausführung
+KORREKT: B
+FAST KORREKT: mit
+FAST KORREKT: Eisenbereifung
+KORREKT: 2
+KORREKT: Auf
+FAST KORREKT: Grund
+FAST KORREKT: des
+FAST KORREKT: 70
+FAST KORREKT: Abs
+FAST KORREKT: I
+FEHLT: StVZO
+KORREKT: werden
+KORREKT: die
+FEHLT: Zugmaschinen
+FAST KORREKT: Typ
+KORREKT: 35
+FAST KORREKT: Ackerbulldog
+KORREKT: D
+KORREKT: 8506
+KORREKT: der
+FAST KORREKT: Firma
+FEHLT: Heinrich
+KORREKT: Lanz
+FAST KORREKT: AG
+FEHLT: Mannheim
+FAST KORREKT: von
+KORREKT: der
+FAST KORREKT: Erfüllung
+KORREKT: der
+FAST KORREKT: Vorschrift
+FAST KORREKT: des
+FAST KORREKT: 46
+FAST KORREKT: Abs
+KORREKT: 2
+FEHLT: StVZ0
+FAST KORREKT: über
+KORREKT: die
+FEHLT: Bedienbarkeit
+KORREKT: der
+FEHLT: Absperrvorrichtung
+FAST KORREKT: in
+KORREKT: der
+FEHLT: Kraftstoffleitung
+FAST KORREKT: vom
+FEHLT: Führersitz
+FAST KORREKT: aus
+FEHLT: sowie
+FAST KORREKT: von
+KORREKT: der
+FAST KORREKT: Erfüllung
+KORREKT: der
+FAST KORREKT: Vorschrift
+FAST KORREKT: des
+FAST KORREKT: 49
+FAST KORREKT: Abs
+KORREKT: 1
+KORREKT: und
+KORREKT: 2
+FEHLT: StVZO
+FAST KORREKT: über
+KORREKT: die
+FEHLT: höchstzulässige
+FEHLT: Lautstärke
+FAST KORREKT: des
+FEHLT: Fahrgeräusches
+FAST KORREKT: freigestellt
+KORREKT: 3
+KORREKT: Der
+FEHLT: Hersteller
+FAST KORREKT: hat
+FAST KORREKT: für
+FAST KORREKT: jedes
+FAST KORREKT: dem
+FAST KORREKT: Typ
+FEHLT: entsprechende
+FAST KORREKT: Fahrzeug
+FAST KORREKT: einen
+FEHLT: Kraftfahrzeugbrief
+FEHLT: auszufüllen
+FEHLT: sowie
+KORREKT: die
+FEHLT: Richtigkeit
+KORREKT: der
+FEHLT: Angaben
+FAST KORREKT: über
+KORREKT: die
+FEHLT: Beschaffenheit
+FAST KORREKT: des
+FEHLT: Fahrzeuges
+KORREKT: und
+FEHLT: dessen
+FEHLT: Übereinstimmung
+FAST KORREKT: mit
+FAST KORREKT: dem
+FEHLT: genehmigten
+FAST KORREKT: Typ
+FAST KORREKT: zu
+FEHLT: bescheinigen
+KORREKT: Die
+FEHLT: Vordrucke
+FAST KORREKT: für
+KORREKT: die
+FEHLT: Briefe
+FAST KORREKT: sind
+FAST KORREKT: von
+FAST KORREKT: dem
+FEHLT: StraßenZentralamt
+KORREKT: der
+FEHLT: Verwaltung
+FAST KORREKT: für
+FEHLT: Verkehr
+FAST KORREKT: des
+FEHLT: vereinigten
+FEHLT: Wirtschaftsgebietes
+FEHLT: Sammelstelle
+FAST KORREKT: für
+FEHLT: Nachrichten
+FAST KORREKT: über
+FEHLT: Kraftfahrzeuge
+FAST KORREKT: in
+FAST KORREKT: Bielefeld
+FAST KORREKT: Herforder
+FAST KORREKT: Straße
+FAST KORREKT: 8
+KORREKT: 10
+FAST KORREKT: zu
+FEHLT: beziehen
+FAST KORREKT: Bei
+KORREKT: der
+FEHLT: Ausfertigung
+FAST KORREKT: von
+FEHLT: Kraftfahrzeugbriefen
+FAST KORREKT: für
+KORREKT: die
+FEHLT: Zugmaschinen
+FAST KORREKT: Typ
+KORREKT: 35
+FAST KORREKT: PS
+FAST KORREKT: Ackerbulldog
+KORREKT: D
+KORREKT: 8506
+KORREKT: der
+FAST KORREKT: Firma
+FEHLT: Heinrich
+KORREKT: Lanz
+FAST KORREKT: AG
+FAST KORREKT: in
+FEHLT: Mannheim
+FAST KORREKT: ist
+KORREKT: unter
+FAST KORREKT: Nr
+KORREKT: 19
+FEHLT: Bemerkungen
+FEHLT: einzutragen
+ZUSÄTZLICH: sfertisus
+ZUSÄTZLICH: u
+ZUSÄTZLICH: 9y
+ZUSÄTZLICH: 7
+ZUSÄTZLICH: 412e22229
+ZUSÄTZLICH: 2e2riek9e5l232
+ZUSÄTZLICH: 292
+ZUSÄTZLICH: 1Y
+ZUSÄTZLICH: fur
+ZUSÄTZLICH: d10
+ZUSÄTZLICH: Sugnascilinea
+ZUSÄTZLICH: ckerac
+ZUSÄTZLICH: le_fer
+ZUSÄTZLICH: Ijp
+ZUSÄTZLICH: 2c2or2111d06
+ZUSÄTZLICH: Zir_3
+ZUSÄTZLICH: Seir1c1
+ZUSÄTZLICH: Zenle12
+ZUSÄTZLICH: 1855
+ZUSÄTZLICH: Juxi
+ZUSÄTZLICH: LO
+ZUSÄTZLICH: staeiscus
+ZUSÄTZLICH: au
+ZUSÄTZLICH: Crund
+ZUSÄTZLICH: Jeg
+ZUSÄTZLICH: e5liegend02
+ZUSÄTZLICH: Btechte1
+ZUSÄTZLICH: 10cn1aclea
+ZUSÄTZLICH: 27uf3t0116
+ZUSÄTZLICH: fGr
+ZUSÄTZLICH: dea
+ZUSÄTZLICH: Sraftferrzaugverrehr
+ZUSÄTZLICH: V
+ZUSÄTZLICH: erHaiu
+ZUSÄTZLICH: 12
+ZUSÄTZLICH: reiaheiz
+ZUSÄTZLICH: 502
+ZUSÄTZLICH: ore_ber
+ZUSÄTZLICH: 1648
+ZUSÄTZLICH: ird
+ZUSÄTZLICH: flr
+ZUSÄTZLICH: rellleumege
+ZUSÄTZLICH: 38fortlgter
+ZUSÄTZLICH: Cuslschinca
+ZUSÄTZLICH: Icreracalerper
+ZUSÄTZLICH: Ijp
+ZUSÄTZLICH: I5
+ZUSÄTZLICH: ickeroull4og
+ZUSÄTZLICH: dar
+ZUSÄTZLICH: Pirla
+ZUSÄTZLICH: Relarich
+ZUSÄTZLICH: De13
+ZUSÄTZLICH: 40
+ZUSÄTZLICH: 1n
+ZUSÄTZLICH: Yannhels
+ZUSÄTZLICH: Lerryfllcg
+ZUSÄTZLICH: llgenl912e
+ZUSÄTZLICH: Setrietaarleubils
+ZUSÄTZLICH: Cen2b
+ZUSÄTZLICH: 9
+ZUSÄTZLICH: 26
+ZUSÄTZLICH: 105
+ZUSÄTZLICH: 1der
+ZUSÄTZLICH: Verorinue
+ZUSÄTZLICH: Eer
+ZUSÄTZLICH: dic
+ZUSÄTZLICH: Zuleauns
+ZUSÄTZLICH: Fon
+ZUSÄTZLICH: Zergonon
+ZUSÄTZLICH: Belrzeusen
+ZUSÄTZLICH: 215
+ZUSÄTZLICH: Streeuverkenr
+ZUSÄTZLICH: 7on
+ZUSÄTZLICH: Hovember
+ZUSÄTZLICH: 3tZC
+ZUSÄTZLICH: Zucme9chino
+ZUSÄTZLICH: Ij
+ZUSÄTZLICH: Z3
+ZUSÄTZLICH: Acerculldog
+ZUSÄTZLICH: 3506
+ZUSÄTZLICH: 1n
+ZUSÄTZLICH: Auafuhrnfez
+ZUSÄTZLICH: nergaetellt
+ZUSÄTZLICH: Jugfuhrung
+ZUSÄTZLICH: ulf
+ZUSÄTZLICH: Zurtbereifvg
+ZUSÄTZLICH: auafuhrung
+ZUSÄTZLICH: uif
+ZUSÄTZLICH: Bisenbereifuns
+ZUSÄTZLICH: Drund
+ZUSÄTZLICH: de6
+ZUSÄTZLICH: 7o
+ZUSÄTZLICH: Eb31
+ZUSÄTZLICH: Sfi3L
+ZUSÄTZLICH: Zusko3ohlnen
+ZUSÄTZLICH: 7yp
+ZUSÄTZLICH: 15
+ZUSÄTZLICH: ackerbulldoz
+ZUSÄTZLICH: 3506
+ZUSÄTZLICH: Biraa
+ZUSÄTZLICH: Helurio
+ZUSÄTZLICH: Zes2
+ZUSÄTZLICH: 40
+ZUSÄTZLICH: 22
+ZUSÄTZLICH: 21n0
+ZUSÄTZLICH: Vow
+ZUSÄTZLICH: Srfullung
+ZUSÄTZLICH: Vorscurift
+ZUSÄTZLICH: de8
+ZUSÄTZLICH: 26
+ZUSÄTZLICH: 4dB
+ZUSÄTZLICH: 81750
+ZUSÄTZLICH: uber
+ZUSÄTZLICH: Sediemrerireit
+ZUSÄTZLICH: Ataerrvor
+ZUSÄTZLICH: rlcltung
+ZUSÄTZLICH: In
+ZUSÄTZLICH: Freftatoffleit2zg
+ZUSÄTZLICH: vojzrrereitz
+ZUSÄTZLICH: 21y
+ZUSÄTZLICH: 30012
+ZUSÄTZLICH: v0n
+ZUSÄTZLICH: Srfilluns
+ZUSÄTZLICH: Yorscfift
+ZUSÄTZLICH: dee
+ZUSÄTZLICH: 7
+ZUSÄTZLICH: 4920a
+ZUSÄTZLICH: n0
+ZUSÄTZLICH: BtVzo
+ZUSÄTZLICH: ber
+ZUSÄTZLICH: bdohstzulagslse
+ZUSÄTZLICH: Leuteterre
+ZUSÄTZLICH: 400
+ZUSÄTZLICH: Jerserlusckes
+ZUSÄTZLICH: Sreigetellt
+ZUSÄTZLICH: 1c
+ZUSÄTZLICH: Snrbteller
+ZUSÄTZLICH: uet
+ZUSÄTZLICH: fur
+ZUSÄTZLICH: Jedee
+ZUSÄTZLICH: dex
+ZUSÄTZLICH: Cyp
+ZUSÄTZLICH: Bntsreocende
+ZUSÄTZLICH: 72ur2uvg
+ZUSÄTZLICH: e1ner
+ZUSÄTZLICH: Dreftfarzeugoris2
+ZUSÄTZLICH: Bugzufwilen
+ZUSÄTZLICH: 307110
+ZUSÄTZLICH: d1e
+ZUSÄTZLICH: Dlcatiskeit
+ZUSÄTZLICH: MizEder
+ZUSÄTZLICH: rer
+ZUSÄTZLICH: Sasc8ffenl91t
+ZUSÄTZLICH: 193
+ZUSÄTZLICH: 7arzeug
+ZUSÄTZLICH: Wd
+ZUSÄTZLICH: de9a82
+ZUSÄTZLICH: Cdezeinatfuowg
+ZUSÄTZLICH: Wit
+ZUSÄTZLICH: 402
+ZUSÄTZLICH: sexohlztan
+ZUSÄTZLICH: Iyp
+ZUSÄTZLICH: 5u
+ZUSÄTZLICH: reacbeisiser
+ZUSÄTZLICH: Did
+ZUSÄTZLICH: Yorirzcle
+ZUSÄTZLICH: fur
+ZUSÄTZLICH: 419
+ZUSÄTZLICH: 3r1ere
+ZUSÄTZLICH: aind
+ZUSÄTZLICH: 9a
+ZUSÄTZLICH: dew
+ZUSÄTZLICH: StralerZestreleit
+ZUSÄTZLICH: Jor
+ZUSÄTZLICH: Yezneltuns
+ZUSÄTZLICH: Ur
+ZUSÄTZLICH: Yorcehr
+ZUSÄTZLICH: dab
+ZUSÄTZLICH: terainistez
+ZUSÄTZLICH: Wirtacheftssejleteg
+ZUSÄTZLICH: Jozlzolatalle
+ZUSÄTZLICH: fur
+ZUSÄTZLICH: Hecstichtaj
+ZUSÄTZLICH: iiber
+ZUSÄTZLICH: Irartfelrzeuga
+ZUSÄTZLICH: 12
+ZUSÄTZLICH: Zielafeld
+ZUSÄTZLICH: Xerfordes
+ZUSÄTZLICH: Strese
+ZUSÄTZLICH: 51
+ZUSÄTZLICH: Deslale
+ZUSÄTZLICH: 201
+ZUSÄTZLICH: J0r
+ZUSÄTZLICH: Rngfertising
+ZUSÄTZLICH: 4011
+ZUSÄTZLICH: Iraftfenrzevcbriefen
+ZUSÄTZLICH: fur
+ZUSÄTZLICH: J1g
+ZUSÄTZLICH: Zugueaealnen
+ZUSÄTZLICH: Irp
+ZUSÄTZLICH: 73
+ZUSÄTZLICH: Ackerbulldos
+ZUSÄTZLICH: er
+ZUSÄTZLICH: Firua
+ZUSÄTZLICH: Zelrion
+ZUSÄTZLICH: 2G
+ZUSÄTZLICH: In
+ZUSÄTZLICH: Lerniheiz
+ZUSÄTZLICH: 15
+ZUSÄTZLICH: Zr
+ZUSÄTZLICH: Bex0rkunsen
+ZUSÄTZLICH: 1l
+ZUSÄTZLICH: esutrecen
