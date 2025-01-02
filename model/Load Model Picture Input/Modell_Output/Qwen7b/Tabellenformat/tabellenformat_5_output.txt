@@ -1,4 +1,3 @@
-Sure, here is the content of the document with the multi-columns layout correctly displayed:
 
 | In the event of failure of a direction indicator, the other must continue to flash or remain lit. | Yes / No |
 | Visibility of red lights towards the front | Yes/No |

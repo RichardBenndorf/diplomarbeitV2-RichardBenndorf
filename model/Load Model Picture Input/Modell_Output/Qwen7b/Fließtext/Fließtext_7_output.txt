@@ -1,6 +1,4 @@
-Sure, here is the text from the document you provided:
 
-```
 Korrosionsbeständigkeit (Resistance to corrosion)
 
 Der Grundwerkstoff des Kraftstoffbehälters und die verwendeten Zubehörteile können als korrosionsfest gegen das Betriebsmedium und äußere Beeinflussungen angesehen werden.
@@ -24,4 +22,3 @@ d) TÜV-Kennzeichnung 143XS0133 TÜv-marking
 Die Gebrauchsfähigkeit des Behälters ist zu überprüfen, wenn wesentliche Teile des Fahrzeugs, die zu einer Veränderung der Einbauverhältnisse führen, die Behältermontierung, die Befestigung, die Abmessungen, der Behälteraufbau oder das Herstellungsverfahren geändert werden. Hierüber ist ein Nachtragsgutachten der TÜVRheinland Kraftfahrt GmbH einzuholen.
 
 If essential parts of the vehicle - especially concerning the installation of the Fuel Tank - or material, manufacturing method, dimensions or mounting of the Tank have been changed, a new approval by the TÜ VRheinl and Kraftfahr t GmbH is necessary.
-```

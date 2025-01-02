@@ -1,17 +1,17 @@
-&gt; Allgemeine Beschreibung der Ausnahme 35 im Bulling
-&gt;
-&gt; (Acherschlepper) Ausführung 1 85.6 A und B
-&gt;
-&gt; Der 35 im Ackerbulling wird in zwei Ausführungen bereitstellt:
+  Allgemeine Beschreibung der Ausnahme 35 im Bulling
+ 
+  (Acherschlepper) Ausführung 1 85.6 A und B
+ 
+  Der 35 im Ackerbulling wird in zwei Ausführungen bereitstellt:
 
 1. *Normaleusführung 1 85.6 A*
 
-&gt; Der Schlepper besitzt 6 Getriebegehage vorwirts und 2 Lockwerts- gänge mit 2 Schnlthebeln. Da die Fahrgeschwindigkeit 13 km be- tritt, ist eran den Vorder- und Ninternefern luftbereit. Der Schlepper hat eine Ninterneifudbräse und eine faststellare Getriebehandbrense. Der Motor ist ein Zweitakt-Glühkopfmotor mit elektrischer Anladzüllung. Die Ingangsetzung erfolgt durch Anwerfen mittels Anicern, das abneisbar am Leniatsch angeordnet ist. Die Kühlung im Motors gehliebt durch Mercosyphon-Master umlaufkühlung und Einflügel. Die Kraftübertragung erfolgt durch eine Achrscheibenkupplung. Die Schmierung ist eine Frisch Bl-Umlaufschmierung. Der Schlepper hat zum Schutz des Ferrers rinttform und eitenableche. Er besitzt elektrische Beleuchtung nach den Bestimmungen der St.V.G.C. die Lenkung erfolgt durch Achnschenkellenkung.
+  Der Schlepper besitzt 6 Getriebegehage vorwirts und 2 Lockwerts- gänge mit 2 Schnlthebeln. Da die Fahrgeschwindigkeit 13 km be- tritt, ist eran den Vorder- und Ninternefern luftbereit. Der Schlepper hat eine Ninterneifudbräse und eine faststellare Getriebehandbrense. Der Motor ist ein Zweitakt-Glühkopfmotor mit elektrischer Anladzüllung. Die Ingangsetzung erfolgt durch Anwerfen mittels Anicern, das abneisbar am Leniatsch angeordnet ist. Die Kühlung im Motors gehliebt durch Mercosyphon-Master umlaufkühlung und Einflügel. Die Kraftübertragung erfolgt durch eine Achrscheibenkupplung. Die Schmierung ist eine Frisch Bl-Umlaufschmierung. Der Schlepper hat zum Schutz des Ferrers rinttform und eitenableche. Er besitzt elektrische Beleuchtung nach den Bestimmungen der St.V.G.C. die Lenkung erfolgt durch Achnschenkellenkung.
 
 1. *1 85.6 B mit Sechsammgetriebe, jedoch drei Gänge gesperrt*
 
-&gt; Der Schlepper wird mit 1 sechsamm ausgerüstet, für Strassen- fahrt werden Laufringe anreprocht. Damit er nicht über 3 km Fahrgeschwindigkeit entwickeln kann, wurden die oberen Gänge gesperrt, wobei ein Schnlthebel entfernt und die Getriebe- Bffnung durch Riluiflansch verschlossen wird. Die Erdrzen sind die gleichen wie unter 1). Der Motor, die Ingangsetzung, die
-&gt;
-&gt; Küpplung, die Kühlung, die Schmierung, der Aufbau, die elektr. Beleuchtung und Lenkung sind ebenfalls die gleichen wie unter 1
-&gt;
-&gt; Die zwei Ausführungen haben den gleichen Aufbau, Motor und Getriebe sind die Blockkonstruktion in Lanz-erlitgut ausgeführt. Der Motor hat in- und Leerlaufregler und Küpplung mit Riezenscheibe für Antrieb von lankwirtschaftlichen Anschäden. Die Kraftübortra- gung vom Motor nur die Ninterne se erfolgt durch gebrötete Zaim-
+  Der Schlepper wird mit 1 sechsamm ausgerüstet, für Strassen- fahrt werden Laufringe anreprocht. Damit er nicht über 3 km Fahrgeschwindigkeit entwickeln kann, wurden die oberen Gänge gesperrt, wobei ein Schnlthebel entfernt und die Getriebe- Bffnung durch Riluiflansch verschlossen wird. Die Erdrzen sind die gleichen wie unter 1). Der Motor, die Ingangsetzung, die
+ 
+  Küpplung, die Kühlung, die Schmierung, der Aufbau, die elektr. Beleuchtung und Lenkung sind ebenfalls die gleichen wie unter 1
+ 
+  Die zwei Ausführungen haben den gleichen Aufbau, Motor und Getriebe sind die Blockkonstruktion in Lanz-erlitgut ausgeführt. Der Motor hat in- und Leerlaufregler und Küpplung mit Riezenscheibe für Antrieb von lankwirtschaftlichen Anschäden. Die Kraftübortra- gung vom Motor nur die Ninterne se erfolgt durch gebrötete Zaim-

@@ -552,18 +552,7 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,12 +1,26 @@
-+Certainly!
-+Here
-+is
-+the
-+extracted
-+text
-+from
-+the
-+documents:
-+---
- TYPGUTACHTEN
+@@ -2,11 +2,15 @@
  über
  die
  Zugmaschine
@@ -582,7 +571,7 @@ Detaillierter Vergleich:
  der
  Firma
  Heinrich
-@@ -14,10 +28,11 @@
+@@ -14,10 +18,11 @@
  A
  N
  Z
@@ -596,7 +585,7 @@ Detaillierter Vergleich:
  wird
  in
  folgenden
-@@ -32,95 +47,89 @@
+@@ -32,95 +37,75 @@
  Sechsganggetriebe
  B:
  mit
@@ -714,20 +703,6 @@ Detaillierter Vergleich:
 -e)
 -Takt:
  Zweitakt
-+---
-+I
-+hope
-+this
-+helps!
-+Let
-+me
-+know
-+if
-+you
-+need
-+any
-+further
-+assistance.
 
 Durchlauf 2:
 Detaillierter Vergleich:

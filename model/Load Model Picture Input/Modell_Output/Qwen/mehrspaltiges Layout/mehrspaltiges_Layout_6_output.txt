@@ -1,6 +1,4 @@
-Certainly! Here is the text from the old document, formatted as you requested:
 
-```markdown
  General / Allgemeine Angaben
 
 0.1 Make (trade name of manufacturer) / Fabrikmarke des Herstellers: KIRCHHOFF Ecotec GmbH
@@ -26,4 +24,3 @@ Certainly! Here is the text from the old document, formatted as you requested:
 Feldhorst 4
 
 27711 Osterholz-Scharmbeck
-```

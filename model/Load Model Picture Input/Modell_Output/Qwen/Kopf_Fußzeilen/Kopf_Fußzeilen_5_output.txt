@@ -1,6 +1,4 @@
-Certainly! Here is the text from the image:
 
-```markdown
 1 The Eastgate Office Centre
 Eastgate Road
 Bristol BS6 6XX
@@ -15,4 +13,3 @@ VEHICLE CERTIFICATION AGENCY
 ECC type approval certificate
 
 of a type of vehicle with regard to Directive 92/61/EEC as last amended by 2000/7/EC
-```

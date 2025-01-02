@@ -1,6 +1,4 @@
-Sure, here is the text from the document:
 
-```
 Anbau Innenspiegel (Frontscheibe)
 Installation interior mirror (Windshield)
 
@@ -87,4 +85,3 @@ Blatt
 
 von
 0 3
-```

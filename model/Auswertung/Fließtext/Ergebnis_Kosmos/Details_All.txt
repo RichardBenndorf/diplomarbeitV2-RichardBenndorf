@@ -3,26 +3,13 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,7 +1,8 @@
+@@ -1,4 +1,4 @@
 -Korrosionsbeständigkeit
 +*Korrosionsbeständigkeit*
  (Resistance
  to
  corrosion)
-+&gt;
- Der
- Grundwerkstoff
- des
-@@ -21,6 +22,8 @@
- Beeinflussungen
- angesehen
- werden.
-+&gt;
-+&gt;
- The
- ground
- material
-@@ -53,15 +56,16 @@
+@@ -53,10 +53,10 @@
  outside
  environmental
  influences.
@@ -37,22 +24,7 @@ Detaillierter Vergleich:
  (Markings
  on
  the
- fuel
- tank)
-+&gt;
- Der
- Behälter
- ist
-@@ -78,6 +82,8 @@
- Kennzeichnung
- muß
- enthalten:
-+&gt;
-+&gt;
- The
- following
- markings
-@@ -105,35 +111,41 @@
+@@ -105,7 +105,7 @@
  on
  the
  vehicle:
@@ -61,8 +33,7 @@ Detaillierter Vergleich:
  Hersteller
  des
  Behälters
-+&gt;
- Manufacturer
+@@ -113,7 +113,7 @@
  of
  the
  tank
@@ -71,9 +42,7 @@ Detaillierter Vergleich:
  Herstellungsmonat
  und
  -jahr
-+&gt;
- Month
- and
+@@ -122,7 +122,7 @@
  year
  of
  manufacturing
@@ -82,8 +51,7 @@ Detaillierter Vergleich:
  Typ
  und/oder
  Handelsmarke
- ww./opt.
-+&gt;
+@@ -130,7 +130,7 @@
  Name
  and/or
  trademark
@@ -91,14 +59,8 @@ Detaillierter Vergleich:
 +1.
  TÜV-Kennzeichnung
  143XS0133
-+&gt;
  TÜV-marking
-+&gt;
-+&gt;
- Die
- Gebrauchsfähigkeit
- des
-@@ -145,7 +157,7 @@
+@@ -145,7 +145,7 @@
  wesentliche
  Teile
  des
@@ -107,16 +69,7 @@ Detaillierter Vergleich:
  die
  zu
  einer
-@@ -176,6 +188,8 @@
- Kraftfahrt
- GmbH
- einzuholen.
-+&gt;
-+&gt;
- If
- essential
- parts
-@@ -191,7 +205,7 @@
+@@ -191,7 +191,7 @@
  the
  fuel
  tank
@@ -131,38 +84,7 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,9 +1,12 @@
-+&gt;
- Throttle
- Body
- (TB)
- and
- fuel
- rail
-+&gt;
-+&gt;
- The
- Throttle
- Body,
-@@ -61,7 +64,11 @@
- the
- fuel
- tank.
-+&gt;
-+&gt;
- Sensors
-+&gt;
-+&gt;
- Five
- sensors
- provide
-@@ -88,12 +95,13 @@
- each
- sensor
- follows.
-+&gt;
-+&gt;
- Crankshaft
+@@ -92,8 +92,7 @@
  Position
  Sensor
  (CKP
@@ -172,16 +94,7 @@ Detaillierter Vergleich:
  The
  CKP
  Sensor
-@@ -152,6 +160,8 @@
- Center
- (TDC)
- reference.
-+&gt;
-+&gt;
- Coolant
- Temperature
- Sensor
-@@ -172,7 +182,7 @@
+@@ -172,7 +171,7 @@
  between
  the
  engine
@@ -190,23 +103,7 @@ Detaillierter Vergleich:
  This
  information
  is
-@@ -203,6 +213,8 @@
- injector
- pulse
- width.
-+&gt;
-+&gt;
- Intake
- Air
- Temperature
-@@ -249,13 +261,14 @@
- starting
- and
- warm-up.
-+&gt;
-+&gt;
- Manifold
- Air
+@@ -254,8 +253,7 @@
  Pressure
  Sensor
  (MAP
@@ -216,13 +113,7 @@ Detaillierter Vergleich:
  The
  MAP
  Sensor,
-@@ -278,12 +291,13 @@
- and
- spark
- timing.
-+&gt;
-+&gt;
- Throttle
+@@ -282,8 +280,7 @@
  Position
  Sensor
  (TP
@@ -232,16 +123,9 @@ Detaillierter Vergleich:
  The
  TP
  Sensor
-@@ -319,11 +333,14 @@
- and
- spark
- timing.
-+&gt;
-+&gt;
+@@ -322,8 +319,7 @@
  Other
  Features
-+&gt;
-+&gt;
  Wire
 -Harnesses
 --
@@ -249,13 +133,7 @@ Detaillierter Vergleich:
  There
  is
  a
-@@ -343,12 +360,13 @@
- main
- wire
- harness.
-+&gt;
-+&gt;
- Low
+@@ -347,8 +343,7 @@
  Level
  Fuel
  Warning
@@ -265,12 +143,8 @@ Detaillierter Vergleich:
  Since
  the
  fuel
-@@ -422,10 +440,11 @@
- inside
- the
+@@ -424,8 +419,7 @@
  tank.
-+&gt;
-+&gt;
  Fuses
  and
 -Relays
@@ -279,12 +153,9 @@ Detaillierter Vergleich:
  One
  electrical
  relay
-@@ -476,9 +495,10 @@
- contains
+@@ -477,8 +471,7 @@
  spare
  fuses.
-+&gt;
-+&gt;
  Air
 -Cleaner
 --
@@ -292,21 +163,8 @@ Detaillierter Vergleich:
  The
  air
  cleaner
-@@ -496,6 +516,8 @@
- of
- the
- cylinders.
-+&gt;
-+&gt;
- Check
- Engine
- Lamp-
-@@ -514,10 +536,12 @@
- a
- fault
+@@ -516,8 +509,8 @@
  condition.
-+&gt;
-+&gt;
  Data
  Link
 -Connector
@@ -316,7 +174,7 @@ Detaillierter Vergleich:
  EFI
  system
  provides
-@@ -594,4 +618,4 @@
+@@ -594,4 +587,4 @@
  Lamp
  or
  the
@@ -328,18 +186,17 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,7 +1,8 @@
+@@ -1,7 +1,7 @@
 -4
 +**4
  Schlussbescheinigung
  /
 -Certification
 +*Certification***
-+&gt;
  Der
  unter
  Nr.
-@@ -14,20 +15,31 @@
+@@ -14,20 +14,29 @@
  beschriebene
  Typ
  -
@@ -360,8 +217,6 @@ Detaillierter Vergleich:
  a.
  Prüfspezifikation.
 -The
-+&gt;
-+&gt;
 +*The
  information
  document
@@ -374,7 +229,7 @@ Detaillierter Vergleich:
  and
  the
  type
-@@ -35,15 +47,27 @@
+@@ -35,15 +44,25 @@
  therein
  are
  -
@@ -400,67 +255,48 @@ Detaillierter Vergleich:
  mentioned
 -above.
 +above.*
-+&gt;
-+&gt;
  Die
  verwendeten
  Prüfmuster
-@@ -62,7 +86,9 @@
+@@ -62,7 +81,7 @@
  repräsentativ
  (siehe
  1.1).
 -With
-+&gt;
-+&gt;
 +*With
  regard
  to
  the
-@@ -85,7 +111,9 @@
+@@ -85,7 +104,7 @@
  be
  approved
  (see
 -1.1).
 +1.1).*
-+&gt;
-+&gt;
  Dieser
  Prüfbericht
  umfasst
-@@ -96,6 +124,8 @@
- sowie
- die
- Anlagen.
-+&gt;
-+&gt;
- Dieser
- Prüfbericht
- darf
-@@ -126,7 +156,9 @@
+@@ -126,7 +145,7 @@
  des
  Prüflaboratoriums
  zulässig.
 -This
-+&gt;
-+&gt;
 +*This
  Test
  Report
  compromises
-@@ -135,8 +167,10 @@
+@@ -135,8 +154,8 @@
  to
  9
  and
 -attachments.
 -The
 +attachments.*
-+&gt;
-+&gt;
 +*The
  Test
  Report
  shall
-@@ -165,11 +199,13 @@
+@@ -165,11 +184,12 @@
  the
  Test
  Laboratory
@@ -473,17 +309,14 @@ Detaillierter Vergleich:
 +*TEST
 +LABORATORY*
 +====================================
-+&gt;
  benannt
  von
  der
-@@ -178,13 +214,15 @@
+@@ -178,13 +198,13 @@
  Kraftfahrt-Bundesamtes,
  Bundesrepublik
  Deutschland
 -designated
-+&gt;
-+&gt;
 +*designated
  by
  designation
@@ -502,26 +335,7 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,6 +1,9 @@
-+&gt;
- Motorradfertigung
- nach
- Eisenach.
-+&gt;
-+&gt;
- Im
- zweiten
- Weltkrieg
-@@ -23,6 +26,8 @@
- der
- Kali-Bergwerke
- versteckt.
-+&gt;
-+&gt;
- Das
- Werk
- sollte
-@@ -45,11 +50,10 @@
+@@ -45,11 +45,10 @@
  April
  rückten
  jedoch
@@ -536,16 +350,7 @@ Detaillierter Vergleich:
  Werk
  ein,
  noch
-@@ -58,6 +62,8 @@
- zur
- Sprengung
- kam.
-+&gt;
-+&gt;
- Im
- Rahmen
- der
-@@ -70,7 +76,7 @@
+@@ -70,7 +69,7 @@
  zum
  5.
  Juni
@@ -554,7 +359,7 @@ Detaillierter Vergleich:
  endgültig
  der
  sowjetischen
-@@ -80,10 +86,12 @@
+@@ -80,9 +79,9 @@
  übernahmen
  am
  03.Juli
@@ -564,12 +369,9 @@ Detaillierter Vergleich:
 -Eisenachers
 +Eisenacher
  Werk.
-+&gt;
-+&gt;
  Die
  Sowjets
- planten
-@@ -149,20 +157,22 @@
+@@ -149,14 +148,14 @@
  die
  gebauten
  R
@@ -586,15 +388,7 @@ Detaillierter Vergleich:
  daraufhin
  den
  Bau
- von
- weiteren
- Motorrädern.
-+&gt;
-+&gt;
- Um
- die
- durch
-@@ -205,7 +215,7 @@
+@@ -205,7 +204,7 @@
  Der
  Trick
  saß,
@@ -603,7 +397,7 @@ Detaillierter Vergleich:
  verlangte
  weitere
  fünf
-@@ -239,7 +249,7 @@
+@@ -239,7 +238,7 @@
  Maschinenfabrik
  Thüringen"
  war
@@ -612,7 +406,7 @@ Detaillierter Vergleich:
  drohende
  Demontage
  abgewendet.
-@@ -277,7 +287,8 @@
+@@ -277,7 +276,8 @@
  Produktion
  der
  BMW
@@ -622,16 +416,7 @@ Detaillierter Vergleich:
  zum
  zweiten
  Mal.
-@@ -290,6 +301,8 @@
- in
- die
- Sowjetunion.
-+&gt;
-+&gt;
- Mit
- der
- Verfügung
-@@ -302,7 +315,7 @@
+@@ -302,7 +302,7 @@
  im
  September
  1945
@@ -640,7 +425,7 @@ Detaillierter Vergleich:
  Betriebsanlagen
  enteignet
  worden.
-@@ -323,7 +336,7 @@
+@@ -323,7 +323,7 @@
  wurden:
  "Sie
  (die
@@ -649,19 +434,16 @@ Detaillierter Vergleich:
  sind
  nur
  zu
-@@ -362,8 +375,10 @@
- Aktiengesellschaft
+@@ -363,7 +363,7 @@
  Awtovelo
  eingegliedert.
-+&gt;
-+&gt;
  Die
 -Planwirtschaft
 +Umwirtschaft
  hatte
  also
  zugeschlagen.
-@@ -374,16 +389,16 @@
+@@ -374,16 +374,16 @@
  Jahr
  1945
  forderten
@@ -681,7 +463,7 @@ Detaillierter Vergleich:
  Jahre
  1946-48
  sind
-@@ -404,7 +419,7 @@
+@@ -404,7 +404,7 @@
  stieg
  die
  jährliche
@@ -696,7 +478,7 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,21 +1,22 @@
+@@ -1,21 +1,21 @@
  Nummer
  der
  Genehmigung:
@@ -714,7 +496,6 @@ Detaillierter Vergleich:
  complete
  variants
  :
-+&gt;
  Der
  Fahrzeugtyp
 -erfüllt
@@ -722,7 +503,7 @@ Detaillierter Vergleich:
  die
  technischen
  Anforderungen
-@@ -26,13 +27,15 @@
+@@ -26,13 +26,13 @@
  IV
  der
  Richtlinie
@@ -730,8 +511,6 @@ Detaillierter Vergleich:
 +2007/46/EG
  vorgeschriebenen
  Rechtsakte.
-+&gt;
-+&gt;
  The
  vehicle
  type
@@ -740,7 +519,7 @@ Detaillierter Vergleich:
  the
  technical
  requirements
-@@ -50,31 +53,33 @@
+@@ -50,31 +50,32 @@
  to
  Directive
  2007/46/EC.
@@ -760,7 +539,6 @@ Detaillierter Vergleich:
 -erfüllt
 -die
 -technische
-+&gt;
 +Der
 +Fahrzeugtyp
 +**erfüllt**
@@ -783,7 +561,7 @@ Detaillierter Vergleich:
  the
  technical
  requirements
-@@ -94,7 +99,7 @@
+@@ -94,7 +95,7 @@
  mehrere
  unvollständige
  Varianten
@@ -792,7 +570,7 @@ Detaillierter Vergleich:
  Versionen,
  so
  sind
-@@ -106,7 +111,7 @@
+@@ -106,7 +107,7 @@
  bzw.
  Versionen
  anzugeben.
@@ -801,7 +579,7 @@ Detaillierter Vergleich:
  In
  the
  case
-@@ -127,23 +132,23 @@
+@@ -127,23 +128,23 @@
  complete
  or
  completed.
@@ -830,7 +608,7 @@ Detaillierter Vergleich:
  Aufstellung
  der
  für
-@@ -198,7 +203,7 @@
+@@ -198,7 +199,7 @@
  each
  of
  the

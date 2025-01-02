@@ -1,24 +1,24 @@
 **4 Schlussbescheinigung / *Certification***
 
-&gt; Der unter Nr. 0.5 angegebene Beschreibungsbogen und der darin beschriebene Typ - e n t s p r i c h t - der o. a. Prüfspezifikation.
-&gt;
-&gt; *The information document as mentioned under No. 0.5 and the type described therein are - i n c o m p l i a n c e - with the test specification mentioned above.*
-&gt;
-&gt; Die verwendeten Prüfmuster waren im Hinblick auf das erforderliche Leistungsniveau für den zu genehmigenden Typ repräsentativ (siehe 1.1).
-&gt;
-&gt; *With regard to the required level of performance to be achieved, the tested items were representative for the type to be approved (see 1.1).*
-&gt;
-&gt; Dieser Prüfbericht umfasst Blatt 1 bis 9 sowie die Anlagen.
-&gt;
-&gt; Dieser Prüfbericht darf nur vom Auftraggeber und nur in vollem Wortlaut vervielfältigt und weitergegeben werden. Eine auszugsweise Vervielfältigung und Veröffentlichung des Prüfberichtes ist nur nach schriftlicher Genehmigung des Prüflaboratoriums zulässig.
-&gt;
-&gt; *This Test Report compromises pages 1 to 9 and attachments.*
-&gt;
-&gt; *The Test Report shall be reproduced and published in full only and by the client only. It shall be reproduced partially with the written permission of the Test Laboratory only.*
+  Der unter Nr. 0.5 angegebene Beschreibungsbogen und der darin beschriebene Typ - e n t s p r i c h t - der o. a. Prüfspezifikation.
+ 
+  *The information document as mentioned under No. 0.5 and the type described therein are - i n c o m p l i a n c e - with the test specification mentioned above.*
+ 
+  Die verwendeten Prüfmuster waren im Hinblick auf das erforderliche Leistungsniveau für den zu genehmigenden Typ repräsentativ (siehe 1.1).
+ 
+  *With regard to the required level of performance to be achieved, the tested items were representative for the type to be approved (see 1.1).*
+ 
+  Dieser Prüfbericht umfasst Blatt 1 bis 9 sowie die Anlagen.
+ 
+  Dieser Prüfbericht darf nur vom Auftraggeber und nur in vollem Wortlaut vervielfältigt und weitergegeben werden. Eine auszugsweise Vervielfältigung und Veröffentlichung des Prüfberichtes ist nur nach schriftlicher Genehmigung des Prüflaboratoriums zulässig.
+ 
+  *This Test Report compromises pages 1 to 9 and attachments.*
+ 
+  *The Test Report shall be reproduced and published in full only and by the client only. It shall be reproduced partially with the written permission of the Test Laboratory only.*
 
 PRÜFLABORATORIUM / *TEST LABORATORY*
 ====================================
 
-&gt; benannt von der Benennungsstelle des Kraftfahrt-Bundesamtes, Bundesrepublik Deutschland
-&gt;
-&gt; *designated by designation department of Kraftfahrt-Bundesamt, Federal Republic of Germany*
+  benannt von der Benennungsstelle des Kraftfahrt-Bundesamtes, Bundesrepublik Deutschland
+ 
+  *designated by designation department of Kraftfahrt-Bundesamt, Federal Republic of Germany*

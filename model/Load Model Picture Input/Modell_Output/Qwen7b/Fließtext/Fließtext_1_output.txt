@@ -1,6 +1,3 @@
-Sure, here is the text from the document you provided:
-
-```
 Collateral clauses and instruction on right to appeal
 
 Collateral Clauses
@@ -24,4 +21,3 @@ The conferred authority contained with issuance of this approval is not transfer
 Instruction on right of appeal
 
 This approval can be appealed within one month after notification. The appeal is to file in writing or as a transcript at the Kraftfhrt-Bunestamt, Fordestra 16, DE-24944 Flensburg.
-```

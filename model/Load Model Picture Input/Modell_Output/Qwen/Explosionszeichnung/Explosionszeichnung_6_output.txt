@@ -1,6 +1,4 @@
-The text from your image is:
 
-```plaintext
 Nr. No. Feld Section Datum Date gean- dert Ge- m eht Appr. Beschreibung der Aenderung Aenderungssternschiessel Revision record and Change date code
 26.01.17 MAF Neu fuer 17V196P
 1 2 3 4 5 6 7 8 9
@@ -21,4 +19,3 @@ Catia V5 R24
 Konstruktions- Verantwortung/ Design Resp. Name Krollig
 Abt./Dept. NE-GP/D Tel. 30422
 Ges./Drawn Krolli
-```

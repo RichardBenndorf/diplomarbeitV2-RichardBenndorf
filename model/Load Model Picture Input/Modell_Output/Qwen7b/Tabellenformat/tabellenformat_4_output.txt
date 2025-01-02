@@ -1,4 +1,3 @@
-Sure, here is the table from the old document with the multi-columns layout correctly displayed:
 
 | Component | Fault code | Monitoring strategy | Fault detection criteria | MI activation criteria | Secondary parameters | Preconditioning | Demonstration test |
 |-----------|------------|---------------------|-------------------------|------------------------|----------------------|-----------------|------------------|
@@ -21,5 +20,3 @@ Power Limit Violat ion | P5105 Continuous | Measured MAP_Load exceeds expected M
 ET C Limited Performance Mo de | P610 Continuous | This DTC is set to indicate the vehicle is operating in Limited Performance Mod e. | Ign ign ition C ycle I dl el e Cy cycle
 ETC Power Management Mo de  | P711 Continuous | T his DTC i s set to indicat e the vehicle i s operating i n Power Management Mod e . | Ignign ition Cycle I dl le Cy ccle
 ET  C Forced Idle Mode | P812 Continuous | Th is DTC  i s se t to indic at e the vehic le i s operat ing i n Forc ed I d le Mod e | Ignig ition Cycl e I d I le Cy cl el e
-
-Please note that the table has been formatted to match the original layout as closely as possible, but some text may have been truncated or cut off due to the constraints of the text editor.

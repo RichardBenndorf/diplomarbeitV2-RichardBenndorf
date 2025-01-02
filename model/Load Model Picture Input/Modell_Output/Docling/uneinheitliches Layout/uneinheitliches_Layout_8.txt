@@ -8,4 +8,3 @@ Schrifthohe / letter hight: 2 7mm
 
 ## AUFBAU DER NUMMER / STRUCTURE OF NUMBER:
 
-<!-- image -->

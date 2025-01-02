@@ -376,8 +376,7 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,151 +1,164 @@
-+&gt;
+@@ -1,151 +1,157 @@
  Allgemeine
  Beschreibung
  der
@@ -389,8 +388,6 @@ Detaillierter Vergleich:
 -(Ackerschlepper)
 +im
 +Bulling
-+&gt;
-+&gt;
 +(Acherschlepper)
  Ausführung
 -8506
@@ -399,8 +396,6 @@ Detaillierter Vergleich:
  A
  und
  B
-+&gt;
-+&gt;
  Der
  35
 -PS
@@ -422,7 +417,6 @@ Detaillierter Vergleich:
 +1
 +85.6
 +A*
-+&gt;
  Der
  Schlepper
  besitzt
@@ -578,7 +572,6 @@ Detaillierter Vergleich:
  Gänge
 -gesperrt
 +gesperrt*
-+&gt;
  Der
  Schlepper
  wird
@@ -598,7 +591,7 @@ Detaillierter Vergleich:
  Damit
  er
  nicht
-@@ -156,23 +169,24 @@
+@@ -156,23 +162,24 @@
  entwickeln
  kann,
  wurden
@@ -629,13 +622,11 @@ Detaillierter Vergleich:
  sind
  die
  gleichen
-@@ -184,10 +198,12 @@
+@@ -184,10 +191,10 @@
  die
  Ingangsetzung,
  die
 -Kupplung,
-+&gt;
-+&gt;
 +Küpplung,
  die
  Kühlung,
@@ -644,18 +635,16 @@ Detaillierter Vergleich:
  Schmierung,
  der
  Aufbau,
-@@ -202,7 +218,9 @@
+@@ -202,7 +209,7 @@
  gleichen
  wie
  unter
 -l
 +1
-+&gt;
-+&gt;
  Die
  zwei
  Ausführungen
-@@ -214,34 +232,36 @@
+@@ -214,34 +221,36 @@
  und
  Getriebe
  sind
@@ -715,7 +704,7 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,19 +1,21 @@
+@@ -1,6 +1,6 @@
  18.)
  Kraftübertragung:
 -a)
@@ -723,10 +712,7 @@ Detaillierter Vergleich:
  Art:
  Motor,
  Zweischeibenkupplung,
-+&gt;
- Zwischenräder,
- Sechsganggetriebe,
- Hinterachse
+@@ -10,7 +10,7 @@
  mit
  Kegelradausgleichgetriebe,
  Hinterräder
@@ -735,11 +721,7 @@ Detaillierter Vergleich:
  Übersetzung:
  Zwischenräder
  0,866
-+&gt;
- Getriebe:
- 1.
- Gang
-@@ -27,60 +29,65 @@
+@@ -27,30 +27,31 @@
  R.1
  "
  7,65
@@ -771,7 +753,6 @@ Detaillierter Vergleich:
 -Schalthebel
 -nicht
 -vorhanden
-+&gt;
  Hinterachse:
  4,21
  19.)
@@ -782,8 +763,7 @@ Detaillierter Vergleich:
  Kegelige
  Haube
  mit
- gelochtem
-+&gt;
+@@ -58,20 +59,20 @@
  Prallteller
  und
  Siebeinsatz,
@@ -795,7 +775,6 @@ Detaillierter Vergleich:
 -Fassungsvermögen
 +Passungsvormögen
  des
-+&gt;
  Kraftstoffbehälters
  90
  ltr
@@ -808,10 +787,8 @@ Detaillierter Vergleich:
 +(Sonz.n)
  22.)
  Bemerkungen:
-+&gt;
  Zu
- Ziffer
- 4)
+@@ -80,7 +81,7 @@
  a)
  Eigengewicht
  des
@@ -820,7 +797,7 @@ Detaillierter Vergleich:
  Das
  Eigengewicht
  des
-@@ -95,7 +102,7 @@
+@@ -95,7 +96,7 @@
  60
  kg
  einer
@@ -829,7 +806,7 @@ Detaillierter Vergleich:
  um
  30
  kg
-@@ -105,13 +112,16 @@
+@@ -105,13 +106,16 @@
  um
  50
  kg
@@ -855,7 +832,7 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,12 +1,29 @@
+@@ -1,12 +1,28 @@
 -TYPGUTACHTEN
 -über
 +T
@@ -871,7 +848,6 @@ Detaillierter Vergleich:
 +E
 +N
 +================================
-+&gt;
 +Über
  die
  Zugmaschine
@@ -891,7 +867,7 @@ Detaillierter Vergleich:
  der
  Firma
  Heinrich
-@@ -14,7 +31,8 @@
+@@ -14,7 +30,8 @@
  A
  N
  Z
@@ -901,20 +877,7 @@ Detaillierter Vergleich:
  Mannheim
  Die
  Zugmaschine
-@@ -23,6 +41,7 @@
- folgenden
- Ausführungen
- hergestellt:
-+&gt;
- D
- 8506
- A:
-@@ -30,10 +49,12 @@
- Luftbereifung,
- mit
- Sechsganggetriebe
-+&gt;
-+&gt;
+@@ -33,7 +50,7 @@
  B:
  mit
  Eisenbereifung,
@@ -923,7 +886,7 @@ Detaillierter Vergleich:
  3
  Gänge
  arretiert
-@@ -42,20 +63,25 @@
+@@ -42,20 +59,20 @@
  können
  mit
  nachstehenden
@@ -932,18 +895,13 @@ Detaillierter Vergleich:
 +Zusatsteilen
 +ausgerüst
  werden:
-+&gt;
  Fahrersitzdach
 -Kotflügel
 -vorn
 -und
 -hinten
-+&gt;
-+&gt;
  Windschutzscheibe
 -Zapfwelle
-+&gt;
-+&gt;
  Kotflügel
  an
  den
@@ -957,7 +915,7 @@ Detaillierter Vergleich:
  Für
  den
  35
-@@ -64,49 +90,55 @@
+@@ -64,42 +81,45 @@
  gelten
  im
  Übrigen
@@ -1018,17 +976,7 @@ Detaillierter Vergleich:
  Hubraum:
  10338
  cm3
-+&gt;
- Zahl
- der
- Zylinder:
- 1
-+&gt;
-+&gt;
- Durchmesser
- des
- Zylinders:
-@@ -115,12 +147,12 @@
+@@ -115,12 +135,12 @@
  Kolbenhub:
  260
  mm
@@ -1049,7 +997,7 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,9 +1,10 @@
+@@ -1,9 +1,9 @@
 -Ausführung
 -A
 +Ausfährmg
@@ -1057,14 +1005,13 @@ Detaillierter Vergleich:
  mit
 -Luftreifen
 +Auftreifen
-+&gt;
  Die
 -Zugmaschine
 +Zugnasciine
  ist
  von
  der
-@@ -11,87 +12,20 @@
+@@ -11,87 +11,20 @@
  der
  Vorschrift
  des
@@ -1155,7 +1102,7 @@ Detaillierter Vergleich:
  aus
  sowie
  von
-@@ -100,79 +34,151 @@
+@@ -100,79 +33,143 @@
  der
  Vorschrift
  des
@@ -1186,8 +1133,6 @@ Detaillierter Vergleich:
 -hinsichtlich
 +hinrichtlich
 +der
-+&gt;
-+&gt;
 +Sozialwerferhöhe
 +nur
 +den
@@ -1205,7 +1150,6 @@ Detaillierter Vergleich:
 +mit
 +eisernen
 +Reifen
-+&gt;
 +Die
 +Zugnasciine
 +ist
@@ -1291,7 +1235,6 @@ Detaillierter Vergleich:
 -Nachtrag
 -zu
 +entsprechender
-+&gt;
 +Rechtreg
 +an
  der
@@ -1301,8 +1244,6 @@ Detaillierter Vergleich:
  zu
 -beantragen.
 +besatragen.
-+&gt;
-+&gt;
  Die
  auf
  der
@@ -1310,8 +1251,6 @@ Detaillierter Vergleich:
  Betriebserlaubnis
  ruhenden
 -Befugnisse
-+&gt;
-+&gt;
 +Rechtsses
  erlöschen
  mit
@@ -1341,11 +1280,10 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,47 +1,59 @@
+@@ -1,41 +1,43 @@
  D
 -8506
 +8906
-+&gt;
  Zu
  Ziffer
  7)
@@ -1354,8 +1292,6 @@ Detaillierter Vergleich:
 -Aufbaus:
 -Wird
 +Aufbous:
-+&gt;
-+&gt;
 +wird
  das
  Fahrzeug
@@ -1371,8 +1307,6 @@ Detaillierter Vergleich:
  ändert
  sich:
 -c)
-+&gt;
-+&gt;
 +a\)
  bei
  Zugmaschinen:
@@ -1386,15 +1320,11 @@ Detaillierter Vergleich:
 -Ziffer.8)
 -Maße
 +Seitezteilen
-+&gt;
-+&gt;
 +Zu
 +Ziff.8)
 +Haag
  über
  alles:
-+&gt;
-+&gt;
  Bei
 -Ausstattung
 +Ausrustung
@@ -1409,14 +1339,7 @@ Detaillierter Vergleich:
  Angaben:
  Länge:
  3408
- mm
- 3390
- mm
-+&gt;
- Höhe:
- 2452
- mm
-@@ -49,17 +61,18 @@
+@@ -49,17 +51,17 @@
  Anbau
  von
  Kotflügeln
@@ -1428,7 +1351,6 @@ Detaillierter Vergleich:
 -1785
 +1705
  mm
-+&gt;
  Der
  Fahrzeugtyp
 -entspricht
@@ -1439,7 +1361,7 @@ Detaillierter Vergleich:
  nur
  den
  Vorschriften
-@@ -72,33 +85,38 @@
+@@ -72,33 +74,33 @@
  Betrieben:
  Scheinwerferhöhe
  über
@@ -1456,19 +1378,14 @@ Detaillierter Vergleich:
 +(
  36,4
  StVZO)
-+&gt;
  Scheinwerferhöhe
  über
  Fahrbahn
 -(§50,
 -3
-+&gt;
-+&gt;
 +(
 +50,3
  StVZO)
-+&gt;
-+&gt;
  Der
  Fahrzeugtyp
 -entspricht
@@ -1487,7 +1404,7 @@ Detaillierter Vergleich:
  sowie
  den
  hierzu
-@@ -107,14 +125,17 @@
+@@ -107,14 +109,15 @@
  des
  Reichsverkehrsministers
  mit
@@ -1495,8 +1412,6 @@ Detaillierter Vergleich:
 +fol-
 +genden
  Ausnahmen:
-+&gt;
-+&gt;
  1.)
  Die
  in
@@ -1507,7 +1422,7 @@ Detaillierter Vergleich:
  eingebaute
  Absperrvorrichtung
  ist
-@@ -122,24 +143,29 @@
+@@ -122,20 +125,21 @@
  Fahrersitz
  aus
  nicht
@@ -1519,8 +1434,6 @@ Detaillierter Vergleich:
 +46,2
  StVZO
  )
-+&gt;
-+&gt;
  2.)
  Fahrgeräusch
  und
@@ -1537,29 +1450,18 @@ Detaillierter Vergleich:
  u.
  2
  StVZO
- )
-+&gt;
-+&gt;
- 3.)
- Bei
- den
-@@ -150,7 +176,9 @@
+@@ -150,7 +154,7 @@
  der
  Abstand
  der
 -Schlußlichter
-+&gt;
-+&gt;
 +Schluslichter
  voneinander
  100
  cm
-@@ -158,7 +186,8 @@
- mindestens
+@@ -159,6 +163,5 @@
  110
  cm
-+&gt;
-+&gt;
  (
 -§
  53,1
@@ -1570,10 +1472,9 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,41 +1,46 @@
+@@ -1,41 +1,44 @@
 -...
  Ausfertigung
-+&gt;
  Allgemeine
  Betriebserlaubnis
  Nr.
@@ -1596,7 +1497,6 @@ Detaillierter Vergleich:
 -in
 -Mannheim
 +Acker-
-+&gt;
 +bulldog
 +D
 +8506
@@ -1635,7 +1535,7 @@ Detaillierter Vergleich:
  vom
  4.
  November
-@@ -47,7 +52,7 @@
+@@ -47,7 +50,7 @@
  gefertigten
  Zugmaschinen
  (Ackerschlepper)
@@ -1644,7 +1544,7 @@ Detaillierter Vergleich:
  35
  PS
  Ackerbulldog
-@@ -59,13 +64,12 @@
+@@ -59,13 +62,12 @@
  Lanz
  AG
  in
@@ -1659,18 +1559,15 @@ Detaillierter Vergleich:
  20
  Abs.
  1
-@@ -86,9 +90,9 @@
- 1937
- (StVZO)
+@@ -88,7 +90,6 @@
  erteilt.
-+&gt;
  Die
  Zugmaschinen
 -en
  Typ
  35
  PS
-@@ -98,30 +102,35 @@
+@@ -98,30 +99,31 @@
  werden
  in
  folgenden
@@ -1680,15 +1577,11 @@ Detaillierter Vergleich:
 +AusfÜhrungen
 +hergestellt
 +:
-+&gt;
-+&gt;
 +AusfÜhrung
  A
  mit
  Luftbereifung,
 -Ausführung
-+&gt;
-+&gt;
 +AusfÜhrung
  B
  mit
@@ -1714,7 +1607,7 @@ Detaillierter Vergleich:
  Ackerbulldog
  D
  8506
-@@ -130,18 +139,17 @@
+@@ -130,18 +132,17 @@
  Heinrich
  Lanz
  AG,
@@ -1739,7 +1632,7 @@ Detaillierter Vergleich:
  über
  die
  Bedienbarkeit
-@@ -150,17 +158,17 @@
+@@ -150,17 +151,17 @@
  in
  der
  Kraftstoffleitung
@@ -1760,7 +1653,7 @@ Detaillierter Vergleich:
  Abs.
  1
  und
-@@ -173,7 +181,7 @@
+@@ -173,7 +174,7 @@
  des
  Fahrgeräusches
  freigestellt.
@@ -1769,7 +1662,7 @@ Detaillierter Vergleich:
  Der
  Hersteller
  hat
-@@ -195,7 +203,7 @@
+@@ -195,7 +196,7 @@
  die
  Beschaffenheit
  des
@@ -1778,7 +1671,7 @@ Detaillierter Vergleich:
  und
  dessen
  Übereinstimmung
-@@ -204,9 +212,9 @@
+@@ -204,9 +205,9 @@
  genehmigten
  Typ
  zu
@@ -1790,7 +1683,7 @@ Detaillierter Vergleich:
  für
  die
  Briefe
-@@ -221,16 +229,16 @@
+@@ -221,16 +222,16 @@
  des
  vereinigten
  Wirtschaftsgebietes
@@ -1810,7 +1703,7 @@ Detaillierter Vergleich:
  -
  10,
  zu
-@@ -255,7 +263,7 @@
+@@ -255,7 +256,7 @@
  Lanz
  AG
  in

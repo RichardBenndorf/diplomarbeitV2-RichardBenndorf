@@ -1,6 +1,4 @@
-Sure, here is the text from the document:
 
-```
 front master cylinder Ø 11mm
 ABS modulator Bosch 0MP
 brake disk rear Ø 240mm
@@ -25,4 +23,3 @@ rear break calliper
 front master cilinder Ø 7mm
 front wheel speed senser
 front break callipir
-```

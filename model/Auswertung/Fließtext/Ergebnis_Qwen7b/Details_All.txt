@@ -3,22 +3,7 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,3 +1,14 @@
-+Sure,
-+here
-+is
-+the
-+text
-+from
-+the
-+document
-+you
-+provided:
-+```
- Korrosionsbeständigkeit
- (Resistance
- to
-@@ -34,7 +45,7 @@
+@@ -34,7 +34,7 @@
  materials
  of
  the
@@ -27,7 +12,7 @@ Detaillierter Vergleich:
  parts
  are
  to
-@@ -61,7 +72,7 @@
+@@ -61,7 +61,7 @@
  on
  the
  fuel
@@ -36,7 +21,7 @@ Detaillierter Vergleich:
  Der
  Behälter
  ist
-@@ -75,7 +86,7 @@
+@@ -75,7 +75,7 @@
  zu
  kennzeichnen.
  Die
@@ -45,7 +30,7 @@ Detaillierter Vergleich:
  muß
  enthalten:
  The
-@@ -87,7 +98,7 @@
+@@ -87,7 +87,7 @@
  to
  the
  fuel
@@ -54,7 +39,7 @@ Detaillierter Vergleich:
  it
  shall
  be
-@@ -108,7 +119,7 @@
+@@ -108,7 +108,7 @@
  a)
  Hersteller
  des
@@ -63,7 +48,7 @@ Detaillierter Vergleich:
  Manufacturer
  of
  the
-@@ -126,14 +137,13 @@
+@@ -126,14 +126,13 @@
  Typ
  und/oder
  Handelsmarke
@@ -79,7 +64,7 @@ Detaillierter Vergleich:
  Die
  Gebrauchsfähigkeit
  des
-@@ -154,13 +164,13 @@
+@@ -154,13 +153,13 @@
  Einbauverhältnisse
  führen,
  die
@@ -99,7 +84,7 @@ Detaillierter Vergleich:
  oder
  das
  Herstellungsverfahren
-@@ -171,8 +181,7 @@
+@@ -171,8 +170,7 @@
  ein
  Nachtragsgutachten
  der
@@ -109,7 +94,7 @@ Detaillierter Vergleich:
  Kraftfahrt
  GmbH
  einzuholen.
-@@ -189,8 +198,8 @@
+@@ -189,8 +187,8 @@
  installation
  of
  the
@@ -120,7 +105,7 @@ Detaillierter Vergleich:
  -
  or
  material,
-@@ -201,7 +210,7 @@
+@@ -201,7 +199,7 @@
  mounting
  of
  the
@@ -129,7 +114,7 @@ Detaillierter Vergleich:
  have
  been
  changed,
-@@ -210,9 +219,12 @@
+@@ -210,9 +208,11 @@
  approval
  by
  the
@@ -144,26 +129,14 @@ Detaillierter Vergleich:
  GmbH
  is
  necessary.
-+```
 
 Durchlauf 5:
 Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,9 +1,20 @@
+@@ -1,9 +1,9 @@
 -Throttle
-+Sure,
-+here
-+is
-+the
-+text
-+from
-+the
-+document
-+you
-+provided:
-+---
 +**Throttle
  Body
  (TB)
@@ -174,7 +147,7 @@ Detaillierter Vergleich:
  The
  Throttle
  Body,
-@@ -27,8 +38,7 @@
+@@ -27,8 +27,7 @@
  The
  TB
  and
@@ -184,7 +157,7 @@ Detaillierter Vergleich:
  houses
  the
  fuel
-@@ -61,7 +71,7 @@
+@@ -61,7 +60,7 @@
  the
  fuel
  tank.
@@ -193,7 +166,7 @@ Detaillierter Vergleich:
  Five
  sensors
  provide
-@@ -88,11 +98,11 @@
+@@ -88,11 +87,11 @@
  each
  sensor
  follows.
@@ -207,7 +180,7 @@ Detaillierter Vergleich:
  -
  The
  CKP
-@@ -152,11 +162,11 @@
+@@ -152,11 +151,11 @@
  Center
  (TDC)
  reference.
@@ -221,7 +194,7 @@ Detaillierter Vergleich:
  The
  ET
  Sensor
-@@ -172,7 +182,7 @@
+@@ -172,7 +171,7 @@
  between
  the
  engine
@@ -230,7 +203,7 @@ Detaillierter Vergleich:
  This
  information
  is
-@@ -203,10 +213,10 @@
+@@ -203,10 +202,10 @@
  injector
  pulse
  width.
@@ -243,7 +216,7 @@ Detaillierter Vergleich:
  (IAT
  Sensor)-
  Located
-@@ -249,13 +259,13 @@
+@@ -249,13 +248,13 @@
  starting
  and
  warm-up.
@@ -262,7 +235,7 @@ Detaillierter Vergleich:
  The
  MAP
  Sensor,
-@@ -263,7 +273,7 @@
+@@ -263,7 +262,7 @@
  on
  the
  front
@@ -271,7 +244,7 @@ Detaillierter Vergleich:
  intake,
  monitors
  manifold
-@@ -275,24 +285,21 @@
+@@ -275,24 +274,21 @@
  load
  for
  fuel
@@ -303,7 +276,7 @@ Detaillierter Vergleich:
  throttle
  body
  and
-@@ -307,8 +314,7 @@
+@@ -307,8 +303,7 @@
  It
  provides
  the
@@ -313,7 +286,7 @@ Detaillierter Vergleich:
  information
  about
  throttle
-@@ -316,13 +322,13 @@
+@@ -316,13 +311,13 @@
  for
  transient
  fuel
@@ -333,7 +306,7 @@ Detaillierter Vergleich:
  -
  There
  is
-@@ -332,8 +338,7 @@
+@@ -332,8 +327,7 @@
  harness.
  There
  is
@@ -343,7 +316,7 @@ Detaillierter Vergleich:
  small
  engine
  harness
-@@ -343,11 +348,11 @@
+@@ -343,11 +337,11 @@
  main
  wire
  harness.
@@ -357,7 +330,7 @@ Detaillierter Vergleich:
  -
  Since
  the
-@@ -399,8 +404,7 @@
+@@ -399,8 +393,7 @@
  fuel
  is
  added.
@@ -367,7 +340,7 @@ Detaillierter Vergleich:
  is
  designed
  so
-@@ -422,9 +426,9 @@
+@@ -422,9 +415,9 @@
  inside
  the
  tank.
@@ -380,7 +353,7 @@ Detaillierter Vergleich:
  -
  One
  electrical
-@@ -476,16 +480,15 @@
+@@ -476,16 +469,15 @@
  contains
  spare
  fuses.
@@ -400,7 +373,7 @@ Detaillierter Vergleich:
  air
  box.
  It
-@@ -496,9 +499,9 @@
+@@ -496,9 +488,9 @@
  of
  the
  cylinders.
@@ -412,7 +385,7 @@ Detaillierter Vergleich:
  The
  Check
  Engine
-@@ -514,9 +517,9 @@
+@@ -514,9 +506,9 @@
  a
  fault
  condition.
@@ -424,7 +397,7 @@ Detaillierter Vergleich:
  -The
  EFI
  system
-@@ -545,8 +548,7 @@
+@@ -545,8 +537,7 @@
  Scanalyzer
  is
  connected
@@ -434,7 +407,7 @@ Detaillierter Vergleich:
  ECM
  and
  allows
-@@ -554,8 +556,7 @@
+@@ -554,8 +545,7 @@
  an
  in-depth
  diagnosis.
@@ -444,7 +417,7 @@ Detaillierter Vergleich:
  other
  mode,
  a
-@@ -568,8 +569,7 @@
+@@ -568,8 +558,7 @@
  the
  technician.
  The
@@ -454,7 +427,7 @@ Detaillierter Vergleich:
  a
  code
  that
-@@ -589,9 +589,19 @@
+@@ -589,8 +578,7 @@
  of
  either
  the
@@ -464,41 +437,13 @@ Detaillierter Vergleich:
  Lamp
  or
  the
- Scanalyser.
-+---
-+Please
-+let
-+me
-+know
-+if
-+you
-+need
-+any
-+further
-+assistance.
 
 Durchlauf 6:
 Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,3 +1,15 @@
-+Sure,
-+here
-+is
-+the
-+text
-+from
-+the
-+document
-+exactly
-+as
-+is:
-+```
- 4
- Schlussbescheinigung
- /
-@@ -85,7 +97,7 @@
+@@ -85,7 +85,7 @@
  be
  approved
  (see
@@ -507,7 +452,7 @@ Detaillierter Vergleich:
  Dieser
  Prüfbericht
  umfasst
-@@ -96,8 +108,18 @@
+@@ -96,8 +96,18 @@
  sowie
  die
  Anlagen.
@@ -527,7 +472,7 @@ Detaillierter Vergleich:
  darf
  nur
  vom
-@@ -113,29 +135,19 @@
+@@ -113,29 +123,19 @@
  werden.
  Eine
  auszugsweise
@@ -560,7 +505,7 @@ Detaillierter Vergleich:
  The
  Test
  Report
-@@ -155,7 +167,6 @@
+@@ -155,7 +155,6 @@
  It
  shall
  be
@@ -568,31 +513,13 @@ Detaillierter Vergleich:
  partially
  with
  the
-@@ -188,3 +199,4 @@
- Republic
- of
- Germany
-+```
 
 Durchlauf 8:
 Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,3 +1,12 @@
-+Sure,
-+here
-+is
-+the
-+text
-+from
-+the
-+image:
-+```
- Motorradfertigung
- nach
- Eisenach.
-@@ -96,7 +105,7 @@
+@@ -96,7 +96,7 @@
  versteckten
  Teile
  und
@@ -601,7 +528,7 @@ Detaillierter Vergleich:
  wurden
  schnell
  entdeckt.
-@@ -104,7 +113,7 @@
+@@ -104,7 +104,7 @@
  standen
  bei
  den
@@ -610,7 +537,7 @@ Detaillierter Vergleich:
  hoch
  im
  Kurs
-@@ -144,7 +153,7 @@
+@@ -144,7 +144,7 @@
  hergestellt
  werden.
  Die
@@ -619,7 +546,7 @@ Detaillierter Vergleich:
  erprobten
  die
  gebauten
-@@ -162,7 +171,7 @@
+@@ -162,7 +162,7 @@
  Bau
  von
  weiteren
@@ -628,7 +555,7 @@ Detaillierter Vergleich:
  Um
  die
  durch
-@@ -170,7 +179,7 @@
+@@ -170,7 +170,7 @@
  Demontagebefehl
  weiterhin
  drohende
@@ -637,7 +564,7 @@ Detaillierter Vergleich:
  abzuwenden,
  versuchten
  der
-@@ -182,15 +191,15 @@
+@@ -182,15 +182,15 @@
  Siedler,
  und
  seine
@@ -656,7 +583,7 @@ Detaillierter Vergleich:
  wurde
  Marschall
  Georgi
-@@ -198,7 +207,7 @@
+@@ -198,7 +198,7 @@
  die
  letzte
  intakte
@@ -665,7 +592,7 @@ Detaillierter Vergleich:
  BMW
  321-Limousine
  vorgeführt.
-@@ -220,7 +229,7 @@
+@@ -220,7 +220,7 @@
  gelang
  und
  mit
@@ -674,7 +601,7 @@ Detaillierter Vergleich:
  Nummer
  93
  zur
-@@ -231,17 +240,17 @@
+@@ -231,17 +231,17 @@
  neuen
  Personenkraftwagen
  und
@@ -697,7 +624,7 @@ Detaillierter Vergleich:
  abgewendet.
  Jährlich
  sollten
-@@ -249,7 +258,7 @@
+@@ -249,7 +249,7 @@
  PKW
  des
  Typs
@@ -706,7 +633,7 @@ Detaillierter Vergleich:
  und
  die
  gleiche
-@@ -258,11 +267,11 @@
+@@ -258,11 +258,11 @@
  Motorrädern
  Typ
  R
@@ -720,7 +647,7 @@ Detaillierter Vergleich:
  zur
  Fahrzeugherstellung
  kamen
-@@ -271,7 +280,7 @@
+@@ -271,7 +271,7 @@
  Werk,
  im
  November
@@ -729,7 +656,7 @@ Detaillierter Vergleich:
  begann
  die
  Produktion
-@@ -282,14 +291,14 @@
+@@ -282,14 +282,14 @@
  zweiten
  Mal.
  Diese
@@ -746,7 +673,7 @@ Detaillierter Vergleich:
  Mit
  der
  Verfügung
-@@ -297,11 +306,12 @@
+@@ -297,11 +297,12 @@
  Präsidenten
  des
  Landes
@@ -761,7 +688,7 @@ Detaillierter Vergleich:
  alle
  Betriebsanlagen
  enteignet
-@@ -315,7 +325,8 @@
+@@ -315,7 +316,8 @@
  die
  seitens
  der
@@ -771,7 +698,7 @@ Detaillierter Vergleich:
  Machthaber
  wie
  folgt
-@@ -352,13 +363,13 @@
+@@ -352,13 +354,13 @@
  Am
  15.
  September
@@ -787,7 +714,7 @@ Detaillierter Vergleich:
  Aktiengesellschaft
  Awtovelo
  eingegliedert.
-@@ -372,7 +383,7 @@
+@@ -372,7 +374,7 @@
  für
  das
  Jahr
@@ -796,7 +723,7 @@ Detaillierter Vergleich:
  forderten
  die
  Herstellung
-@@ -385,7 +396,7 @@
+@@ -385,7 +387,7 @@
  Für
  das
  Jahre
@@ -805,7 +732,7 @@ Detaillierter Vergleich:
  sind
  Planzahlen
  bekannt,
-@@ -395,9 +406,9 @@
+@@ -395,9 +397,9 @@
  Ergebnisse.
  Erst
  ab
@@ -817,7 +744,7 @@ Detaillierter Vergleich:
  Werte
  vor:
  so
-@@ -409,30 +420,31 @@
+@@ -409,30 +411,30 @@
  4250
  im
  Jahre
@@ -858,29 +785,13 @@ Detaillierter Vergleich:
  ca.
 -81000
 +8100
-+```
 
 Durchlauf 3:
 Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,3 +1,14 @@
-+Sure,
-+here
-+is
-+the
-+text
-+from
-+the
-+document
-+you
-+provided:
-+```
- Nummer
- der
- Genehmigung:
-@@ -26,7 +37,7 @@
+@@ -26,7 +26,7 @@
  IV
  der
  Richtlinie
@@ -889,7 +800,7 @@ Detaillierter Vergleich:
  vorgeschriebenen
  Rechtsakte.
  The
-@@ -49,21 +60,20 @@
+@@ -49,21 +49,20 @@
  IV
  to
  Directive
@@ -915,7 +826,7 @@ Detaillierter Vergleich:
  der
  in
  der
-@@ -74,10 +84,10 @@
+@@ -74,10 +73,10 @@
  The
  vehicle
  type
@@ -928,7 +839,7 @@ Detaillierter Vergleich:
  of
  the
  regulatory
-@@ -92,8 +102,8 @@
+@@ -92,8 +91,8 @@
  eine
  oder
  mehrere
@@ -939,7 +850,7 @@ Detaillierter Vergleich:
  oder
  Versionen,
  so
-@@ -102,9 +112,10 @@
+@@ -102,9 +101,10 @@
  vollständigen
  oder
  vervollständigten
@@ -953,7 +864,7 @@ Detaillierter Vergleich:
  anzugeben.
  –
  In
-@@ -127,8 +138,8 @@
+@@ -127,8 +127,8 @@
  complete
  or
  completed.
@@ -964,7 +875,7 @@ Detaillierter Vergleich:
  1.
  Stelle
  des
-@@ -150,7 +161,7 @@
+@@ -150,7 +150,7 @@
  den
  (die)
  genehmigte(n)
@@ -973,7 +884,7 @@ Detaillierter Vergleich:
  Fahrzeugtyp
  oder
  Variante
-@@ -171,7 +182,7 @@
+@@ -171,7 +171,7 @@
  der
  nachstehend
  aufgelisteten
@@ -982,11 +893,6 @@ Detaillierter Vergleich:
  List
  of
  requirements
-@@ -202,3 +213,4 @@
- acts
- listed
- below).
-+```
 
 Durchlauf 2:
 Detaillierter Vergleich:
@@ -1484,22 +1390,7 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,3 +1,14 @@
-+Sure,
-+here
-+is
-+the
-+text
-+from
-+the
-+document
-+you
-+provided:
-+```
- Collateral
- clauses
- and
-@@ -7,7 +18,7 @@
+@@ -7,7 +7,7 @@
  to
  appeal
  Collateral
@@ -1508,7 +1399,7 @@ Detaillierter Vergleich:
  All
  equipment
  which
-@@ -105,7 +116,7 @@
+@@ -105,7 +105,7 @@
  disclosed
  to
  the
@@ -1517,7 +1408,7 @@ Detaillierter Vergleich:
  Bundesamt.
  Breach
  of
-@@ -125,7 +136,7 @@
+@@ -125,7 +125,7 @@
  legally
  prosecuted.
  The
@@ -1526,7 +1417,7 @@ Detaillierter Vergleich:
  expires
  if
  it
-@@ -161,7 +172,7 @@
+@@ -161,7 +161,7 @@
  continuance
  of
  the
@@ -1535,7 +1426,7 @@ Detaillierter Vergleich:
  no
  longer
  exist,
-@@ -170,7 +181,7 @@
+@@ -170,7 +170,7 @@
  holder
  of
  the
@@ -1544,7 +1435,7 @@ Detaillierter Vergleich:
  violates
  the
  duties
-@@ -195,7 +206,6 @@
+@@ -195,7 +195,6 @@
  or
  if
  it
@@ -1552,7 +1443,7 @@ Detaillierter Vergleich:
  determined
  that
  the
-@@ -262,7 +272,7 @@
+@@ -262,7 +261,7 @@
  representatives
  of
  the
@@ -1561,7 +1452,7 @@ Detaillierter Vergleich:
  may
  get
  unhindered
-@@ -325,8 +335,9 @@
+@@ -325,8 +324,8 @@
  transcript
  at
  the
@@ -1572,5 +1463,4 @@ Detaillierter Vergleich:
  16,
  DE-24944
  Flensburg.
-+```
 

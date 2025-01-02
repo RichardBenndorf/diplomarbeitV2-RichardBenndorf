@@ -1,6 +1,3 @@
-Sure, here is the text from the image with the multi-columns layout correctly displayed:
-
----
 
 4. **Verbindungseinrichtungen und Befestigungen**
    **Coupling devices and attachments**
@@ -58,6 +55,3 @@ Sure, here is the text from the image with the multi-columns layout correctly di
     [X ]Alle/All
     Test resulte representative for foelle variants / version
 
----
-
-Please note that the text has been transcribed as accurately as possible from the original document.

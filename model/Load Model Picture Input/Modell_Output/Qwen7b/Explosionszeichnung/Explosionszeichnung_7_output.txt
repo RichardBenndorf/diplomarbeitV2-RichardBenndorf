@@ -1,6 +1,4 @@
-Sure, here is the text from the document:
 
-```
 Z500
 Z400
 
@@ -65,4 +63,3 @@ Blatt Sheet 002
 
 2H6.000.295
 o.W.
-```

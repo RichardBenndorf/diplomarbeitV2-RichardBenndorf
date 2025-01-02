@@ -2,13 +2,13 @@
 
 1. Art: Motor, Zweischeibenkupplung,
 
-&gt; Zwischenräder, Sechsganggetriebe, Hinterachse mit Kegelradausgleichgetriebe, Hinterräder
+  Zwischenräder, Sechsganggetriebe, Hinterachse mit Kegelradausgleichgetriebe, Hinterräder
 
 1. Übersetzung:
 
 Zwischenräder 0,866
 
-&gt; Getriebe:
+  Getriebe:
 
 1. Gang 9,65
 
@@ -26,19 +26,19 @@ R.1 " 7,65
 
 R.2 " 2,68
 
-&gt; Hinterachse: 4,21
+  Hinterachse: 4,21
 
 19.) Art der Schalldempfung: Kegelige Haube mit gelochtem
 
-&gt; Prallteller und Siebeinsatz, Ausläß nach oben
+  Prallteller und Siebeinsatz, Ausläß nach oben
 
 20.) Passungsvormögen des
 
-&gt; Kraftstoffbehälters 90 ltr (Rohül) + 7 Ltr (Sonz.n)
+  Kraftstoffbehälters 90 ltr (Rohül) + 7 Ltr (Sonz.n)
 
 22.) Bemerkungen:
 
-&gt; Zu Ziffer 4) a) Eigengewicht des Fahrzeugs; Das Eigengewicht des Fahrzeugs erhöht sich durch Anbau
+  Zu Ziffer 4) a) Eigengewicht des Fahrzeugs; Das Eigengewicht des Fahrzeugs erhöht sich durch Anbau
 
 eines Fahrersitzdaches um 60 kg
 

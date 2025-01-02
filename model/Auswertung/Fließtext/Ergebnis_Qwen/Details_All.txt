@@ -128,17 +128,8 @@ Detaillierter Vergleich:
 -----------------------
 --- 
 +++ 
-@@ -1,9 +1,18 @@
+@@ -1,9 +1,9 @@
 -Throttle
-+Certainly!
-+Here
-+is
-+the
-+text
-+copied
-+from
-+the
-+image:
 +**Throttle
  Body
  (TB)
@@ -149,7 +140,7 @@ Detaillierter Vergleich:
  The
  Throttle
  Body,
-@@ -28,7 +37,7 @@
+@@ -28,7 +28,7 @@
  TB
  and
  fuel
@@ -158,7 +149,7 @@ Detaillierter Vergleich:
  houses
  the
  fuel
-@@ -61,7 +70,7 @@
+@@ -61,7 +61,7 @@
  the
  fuel
  tank.
@@ -167,7 +158,7 @@ Detaillierter Vergleich:
  Five
  sensors
  provide
-@@ -88,12 +97,11 @@
+@@ -88,12 +88,11 @@
  each
  sensor
  follows.
@@ -182,7 +173,7 @@ Detaillierter Vergleich:
  The
  CKP
  Sensor
-@@ -152,7 +160,7 @@
+@@ -152,7 +151,7 @@
  Center
  (TDC)
  reference.
@@ -191,7 +182,7 @@ Detaillierter Vergleich:
  Temperature
  Sensor
  (ET
-@@ -172,7 +180,7 @@
+@@ -172,7 +171,7 @@
  between
  the
  engine
@@ -200,7 +191,7 @@ Detaillierter Vergleich:
  This
  information
  is
-@@ -202,13 +210,13 @@
+@@ -202,13 +201,13 @@
  determine
  injector
  pulse
@@ -218,7 +209,7 @@ Detaillierter Vergleich:
  Located
  in
  the
-@@ -221,7 +229,7 @@
+@@ -221,7 +220,7 @@
  by
  the
  IAT
@@ -227,7 +218,7 @@ Detaillierter Vergleich:
  is
  used
  in
-@@ -232,7 +240,7 @@
+@@ -232,7 +231,7 @@
  from
  the
  MAP
@@ -236,7 +227,7 @@ Detaillierter Vergleich:
  to
  determine
  oxygen
-@@ -249,13 +257,13 @@
+@@ -249,13 +248,13 @@
  starting
  and
  warm-up.
@@ -253,7 +244,7 @@ Detaillierter Vergleich:
  The
  MAP
  Sensor,
-@@ -263,7 +271,7 @@
+@@ -263,7 +262,7 @@
  on
  the
  front
@@ -262,7 +253,7 @@ Detaillierter Vergleich:
  intake,
  monitors
  manifold
-@@ -276,23 +284,24 @@
+@@ -276,23 +275,24 @@
  for
  fuel
  and
@@ -296,7 +287,7 @@ Detaillierter Vergleich:
  throttle
  body
  and
-@@ -308,7 +317,6 @@
+@@ -308,7 +308,6 @@
  provides
  the
  ECM
@@ -304,7 +295,7 @@ Detaillierter Vergleich:
  information
  about
  throttle
-@@ -317,13 +325,12 @@
+@@ -317,13 +316,12 @@
  transient
  fuel
  and
@@ -321,7 +312,7 @@ Detaillierter Vergleich:
  There
  is
  a
-@@ -332,7 +339,6 @@
+@@ -332,7 +330,6 @@
  harness.
  There
  is
@@ -329,7 +320,7 @@ Detaillierter Vergleich:
  separate
  small
  engine
-@@ -343,12 +349,11 @@
+@@ -343,12 +340,11 @@
  main
  wire
  harness.
@@ -344,7 +335,7 @@ Detaillierter Vergleich:
  Since
  the
  fuel
-@@ -400,9 +405,8 @@
+@@ -400,9 +396,8 @@
  is
  added.
  The
@@ -356,7 +347,7 @@ Detaillierter Vergleich:
  so
  that
  it
-@@ -424,8 +428,7 @@
+@@ -424,8 +419,7 @@
  tank.
  Fuses
  and
@@ -366,7 +357,7 @@ Detaillierter Vergleich:
  One
  electrical
  relay
-@@ -437,7 +440,7 @@
+@@ -437,7 +431,7 @@
  fuel
  pump,
  ignition
@@ -375,7 +366,7 @@ Detaillierter Vergleich:
  and
  injectors.
  The
-@@ -476,16 +479,14 @@
+@@ -476,16 +470,14 @@
  contains
  spare
  fuses.
@@ -394,7 +385,7 @@ Detaillierter Vergleich:
  air
  box.
  It
-@@ -496,10 +497,10 @@
+@@ -496,10 +488,10 @@
  of
  the
  cylinders.
@@ -408,7 +399,7 @@ Detaillierter Vergleich:
  Check
  Engine
  Lamp
-@@ -514,18 +515,17 @@
+@@ -514,18 +506,17 @@
  a
  fault
  condition.
@@ -431,7 +422,7 @@ Detaillierter Vergleich:
  diagnostics
  to
  assist
-@@ -546,7 +546,6 @@
+@@ -546,7 +537,6 @@
  is
  connected
  to
@@ -439,7 +430,7 @@ Detaillierter Vergleich:
  ECM
  and
  allows
-@@ -555,7 +554,6 @@
+@@ -555,7 +545,6 @@
  in-depth
  diagnosis.
  In
@@ -447,7 +438,7 @@ Detaillierter Vergleich:
  other
  mode,
  a
-@@ -568,6 +566,7 @@
+@@ -568,6 +557,7 @@
  the
  technician.
  The
@@ -455,7 +446,7 @@ Detaillierter Vergleich:
  lamp
  flashes
  a
-@@ -590,8 +589,9 @@
+@@ -590,8 +580,9 @@
  either
  the
  Diagnostics

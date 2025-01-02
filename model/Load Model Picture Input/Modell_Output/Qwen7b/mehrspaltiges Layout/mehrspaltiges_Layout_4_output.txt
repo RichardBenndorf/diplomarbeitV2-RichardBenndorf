@@ -1,6 +1,4 @@
-Sure, here is the text from the old document with the multi-columns layout displayed correctly:
 
-```
 *4.1.2.8. Casing for the catalytic converter(s) : Steel. Annex 3.2 .12 . 1.
 
 4. 1. 2.9. Location of the cataly tic converter(s)(place and reference distance in the exhaust line) : Annex  3 .2 .2.12.
@@ -44,4 +42,3 @@ Sensor is a "switching" or "Stoichiometric" O2 sensor that provides an indicatio
 47. Adsorption material : charcoal
 
 48. Housing material : plastic
-```

@@ -6,6 +6,11 @@ from nltk.translate.bleu_score import sentence_bleu
 import os
 from collections import Counter
 import pandas as pd
+import re
+
+def clean_text(text):
+    # Entfernt alle nicht-alphanumerischen Zeichen (außer Leerzeichen)
+    return re.sub(r'[^\w\s]', '', text)
 
 def cosine_similarity(text1, text2):
     vectorizer = TfidfVectorizer()
@@ -30,6 +35,10 @@ def evaluate_extraction(goldstandard_path, extracted_path):
 
     with open(extracted_path, 'r', encoding='utf-8') as ex_file:
         extracted = ex_file.read().strip()
+
+    # Bereinigung der Texte
+    goldstandard = clean_text(goldstandard)
+    extracted = clean_text(extracted)
 
     goldstandard_words = goldstandard.split()
     extracted_words = extracted.split()
@@ -169,7 +178,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 
                 print(f"Auswertung für Datei {index} abgeschlossen.")
             else:
-                print(f"Passende Datei für {file_name} nicht gefunden.")
+                print(f"Passende Datei für {file_name} nicht gefunden. Erzeugter Pfad: {extracted_path}")
 
     # Ergebnisse in eine Excel-Datei schreiben
     df = pd.DataFrame(results)

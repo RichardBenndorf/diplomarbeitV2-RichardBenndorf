@@ -1,6 +1,4 @@
-Sure, here is the text from the document:
 
-```
 Gesellschaft für Technische Überwachung mbH
 
 PRÜFLABORATORIUM / TEST LABORATORY
@@ -24,4 +22,3 @@ Document / Seite / Page
 Document number
 
 Revision 04.
-```

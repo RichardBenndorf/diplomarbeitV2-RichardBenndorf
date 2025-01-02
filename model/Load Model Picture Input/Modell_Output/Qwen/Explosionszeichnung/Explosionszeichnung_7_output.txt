@@ -1,6 +1,4 @@
-The text in the picture is:
 
-```plaintext
 1
 2
 3
@@ -55,4 +53,3 @@ Tel.
 30422
 Gez./Drawn
 Kollig
-```

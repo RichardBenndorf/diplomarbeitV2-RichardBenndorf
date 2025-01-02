@@ -1,9 +1,5 @@
-Sure, here is the text from the document you provided:
-
-```
 Der Erteilung des Typscheins stehen technische Bedenken nicht entgegen.
 
 Zu diesem Typgutachten gehören:
 eine Beschreibung des Fahrzeugs,
 fünf Zeichnungen
-```

@@ -1,6 +1,4 @@
-Sure, here is the text from the document:
 
-```
 Volkswagen AG behält sich alle Rechte vor. Das gilt insbesondere für Erfindungsrechte, Know-how, Urheberrechte und Namensrechte sowie für das Recht, diese als gewerbliche Schutzrechte anzumelden. Jede Verfugungsbefugnis incl. Kopier- und Weitergabebericht liegt bei uns. Genehmigung von Erstlieferung und Änderung nach VW 0155.
 
 Volkswagon AG reserves all rights, including without limitation rights of invention, know-how, copyrights, rights to names, and the right to apply for industrial property rights. All rights of use and exploitation including the rightto copy and disseminate or distribute reside with us. Approval of first delivery and changes in accordance with VW  0 15 5. The English translation is believed to be accurate. In case of discrepancies the German version is alone authoritative and controlling.
@@ -62,4 +60,3 @@ Pos. Item Teilebenennnung/Part designation Werkstoff / Material Mat.-Dicke/ Mat.
 Typ: 2 H.
 
 Frontklappe Engine hood
-```

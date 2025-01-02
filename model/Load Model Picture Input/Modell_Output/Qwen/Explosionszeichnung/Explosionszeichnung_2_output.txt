@@ -1,6 +1,3 @@
-The text from a technical drawing is as follows:
-
----
 
 **Name des Herstellers wahlw. s. Tabelle**
 Manufacturer's name optional, see table

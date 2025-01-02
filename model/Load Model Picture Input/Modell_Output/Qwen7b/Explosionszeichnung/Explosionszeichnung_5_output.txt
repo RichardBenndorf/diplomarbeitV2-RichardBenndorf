@@ -1,6 +1,4 @@
-Sure, here is the text from the document:
 
-```
 Anbau Innenspiegel (Frontscheibe)
 Installation interior mirror (Windshield)
 
@@ -90,4 +88,3 @@ Typ: 2H.
 2H0.000.171
 04
 0 04 
-```

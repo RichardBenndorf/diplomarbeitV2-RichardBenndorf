@@ -1,20 +1,20 @@
 T Y P G U T A C H T E N ================================
 
-&gt; Über die Zugmaschine ( Ackerschlepper ) Hsuptyp " 35 PS Ackerbulldog " der Firma Heinrich L A N Z A, .G. Mannheim
+  Über die Zugmaschine ( Ackerschlepper ) Hsuptyp " 35 PS Ackerbulldog " der Firma Heinrich L A N Z A, .G. Mannheim
 
 Die Zugmaschine wird in folgenden Ausführungen hergestellt:
 
-&gt; D 8506 A: mit Luftbereifung, mit Sechsganggetriebe
-&gt;
-&gt; B: mit Eisenbereifung, Sechsanggetriebe, 3 Gänge arretiert
+  D 8506 A: mit Luftbereifung, mit Sechsganggetriebe
+ 
+  B: mit Eisenbereifung, Sechsanggetriebe, 3 Gänge arretiert
 
 Diese Ausführungen können mit nachstehenden Zusatsteilen ausgerüst werden:
 
-&gt; Fahrersitzdach
-&gt;
-&gt; Windschutzscheibe
-&gt;
-&gt; Kotflügel an den HinterraJern
+  Fahrersitzdach
+ 
+  Windschutzscheibe
+ 
+  Kotflügel an den HinterraJern
 
 Kotflügel vom und hinten
 
@@ -34,9 +34,9 @@ Für den 35 PS Ackerbulldog gelten im Übrigen fol ende Merkmale:
 
 3. Hubraum: 10338 cm3
 
-&gt; Zahl der Zylinder: 1
-&gt;
-&gt; Durchmesser des Zylinders: 225 mm Kolbenhub: 260 mm
+  Zahl der Zylinder: 1
+ 
+  Durchmesser des Zylinders: 225 mm Kolbenhub: 260 mm
 
 1. Hersteller: Heinrich Lanz A.G., Mannheim
 

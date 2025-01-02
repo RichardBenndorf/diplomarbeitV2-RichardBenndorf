@@ -1,7 +1,3 @@
-Sure, here is the text from the image with the multi-columns layout displayed correctly:
-
----
-
 1. Vehicle:
 1.1. Manufacturer: Aprilia S.p.A.
 1.2. Type: SP
@@ -28,7 +24,3 @@ Sure, here is the text from the image with the multi-columns layout displayed co
 4.3 Tire dimension: front: 90/90-13 56P rear: 30/70-21 63P
 
 5. Measurements:
-
----
-
-All entries in each column are included, and the multi-coloured layout is preserved.

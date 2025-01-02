@@ -1,6 +1,4 @@
-The text elements from the provided image are as follows:
 
-```plaintext
 FHZ-IDENTIFIZIERUNGSNUMMER / VEHICLE IDENTIFICATION NUMBER
 BEISPIEL / EXAMPLE:
 WDB9630031L479935
@@ -15,4 +13,3 @@ Baumuster
 Welthersteller/ World manufacturer identifier
 WDB= Daimler AG
 WDF= DAIMLER AG
-```

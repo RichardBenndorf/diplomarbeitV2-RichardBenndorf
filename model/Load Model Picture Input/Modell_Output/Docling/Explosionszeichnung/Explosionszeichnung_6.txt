@@ -1,4 +1,4 @@
-<!-- image -->
+
 
 | Pos Teilebenennung/Part designation Item      | [Merkstoff Waterial               | Wat .-Dicke/ WVat .-Thickness   |
 |-----------------------------------------------|-----------------------------------|---------------------------------|

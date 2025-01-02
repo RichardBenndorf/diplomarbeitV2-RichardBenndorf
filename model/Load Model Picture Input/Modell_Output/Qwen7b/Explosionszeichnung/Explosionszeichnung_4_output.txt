@@ -1,6 +1,4 @@
-Sure, here is the text from the document:
 
-```
 Seitenansicht XZ
 Lateral view XZ
 
@@ -133,4 +131,3 @@ Sheet
 
 von
 003
-```

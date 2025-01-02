@@ -1,6 +1,3 @@
-Sure, here is the text from the document you provided:
-
-```
 Nummer der Genehmigung: e1*2007/46*0734*03
 Approval No.:
 
@@ -19,4 +16,3 @@ Vollständiger/vervollstänigter Variante 1. Stelle des Variantenschlüssels: K
 
 Aufstellung der für den (die) genehmigte(n) unvölständige(n) Fahrzeugtyp oder Variante bzw. Version geltenden Vorschriften (jeweils unter Berücksichtigung des Geltungsbereichs und des letzten Änderungsstands jeder der nachstehend aufgelisteten Rechtsakt).
 List of requirements applicable to the approved incomplete vehicle type or variant (as appropriate, taking account of the scope and latest amendment to each of the regulative acts listed below).
-```

@@ -1,8 +1,4 @@
-The image contains a document titled "EUFAHRZEUG-EINZELGENEGENUNGSBOGEN" which translates to "EU Individual Vehicle Approval Certificate." The document is from the Kraftfahrt-Bundesamt (KBA) in Flensburg, DE-24932 Flensburg. The document number is e1*IV18/858*DE0435. The text is in German and includes various sections and details related to the vehicle approval certificate.
 
-Here is the extracted text from the document:
-
----
 
 **EUFAHRRZUG-EINDELGENEIGENUNGSSBOGEN**
 
@@ -38,6 +34,3 @@ Version: Version: Entfällt Not Applicable
 
 02.1 Handelsbezeichnung(en): Commercial name(s): FENGon 50
 
----
-
-The document provides information about an individual vehicle's approval certificate issued by the Kraftfaht-Bundessamt (German Federal Ministry of Transport, Innovation and Technology). The document includes details about the vehicle's make, model, type, variant, and commercial name.

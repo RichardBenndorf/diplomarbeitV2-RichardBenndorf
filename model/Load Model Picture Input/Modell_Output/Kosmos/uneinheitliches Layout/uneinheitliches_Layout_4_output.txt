@@ -4,9 +4,9 @@ Enclosure 1
 
 Zum EG-Typgenehmigungsbogen Nr.: e1\*2007/46\*0356\*19 To EC type approval certificate No.
 
-&gt; **Inhaltsverzeichnis zu den Beschreibungsunterlagen**
-&gt;
-&gt; Index to the information package
+  **Inhaltsverzeichnis zu den Beschreibungsunterlagen**
+ 
+  Index to the information package
 
 Ausgabedatum: **04.03.2010** letztes Änderungsdatum: **07.01.2020**
 
@@ -14,7 +14,7 @@ Date of issue last date of amendment
 
 1. Nebenbestimmungen und Rechtsbehelfsbelehrung
 
-&gt; Collateral clauses and instruction on right to appeal
+  Collateral clauses and instruction on right to appeal
 
 1. Beschreibungsbogen Nr.: Datum:
 
@@ -22,7 +22,7 @@ Information document No. Date:
 
 099 **2H 11.01.2010**
 
-&gt; letztes Änderungsdatum: **29.11.2019** last date of amendment:
+  letztes Änderungsdatum: **29.11.2019** last date of amendment:
 
 Gültige Seiten – Valid pages Datum - Date:
 

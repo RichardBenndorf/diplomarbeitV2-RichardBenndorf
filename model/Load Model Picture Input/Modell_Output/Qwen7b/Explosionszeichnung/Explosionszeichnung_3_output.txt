@@ -1,6 +1,4 @@
-Sure, here is the text from the document:
 
-```
 PRODUKT DETAIL MONTAGEANWEISUNG
 PRODUCT DESCRIPTION MANUAL
 
@@ -80,4 +78,3 @@ Title Chassis
 EA-Nr. / eng. proj. no. 001/022
 
 2H0.000.131
-```

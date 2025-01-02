@@ -1,6 +1,3 @@
-Certainly! Here is the text from the old document, copied and formatted as requested:
-
----
 
 **Test Conditions**
 
@@ -27,6 +24,3 @@ Engine type **Piaggio M245M**, engine family **H**
 | Octane number: | RON: | Not available |
 | MON: | MON: Not available |
 
----
-
-I have included all the entries from the multi-columns in the document, ensuring that the formatting is correct.

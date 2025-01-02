@@ -8,7 +8,7 @@ R
 
 ANGLE E :
 
-<!-- image -->
+
 
 46
 
@@ -20,6 +20,5 @@ LoCKED
 
 43
 
-<!-- image -->
 
-<!-- image -->
+

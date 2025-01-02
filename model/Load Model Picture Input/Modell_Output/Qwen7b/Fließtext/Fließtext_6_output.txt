@@ -1,6 +1,4 @@
-Sure, here is the text from the document exactly as is:
 
-```
 4
 
 Schlussbescheinigung / Certification
@@ -22,4 +20,3 @@ benannt von der Benennungsstelle des Kraftfahrt-Bundesamtes,
 Bundesrepublik Deutschland
 designated by designation department of Kraftfahr-Bundesanamt,
 Federal Republic of Germany
-```

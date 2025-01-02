@@ -1,6 +1,4 @@
-Certainly! Here is the document content copied from the image:
 
-```markdown
 1. Vehicle:
 1.1. Manufacturer: Aprilia S.p.A.
 1.2. Type: SP
@@ -24,4 +22,4 @@ Certainly! Here is the document content copied from the image:
 4.2 Intake System: Air filter box: Foam substance dry air filter box, marking AM 11 e3; see encloseds information document
 
 5. Measurements:
-```
+

@@ -18,7 +18,7 @@ Ausserhalb dieses Rechteckes sind 4 zusaetzliche Angaben 2 nach Wahl des Herstel
 
 Ww\_ Ausfuehrung "Stufe 2' 0pt. version 'Stufe 2'
 
-<!-- image -->
+
 
 VOLKSWAGEN AG e7+2001/116 Stufe 2 Wvwzzzgnzsyooooo1 1234 kg 1234 kg 1234 kg 7 1234 kg
 
@@ -40,17 +40,17 @@ Dieselabgasschild wahlw. ohne Beschriftung Diesel exhaust plate optionally witho
 
 [Nam e   des Herstellers / Inane 0F nanufacturer
 
-<!-- image -->
+
 
 VOLKSWAGEN AG
 
-<!-- image -->
+
 
 Q
 
 AUD [ aG
 
-<!-- image -->
+
 
 SKoDA  huto 9.5 \_
 
@@ -66,7 +66,7 @@ MOToR
 
 KFT
 
-<!-- image -->
+
 
 MAn
 

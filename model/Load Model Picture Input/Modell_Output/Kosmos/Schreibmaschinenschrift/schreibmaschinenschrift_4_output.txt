@@ -1,22 +1,22 @@
 D 8906
 
-&gt; Zu Ziffer 7) Art des Aufbous:
-&gt;
-&gt; wird das Fahrzeug mit einem Fahrersitzdaoh -nag- rnotet, ab ändert sich:
-&gt;
-&gt; a\) bei Zugmaschinen: festes Wetterdaoh mit abnehmbaren Seitezteilen
-&gt;
-&gt; Zu Ziff.8) Haag über alles:
-&gt;
-&gt; Bei Ausrustung mit Fahrersitzdaoh ändern sich folgen- die Angaben:
+  Zu Ziffer 7) Art des Aufbous:
+ 
+  wird das Fahrzeug mit einem Fahrersitzdaoh -nag- rnotet, ab ändert sich:
+ 
+  a\) bei Zugmaschinen: festes Wetterdaoh mit abnehmbaren Seitezteilen
+ 
+  Zu Ziff.8) Haag über alles:
+ 
+  Bei Ausrustung mit Fahrersitzdaoh ändern sich folgen- die Angaben:
 
 Länge: 3408 mm 3390 mm
 
-&gt; Höhe: 2452 mm Durch Anbau von Kotflügeln ändert sich:
+  Höhe: 2452 mm Durch Anbau von Kotflügeln ändert sich:
 
 Breite: unverändert 1705 mm
 
-&gt; Der Fahrzeugtyp entapriöht in folgenaem nur den Vorschriften für Zugmaschinen in land- und forstwirtschaftlichen Betrieben:
+  Der Fahrzeugtyp entapriöht in folgenaem nur den Vorschriften für Zugmaschinen in land- und forstwirtschaftlichen Betrieben:
 
 Scheinwerferhöhe über Eisenberei-
 
@@ -24,18 +24,18 @@ Fahrbahn fung
 
 ( 50,3 StVZO ) ( 36,4 StVZO)
 
-&gt; Scheinwerferhöhe über Fahrbahn
-&gt;
-&gt; ( 50,3 StVZO)
-&gt;
-&gt; Der Fahrzeugtyp entapriönt vorstenenden Angaben und geniät den Anforderungen der Strassenverkehrs-Zula-sungs-Crdnung sowie den hierzu erlassenen Anweisungen des Reichsverkehrsministers mit fol- genden Ausnahmen:
-&gt;
-&gt; 1.) Die in die Kraftstoffleitung (Rohblleitung) eingebaute Absperrvorrichtung ist von Fahrersitz aus nicht be- dienbar ( 46,2 StVZO )
-&gt;
-&gt; 2.) Fahrgeräusch und Auspuffgeräusch Überschreiten 85 Pmon ( 49,1 u. 2 StVZO )
-&gt;
-&gt; 3.) Bei den Fahrzeugen ohne Kotflügel ist der Abstand der
-&gt;
-&gt; Schluslichter voneinander 100 cm statt mindestens 110 cm
-&gt;
-&gt; ( 53,1 StVZO)
+  Scheinwerferhöhe über Fahrbahn
+ 
+  ( 50,3 StVZO)
+ 
+  Der Fahrzeugtyp entapriönt vorstenenden Angaben und geniät den Anforderungen der Strassenverkehrs-Zula-sungs-Crdnung sowie den hierzu erlassenen Anweisungen des Reichsverkehrsministers mit fol- genden Ausnahmen:
+ 
+  1.) Die in die Kraftstoffleitung (Rohblleitung) eingebaute Absperrvorrichtung ist von Fahrersitz aus nicht be- dienbar ( 46,2 StVZO )
+ 
+  2.) Fahrgeräusch und Auspuffgeräusch Überschreiten 85 Pmon ( 49,1 u. 2 StVZO )
+ 
+  3.) Bei den Fahrzeugen ohne Kotflügel ist der Abstand der
+ 
+  Schluslichter voneinander 100 cm statt mindestens 110 cm
+ 
+  ( 53,1 StVZO)

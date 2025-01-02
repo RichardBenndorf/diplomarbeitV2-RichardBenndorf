@@ -1,6 +1,4 @@
-The text in the picture is:
 
-```plaintext
 Seitenansicht XZ
 Lateral view XZ
 
@@ -22,4 +20,3 @@ S22
 a1
 a2
 a3
-```

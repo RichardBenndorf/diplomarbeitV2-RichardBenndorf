@@ -1,6 +1,3 @@
-Sure, here is the text from the image, formatted to maintain the multi-columns layout:
-
----
 
 2.3.3.
 
@@ -34,6 +31,3 @@ entfällt / n. a.
 
 2.78 /318/EWG/7831 8 /EE C: entsprechend Einrichtun gen vorhanden/ fitted with  an adequate  device
 
----
-
-This text is from a document that appears to be related to vehicle compliance and testing, specifically referencing European Union regulations (e.g., 29074/EG, 4006/74, 5003/75, 6005/76, 8008/77, 9009/79,  etc.). The text describes the verification and testing procedures for vehicles, including the comparison of vehicle specifications with the information provided in the relevant documentation.

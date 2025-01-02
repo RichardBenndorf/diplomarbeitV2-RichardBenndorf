@@ -1,6 +1,3 @@
-Sure, here is the text from the image with the multi-columns layout and all entries included:
-
----
 
 **Auftraggeber:**
 Faun Umwelttechnik GmbH & Co. KG
@@ -40,7 +37,3 @@ Hr. Dipl.- Ing. GeorgSandkühle
 Dr.-Ing U. Reinhardt
 
 **DIE PRÜFUNG GEMÄSS RICHTLINIE 7224/EWG IN DER FASSUNG 260696EG WURDE BESTANDEN**
-
----
-
-This text captures all the information from the original document, including the columns and their respective entries.

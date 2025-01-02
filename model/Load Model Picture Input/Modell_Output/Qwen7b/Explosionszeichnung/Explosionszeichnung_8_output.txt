@@ -1,6 +1,4 @@
-Sure, here is the text from the document:
 
-```
 1 Traeger, Stossfaenger Bracket bumper Stahl/ steel 2,75
 2 Schaumteil Foam part PP Schaum/foam 30g/l Gewicht: 133 g
 3 Halteteil Retaining part PP-GF30 --
@@ -32,6 +30,3 @@ Sure, here is the text from the document:
 30 Rahmen Frame ABS-PMMA 3.0
 31 Traegerteil Carrier ABS 3 0
 42 Klappe Flap ABS- PMMA 29
-```
-
-Please note that the text is exactly as provided in the image, including any formatting and special characters.

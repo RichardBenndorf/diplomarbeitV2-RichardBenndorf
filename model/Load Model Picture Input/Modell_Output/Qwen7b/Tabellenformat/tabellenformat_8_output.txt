@@ -1,4 +1,3 @@
-Sure, here is the table from the old document with the multi-columns layout displayed correctly:
 
 | Component/System | Monitoring Strategy | Malfunction Criteria | Secondary Parameters | Fault Code |
 |---|--- | --- | ---| ---|
