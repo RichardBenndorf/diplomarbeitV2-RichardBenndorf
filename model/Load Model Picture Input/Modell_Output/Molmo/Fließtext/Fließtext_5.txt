@@ -1,1 +1,36 @@
- Throttle body TB and fuel rail. The throttle body TB distributes fuel and air to engine cylinders. An aluminum dual runner with separate fuel rail houses fuel injectors, fuel pressure regulator, throttle position sensor, idle speed control actuator, and throttle plates/linkages. Fuel fittings connect fuel supply/return to fuel tank. Five sensors provide ECM with environmental/engine operating data influencing fuel spark requirements. A brief description of each sensor follows. Crankshaft position sensor CKP. Magnetic pickup device in left crankcase half near alternator plug calculates engine speed. TDC establishes gap for CKP sensor. Coolant temperature sensor ET. Monitors engine coolant temperature, mounted between engine V. Used for idling, warm-up, and high-speed data. Intake air temperature sensor IAT. Located in front cylinder intake, provides oxygen content data for fuel delivery during cold start/warm-up. Manifold air pressure sensor MAP. Monitors manifold air pressure, senses engine load for fuel spark timing. Throttle position sensor TP. Potentiometer on throttle body, provides throttle angle information for transient fuel and spark timing. Wire harnesses. Single main harness with separate small engine harness connected. Low fuel warning lamp. Activated at 1/2 to 1.5 gallons, stays lit until engine starts or fuel added. Fuses and relays. One electrical relay powers fuel pump, ignition coil, injectors. Starter relay supplies fused components. Air cleaner mounted in air box on top of cylinders. Check engine lamp indicates fault conditions on instrument panel. Data link connector provides on-board diagnostics for system problem determination. Scanalyzer connected to ECM for in-depth diagnosis. Diagnostics test lamp and Scanalyzer provide connection options.
+Throttle Body (TB) and fuel rail
+The Throttle Body, which distributes fuel and air to the engine cylinders, is an aluminum dual runner with separate manifolds. The TB, and fuel rail contains fuel injectors, fuel pressure regulator, throttle position sensor, idle speed control actuator, and the throttle plates and linkages. Fuel fittings connect the fuel supply and return to the fuel tank.
+
+Sensors
+Five sensors provide the ECM with data on the environmental and engine operating factors influencing fuel and spark requirements. A brief description of each sensor follows.
+
+Crankshaft Position Sensor (CKP Sensor)
+The CKP Sensor is a magnetic pickup device mounted in the left crankshaft half near the alternator plug. To calculate engine speed for the ECM, the sensor picks up signals from the presence of 24 teeth machined into the left flywheel cheek. A gap, created by the removal of two teeth, establishes a top dead center (TDC) reference point.
+
+Coolant Temperature Sensor (ET Sensor)
+The ET Sensor monitors temperature of the engine coolant and is mounted between the engine V. This information is primarily used by the ECM during engine warm-up periods for the purpose of idle speed control and to determine fuel injector duty cycle during cold start and warm-up. The ET Sensor also provides data to the ECM for cold air delivery starting and warm-up.
+
+Intake Air Temperature Sensor (IAT Sensor)
+Located in the front cylinder intake, the IAT Sensor is used in conjunction with data from the MAP Sensor to determine oxygen content (air density) for adjusted fuel delivery during cold start and warm-up.
+
+Manifold Air Pressure Sensor (MAP Sensor)
+The MAP Sensor, mounted on the front cylinder intake, monitors manifold air pressure and senses engine load for fuel and spark timing.
+
+Throttle Position Sensor (TP Sensor)
+The TP Sensor is a potentiometer mounted on the throttle body and attached to the end of the throttle shaft. It provides the ECM with information about throttle angle for transient fuel and spark timing.
+
+Other Features
+Wire Harnesses
+There is a single main harness. There is a separate small engine harness connected to the main wire harness.
+
+Low Fuel Warning Lamp
+Since the fuel valve and mechanical reserve have been eliminated, a fuel gauge and a low fuel level warning lamp have been provided. The lamp is activated when the fuel level reaches about 1/2 of 1.5 gallons and stays lit until the engine is turned off or fuel is added. The lamp is designed so that it will not blink during movement and will only light up when the fuel level is low.
+
+Fuses and Relays
+One electrical relay is provided, which powers the fuel pump, ignition coil and injectors. The relays are similar to the starter relay used on production vehicles. To provide circuit protection, the relays are fused. The relays are supplied with an appropriate fuse that is sealed in a fused holder. Another electrical fuse is provided, which contains spare fuses. The air cleaner is mounted in the air box. It is located on top of the cylinders.
+
+Check Engine Lamp
+The Check Engine Lamp on the instrument panel indicates the existence of a fault condition.
+
+Data Link Connector
+The EFI system provides two levels of on-board diagnostics to assist in determining the source of system problems. In the more sophisticated mode, the Scanalyzer is connected to the ECM and allows for in-depth diagnosis. The other more common mode, the Diagnostics Test Lamp, is observed by the technician and allows for a code that correlates to a particular problem area. The Data Link Connector provides for connection of either the Diagnostics Test Lamp or the Scanalyzer.

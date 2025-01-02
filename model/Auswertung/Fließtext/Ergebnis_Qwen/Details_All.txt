@@ -1,1786 +1,2966 @@
 Durchlauf 7:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -34,7 +34,7 @@
- materials
- of
- the
--accessorie
-+accessory
- parts
- are
- to
-@@ -53,7 +53,6 @@
- outside
- environmental
- influences.
--5.
- Kennzeichnung
- des
- Behälters
-@@ -61,7 +60,7 @@
- on
- the
- fuel
--tank)
-+tanker)
- Der
- Behälter
- ist
-@@ -87,7 +86,7 @@
- to
- the
- fuel
--tank;
-+Tank;
- it
- shall
- be
-@@ -126,18 +125,17 @@
- Typ
- und/oder
- Handelsmarke
--ww./opt.
- Name
- and/or
- trademark
- d)
- TÜV-Kennzeichnung
- 143XS0133
--TÜV-marking
-+TÜv-marking
- Die
- Gebrauchsfähigkeit
- des
--Behälters
-+Behalters
- ist
- zu
- überprüfen,
-@@ -154,13 +152,15 @@
- Einbauverhältnisse
- führen,
- die
--Behälterunterbringung,
--die
--Behälterbefestigung,
--die
--Behälterabmessungen,
-+Behäl
-+terunterbringung,
-+die
-+Beihalterbefestigung,
-+die
-+behälterabmessungen,
- der
--Behälterwerkstoff
-+Behäl
-+tersetwerkstoff
- oder
- das
- Herstellungsverfahren
-@@ -171,7 +171,8 @@
- ein
- Nachtragsgutachten
- der
--TÜV
-+TÜ
-+V
- Rheinland
- Kraftfahrt
- GmbH
-@@ -189,7 +190,8 @@
- installation
- of
- the
--fuel
-+fu
-+el
- tank
- -
- or
-@@ -201,7 +203,7 @@
- mounting
- of
- the
--tank
-+Tank
- have
- been
- changed,
-@@ -210,9 +212,7 @@
- approval
- by
- the
--TÜV
--Rheinland
--Kraftfahrt
--GmbH
-+TÜ
-+VRheinlandKraftfahrgmbh
- is
- necessary.
-
+KORREKT: Korrosionsbeständigkeit
+KORREKT: Resistance
+KORREKT: to
+KORREKT: corrosion
+KORREKT: Der
+KORREKT: Grundwerkstoff
+KORREKT: des
+KORREKT: Kraftstoffbehälters
+KORREKT: und
+KORREKT: die
+KORREKT: verwendeten
+KORREKT: Zubehörteile
+KORREKT: können
+KORREKT: als
+KORREKT: korrosionsfest
+KORREKT: gegen
+KORREKT: das
+KORREKT: Betriebsmedium
+KORREKT: und
+KORREKT: äußere
+KORREKT: Beeinflussungen
+KORREKT: angesehen
+KORREKT: werden
+KORREKT: The
+KORREKT: ground
+KORREKT: material
+KORREKT: of
+KORREKT: the
+KORREKT: fuel
+KORREKT: tank
+KORREKT: and
+KORREKT: also
+KORREKT: the
+KORREKT: materials
+KORREKT: of
+KORREKT: the
+FAST KORREKT: accessorie
+KORREKT: parts
+KORREKT: are
+KORREKT: to
+KORREKT: be
+KORREKT: judged
+KORREKT: as
+KORREKT: sufficient
+KORREKT: corrosion
+KORREKT: resistant
+KORREKT: to
+KORREKT: the
+KORREKT: filling
+KORREKT: medium
+KORREKT: and
+KORREKT: also
+KORREKT: outside
+KORREKT: environmental
+KORREKT: influences
+FAST KORREKT: 5
+KORREKT: Kennzeichnung
+KORREKT: des
+KORREKT: Behälters
+KORREKT: Markings
+KORREKT: on
+KORREKT: the
+KORREKT: fuel
+KORREKT: tank
+KORREKT: Der
+KORREKT: Behälter
+KORREKT: ist
+KORREKT: dauerhaft
+KORREKT: und
+KORREKT: in
+KORREKT: eingebautem
+KORREKT: Zustand
+KORREKT: gut
+KORREKT: lesbar
+KORREKT: zu
+KORREKT: kennzeichnen
+KORREKT: Die
+KORREKT: Kennzeichnung
+KORREKT: muß
+KORREKT: enthalten
+KORREKT: The
+KORREKT: following
+KORREKT: markings
+KORREKT: shall
+KORREKT: be
+KORREKT: affixed
+KORREKT: to
+KORREKT: the
+KORREKT: fuel
+KORREKT: tank
+KORREKT: it
+KORREKT: shall
+KORREKT: be
+KORREKT: indelible
+KORREKT: clearly
+KORREKT: legible
+KORREKT: on
+KORREKT: the
+KORREKT: tank
+KORREKT: when
+KORREKT: the
+KORREKT: latter
+KORREKT: is
+KORREKT: installed
+KORREKT: on
+KORREKT: the
+KORREKT: vehicle
+KORREKT: a
+KORREKT: Hersteller
+KORREKT: des
+KORREKT: Behälters
+KORREKT: Manufacturer
+KORREKT: of
+KORREKT: the
+KORREKT: tank
+KORREKT: b
+KORREKT: Herstellungsmonat
+KORREKT: und
+KORREKT: jahr
+KORREKT: Month
+KORREKT: and
+KORREKT: year
+KORREKT: of
+KORREKT: manufacturing
+KORREKT: c
+KORREKT: Typ
+KORREKT: undoder
+KORREKT: Handelsmarke
+FEHLT: wwopt
+KORREKT: Name
+KORREKT: andor
+KORREKT: trademark
+KORREKT: d
+KORREKT: TÜVKennzeichnung
+KORREKT: 143XS0133
+FAST KORREKT: TÜVmarking
+KORREKT: Die
+KORREKT: Gebrauchsfähigkeit
+KORREKT: des
+KORREKT: Behälters
+KORREKT: ist
+KORREKT: zu
+KORREKT: überprüfen
+KORREKT: wenn
+KORREKT: wesentliche
+KORREKT: Teile
+KORREKT: des
+KORREKT: Fahrzeugs
+KORREKT: die
+KORREKT: zu
+KORREKT: einer
+KORREKT: Veränderung
+KORREKT: der
+KORREKT: Einbauverhältnisse
+KORREKT: führen
+KORREKT: die
+FEHLT: Behälterunterbringung
+KORREKT: die
+FAST KORREKT: Behälterbefestigung
+KORREKT: die
+FAST KORREKT: Behälterabmessungen
+KORREKT: der
+FEHLT: Behälterwerkstoff
+KORREKT: oder
+KORREKT: das
+KORREKT: Herstellungsverfahren
+KORREKT: geändert
+KORREKT: werden
+KORREKT: Hierüber
+KORREKT: ist
+KORREKT: ein
+KORREKT: Nachtragsgutachten
+KORREKT: der
+FAST KORREKT: TÜV
+KORREKT: Rheinland
+KORREKT: Kraftfahrt
+KORREKT: GmbH
+KORREKT: einzuholen
+KORREKT: If
+KORREKT: essential
+KORREKT: parts
+KORREKT: of
+KORREKT: the
+KORREKT: vehicle
+KORREKT: especially
+KORREKT: concerning
+KORREKT: the
+KORREKT: installation
+KORREKT: of
+KORREKT: the
+KORREKT: fuel
+KORREKT: tank
+KORREKT: or
+KORREKT: material
+KORREKT: manufacturing
+KORREKT: method
+KORREKT: dimensions
+KORREKT: or
+KORREKT: mounting
+KORREKT: of
+KORREKT: the
+KORREKT: tank
+KORREKT: have
+KORREKT: been
+KORREKT: changed
+KORREKT: a
+KORREKT: new
+KORREKT: approval
+KORREKT: by
+KORREKT: the
+FAST KORREKT: TÜV
+KORREKT: Rheinland
+KORREKT: Kraftfahrt
+KORREKT: GmbH
+KORREKT: is
+KORREKT: necessary
+ZUSÄTZLICH: accessory
+ZUSÄTZLICH: tanker
+ZUSÄTZLICH: Tank
+ZUSÄTZLICH: TÜvmarking
+ZUSÄTZLICH: Behalters
+ZUSÄTZLICH: Behäl
+ZUSÄTZLICH: terunterbringung
+ZUSÄTZLICH: Beihalterbefestigung
+ZUSÄTZLICH: behälterabmessungen
+ZUSÄTZLICH: Behäl
+ZUSÄTZLICH: tersetwerkstoff
+ZUSÄTZLICH: TÜ
+ZUSÄTZLICH: V
+ZUSÄTZLICH: fu
+ZUSÄTZLICH: el
+ZUSÄTZLICH: Tank
+ZUSÄTZLICH: TÜ
+ZUSÄTZLICH: VRheinlandKraftfahrgmbh
 Durchlauf 5:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,9 +1,9 @@
--Throttle
-+**Throttle
- Body
- (TB)
- and
- fuel
--rail
-+rail**
- The
- Throttle
- Body,
-@@ -28,7 +28,7 @@
- TB
- and
- fuel
--rail
-+Rail
- houses
- the
- fuel
-@@ -61,7 +61,7 @@
- the
- fuel
- tank.
--Sensors
-+**Sensors**
- Five
- sensors
- provide
-@@ -88,12 +88,11 @@
- each
- sensor
- follows.
--Crankshaft
-+**Crankshaft
- Position
- Sensor
- (CKP
--Sensor)
---
-+Sensor)-**
- The
- CKP
- Sensor
-@@ -152,7 +151,7 @@
- Center
- (TDC)
- reference.
--Coolant
-+**Coolant
- Temperature
- Sensor
- (ET
-@@ -172,7 +171,7 @@
- between
- the
- engine
--‘V’.
-+'V'.
- This
- information
- is
-@@ -202,13 +201,13 @@
- determine
- injector
- pulse
--width.
--Intake
-+width.**
-+**Intake
- Air
- Temperature
- Sensor
--(IAT
--Sensor)-
-+IAT
-+Sensor-**
- Located
- in
- the
-@@ -221,7 +220,7 @@
- by
- the
- IAT
--Sensor
-+sensor
- is
- used
- in
-@@ -232,7 +231,7 @@
- from
- the
- MAP
--Sensor
-+sensor
- to
- determine
- oxygen
-@@ -249,13 +248,13 @@
- starting
- and
- warm-up.
--Manifold
-+**Manifold
- Air
- Pressure
- Sensor
- (MAP
--Sensor)
---
-+Sensor)-
-+**
- The
- MAP
- Sensor,
-@@ -263,7 +262,7 @@
- on
- the
- front
--cylinder
-+engine
- intake,
- monitors
- manifold
-@@ -276,23 +275,24 @@
- for
- fuel
- and
--spark
-+Spark
- timing.
--Throttle
-+**Throat
- Position
- Sensor
--(TP
--Sensor)
---
--The
- TP
--Sensor
--is
-+Sensor-
-+**
-+The
-+TP
-+Sensor
-+is
-+mounted
-+on
- a
- potentiometer
- mounted
- on
--the
- throttle
- body
- and
-@@ -308,7 +308,6 @@
- provides
- the
- ECM
--with
- information
- about
- throttle
-@@ -317,13 +316,12 @@
- transient
- fuel
- and
--spark
-+SPARK
- timing.
- Other
- Features
--Wire
--Harnesses
---
-+**Wire
-+Harnesses-**
- There
- is
- a
-@@ -332,7 +330,6 @@
- harness.
- There
- is
--a
- separate
- small
- engine
-@@ -343,12 +340,11 @@
- main
- wire
- harness.
--Low
-+**Low
- Level
- Fuel
- Warning
--Lamp
---
-+Lamp-**
- Since
- the
- fuel
-@@ -400,9 +396,8 @@
- is
- added.
- The
--lamp
--is
--designed
-+design
-+is
- so
- that
- it
-@@ -424,8 +419,7 @@
- tank.
- Fuses
- and
--Relays
---
-+Relays-
- One
- electrical
- relay
-@@ -437,7 +431,7 @@
- fuel
- pump,
- ignition
--coil
-+coil,
- and
- injectors.
- The
-@@ -476,16 +470,14 @@
- contains
- spare
- fuses.
--Air
--Cleaner
---
-+**Air
-+Cleaner-**
- The
- air
- cleaner
- is
- mounted
- in
--the
- air
- box.
- It
-@@ -496,10 +488,10 @@
- of
- the
- cylinders.
--Check
-+**Check
- Engine
--Lamp-
--The
-+Lamp
-+Connector-**
- Check
- Engine
- Lamp
-@@ -514,18 +506,17 @@
- a
- fault
- condition.
--Data
-+**Data
- Link
--Connector
---The
-+Connector-
-+The
- EFI
- system
- provides
- two
- levels
- of
--on
--board
-+on-board
- diagnostics
- to
- assist
-@@ -546,7 +537,6 @@
- is
- connected
- to
--the
- ECM
- and
- allows
-@@ -555,7 +545,6 @@
- in-depth
- diagnosis.
- In
--the
- other
- mode,
- a
-@@ -568,6 +557,7 @@
- the
- technician.
- The
-+test
- lamp
- flashes
- a
-@@ -590,8 +580,9 @@
- either
- the
- Diagnostics
--Test
-+test
- Lamp
- or
- the
--Scanalyser.
-+Scan
-+analyzer.**
-
+KORREKT: Throttle
+KORREKT: Body
+KORREKT: TB
+KORREKT: and
+KORREKT: fuel
+KORREKT: rail
+KORREKT: The
+KORREKT: Throttle
+KORREKT: Body
+KORREKT: which
+KORREKT: distributes
+KORREKT: fuel
+KORREKT: and
+KORREKT: air
+KORREKT: to
+KORREKT: the
+KORREKT: engine
+KORREKT: cylinders
+KORREKT: is
+KORREKT: an
+KORREKT: aluminum
+KORREKT: dual
+KORREKT: runner
+KORREKT: with
+KORREKT: separate
+KORREKT: manifolds
+KORREKT: The
+KORREKT: TB
+KORREKT: and
+KORREKT: fuel
+KORREKT: rail
+KORREKT: houses
+KORREKT: the
+KORREKT: fuel
+KORREKT: injectors
+KORREKT: fuel
+KORREKT: pressure
+KORREKT: regulator
+KORREKT: throttle
+KORREKT: position
+KORREKT: sensor
+KORREKT: idle
+KORREKT: speed
+KORREKT: control
+KORREKT: actuator
+KORREKT: and
+KORREKT: the
+KORREKT: throttle
+KORREKT: plates
+KORREKT: and
+KORREKT: linkages
+KORREKT: Fuel
+KORREKT: fittings
+KORREKT: connect
+KORREKT: the
+KORREKT: fuel
+KORREKT: supply
+KORREKT: and
+KORREKT: return
+KORREKT: to
+KORREKT: the
+KORREKT: fuel
+KORREKT: tank
+KORREKT: Sensors
+KORREKT: Five
+KORREKT: sensors
+KORREKT: provide
+KORREKT: the
+KORREKT: ECM
+KORREKT: with
+KORREKT: data
+KORREKT: on
+KORREKT: the
+KORREKT: environmental
+KORREKT: and
+KORREKT: engine
+KORREKT: operating
+KORREKT: factors
+KORREKT: influencing
+KORREKT: fuel
+KORREKT: and
+KORREKT: spark
+KORREKT: requirements
+KORREKT: A
+KORREKT: brief
+KORREKT: description
+KORREKT: of
+KORREKT: each
+KORREKT: sensor
+KORREKT: follows
+KORREKT: Crankshaft
+KORREKT: Position
+KORREKT: Sensor
+KORREKT: CKP
+KORREKT: Sensor
+KORREKT: The
+KORREKT: CKP
+KORREKT: Sensor
+KORREKT: is
+KORREKT: a
+KORREKT: magnetic
+KORREKT: pickup
+KORREKT: device
+KORREKT: mounted
+KORREKT: in
+KORREKT: the
+KORREKT: left
+KORREKT: crankcase
+KORREKT: half
+KORREKT: near
+KORREKT: the
+KORREKT: alternator
+KORREKT: plug
+KORREKT: To
+KORREKT: calculate
+KORREKT: engine
+KORREKT: speed
+KORREKT: for
+KORREKT: the
+KORREKT: ECM
+KORREKT: the
+KORREKT: sensor
+KORREKT: picks
+KORREKT: up
+KORREKT: signals
+KORREKT: from
+KORREKT: the
+KORREKT: presence
+KORREKT: of
+KORREKT: 24
+KORREKT: teeth
+KORREKT: machined
+KORREKT: into
+KORREKT: the
+KORREKT: left
+KORREKT: flywheel
+KORREKT: cheek
+KORREKT: A
+KORREKT: gap
+KORREKT: created
+KORREKT: by
+KORREKT: the
+KORREKT: removal
+KORREKT: of
+KORREKT: two
+KORREKT: teeth
+KORREKT: establishes
+KORREKT: a
+KORREKT: Top
+KORREKT: Dead
+KORREKT: Center
+KORREKT: TDC
+KORREKT: reference
+KORREKT: Coolant
+KORREKT: Temperature
+KORREKT: Sensor
+KORREKT: ET
+KORREKT: Sensor
+KORREKT: The
+KORREKT: ET
+KORREKT: Sensor
+KORREKT: monitors
+KORREKT: temperature
+KORREKT: of
+KORREKT: the
+KORREKT: engine
+KORREKT: coolant
+KORREKT: and
+KORREKT: is
+KORREKT: mounted
+KORREKT: between
+KORREKT: the
+KORREKT: engine
+KORREKT: V
+KORREKT: This
+KORREKT: information
+KORREKT: is
+KORREKT: primarily
+KORREKT: used
+KORREKT: by
+KORREKT: the
+KORREKT: ECM
+KORREKT: during
+KORREKT: engine
+KORREKT: warmup
+KORREKT: periods
+KORREKT: for
+KORREKT: the
+KORREKT: purpose
+KORREKT: of
+KORREKT: idle
+KORREKT: speed
+KORREKT: adjustment
+KORREKT: The
+KORREKT: ECM
+KORREKT: also
+KORREKT: uses
+KORREKT: the
+KORREKT: data
+KORREKT: to
+KORREKT: determine
+KORREKT: injector
+KORREKT: pulse
+KORREKT: width
+KORREKT: Intake
+KORREKT: Air
+KORREKT: Temperature
+KORREKT: Sensor
+KORREKT: IAT
+KORREKT: Sensor
+KORREKT: Located
+KORREKT: in
+KORREKT: the
+KORREKT: front
+KORREKT: cylinder
+KORREKT: intake
+KORREKT: the
+KORREKT: data
+KORREKT: provided
+KORREKT: by
+KORREKT: the
+KORREKT: IAT
+KORREKT: Sensor
+KORREKT: is
+KORREKT: used
+KORREKT: in
+KORREKT: conjunction
+KORREKT: with
+KORREKT: the
+KORREKT: data
+KORREKT: from
+KORREKT: the
+KORREKT: MAP
+KORREKT: Sensor
+KORREKT: to
+KORREKT: determine
+KORREKT: oxygen
+KORREKT: content
+KORREKT: air
+KORREKT: density
+KORREKT: for
+KORREKT: adjustment
+KORREKT: of
+KORREKT: fuel
+KORREKT: delivery
+KORREKT: during
+KORREKT: cold
+KORREKT: starting
+KORREKT: and
+KORREKT: warmup
+KORREKT: Manifold
+KORREKT: Air
+KORREKT: Pressure
+KORREKT: Sensor
+KORREKT: MAP
+KORREKT: Sensor
+KORREKT: The
+KORREKT: MAP
+KORREKT: Sensor
+KORREKT: mounted
+KORREKT: on
+KORREKT: the
+KORREKT: front
+KORREKT: cylinder
+KORREKT: intake
+KORREKT: monitors
+KORREKT: manifold
+KORREKT: air
+KORREKT: pressure
+KORREKT: and
+KORREKT: senses
+KORREKT: engine
+KORREKT: load
+KORREKT: for
+KORREKT: fuel
+KORREKT: and
+KORREKT: spark
+KORREKT: timing
+KORREKT: Throttle
+KORREKT: Position
+KORREKT: Sensor
+KORREKT: TP
+KORREKT: Sensor
+KORREKT: The
+KORREKT: TP
+KORREKT: Sensor
+KORREKT: is
+KORREKT: a
+KORREKT: potentiometer
+KORREKT: mounted
+KORREKT: on
+KORREKT: the
+KORREKT: throttle
+KORREKT: body
+KORREKT: and
+KORREKT: attached
+KORREKT: to
+KORREKT: the
+KORREKT: end
+KORREKT: of
+KORREKT: the
+KORREKT: throttle
+KORREKT: shaft
+KORREKT: It
+KORREKT: provides
+KORREKT: the
+KORREKT: ECM
+KORREKT: with
+KORREKT: information
+KORREKT: about
+KORREKT: throttle
+KORREKT: angle
+KORREKT: for
+KORREKT: transient
+KORREKT: fuel
+KORREKT: and
+KORREKT: spark
+KORREKT: timing
+KORREKT: Other
+KORREKT: Features
+KORREKT: Wire
+KORREKT: Harnesses
+KORREKT: There
+KORREKT: is
+KORREKT: a
+KORREKT: single
+KORREKT: main
+KORREKT: harness
+KORREKT: There
+KORREKT: is
+KORREKT: a
+KORREKT: separate
+KORREKT: small
+KORREKT: engine
+KORREKT: harness
+KORREKT: connected
+KORREKT: to
+KORREKT: the
+KORREKT: main
+KORREKT: wire
+KORREKT: harness
+KORREKT: Low
+KORREKT: Level
+KORREKT: Fuel
+KORREKT: Warning
+KORREKT: Lamp
+KORREKT: Since
+KORREKT: the
+KORREKT: fuel
+KORREKT: valve
+KORREKT: and
+KORREKT: mechanical
+KORREKT: reserve
+KORREKT: have
+KORREKT: been
+KORREKT: eliminated
+KORREKT: a
+KORREKT: fuel
+KORREKT: gauge
+KORREKT: and
+KORREKT: a
+KORREKT: low
+KORREKT: fuel
+KORREKT: level
+KORREKT: warning
+KORREKT: lamp
+KORREKT: have
+KORREKT: been
+KORREKT: provided
+KORREKT: The
+KORREKT: lamp
+KORREKT: is
+KORREKT: activated
+KORREKT: when
+KORREKT: the
+KORREKT: fuel
+KORREKT: level
+KORREKT: reaches
+KORREKT: about
+KORREKT: 12
+KORREKT: to
+KORREKT: 15
+KORREKT: gallons
+KORREKT: and
+KORREKT: stays
+KORREKT: lit
+KORREKT: until
+KORREKT: the
+KORREKT: engine
+KORREKT: is
+KORREKT: turned
+KORREKT: off
+KORREKT: or
+KORREKT: fuel
+KORREKT: is
+KORREKT: added
+KORREKT: The
+KORREKT: lamp
+KORREKT: is
+FAST KORREKT: designed
+KORREKT: so
+KORREKT: that
+KORREKT: it
+KORREKT: will
+KORREKT: not
+KORREKT: blink
+KORREKT: when
+KORREKT: movement
+KORREKT: of
+KORREKT: the
+KORREKT: vehicle
+KORREKT: causes
+KORREKT: the
+KORREKT: fuel
+KORREKT: to
+KORREKT: slosh
+KORREKT: inside
+KORREKT: the
+KORREKT: tank
+KORREKT: Fuses
+KORREKT: and
+KORREKT: Relays
+KORREKT: One
+KORREKT: electrical
+KORREKT: relay
+KORREKT: is
+KORREKT: provided
+KORREKT: which
+KORREKT: powers
+KORREKT: the
+KORREKT: fuel
+KORREKT: pump
+KORREKT: ignition
+KORREKT: coil
+KORREKT: and
+KORREKT: injectors
+KORREKT: The
+KORREKT: relays
+KORREKT: are
+KORREKT: similar
+KORREKT: to
+KORREKT: the
+KORREKT: starter
+KORREKT: relay
+KORREKT: currently
+KORREKT: used
+KORREKT: on
+KORREKT: production
+KORREKT: vehicles
+KORREKT: To
+KORREKT: provide
+KORREKT: circuit
+KORREKT: protection
+KORREKT: the
+KORREKT: appropriate
+KORREKT: fuses
+KORREKT: are
+KORREKT: supplied
+KORREKT: in
+KORREKT: a
+KORREKT: sealed
+KORREKT: fuse
+KORREKT: holder
+KORREKT: Another
+KORREKT: holder
+KORREKT: at
+KORREKT: the
+KORREKT: same
+KORREKT: location
+KORREKT: contains
+KORREKT: spare
+KORREKT: fuses
+KORREKT: Air
+KORREKT: Cleaner
+KORREKT: The
+KORREKT: air
+KORREKT: cleaner
+KORREKT: is
+KORREKT: mounted
+KORREKT: in
+KORREKT: the
+KORREKT: air
+KORREKT: box
+KORREKT: It
+KORREKT: is
+KORREKT: located
+KORREKT: on
+KORREKT: top
+KORREKT: of
+KORREKT: the
+KORREKT: cylinders
+KORREKT: Check
+KORREKT: Engine
+KORREKT: Lamp
+KORREKT: The
+KORREKT: Check
+KORREKT: Engine
+KORREKT: Lamp
+KORREKT: on
+KORREKT: the
+KORREKT: instrument
+KORREKT: panel
+KORREKT: indicates
+KORREKT: the
+KORREKT: existence
+KORREKT: of
+KORREKT: a
+KORREKT: fault
+KORREKT: condition
+KORREKT: Data
+KORREKT: Link
+KORREKT: Connector
+KORREKT: The
+KORREKT: EFI
+KORREKT: system
+KORREKT: provides
+KORREKT: two
+KORREKT: levels
+KORREKT: of
+KORREKT: on
+FAST KORREKT: board
+KORREKT: diagnostics
+KORREKT: to
+KORREKT: assist
+KORREKT: in
+KORREKT: determining
+KORREKT: the
+KORREKT: source
+KORREKT: of
+KORREKT: system
+KORREKT: problems
+KORREKT: In
+KORREKT: the
+KORREKT: more
+KORREKT: sophisticated
+KORREKT: mode
+KORREKT: the
+KORREKT: Scanalyzer
+KORREKT: is
+KORREKT: connected
+KORREKT: to
+KORREKT: the
+KORREKT: ECM
+KORREKT: and
+KORREKT: allows
+KORREKT: for
+KORREKT: an
+KORREKT: indepth
+KORREKT: diagnosis
+KORREKT: In
+KORREKT: the
+KORREKT: other
+KORREKT: mode
+KORREKT: a
+KORREKT: Diagnostics
+KORREKT: Test
+KORREKT: Lamp
+KORREKT: is
+KORREKT: observed
+KORREKT: by
+KORREKT: the
+KORREKT: technician
+KORREKT: The
+KORREKT: lamp
+KORREKT: flashes
+KORREKT: a
+KORREKT: code
+KORREKT: that
+KORREKT: correlates
+KORREKT: to
+KORREKT: a
+KORREKT: particular
+KORREKT: problem
+KORREKT: area
+KORREKT: The
+KORREKT: Data
+KORREKT: Link
+KORREKT: Connector
+KORREKT: provides
+KORREKT: for
+KORREKT: connection
+KORREKT: of
+KORREKT: either
+KORREKT: the
+KORREKT: Diagnostics
+KORREKT: Test
+KORREKT: Lamp
+KORREKT: or
+KORREKT: the
+FAST KORREKT: Scanalyser
+ZUSÄTZLICH: Rail
+ZUSÄTZLICH: Spark
+ZUSÄTZLICH: Throat
+ZUSÄTZLICH: SPARK
+ZUSÄTZLICH: design
+ZUSÄTZLICH: onboard
+ZUSÄTZLICH: test
+ZUSÄTZLICH: test
+ZUSÄTZLICH: Scan
+ZUSÄTZLICH: analyzer
 Durchlauf 6:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,52 +1,21 @@
--4
--Schlussbescheinigung
--/
--Certification
- Der
- unter
--Nr.
-+No.
- 0.5
- angegebene
--Beschreibungsbogen
-+Beschreibungsblock
- und
- der
- darin
- beschriebene
- Typ
---
- entspricht
---
- der
--o.
--a.
-+o.a.
- Prüfspezifikation.
--The
--information
--document
--as
--mentioned
--under
--No.
--5
--and
--the
--type
--described
--therein
--are
---
--in
--compliance
---
--with
--the
--test
--specification
--mentioned
--above.
- Die
- verwendeten
--Prüfmuster
-+Prüfmaschinen
- waren
- im
- Hinblick
-@@ -62,32 +31,8 @@
- repräsentativ
- (siehe
- 1.1).
--With
--regard
--to
--the
--required
--level
--of
--performance
--to
--be
--achieved,
--the
--tested
--items
--were
--representative
--for
--the
--type
--to
--be
--approved
--(see
--1.1).
- Dieser
--Prüfbericht
-+Prüferbericht
- umfasst
- Blatt
- 1
-@@ -97,7 +42,7 @@
- die
- Anlagen.
- Dieser
--Prüfbericht
-+Testbericht
- darf
- nur
- vom
-@@ -105,7 +50,7 @@
- und
- nur
- in
--vollem
-+voller
- Wortlaut
- vervielfältigt
- und
-@@ -113,23 +58,23 @@
- werden.
- Eine
- auszugsweise
--Vervielfältigung
-+Vervielfaltigung
- und
- Veröffentlichung
- des
--Prüfberichtes
-+Prüfterberichtes
- ist
- nur
- nach
- schriftlicher
- Genehmigung
- des
--Prüflaboratoriums
-+Pruflaboratoriums
- zulässig.
- This
- Test
- Report
--compromises
-+comprises
- pages
- 1
- to
-@@ -155,7 +100,7 @@
- It
- shall
- be
--reproduced
-+replicated
- partially
- with
- the
-
+FAST KORREKT: 4
+FEHLT: Schlussbescheinigung
+FEHLT: Certification
+KORREKT: Der
+KORREKT: unter
+FAST KORREKT: Nr
+KORREKT: 05
+KORREKT: angegebene
+FEHLT: Beschreibungsbogen
+KORREKT: und
+KORREKT: der
+KORREKT: darin
+KORREKT: beschriebene
+KORREKT: Typ
+KORREKT: entspricht
+KORREKT: der
+FAST KORREKT: o
+FAST KORREKT: a
+KORREKT: Prüfspezifikation
+KORREKT: The
+FEHLT: information
+FEHLT: document
+FAST KORREKT: as
+FEHLT: mentioned
+FAST KORREKT: under
+KORREKT: No
+FAST KORREKT: 5
+KORREKT: and
+KORREKT: the
+FAST KORREKT: type
+FEHLT: described
+FEHLT: therein
+FAST KORREKT: are
+KORREKT: in
+FEHLT: compliance
+KORREKT: with
+KORREKT: the
+FAST KORREKT: test
+FEHLT: specification
+FEHLT: mentioned
+FEHLT: above
+KORREKT: Die
+KORREKT: verwendeten
+FEHLT: Prüfmuster
+KORREKT: waren
+KORREKT: im
+KORREKT: Hinblick
+KORREKT: auf
+KORREKT: das
+KORREKT: erforderliche
+KORREKT: Leistungsniveau
+KORREKT: für
+KORREKT: den
+KORREKT: zu
+KORREKT: genehmigenden
+KORREKT: Typ
+KORREKT: repräsentativ
+KORREKT: siehe
+KORREKT: 11
+FAST KORREKT: With
+FEHLT: regard
+KORREKT: to
+KORREKT: the
+FEHLT: required
+FEHLT: level
+KORREKT: of
+FEHLT: performance
+KORREKT: to
+KORREKT: be
+FEHLT: achieved
+KORREKT: the
+FEHLT: tested
+FEHLT: items
+FAST KORREKT: were
+FAST KORREKT: representative
+FAST KORREKT: for
+KORREKT: the
+FAST KORREKT: type
+KORREKT: to
+KORREKT: be
+FEHLT: approved
+FAST KORREKT: see
+KORREKT: 11
+KORREKT: Dieser
+FAST KORREKT: Prüfbericht
+KORREKT: umfasst
+KORREKT: Blatt
+KORREKT: 1
+KORREKT: bis
+KORREKT: 9
+KORREKT: sowie
+KORREKT: die
+KORREKT: Anlagen
+KORREKT: Dieser
+FAST KORREKT: Prüfbericht
+KORREKT: darf
+KORREKT: nur
+KORREKT: vom
+KORREKT: Auftraggeber
+KORREKT: und
+KORREKT: nur
+KORREKT: in
+FAST KORREKT: vollem
+KORREKT: Wortlaut
+KORREKT: vervielfältigt
+KORREKT: und
+KORREKT: weitergegeben
+KORREKT: werden
+KORREKT: Eine
+KORREKT: auszugsweise
+FAST KORREKT: Vervielfältigung
+KORREKT: und
+KORREKT: Veröffentlichung
+KORREKT: des
+FEHLT: Prüfberichtes
+KORREKT: ist
+KORREKT: nur
+KORREKT: nach
+KORREKT: schriftlicher
+KORREKT: Genehmigung
+KORREKT: des
+FAST KORREKT: Prüflaboratoriums
+KORREKT: zulässig
+KORREKT: This
+KORREKT: Test
+KORREKT: Report
+FAST KORREKT: compromises
+KORREKT: pages
+KORREKT: 1
+KORREKT: to
+KORREKT: 9
+KORREKT: and
+KORREKT: attachments
+KORREKT: The
+KORREKT: Test
+KORREKT: Report
+KORREKT: shall
+KORREKT: be
+KORREKT: reproduced
+KORREKT: and
+KORREKT: published
+KORREKT: in
+KORREKT: full
+KORREKT: only
+KORREKT: and
+KORREKT: by
+KORREKT: the
+KORREKT: client
+KORREKT: only
+KORREKT: It
+KORREKT: shall
+KORREKT: be
+KORREKT: reproduced
+KORREKT: partially
+KORREKT: with
+KORREKT: the
+KORREKT: written
+KORREKT: permission
+KORREKT: of
+KORREKT: the
+KORREKT: Test
+KORREKT: Laboratory
+KORREKT: only
+KORREKT: PRÜFLABORATORIUM
+KORREKT: TEST
+KORREKT: LABORATORY
+KORREKT: benannt
+KORREKT: von
+KORREKT: der
+KORREKT: Benennungsstelle
+KORREKT: des
+KORREKT: KraftfahrtBundesamtes
+KORREKT: Bundesrepublik
+KORREKT: Deutschland
+KORREKT: designated
+KORREKT: by
+KORREKT: designation
+KORREKT: department
+KORREKT: of
+KORREKT: KraftfahrBundesanamt
+KORREKT: Federal
+KORREKT: Republic
+KORREKT: of
+KORREKT: Germany
+ZUSÄTZLICH: Beschreibungsblock
+ZUSÄTZLICH: oa
+ZUSÄTZLICH: Prüfmaschinen
+ZUSÄTZLICH: Prüferbericht
+ZUSÄTZLICH: Testbericht
+ZUSÄTZLICH: voller
+ZUSÄTZLICH: Vervielfaltigung
+ZUSÄTZLICH: Prüfterberichtes
+ZUSÄTZLICH: Pruflaboratoriums
+ZUSÄTZLICH: comprises
+ZUSÄTZLICH: replicated
 Durchlauf 8:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -47,9 +47,8 @@
- jedoch
- amerikanischer
- Panzer
--in
--das
--Eisenach
-+im
-+Eisenacher
- Werk
- ein,
- noch
-@@ -64,13 +63,15 @@
- Aufteilung
- Deutschlands
- in
--Besatzungszonen
-+Besatzungszone
- fiel
- Thüringen
- zum
- 5.
- Juni
--1045
-+1
-+94
-+5
- endgültig
- der
- sowjetischen
-@@ -79,10 +80,11 @@
- Diese
- übernahmen
- am
--03.Juli
--1454
-+03.
-+Juli
-+1.94.5
- das
--Eisenachers
-+Eisenach
- Werk.
- Die
- Sowjets
-@@ -96,7 +98,7 @@
- versteckten
- Teile
- und
--Maschinen
-+Maschienen
- wurden
- schnell
- entdeckt.
-@@ -104,7 +106,7 @@
- standen
- bei
- den
--Sowjets
-+Sowjetjets
- hoch
- im
- Kurs
-@@ -124,7 +126,7 @@
- den
- verbliebenen
- Teilen
--komplette
-+komplett
- Motorräder
- zu
- fertigen.
-@@ -140,7 +142,7 @@
- die
- nicht
- eingelagerten
--Pressstahlrahmen
-+Pressstahlahren
- hergestellt
- werden.
- Die
-@@ -149,6 +151,7 @@
- die
- gebauten
- R
-+3
- 5
- und
- befanden
-@@ -156,13 +159,14 @@
- für
- gut
- und
--verfügt
-+verfügten
- daraufhin
- den
- Bau
- von
- weiteren
--Motorrädern.
-+Motorrä
-+dern.
- Um
- die
- durch
-@@ -170,7 +174,7 @@
- Demontagebefehl
- weiterhin
- drohende
--Demontage
-+Demontation
- abzuwenden,
- versuchten
- der
-@@ -182,15 +186,15 @@
- Siedler,
- und
- seine
--verbliebenen
-+verbliefenen
- Männer
- die
--Sowjets
-+SowJetjs
- umzustimmen.
- Im
- Hauptquartier
- der
--Sowjets
-+SowJets
- wurde
- Marschall
- Georgi
-@@ -198,7 +202,7 @@
- die
- letzte
- intakte
--verbliebene
-+verblievene
- BMW
- 321-Limousine
- vorgeführt.
-@@ -220,7 +224,7 @@
- gelang
- und
- mit
--Befehl
-+Befehle
- Nummer
- 93
- zur
-@@ -231,17 +235,18 @@
- neuen
- Personenkraftwagen
- und
--Motorräder
-+Motorrä
-+der
- in
- der
- Fahrzeug-
- und
--Maschinenfabrik
--Thüringen"
-+Maschenfabrik
-+Thüringens"
- war
- die
--drohende
--Demontage
-+drohend
-+Demontag
- abgewendet.
- Jährlich
- sollten
-@@ -249,20 +254,19 @@
- PKW
- des
- Typs
--321
-+312
- und
- die
- gleiche
- Anzahl
- von
--Motorrädern
-+Motorräden
- Typ
- R
--35
-+5
- gebaut
--werden.
--Die
--Maschinen
-+werden.Die
-+Maschiner
- zur
- Fahrzeugherstellung
- kamen
-@@ -271,7 +275,8 @@
- Werk,
- im
- November
--1945
-+1
-+.944
- begann
- die
- Produktion
-@@ -282,14 +287,14 @@
- zweiten
- Mal.
- Diese
--Fahrzeuge
-+Fahrzege
- gingen
- vorerst
- als
- Reparationsleistung
- in
- die
--Sowjetunion.
-+Sowejetunion.
- Mit
- der
- Verfügung
-@@ -297,11 +302,11 @@
- Präsidenten
- des
- Landes
--Thüringen
-+Thüringer
- waren
- im
- September
--1945
-+145
- alle
- Betriebsanlagen
- enteignet
-@@ -315,7 +320,7 @@
- die
- seitens
- der
--damaligen
-+damalgigen
- Machthaber
- wie
- folgt
-@@ -323,7 +328,7 @@
- wurden:
- "Sie
- (die
--Widerspruche)
-+Widersprüche)
- sind
- nur
- zu
-@@ -352,13 +357,13 @@
- Am
- 15.
- September
--1946
-+1846
- wurde
- das
- Werk
- in
- die
--Sowjetische
-+sowjetische
- Aktiengesellschaft
- Awtovelo
- eingegliedert.
-@@ -372,7 +377,7 @@
- für
- das
- Jahr
--1945
-+1,45
- forderten
- die
- Herstellung
-@@ -383,9 +388,8 @@
- wurden
- 16.
- Für
--das
--Jahre
--1946-48
-+1
-+,4648
- sind
- Planzahlen
- bekannt,
-@@ -395,7 +399,8 @@
- Ergebnisse.
- Erst
- ab
--1949
-+119
-+45
- liegen
- zuverlässigere
- Werte
-@@ -404,28 +409,30 @@
- stieg
- die
- jährliche
--Fertigungszahl
-+Fertigungszustückzahl
- von
- 4250
- im
- Jahre
--1949
-+13949
- auf
--13700
--im
--Jahre
--1955.
-+1700
-+im
-+Jahr
-+555.
- Insgesamt
- sind
- etwa
- 65
- bis
--70
-+7
-+0
- Tausend
--R35
-+R3
-+85
- in
- Eisenach
--hergestellt
-+hergestellert
- worden.
- Andere
- Quellen
-@@ -435,4 +442,4 @@
- sprechen
- von
- ca.
--81000
-+8100
-
+KORREKT: Motorradfertigung
+KORREKT: nach
+KORREKT: Eisenach
+KORREKT: Im
+KORREKT: zweiten
+KORREKT: Weltkrieg
+KORREKT: wurde
+KORREKT: das
+KORREKT: Eisenacher
+KORREKT: BMWWerk
+KORREKT: erheblich
+KORREKT: zerstört
+KORREKT: die
+KORREKT: Maschinen
+KORREKT: wurden
+KORREKT: zusammen
+KORREKT: mit
+KORREKT: Teilebeständen
+KORREKT: in
+KORREKT: den
+KORREKT: umliegenden
+KORREKT: Schächten
+KORREKT: der
+KORREKT: KaliBergwerke
+KORREKT: versteckt
+KORREKT: Das
+KORREKT: Werk
+KORREKT: sollte
+KORREKT: laut
+KORREKT: Führerbefehl
+KORREKT: im
+KORREKT: April
+KORREKT: 1945
+KORREKT: gesprengt
+KORREKT: werden
+KORREKT: da
+KORREKT: die
+KORREKT: amerikanische
+KORREKT: Armee
+KORREKT: immer
+KORREKT: näher
+KORREKT: rückte
+KORREKT: Am
+KORREKT: 6
+KORREKT: April
+KORREKT: rückten
+KORREKT: jedoch
+KORREKT: amerikanischer
+KORREKT: Panzer
+KORREKT: in
+KORREKT: das
+KORREKT: Eisenach
+KORREKT: Werk
+KORREKT: ein
+KORREKT: noch
+KORREKT: bevor
+KORREKT: es
+KORREKT: zur
+KORREKT: Sprengung
+KORREKT: kam
+KORREKT: Im
+KORREKT: Rahmen
+KORREKT: der
+KORREKT: Aufteilung
+KORREKT: Deutschlands
+KORREKT: in
+FAST KORREKT: Besatzungszonen
+KORREKT: fiel
+KORREKT: Thüringen
+KORREKT: zum
+KORREKT: 5
+KORREKT: Juni
+FAST KORREKT: 1045
+KORREKT: endgültig
+KORREKT: der
+KORREKT: sowjetischen
+KORREKT: Besatzungszone
+KORREKT: zu
+KORREKT: Diese
+KORREKT: übernahmen
+KORREKT: am
+FAST KORREKT: 03Juli
+FAST KORREKT: 1454
+KORREKT: das
+FAST KORREKT: Eisenachers
+KORREKT: Werk
+KORREKT: Die
+KORREKT: Sowjets
+KORREKT: planten
+KORREKT: das
+KORREKT: Werk
+KORREKT: zu
+KORREKT: demontieren
+KORREKT: auch
+KORREKT: die
+KORREKT: versteckten
+KORREKT: Teile
+KORREKT: und
+KORREKT: Maschinen
+KORREKT: wurden
+KORREKT: schnell
+KORREKT: entdeckt
+KORREKT: BMWMotorräder
+KORREKT: standen
+KORREKT: bei
+KORREKT: den
+KORREKT: Sowjets
+KORREKT: hoch
+KORREKT: im
+KORREKT: Kurs
+KORREKT: man
+KORREKT: erinnere
+KORREKT: sich
+KORREKT: an
+KORREKT: die
+KORREKT: R71
+KORREKT: M72
+KORREKT: und
+KORREKT: so
+KORREKT: forderte
+KORREKT: man
+KORREKT: aus
+KORREKT: den
+KORREKT: verbliebenen
+KORREKT: Teilen
+FAST KORREKT: komplette
+KORREKT: Motorräder
+KORREKT: zu
+KORREKT: fertigen
+KORREKT: Für
+KORREKT: die
+KORREKT: ersten
+KORREKT: 220
+KORREKT: BMW
+KORREKT: R
+KORREKT: 35
+KORREKT: mussten
+KORREKT: lediglich
+KORREKT: die
+KORREKT: nicht
+KORREKT: eingelagerten
+FAST KORREKT: Pressstahlrahmen
+KORREKT: hergestellt
+KORREKT: werden
+KORREKT: Die
+KORREKT: Sowjets
+KORREKT: erprobten
+KORREKT: die
+KORREKT: gebauten
+KORREKT: R
+KORREKT: 5
+KORREKT: und
+KORREKT: befanden
+KORREKT: sie
+KORREKT: für
+KORREKT: gut
+KORREKT: und
+FAST KORREKT: verfügt
+KORREKT: daraufhin
+KORREKT: den
+KORREKT: Bau
+KORREKT: von
+KORREKT: weiteren
+FAST KORREKT: Motorrädern
+KORREKT: Um
+KORREKT: die
+KORREKT: durch
+KORREKT: den
+KORREKT: Demontagebefehl
+KORREKT: weiterhin
+KORREKT: drohende
+FAST KORREKT: Demontage
+KORREKT: abzuwenden
+KORREKT: versuchten
+KORREKT: der
+KORREKT: damalige
+KORREKT: Leiter
+KORREKT: der
+KORREKT: Motorradproduktion
+KORREKT: Albert
+KORREKT: Siedler
+KORREKT: und
+KORREKT: seine
+KORREKT: verbliebenen
+KORREKT: Männer
+KORREKT: die
+KORREKT: Sowjets
+KORREKT: umzustimmen
+KORREKT: Im
+KORREKT: Hauptquartier
+KORREKT: der
+KORREKT: Sowjets
+KORREKT: wurde
+KORREKT: Marschall
+KORREKT: Georgi
+KORREKT: Shukow
+KORREKT: die
+KORREKT: letzte
+KORREKT: intakte
+FAST KORREKT: verbliebene
+KORREKT: BMW
+KORREKT: 321Limousine
+KORREKT: vorgeführt
+KORREKT: Der
+KORREKT: Trick
+KORREKT: saß
+KORREKT: Shukov
+KORREKT: verlangte
+KORREKT: weitere
+KORREKT: fünf
+KORREKT: Neuwagen
+KORREKT: innerhalb
+KORREKT: kürzester
+KORREKT: Zeit
+KORREKT: Die
+KORREKT: Herstellung
+KORREKT: der
+KORREKT: Fahrzeuge
+KORREKT: gelang
+KORREKT: und
+KORREKT: mit
+FAST KORREKT: Befehl
+KORREKT: Nummer
+KORREKT: 93
+KORREKT: zur
+KORREKT: Sicherstellung
+KORREKT: der
+KORREKT: Herausbringung
+KORREKT: der
+KORREKT: neuen
+KORREKT: Personenkraftwagen
+KORREKT: und
+KORREKT: Motorräder
+KORREKT: in
+KORREKT: der
+KORREKT: Fahrzeug
+KORREKT: und
+FAST KORREKT: Maschinenfabrik
+KORREKT: Thüringen
+KORREKT: war
+KORREKT: die
+KORREKT: drohende
+FAST KORREKT: Demontage
+KORREKT: abgewendet
+KORREKT: Jährlich
+KORREKT: sollten
+KORREKT: 3000
+KORREKT: PKW
+KORREKT: des
+KORREKT: Typs
+FAST KORREKT: 321
+KORREKT: und
+KORREKT: die
+KORREKT: gleiche
+KORREKT: Anzahl
+KORREKT: von
+FAST KORREKT: Motorrädern
+KORREKT: Typ
+KORREKT: R
+KORREKT: 35
+KORREKT: gebaut
+KORREKT: werden
+KORREKT: Die
+KORREKT: Maschinen
+KORREKT: zur
+KORREKT: Fahrzeugherstellung
+KORREKT: kamen
+KORREKT: zurück
+KORREKT: ins
+KORREKT: Werk
+KORREKT: im
+KORREKT: November
+KORREKT: 1945
+KORREKT: begann
+KORREKT: die
+KORREKT: Produktion
+KORREKT: der
+KORREKT: BMW
+KORREKT: R35
+KORREKT: zum
+KORREKT: zweiten
+KORREKT: Mal
+KORREKT: Diese
+KORREKT: Fahrzeuge
+KORREKT: gingen
+KORREKT: vorerst
+KORREKT: als
+KORREKT: Reparationsleistung
+KORREKT: in
+KORREKT: die
+FAST KORREKT: Sowjetunion
+KORREKT: Mit
+KORREKT: der
+KORREKT: Verfügung
+KORREKT: des
+KORREKT: Präsidenten
+KORREKT: des
+KORREKT: Landes
+KORREKT: Thüringen
+KORREKT: waren
+KORREKT: im
+KORREKT: September
+KORREKT: 1945
+KORREKT: alle
+KORREKT: Betriebsanlagen
+KORREKT: enteignet
+KORREKT: worden
+KORREKT: Natürlich
+KORREKT: gab
+KORREKT: es
+KORREKT: Widersprüche
+KORREKT: aus
+KORREKT: München
+KORREKT: die
+KORREKT: seitens
+KORREKT: der
+FAST KORREKT: damaligen
+KORREKT: Machthaber
+KORREKT: wie
+KORREKT: folgt
+KORREKT: interpretiert
+KORREKT: wurden
+KORREKT: Sie
+KORREKT: die
+FAST KORREKT: Widerspruche
+KORREKT: sind
+KORREKT: nur
+KORREKT: zu
+KORREKT: bewerten
+KORREKT: als
+KORREKT: Raubansprüche
+KORREKT: der
+KORREKT: auch
+KORREKT: heute
+KORREKT: wieder
+KORREKT: in
+KORREKT: Westdeutschland
+KORREKT: in
+KORREKT: führender
+KORREKT: Position
+KORREKT: des
+KORREKT: deutschen
+KORREKT: Imperialismus
+KORREKT: stehenden
+KORREKT: Monopolherren
+KORREKT: und
+KORREKT: Kriegstreiber
+KORREKT: der
+KORREKT: BMWMünchen
+KORREKT: Am
+KORREKT: 15
+KORREKT: September
+FAST KORREKT: 1946
+KORREKT: wurde
+KORREKT: das
+KORREKT: Werk
+KORREKT: in
+KORREKT: die
+FAST KORREKT: Sowjetische
+KORREKT: Aktiengesellschaft
+KORREKT: Awtovelo
+KORREKT: eingegliedert
+KORREKT: Die
+KORREKT: Planwirtschaft
+KORREKT: hatte
+KORREKT: also
+KORREKT: zugeschlagen
+KORREKT: Erste
+KORREKT: Planansätze
+KORREKT: für
+KORREKT: das
+KORREKT: Jahr
+KORREKT: 1945
+KORREKT: forderten
+KORREKT: die
+KORREKT: Herstellung
+KORREKT: von
+KORREKT: 70
+KORREKT: Motorrändern
+KORREKT: gefertigt
+KORREKT: wurden
+KORREKT: 16
+KORREKT: Für
+KORREKT: das
+KORREKT: Jahre
+FAST KORREKT: 194648
+KORREKT: sind
+KORREKT: Planzahlen
+KORREKT: bekannt
+KORREKT: aber
+KORREKT: keine
+KORREKT: konkreten
+KORREKT: Ergebnisse
+KORREKT: Erst
+KORREKT: ab
+FAST KORREKT: 1949
+KORREKT: liegen
+KORREKT: zuverlässigere
+KORREKT: Werte
+KORREKT: vor
+KORREKT: so
+KORREKT: stieg
+KORREKT: die
+KORREKT: jährliche
+FEHLT: Fertigungszahl
+KORREKT: von
+KORREKT: 4250
+KORREKT: im
+KORREKT: Jahre
+FAST KORREKT: 1949
+KORREKT: auf
+FAST KORREKT: 13700
+KORREKT: im
+KORREKT: Jahre
+FAST KORREKT: 1955
+KORREKT: Insgesamt
+KORREKT: sind
+KORREKT: etwa
+KORREKT: 65
+KORREKT: bis
+KORREKT: 70
+KORREKT: Tausend
+KORREKT: R35
+KORREKT: in
+KORREKT: Eisenach
+KORREKT: hergestellt
+KORREKT: worden
+KORREKT: Andere
+KORREKT: Quellen
+KORREKT: Schröder
+KORREKT: siehe
+KORREKT: Literaturverweis
+KORREKT: sprechen
+KORREKT: von
+KORREKT: ca
+FAST KORREKT: 81000
+ZUSÄTZLICH: 1
+ZUSÄTZLICH: 94
+ZUSÄTZLICH: 03
+ZUSÄTZLICH: Juli
+ZUSÄTZLICH: Maschienen
+ZUSÄTZLICH: Sowjetjets
+ZUSÄTZLICH: komplett
+ZUSÄTZLICH: Pressstahlahren
+ZUSÄTZLICH: 3
+ZUSÄTZLICH: verfügten
+ZUSÄTZLICH: Motorrä
+ZUSÄTZLICH: dern
+ZUSÄTZLICH: Demontation
+ZUSÄTZLICH: verbliefenen
+ZUSÄTZLICH: SowJetjs
+ZUSÄTZLICH: SowJets
+ZUSÄTZLICH: verblievene
+ZUSÄTZLICH: Befehle
+ZUSÄTZLICH: Motorrä
+ZUSÄTZLICH: Maschenfabrik
+ZUSÄTZLICH: Thüringens
+ZUSÄTZLICH: drohend
+ZUSÄTZLICH: Demontag
+ZUSÄTZLICH: 312
+ZUSÄTZLICH: Motorräden
+ZUSÄTZLICH: werdenDie
+ZUSÄTZLICH: Maschiner
+ZUSÄTZLICH: 1
+ZUSÄTZLICH: 944
+ZUSÄTZLICH: Fahrzege
+ZUSÄTZLICH: Sowejetunion
+ZUSÄTZLICH: Thüringer
+ZUSÄTZLICH: 145
+ZUSÄTZLICH: damalgigen
+ZUSÄTZLICH: 1846
+ZUSÄTZLICH: sowjetische
+ZUSÄTZLICH: 145
+ZUSÄTZLICH: 1
+ZUSÄTZLICH: 4648
+ZUSÄTZLICH: 119
+ZUSÄTZLICH: 45
+ZUSÄTZLICH: Fertigungszustückzahl
+ZUSÄTZLICH: 13949
+ZUSÄTZLICH: 1700
+ZUSÄTZLICH: 555
+ZUSÄTZLICH: 7
+ZUSÄTZLICH: 0
+ZUSÄTZLICH: R3
+ZUSÄTZLICH: 85
+ZUSÄTZLICH: hergestellert
+ZUSÄTZLICH: 8100
 Durchlauf 3:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -26,7 +26,7 @@
- IV
- der
- Richtlinie
--2007/46/EC
-+2017/66/EG
- vorgeschriebenen
- Rechtsakte.
- The
-@@ -42,42 +42,42 @@
- relevant
- regulatory
- acts
--as
- prescribed
- in
- Annex
- IV
- to
- Directive
--2007/46/EC.
-+27/20/EC.
- 2.
- Für
- unvollständige
--Varianten
--–For
-+Variante
-+–
-+For
- incomplete
- variants
- :
--Die
--Fahrzeugtype
--erfüllt
-+Der
-+FahrzeugTyp
-+erfüllet
- die
- technische
--Anforderungen
-+Anforderung
- der
- in
- der
- Tabelle
- aufgeführten
--Rechtsakten
---
-+Rechtsakt
-+–
- The
- vehicle
- type
- meets
- the
- technical
--requirements
-+requirement
- of
- the
- regulatory
-@@ -92,9 +92,8 @@
- eine
- oder
- mehrere
--unvollständige
--Varianten
--oder
-+unvOLLständigeVarianten
-+bzw.
- Versionen,
- so
- sind
-@@ -103,7 +102,7 @@
- oder
- vervollständigten
- Varianten
--bzw.
-+bzw
- Versionen
- anzugeben.
- –
-@@ -127,18 +126,16 @@
- complete
- or
- completed.
--Vollständiger/vervollständigte
-+Vollständiger/vervollstandigter
- Variante(n)
--1.
--Stelle
-+1.Stelle
- des
--Variantenschlüssels:
-+Variantenschlussels:
- K
- -
- Complete/completed
- variant(s):
--1.
--digit
-+1.digit
- in
- code
- of
-@@ -150,12 +147,12 @@
- den
- (die)
- genehmigte(n)
--unvollständige(n)
-+unvollerständige(n)
- Fahrzeugtyp
- oder
- Variante
- bzw.
--Version
-+Versions
- geltenden
- Vorschriften
- (jeweils
-@@ -198,7 +195,7 @@
- each
- of
- the
--regulative
-+regulatary
- acts
- listed
- below).
-
+KORREKT: Nummer
+KORREKT: der
+KORREKT: Genehmigung
+KORREKT: e1200746073403
+KORREKT: Approval
+KORREKT: No
+KORREKT: 1
+KORREKT: Für
+KORREKT: vollständige
+KORREKT: Varianten
+KORREKT: For
+KORREKT: complete
+KORREKT: variants
+KORREKT: Der
+KORREKT: Fahrzeugtyp
+KORREKT: erfüllt
+KORREKT: die
+KORREKT: technischen
+KORREKT: Anforderungen
+KORREKT: aller
+KORREKT: einschlägigen
+KORREKT: in
+KORREKT: Anhang
+KORREKT: IV
+KORREKT: der
+KORREKT: Richtlinie
+FEHLT: 200746EC
+KORREKT: vorgeschriebenen
+KORREKT: Rechtsakte
+KORREKT: The
+KORREKT: vehicle
+KORREKT: type
+KORREKT: meets
+KORREKT: the
+KORREKT: technical
+KORREKT: requirements
+KORREKT: of
+KORREKT: all
+KORREKT: the
+KORREKT: relevant
+KORREKT: regulatory
+KORREKT: acts
+KORREKT: as
+KORREKT: prescribed
+KORREKT: in
+KORREKT: Annex
+KORREKT: IV
+KORREKT: to
+KORREKT: Directive
+FEHLT: 200746EC
+KORREKT: 2
+KORREKT: Für
+KORREKT: unvollständige
+KORREKT: Varianten
+KORREKT: For
+KORREKT: incomplete
+KORREKT: variants
+FAST KORREKT: Die
+FAST KORREKT: Fahrzeugtype
+KORREKT: erfüllt
+KORREKT: die
+KORREKT: technische
+KORREKT: Anforderungen
+KORREKT: der
+KORREKT: in
+KORREKT: der
+KORREKT: Tabelle
+KORREKT: aufgeführten
+FAST KORREKT: Rechtsakten
+KORREKT: The
+KORREKT: vehicle
+KORREKT: type
+KORREKT: meets
+KORREKT: the
+KORREKT: technical
+KORREKT: requirements
+KORREKT: of
+KORREKT: the
+KORREKT: regulatory
+KORREKT: acts
+KORREKT: listed
+KORREKT: in
+KORREKT: the
+KORREKT: table
+KORREKT: Umfasst
+KORREKT: die
+KORREKT: Typgenehmigung
+KORREKT: eine
+KORREKT: oder
+KORREKT: mehrere
+KORREKT: unvollständige
+KORREKT: Varianten
+KORREKT: oder
+KORREKT: Versionen
+KORREKT: so
+KORREKT: sind
+KORREKT: die
+KORREKT: vollständigen
+KORREKT: oder
+KORREKT: vervollständigten
+KORREKT: Varianten
+KORREKT: bzw
+KORREKT: Versionen
+KORREKT: anzugeben
+KORREKT: In
+KORREKT: the
+KORREKT: case
+KORREKT: where
+KORREKT: the
+KORREKT: approval
+KORREKT: includes
+KORREKT: one
+KORREKT: or
+KORREKT: more
+KORREKT: incomplete
+KORREKT: variants
+KORREKT: list
+KORREKT: those
+KORREKT: variants
+KORREKT: which
+KORREKT: are
+KORREKT: complete
+KORREKT: or
+KORREKT: completed
+FAST KORREKT: Vollständigervervollständigte
+KORREKT: Varianten
+KORREKT: 1
+FAST KORREKT: Stelle
+KORREKT: des
+FAST KORREKT: Variantenschlüssels
+KORREKT: K
+KORREKT: Completecompleted
+KORREKT: variants
+KORREKT: 1
+FAST KORREKT: digit
+KORREKT: in
+KORREKT: code
+KORREKT: of
+KORREKT: variants
+KORREKT: K
+KORREKT: Aufstellung
+KORREKT: der
+KORREKT: für
+KORREKT: den
+KORREKT: die
+KORREKT: genehmigten
+FAST KORREKT: unvollständigen
+KORREKT: Fahrzeugtyp
+KORREKT: oder
+KORREKT: Variante
+KORREKT: bzw
+FAST KORREKT: Version
+KORREKT: geltenden
+KORREKT: Vorschriften
+KORREKT: jeweils
+KORREKT: unter
+KORREKT: Berücksichtigung
+KORREKT: des
+KORREKT: Geltungsbereichs
+KORREKT: und
+KORREKT: des
+KORREKT: letzten
+KORREKT: Änderungsstands
+KORREKT: jeder
+KORREKT: der
+KORREKT: nachstehend
+KORREKT: aufgelisteten
+KORREKT: Rechtsakte
+KORREKT: List
+KORREKT: of
+KORREKT: requirements
+KORREKT: applicable
+KORREKT: to
+KORREKT: the
+KORREKT: approved
+KORREKT: incomplete
+KORREKT: vehicle
+KORREKT: type
+KORREKT: or
+KORREKT: variant
+KORREKT: as
+KORREKT: appropriate
+KORREKT: taking
+KORREKT: account
+KORREKT: of
+KORREKT: the
+KORREKT: scope
+KORREKT: and
+KORREKT: latest
+KORREKT: amendment
+KORREKT: to
+KORREKT: each
+KORREKT: of
+KORREKT: the
+FEHLT: regulative
+KORREKT: acts
+KORREKT: listed
+KORREKT: below
+ZUSÄTZLICH: 201766EG
+ZUSÄTZLICH: 2720EC
+ZUSÄTZLICH: FahrzeugTyp
+ZUSÄTZLICH: erfüllet
+ZUSÄTZLICH: Anforderung
+ZUSÄTZLICH: Rechtsakt
+ZUSÄTZLICH: requirement
+ZUSÄTZLICH: unvOLLständigeVarianten
+ZUSÄTZLICH: Vollständigervervollstandigter
+ZUSÄTZLICH: 1Stelle
+ZUSÄTZLICH: Variantenschlussels
+ZUSÄTZLICH: 1digit
+ZUSÄTZLICH: unvollerständigen
+ZUSÄTZLICH: Versions
+ZUSÄTZLICH: regulatary
 Durchlauf 2:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -1,19 +1,12 @@
--2.12.2.
--des
--Sattelanhängers
--oder
--des
--Zentralachsanhängers:
- Of
- the
- semi-trailer
- or
--centre-axle
-+centre-axe
- trailer:
- entfällt
- not
- applicable
--2.16.
- Bei
- der
- Zulassung/im
-@@ -62,14 +55,14 @@
- IV
- to
- Directive
--97/27/EC):
-+9/7/EC):
- 2.16.1.
- Bei
- der
--Zulassung/im
--Betrieb
--vorgesehene
--höchstzulässige
-+Zulasung/imBetrieb
-+vorgehene
-+höchstzulässi
-+ge
- Gesamtmasse
- (mehrere
- Angaben
-@@ -79,10 +72,8 @@
- Konfigurationen
- möglich
- (5)):
--Intended
--registration/in
--service
--maximum
-+Intendedregistration/in
-+servicemaximum
- permissible
- laden
- mass
-@@ -97,14 +88,13 @@
- siehe
- 2.8.
- see
--2.8.
--2.16.2.
--Bei
--der
--Zulassung/im
--Betrieb
--vorgesehene
--höchstzulässige
-+28.
-+2.26.2.
-+Bei
-+derselben
-+Zulästung/imBetreib
-+vorgesehenen
-+höchstdzuläsige
- Achslast
- je
- Achse
-@@ -115,7 +105,7 @@
- Sattelanhängern
- und
- Zentralachsanhängern
--vorgesehene
-+vorgesene
- Stützlast
- nach
- Angabe
-@@ -128,19 +118,15 @@
- als
- die
- technisch
--zulässige
--Höchststützlast
--(mehrere
--Angaben
--für
-+zuläsliche
-+Höchstdützlst
-+(mehreere
-+Angabefür
- verschiedene
--technische
--Konfigurationen
--möglich
--(5)):
--Intended
--registration/in
--service
-+techni
-+sche
-+Konfigurationsen
-+möglich(5)):Intendedregistration/inservice
- maximum
- permissible
- mass
-@@ -153,9 +139,10 @@
- case
- of
- a
--semi-trailer
-+semi-trail
-+er
- or
--centre-axle
-+centre-axis
- trailer,
- intended
- load
-@@ -171,98 +158,204 @@
- lower
- than
- the
--technically
--permissible
--maximum
--mass
--on
--the
--coupling
-+techni
-+cally
-+permissible
-+maximum
-+mass
-+on
-+the
-+couplin
- point
--(several
-+(severel
-+entries
-+possiblefor
-+each
-+technical
-+configuion
-+(5)):
-+siehe2.
-+8.
-+see
-+8.
-+Bei
-+derZulassun/im
-+Betriebo
-+vorgsehene
-+Höchstzuässigc
-+Achslas
-+je
-+Achs
-+gruppe
-+(meehreere
-+Anaben
-+für
-+verschiedene
-+techi
-+sche
-+Konefigurationcn
-+möglic
-+(5):
-+Inte
-+nd
-+registration/inservice
-+maximum
-+permissible
-+maas
-+on
-+each
-+axs
-+group
-+(seveer
- entries
- possible
--for
-+f
-+or
- each
- technical
--configuration
--(5)):
-+configurion
-+(
-+5)):
- siehe
--2.8.
--see
--2.8.
--2.16.3.
--Bei
-+8
-+see8.
-+bei
- der
--Zulassung/im
--Betrieb
--vorgesehene
--höchstzulässige
-+Zulausung/im
-+Beteib
-+vorgehehe
-+höchztzulassige
- Masse
- je
- Achsgruppe
--(mehrere
--Angaben
-+(meheere
-+Angabe
- für
- verschiedene
- technische
--Konfigurationen
--möglich
--(5)):
--Intended
--registration/in
-+Konfugationen
-+mögliche
-+(5}):
-+Intendedregistra/on
- service
- maximum
--permissible
--mass
--on
--each
--axle
--group
--(several
-+permissable
-+mass
-+oneach
-+axs
-+grup
-+(severe
-+entries
-+possiblef
-+or
-+each
-+techi
-+cial
-+configuration
-+(
-+5):
-+siehe28.see28
-+Bei
-+dersselben
-+Zulasun/imBetriebovorgesehehe
-+Höchztzuässi
-+g
-+Achsläs
-+je
-+Achgruppe
-+(mheereere
-+Angaen
-+für
-+veersehehe
-+techi
-+schc
-+Konfiguratioen
-+mögl
-+(5)
-+Intendedregistra/onservice
-+maximum
-+permissive
-+mass
-+on
-+eacn
-+axs
-+grup
-+(sev
-+er
- entries
- possible
-+fo
-+r
-+each
-+techical
-+configuration
-+(s):
-+sieh
-+e2.9.
-+see2.3.
-+Bei
-+derausgehehe
-+Zulasu/im
-+Betribovorgehehse
-+höchzulssige
-+Mase
-+je
-+Achgroupe
-+(moreere
-+Angen
- for
--each
--technical
-+veeresehe
-+he
-+techi
-+sche
-+Konfiguatioen
-+moe
-+(5).
-+Intendedregistrat/on
-+servicemaximum
-+permissibale
-+mass
-+oneacnaxs
-+group(several
-+entriespossible
-+for
-+each
-+techic
- configuration
--(5)):
-+(
-+s):
-+siebe2.4.
-+seee2.5.
-+Bei
-+dieusgehene
-+Zulasus/im
-+Betiebovorgessehe
-+höcztzuslige
-+Masseje
-+Achgruppe
-+(
-+mehrere
-+Angan
-+for
-+veerschc
-+Konfogurationen
-+mö
-+(5),
-+Intendedregister/on
-+service
-+maxime
-+permissible
-+masson
-+each
-+axgrou
-+(se
-+vere
-+entries
-+possiblefo
-+r
-+each
-+technicalconfiguration
-+(5):
- siehe
--2.8.
--see
--2.8.
--2.16.4.
--Bei
--der
--Zulassung/im
--Betrieb
--vorgesehene
--höchstzulässige
--Anhängemasse
--(mehrere
--Angaben
--für
--verschiedene
--technische
--Konfigurationen
--möglich
--(5)):
--Intended
--registration/in
--service
--maximum
--permissible
--towable
--mass
--(several
--entries
--possible
--for
--each
--technical
--configuration
--(5)):
--siehe
--2.11
--see
--2.11
-+e28
-+see28
-
+FAST KORREKT: 2122
+KORREKT: des
+FAST KORREKT: Sattelanhängers
+KORREKT: oder
+KORREKT: des
+FAST KORREKT: Zentralachsanhängers
+KORREKT: Of
+KORREKT: the
+KORREKT: semitrailer
+KORREKT: or
+FAST KORREKT: centreaxle
+KORREKT: trailer
+KORREKT: entfällt
+KORREKT: not
+KORREKT: applicable
+FAST KORREKT: 216
+KORREKT: Bei
+KORREKT: der
+KORREKT: Zulassungim
+KORREKT: Betrieb
+KORREKT: vorgesehene
+KORREKT: zulässige
+KORREKT: Massen
+KORREKT: fakultativ
+KORREKT: werden
+KORREKT: diese
+KORREKT: Massen
+KORREKT: angegeben
+KORREKT: müssen
+KORREKT: sie
+KORREKT: nach
+KORREKT: Anhang
+KORREKT: IV
+KORREKT: der
+KORREKT: Richtlinie
+KORREKT: 9727EG
+KORREKT: überprüft
+KORREKT: werden
+KORREKT: Intended
+KORREKT: registrationin
+KORREKT: service
+KORREKT: maximum
+KORREKT: permissible
+KORREKT: masses
+KORREKT: optional
+KORREKT: where
+KORREKT: these
+KORREKT: values
+KORREKT: are
+KORREKT: given
+KORREKT: they
+KORREKT: shall
+KORREKT: be
+KORREKT: verified
+KORREKT: in
+KORREKT: accordance
+KORREKT: with
+KORREKT: the
+KORREKT: requirements
+KORREKT: of
+KORREKT: Annex
+KORREKT: IV
+KORREKT: to
+KORREKT: Directive
+FAST KORREKT: 9727EC
+KORREKT: 2161
+KORREKT: Bei
+KORREKT: der
+KORREKT: Zulassungim
+KORREKT: Betrieb
+KORREKT: vorgesehene
+FAST KORREKT: höchstzulässige
+KORREKT: Gesamtmasse
+KORREKT: mehrere
+KORREKT: Angaben
+KORREKT: für
+KORREKT: verschiedene
+KORREKT: technische
+KORREKT: Konfigurationen
+KORREKT: möglich
+KORREKT: 5
+KORREKT: Intended
+KORREKT: registrationin
+KORREKT: service
+KORREKT: maximum
+KORREKT: permissible
+KORREKT: laden
+KORREKT: mass
+KORREKT: several
+KORREKT: entries
+KORREKT: possible
+KORREKT: for
+KORREKT: each
+KORREKT: technical
+KORREKT: configuration
+KORREKT: 5
+KORREKT: siehe
+KORREKT: 28
+KORREKT: see
+KORREKT: 28
+FAST KORREKT: 2162
+KORREKT: Bei
+KORREKT: der
+KORREKT: Zulassungim
+KORREKT: Betrieb
+KORREKT: vorgesehene
+FAST KORREKT: höchstzulässige
+KORREKT: Achslast
+KORREKT: je
+KORREKT: Achse
+KORREKT: oder
+KORREKT: Achsgruppe
+KORREKT: und
+KORREKT: bei
+KORREKT: Sattelanhängern
+KORREKT: und
+KORREKT: Zentralachsanhängern
+KORREKT: vorgesehene
+KORREKT: Stützlast
+KORREKT: nach
+KORREKT: Angabe
+KORREKT: des
+KORREKT: Herstellers
+KORREKT: wenn
+KORREKT: diese
+KORREKT: niedriger
+KORREKT: ist
+KORREKT: als
+KORREKT: die
+KORREKT: technisch
+KORREKT: zulässige
+FEHLT: Höchststützlast
+KORREKT: mehrere
+KORREKT: Angaben
+KORREKT: für
+KORREKT: verschiedene
+KORREKT: technische
+KORREKT: Konfigurationen
+KORREKT: möglich
+KORREKT: 5
+KORREKT: Intended
+KORREKT: registrationin
+KORREKT: service
+KORREKT: maximum
+KORREKT: permissible
+KORREKT: mass
+KORREKT: on
+KORREKT: each
+KORREKT: axle
+KORREKT: and
+KORREKT: in
+KORREKT: the
+KORREKT: case
+KORREKT: of
+KORREKT: a
+KORREKT: semitrailer
+KORREKT: or
+FAST KORREKT: centreaxle
+KORREKT: trailer
+KORREKT: intended
+KORREKT: load
+KORREKT: on
+KORREKT: the
+KORREKT: coupling
+KORREKT: point
+KORREKT: stated
+KORREKT: by
+KORREKT: the
+KORREKT: manufacturer
+KORREKT: if
+KORREKT: lower
+KORREKT: than
+KORREKT: the
+FAST KORREKT: technically
+KORREKT: permissible
+KORREKT: maximum
+KORREKT: mass
+KORREKT: on
+KORREKT: the
+KORREKT: coupling
+KORREKT: point
+KORREKT: several
+KORREKT: entries
+KORREKT: possible
+KORREKT: for
+KORREKT: each
+KORREKT: technical
+KORREKT: configuration
+KORREKT: 5
+KORREKT: siehe
+KORREKT: 28
+KORREKT: see
+KORREKT: 28
+FAST KORREKT: 2163
+KORREKT: Bei
+KORREKT: der
+KORREKT: Zulassungim
+KORREKT: Betrieb
+KORREKT: vorgesehene
+FAST KORREKT: höchstzulässige
+KORREKT: Masse
+KORREKT: je
+KORREKT: Achsgruppe
+KORREKT: mehrere
+KORREKT: Angaben
+KORREKT: für
+KORREKT: verschiedene
+KORREKT: technische
+KORREKT: Konfigurationen
+KORREKT: möglich
+KORREKT: 5
+KORREKT: Intended
+KORREKT: registrationin
+KORREKT: service
+KORREKT: maximum
+KORREKT: permissible
+KORREKT: mass
+KORREKT: on
+KORREKT: each
+KORREKT: axle
+KORREKT: group
+KORREKT: several
+KORREKT: entries
+KORREKT: possible
+KORREKT: for
+KORREKT: each
+KORREKT: technical
+KORREKT: configuration
+KORREKT: 5
+KORREKT: siehe
+KORREKT: 28
+KORREKT: see
+KORREKT: 28
+FAST KORREKT: 2164
+KORREKT: Bei
+KORREKT: der
+KORREKT: Zulassungim
+KORREKT: Betrieb
+KORREKT: vorgesehene
+FAST KORREKT: höchstzulässige
+FEHLT: Anhängemasse
+KORREKT: mehrere
+KORREKT: Angaben
+KORREKT: für
+KORREKT: verschiedene
+KORREKT: technische
+KORREKT: Konfigurationen
+KORREKT: möglich
+KORREKT: 5
+KORREKT: Intended
+KORREKT: registrationin
+KORREKT: service
+KORREKT: maximum
+KORREKT: permissible
+FEHLT: towable
+KORREKT: mass
+KORREKT: several
+KORREKT: entries
+KORREKT: possible
+KORREKT: for
+KORREKT: each
+KORREKT: technical
+KORREKT: configuration
+KORREKT: 5
+KORREKT: siehe
+FAST KORREKT: 211
+KORREKT: see
+FAST KORREKT: 211
+ZUSÄTZLICH: centreaxe
+ZUSÄTZLICH: 97EC
+ZUSÄTZLICH: ZulasungimBetrieb
+ZUSÄTZLICH: vorgehene
+ZUSÄTZLICH: höchstzulässi
+ZUSÄTZLICH: ge
+ZUSÄTZLICH: Intendedregistrationin
+ZUSÄTZLICH: servicemaximum
+ZUSÄTZLICH: 2262
+ZUSÄTZLICH: derselben
+ZUSÄTZLICH: ZulästungimBetreib
+ZUSÄTZLICH: vorgesehenen
+ZUSÄTZLICH: höchstdzuläsige
+ZUSÄTZLICH: vorgesene
+ZUSÄTZLICH: zuläsliche
+ZUSÄTZLICH: Höchstdützlst
+ZUSÄTZLICH: mehreere
+ZUSÄTZLICH: Angabefür
+ZUSÄTZLICH: techni
+ZUSÄTZLICH: sche
+ZUSÄTZLICH: Konfigurationsen
+ZUSÄTZLICH: möglich5Intendedregistrationinservice
+ZUSÄTZLICH: semitrail
+ZUSÄTZLICH: er
+ZUSÄTZLICH: centreaxis
+ZUSÄTZLICH: techni
+ZUSÄTZLICH: cally
+ZUSÄTZLICH: couplin
+ZUSÄTZLICH: severel
+ZUSÄTZLICH: possiblefor
+ZUSÄTZLICH: configuion
+ZUSÄTZLICH: siehe2
+ZUSÄTZLICH: 8
+ZUSÄTZLICH: 8
+ZUSÄTZLICH: derZulassunim
+ZUSÄTZLICH: Betriebo
+ZUSÄTZLICH: vorgsehene
+ZUSÄTZLICH: Höchstzuässigc
+ZUSÄTZLICH: Achslas
+ZUSÄTZLICH: Achs
+ZUSÄTZLICH: gruppe
+ZUSÄTZLICH: meehreere
+ZUSÄTZLICH: Anaben
+ZUSÄTZLICH: techi
+ZUSÄTZLICH: sche
+ZUSÄTZLICH: Konefigurationcn
+ZUSÄTZLICH: möglic
+ZUSÄTZLICH: Inte
+ZUSÄTZLICH: nd
+ZUSÄTZLICH: registrationinservice
+ZUSÄTZLICH: maas
+ZUSÄTZLICH: axs
+ZUSÄTZLICH: seveer
+ZUSÄTZLICH: f
+ZUSÄTZLICH: configurion
+ZUSÄTZLICH: 8
+ZUSÄTZLICH: see8
+ZUSÄTZLICH: Zulausungim
+ZUSÄTZLICH: Beteib
+ZUSÄTZLICH: vorgehehe
+ZUSÄTZLICH: höchztzulassige
+ZUSÄTZLICH: meheere
+ZUSÄTZLICH: Konfugationen
+ZUSÄTZLICH: mögliche
+ZUSÄTZLICH: Intendedregistraon
+ZUSÄTZLICH: permissable
+ZUSÄTZLICH: oneach
+ZUSÄTZLICH: axs
+ZUSÄTZLICH: grup
+ZUSÄTZLICH: severe
+ZUSÄTZLICH: possiblef
+ZUSÄTZLICH: techi
+ZUSÄTZLICH: cial
+ZUSÄTZLICH: siehe28see28
+ZUSÄTZLICH: dersselben
+ZUSÄTZLICH: ZulasunimBetriebovorgesehehe
+ZUSÄTZLICH: Höchztzuässi
+ZUSÄTZLICH: g
+ZUSÄTZLICH: Achsläs
+ZUSÄTZLICH: Achgruppe
+ZUSÄTZLICH: mheereere
+ZUSÄTZLICH: Angaen
+ZUSÄTZLICH: veersehehe
+ZUSÄTZLICH: techi
+ZUSÄTZLICH: schc
+ZUSÄTZLICH: Konfiguratioen
+ZUSÄTZLICH: mögl
+ZUSÄTZLICH: Intendedregistraonservice
+ZUSÄTZLICH: permissive
+ZUSÄTZLICH: eacn
+ZUSÄTZLICH: axs
+ZUSÄTZLICH: grup
+ZUSÄTZLICH: sev
+ZUSÄTZLICH: er
+ZUSÄTZLICH: fo
+ZUSÄTZLICH: r
+ZUSÄTZLICH: techical
+ZUSÄTZLICH: s
+ZUSÄTZLICH: sieh
+ZUSÄTZLICH: e29
+ZUSÄTZLICH: see23
+ZUSÄTZLICH: derausgehehe
+ZUSÄTZLICH: Zulasuim
+ZUSÄTZLICH: Betribovorgehehse
+ZUSÄTZLICH: höchzulssige
+ZUSÄTZLICH: Mase
+ZUSÄTZLICH: Achgroupe
+ZUSÄTZLICH: moreere
+ZUSÄTZLICH: Angen
+ZUSÄTZLICH: veeresehe
+ZUSÄTZLICH: he
+ZUSÄTZLICH: techi
+ZUSÄTZLICH: sche
+ZUSÄTZLICH: Konfiguatioen
+ZUSÄTZLICH: moe
+ZUSÄTZLICH: Intendedregistraton
+ZUSÄTZLICH: servicemaximum
+ZUSÄTZLICH: permissibale
+ZUSÄTZLICH: oneacnaxs
+ZUSÄTZLICH: groupseveral
+ZUSÄTZLICH: entriespossible
+ZUSÄTZLICH: techic
+ZUSÄTZLICH: s
+ZUSÄTZLICH: siebe24
+ZUSÄTZLICH: seee25
+ZUSÄTZLICH: dieusgehene
+ZUSÄTZLICH: Zulasusim
+ZUSÄTZLICH: Betiebovorgessehe
+ZUSÄTZLICH: höcztzuslige
+ZUSÄTZLICH: Masseje
+ZUSÄTZLICH: Achgruppe
+ZUSÄTZLICH: Angan
+ZUSÄTZLICH: veerschc
+ZUSÄTZLICH: Konfogurationen
+ZUSÄTZLICH: mö
+ZUSÄTZLICH: Intendedregisteron
+ZUSÄTZLICH: maxime
+ZUSÄTZLICH: masson
+ZUSÄTZLICH: axgrou
+ZUSÄTZLICH: se
+ZUSÄTZLICH: vere
+ZUSÄTZLICH: possiblefo
+ZUSÄTZLICH: r
+ZUSÄTZLICH: technicalconfiguration
+ZUSÄTZLICH: e28
+ZUSÄTZLICH: see28
 Durchlauf 4:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -42,10 +42,9 @@
- the
- intake
- air
--temperature
--sensor
--is
--used
-+pressure
-+sensor
-+is
- in
- conjunction
- with
-@@ -80,8 +79,7 @@
- (TPS)
- The
- throttle
--induction
--module
-+inductionmodule
- is
- fitted
- with
-@@ -89,7 +87,7 @@
- throttle
- position
- sensors
--(TPS).
-+(TPs).
- The
- sensor
- is
-@@ -100,9 +98,9 @@
- potentiometer.
- The
- throttle
--Position
--sensors
--provide
-+position
-+sensor
-+provides
- information
- about
- throttle
-@@ -111,12 +109,11 @@
- transient
- fuel
- and
--spark
-+Spark
- timing.
- Crankshaft
- Position
--Sensor
--(CKP
-+Sensor(CKP
- Sensor)
- The
- CKP
-@@ -127,8 +124,7 @@
- pickup
- device
- mounted
--on
--the
-+onthe
- left
- hand
- primary
-@@ -232,21 +228,18 @@
- during
- elevated
- temperatures.
--Throtte
--Position
--Sensor
--(TP
-+Throttelposition
-+Sensor
-+(T
-+P
- Sensor)
---
- The
- TP
- Sensor
- is
--a
--potentiomter
-+apotentiometer
- mounted
- on
--the
- side
- of
- the
-@@ -267,20 +260,18 @@
- ECM
- with
- information
--About
-+about
-+the
- throttle
- angle
--for
- transient
- fuel
--and
- spark
- timing.
- Oxygen
- Sensor
--(O2)
--Sensor
---
-+(O2
-+Sensor)
- Two
- heated
- O2
-@@ -288,7 +279,6 @@
- are
- used,
- one
--in
- each
- exhaust
- pipe
-@@ -314,7 +304,7 @@
- from
- the
- O2
--Sensor
-+sensor
- to
- keep
- the
-@@ -386,7 +376,7 @@
- is
- added.
- The
--lamp
-+lam
- is
- designed
- so
-
+KORREKT: The
+KORREKT: TMAP
+KORREKT: Sensor
+KORREKT: mounted
+KORREKT: on
+KORREKT: the
+KORREKT: throttle
+KORREKT: induction
+KORREKT: module
+KORREKT: assembly
+KORREKT: monitors
+KORREKT: both
+KORREKT: manifold
+KORREKT: air
+KORREKT: pressure
+KORREKT: and
+KORREKT: intake
+KORREKT: air
+KORREKT: temperature
+KORREKT: The
+KORREKT: MAP
+KORREKT: portion
+KORREKT: of
+KORREKT: the
+KORREKT: sensor
+KORREKT: is
+KORREKT: used
+KORREKT: to
+KORREKT: detect
+KORREKT: engine
+KORREKT: load
+KORREKT: for
+KORREKT: proper
+KORREKT: fuel
+KORREKT: and
+KORREKT: spark
+KORREKT: timing
+KORREKT: The
+KORREKT: data
+KORREKT: provided
+KORREKT: by
+KORREKT: the
+KORREKT: intake
+KORREKT: air
+KORREKT: temperature
+KORREKT: sensor
+KORREKT: is
+KORREKT: used
+KORREKT: in
+KORREKT: conjunction
+KORREKT: with
+KORREKT: the
+KORREKT: data
+KORREKT: from
+KORREKT: the
+KORREKT: MAP
+KORREKT: sensor
+KORREKT: to
+KORREKT: determine
+KORREKT: oxygen
+KORREKT: content
+KORREKT: air
+KORREKT: density
+KORREKT: for
+KORREKT: adjustment
+KORREKT: to
+KORREKT: fuel
+KORREKT: delivery
+KORREKT: during
+KORREKT: cold
+KORREKT: start
+KORREKT: warm
+KORREKT: up
+KORREKT: and
+KORREKT: general
+KORREKT: operation
+KORREKT: Throttle
+KORREKT: Position
+KORREKT: Sensor
+KORREKT: TPS
+KORREKT: The
+KORREKT: throttle
+KORREKT: induction
+KORREKT: module
+KORREKT: is
+KORREKT: fitted
+KORREKT: with
+KORREKT: one
+KORREKT: throttle
+KORREKT: position
+KORREKT: sensors
+KORREKT: TPS
+KORREKT: The
+KORREKT: sensor
+KORREKT: is
+KORREKT: a
+KORREKT: single
+KORREKT: slope
+KORREKT: contacting
+KORREKT: potentiometer
+KORREKT: The
+KORREKT: throttle
+KORREKT: Position
+KORREKT: sensors
+KORREKT: provide
+KORREKT: information
+KORREKT: about
+KORREKT: throttle
+KORREKT: angle
+KORREKT: for
+KORREKT: transient
+KORREKT: fuel
+KORREKT: and
+KORREKT: spark
+KORREKT: timing
+KORREKT: Crankshaft
+KORREKT: Position
+KORREKT: Sensor
+KORREKT: CKP
+KORREKT: Sensor
+KORREKT: The
+KORREKT: CKP
+KORREKT: Sensor
+KORREKT: is
+KORREKT: a
+KORREKT: magnetic
+KORREKT: pickup
+KORREKT: device
+KORREKT: mounted
+KORREKT: on
+KORREKT: the
+KORREKT: left
+KORREKT: hand
+KORREKT: primary
+KORREKT: cover
+KORREKT: near
+KORREKT: the
+KORREKT: top
+KORREKT: To
+KORREKT: calculate
+KORREKT: engine
+KORREKT: speed
+KORREKT: for
+KORREKT: the
+KORREKT: ECM
+KORREKT: the
+KORREKT: sensor
+KORREKT: picks
+KORREKT: up
+KORREKT: signals
+KORREKT: from
+KORREKT: the
+KORREKT: presence
+KORREKT: of
+KORREKT: 32
+KORREKT: teeth
+KORREKT: machined
+KORREKT: into
+KORREKT: the
+KORREKT: left
+KORREKT: flywheel
+KORREKT: cheek
+KORREKT: A
+KORREKT: gap
+KORREKT: created
+KORREKT: by
+KORREKT: the
+KORREKT: removal
+KORREKT: of
+KORREKT: two
+KORREKT: teeth
+KORREKT: establishes
+KORREKT: a
+KORREKT: Top
+KORREKT: Dead
+KORREKT: Center
+KORREKT: TDC
+KORREKT: reference
+KORREKT: Engine
+KORREKT: Coolant
+KORREKT: Temperature
+KORREKT: Sensor
+KORREKT: ECT
+KORREKT: Sensor
+KORREKT: The
+KORREKT: ECT
+KORREKT: Sensor
+KORREKT: monitors
+KORREKT: coolant
+KORREKT: temperature
+KORREKT: in
+KORREKT: the
+KORREKT: thermostat
+KORREKT: housing
+KORREKT: area
+KORREKT: between
+KORREKT: the
+KORREKT: front
+KORREKT: and
+KORREKT: rear
+KORREKT: cylinder
+KORREKT: This
+KORREKT: information
+KORREKT: is
+KORREKT: used
+KORREKT: by
+KORREKT: the
+KORREKT: ECM
+KORREKT: during
+KORREKT: engine
+KORREKT: warmup
+KORREKT: periods
+KORREKT: for
+KORREKT: the
+KORREKT: purpose
+KORREKT: of
+KORREKT: idle
+KORREKT: speed
+KORREKT: adjustment
+KORREKT: to
+KORREKT: determine
+KORREKT: injector
+KORREKT: pulse
+KORREKT: width
+KORREKT: or
+KORREKT: fueling
+KORREKT: requirements
+KORREKT: and
+KORREKT: spark
+KORREKT: advance
+KORREKT: during
+KORREKT: elevated
+KORREKT: temperatures
+FAST KORREKT: Throtte
+KORREKT: Position
+KORREKT: Sensor
+KORREKT: TP
+KORREKT: Sensor
+KORREKT: The
+KORREKT: TP
+KORREKT: Sensor
+KORREKT: is
+KORREKT: a
+FAST KORREKT: potentiomter
+KORREKT: mounted
+KORREKT: on
+KORREKT: the
+KORREKT: side
+KORREKT: of
+KORREKT: the
+KORREKT: Induction
+KORREKT: Module
+KORREKT: and
+KORREKT: attached
+KORREKT: to
+KORREKT: the
+KORREKT: end
+KORREKT: of
+KORREKT: the
+KORREKT: throttle
+KORREKT: shaft
+KORREKT: It
+KORREKT: provides
+KORREKT: the
+KORREKT: ECM
+KORREKT: with
+KORREKT: information
+FAST KORREKT: About
+KORREKT: throttle
+KORREKT: angle
+KORREKT: for
+KORREKT: transient
+KORREKT: fuel
+KORREKT: and
+KORREKT: spark
+KORREKT: timing
+KORREKT: Oxygen
+KORREKT: Sensor
+KORREKT: O2
+KORREKT: Sensor
+KORREKT: Two
+KORREKT: heated
+KORREKT: O2
+KORREKT: Sensors
+KORREKT: are
+KORREKT: used
+KORREKT: one
+KORREKT: in
+KORREKT: each
+KORREKT: exhaust
+KORREKT: pipe
+KORREKT: located
+KORREKT: downstream
+KORREKT: of
+KORREKT: the
+KORREKT: exhaust
+KORREKT: ports
+KORREKT: The
+KORREKT: O2
+KORREKT: Sensor
+KORREKT: measures
+KORREKT: oxygen
+KORREKT: in
+KORREKT: the
+KORREKT: exhaust
+KORREKT: system
+KORREKT: The
+KORREKT: ECM
+KORREKT: uses
+KORREKT: input
+KORREKT: from
+KORREKT: the
+KORREKT: O2
+KORREKT: Sensor
+KORREKT: to
+KORREKT: keep
+KORREKT: the
+KORREKT: air
+KORREKT: fuel
+KORREKT: mixture
+KORREKT: balanced
+KORREKT: OTHER
+KORREKT: FEATURES
+KORREKT: Wire
+KORREKT: Harnesses
+KORREKT: The
+KORREKT: EFI
+KORREKT: wire
+KORREKT: harness
+KORREKT: is
+KORREKT: the
+KORREKT: only
+KORREKT: wire
+KORREKT: harness
+KORREKT: on
+KORREKT: the
+KORREKT: vehicle
+KORREKT: Low
+KORREKT: Level
+KORREKT: Fuel
+KORREKT: Warning
+KORREKT: Lamp
+KORREKT: A
+KORREKT: fuel
+KORREKT: gauge
+KORREKT: and
+KORREKT: a
+KORREKT: low
+KORREKT: fuel
+KORREKT: level
+KORREKT: warning
+KORREKT: lamp
+KORREKT: have
+KORREKT: been
+KORREKT: provided
+KORREKT: The
+KORREKT: lamp
+KORREKT: is
+KORREKT: activated
+KORREKT: when
+KORREKT: the
+KORREKT: fuel
+KORREKT: level
+KORREKT: reaches
+KORREKT: about
+KORREKT: 12
+KORREKT: to
+KORREKT: 1
+KORREKT: gallon
+KORREKT: and
+KORREKT: stays
+KORREKT: lit
+KORREKT: until
+KORREKT: the
+KORREKT: engine
+KORREKT: is
+KORREKT: turned
+KORREKT: off
+KORREKT: or
+KORREKT: fuel
+KORREKT: is
+KORREKT: added
+KORREKT: The
+KORREKT: lamp
+KORREKT: is
+KORREKT: designed
+KORREKT: so
+KORREKT: that
+KORREKT: it
+KORREKT: will
+KORREKT: not
+KORREKT: blink
+KORREKT: when
+KORREKT: movement
+KORREKT: of
+KORREKT: the
+KORREKT: vehicle
+KORREKT: causes
+KORREKT: the
+KORREKT: fuel
+KORREKT: to
+KORREKT: slosh
+KORREKT: inside
+KORREKT: the
+KORREKT: tank
+KORREKT: Fuses
+KORREKT: and
+KORREKT: Relays
+KORREKT: One
+KORREKT: electrical
+KORREKT: relay
+KORREKT: is
+KORREKT: provided
+KORREKT: which
+KORREKT: powers
+KORREKT: the
+KORREKT: fuel
+KORREKT: pump
+KORREKT: ignition
+KORREKT: coil
+KORREKT: and
+KORREKT: injectors
+KORREKT: To
+KORREKT: provide
+KORREKT: circuit
+KORREKT: protection
+KORREKT: the
+KORREKT: appropriate
+KORREKT: fuses
+KORREKT: are
+KORREKT: supplied
+KORREKT: in
+KORREKT: a
+KORREKT: sealed
+KORREKT: fuse
+KORREKT: holder
+KORREKT: Another
+KORREKT: holder
+KORREKT: at
+KORREKT: the
+KORREKT: same
+KORREKT: location
+KORREKT: contains
+KORREKT: spare
+KORREKT: fuses
+KORREKT: Check
+KORREKT: Engine
+KORREKT: Lamp
+KORREKT: The
+KORREKT: Check
+KORREKT: Engine
+KORREKT: Lamp
+KORREKT: on
+KORREKT: the
+KORREKT: instrument
+KORREKT: panel
+KORREKT: indicates
+KORREKT: the
+KORREKT: existence
+KORREKT: of
+KORREKT: a
+KORREKT: fault
+KORREKT: condition
+ZUSÄTZLICH: inductionmodule
+ZUSÄTZLICH: TPs
+ZUSÄTZLICH: Spark
+ZUSÄTZLICH: SensorCKP
+ZUSÄTZLICH: onthe
+ZUSÄTZLICH: Throttelposition
+ZUSÄTZLICH: T
+ZUSÄTZLICH: P
+ZUSÄTZLICH: apotentiometer
+ZUSÄTZLICH: lam
 Durchlauf 1:
-Detaillierter Vergleich:
------------------------
---- 
-+++ 
-@@ -7,7 +7,7 @@
- to
- appeal
- Collateral
--clauses
-+clause
- All
- equipment
- which
-@@ -91,7 +91,7 @@
- to
- delivery
- or
--authorized
-+authorised
- representative
- named
- when
-@@ -100,13 +100,11 @@
- was
- granted
- is
--to
- immediately
- disclosed
- to
- the
--Kraftfahrt
--Bundesamt.
-+Kraftfaht-Bundesanat.
- Breach
- of
- this
-@@ -170,7 +168,7 @@
- holder
- of
- the
--approval
-+appoval
- violates
- the
- duties
-@@ -195,11 +193,11 @@
- or
- if
- it
--is
- determined
- that
- the
- approved
-+types
- does
- not
- comply
-@@ -213,7 +211,7 @@
- environmental
- protection.
- The
--Kraftfahr-Bundestamt
-+Kraftfahr-Bundesaat
- may
- check
- the
-@@ -262,7 +260,7 @@
- representatives
- of
- the
--Kraftfahrt-Bundesamt
-+Kraftraht-Bunestaat
- may
- get
- unhindered
-@@ -300,7 +298,7 @@
- Instruction
- on
- right
--of
-+tto
- appeal
- This
- approval
-@@ -316,7 +314,7 @@
- appeal
- is
- to
--file
-+bfiled
- in
- writing
- or
-@@ -325,8 +323,9 @@
- transcript
- at
- the
--Kraftfahrt-Bundesamt,
--Fördestraße
-+Kraft
-+Fahrt-Bunenaat,
-+Fordestraße
- 16,
- DE-24944
- Flensburg.
-
+KORREKT: Collateral
+KORREKT: clauses
+KORREKT: and
+KORREKT: instruction
+KORREKT: on
+KORREKT: right
+KORREKT: to
+KORREKT: appeal
+KORREKT: Collateral
+KORREKT: clauses
+KORREKT: All
+KORREKT: equipment
+KORREKT: which
+KORREKT: corresponds
+KORREKT: to
+KORREKT: the
+KORREKT: approved
+KORREKT: type
+KORREKT: is
+KORREKT: to
+KORREKT: be
+KORREKT: identified
+KORREKT: according
+KORREKT: to
+KORREKT: the
+KORREKT: applied
+KORREKT: regulation
+KORREKT: The
+KORREKT: approval
+KORREKT: identification
+KORREKT: is
+KORREKT: as
+KORREKT: follows
+KORREKT: see
+KORREKT: German
+KORREKT: version
+KORREKT: The
+KORREKT: individual
+KORREKT: production
+KORREKT: of
+KORREKT: serial
+KORREKT: fabrication
+KORREKT: must
+KORREKT: be
+KORREKT: in
+KORREKT: exact
+KORREKT: accordance
+KORREKT: with
+KORREKT: the
+KORREKT: approval
+KORREKT: documents
+KORREKT: Changes
+KORREKT: in
+KORREKT: the
+KORREKT: individual
+KORREKT: production
+KORREKT: are
+KORREKT: only
+KORREKT: allowed
+KORREKT: with
+KORREKT: express
+KORREKT: consent
+KORREKT: of
+KORREKT: the
+KORREKT: KraftfahrtBundesamt
+KORREKT: Changes
+KORREKT: in
+KORREKT: the
+KORREKT: name
+KORREKT: of
+KORREKT: the
+KORREKT: company
+KORREKT: the
+KORREKT: address
+KORREKT: and
+KORREKT: the
+KORREKT: manufacturing
+KORREKT: plant
+KORREKT: as
+KORREKT: well
+KORREKT: as
+KORREKT: one
+KORREKT: of
+KORREKT: the
+KORREKT: parties
+KORREKT: given
+KORREKT: the
+KORREKT: authority
+KORREKT: to
+KORREKT: delivery
+KORREKT: or
+FAST KORREKT: authorized
+KORREKT: representative
+KORREKT: named
+KORREKT: when
+KORREKT: the
+KORREKT: approval
+KORREKT: was
+KORREKT: granted
+KORREKT: is
+KORREKT: to
+KORREKT: immediately
+KORREKT: disclosed
+KORREKT: to
+KORREKT: the
+FEHLT: Kraftfahrt
+FEHLT: Bundesamt
+KORREKT: Breach
+KORREKT: of
+KORREKT: this
+KORREKT: regulation
+KORREKT: can
+KORREKT: lead
+KORREKT: to
+KORREKT: recall
+KORREKT: of
+KORREKT: the
+KORREKT: approval
+KORREKT: and
+KORREKT: moreover
+KORREKT: can
+KORREKT: be
+KORREKT: legally
+KORREKT: prosecuted
+KORREKT: The
+KORREKT: approval
+KORREKT: expires
+KORREKT: if
+KORREKT: it
+KORREKT: is
+KORREKT: returned
+KORREKT: or
+KORREKT: withdrawn
+KORREKT: or
+KORREKT: if
+KORREKT: the
+KORREKT: type
+KORREKT: approved
+KORREKT: no
+KORREKT: longer
+KORREKT: complies
+KORREKT: with
+KORREKT: the
+KORREKT: legal
+KORREKT: requirements
+KORREKT: The
+KORREKT: revocation
+KORREKT: can
+KORREKT: be
+KORREKT: made
+KORREKT: if
+KORREKT: the
+KORREKT: demanded
+KORREKT: requirements
+KORREKT: for
+KORREKT: issuance
+KORREKT: and
+KORREKT: the
+KORREKT: continuance
+KORREKT: of
+KORREKT: the
+KORREKT: approval
+KORREKT: no
+KORREKT: longer
+KORREKT: exist
+KORREKT: if
+KORREKT: the
+KORREKT: holder
+KORREKT: of
+KORREKT: the
+KORREKT: approval
+KORREKT: violates
+KORREKT: the
+KORREKT: duties
+KORREKT: involved
+KORREKT: in
+KORREKT: the
+KORREKT: approval
+KORREKT: also
+KORREKT: to
+KORREKT: the
+KORREKT: extent
+KORREKT: that
+KORREKT: they
+KORREKT: result
+KORREKT: from
+KORREKT: the
+KORREKT: assigned
+KORREKT: conditions
+KORREKT: to
+KORREKT: this
+KORREKT: approval
+KORREKT: or
+KORREKT: if
+KORREKT: it
+KORREKT: is
+KORREKT: determined
+KORREKT: that
+KORREKT: the
+KORREKT: approved
+KORREKT: does
+KORREKT: not
+KORREKT: comply
+KORREKT: with
+KORREKT: the
+KORREKT: requirements
+KORREKT: of
+KORREKT: traffic
+KORREKT: safety
+KORREKT: or
+KORREKT: environmental
+KORREKT: protection
+KORREKT: The
+FAST KORREKT: KraftfahrBundestamt
+KORREKT: may
+KORREKT: check
+KORREKT: the
+KORREKT: proper
+KORREKT: exercise
+KORREKT: of
+KORREKT: the
+KORREKT: conferred
+KORREKT: authority
+KORREKT: taken
+KORREKT: from
+KORREKT: this
+KORREKT: approval
+KORREKT: at
+KORREKT: any
+KORREKT: time
+KORREKT: In
+KORREKT: particular
+KORREKT: this
+KORREKT: means
+KORREKT: the
+KORREKT: compliant
+KORREKT: production
+KORREKT: as
+KORREKT: well
+KORREKT: the
+KORREKT: measures
+KORREKT: for
+KORREKT: conformity
+KORREKT: of
+KORREKT: production
+KORREKT: For
+KORREKT: this
+KORREKT: purpose
+KORREKT: samples
+KORREKT: can
+KORREKT: be
+KORREKT: taken
+KORREKT: or
+KORREKT: have
+KORREKT: taken
+KORREKT: The
+KORREKT: employees
+KORREKT: or
+KORREKT: the
+KORREKT: representatives
+KORREKT: of
+KORREKT: the
+KORREKT: KraftfahrtBundesamt
+KORREKT: may
+KORREKT: get
+KORREKT: unhindered
+KORREKT: access
+KORREKT: to
+KORREKT: the
+KORREKT: production
+KORREKT: and
+KORREKT: storage
+KORREKT: facilities
+KORREKT: The
+KORREKT: conferred
+KORREKT: authority
+KORREKT: contained
+KORREKT: with
+KORREKT: issuance
+KORREKT: of
+KORREKT: this
+KORREKT: approval
+KORREKT: is
+KORREKT: not
+KORREKT: transferable
+KORREKT: Trade
+KORREKT: mark
+KORREKT: rights
+KORREKT: of
+KORREKT: third
+KORREKT: parties
+KORREKT: are
+KORREKT: not
+KORREKT: affected
+KORREKT: with
+KORREKT: this
+KORREKT: approval
+KORREKT: Instruction
+KORREKT: on
+KORREKT: right
+KORREKT: of
+KORREKT: appeal
+KORREKT: This
+KORREKT: approval
+KORREKT: can
+KORREKT: be
+KORREKT: appealed
+KORREKT: within
+KORREKT: one
+KORREKT: month
+KORREKT: after
+KORREKT: notification
+KORREKT: The
+KORREKT: appeal
+KORREKT: is
+KORREKT: to
+FAST KORREKT: file
+KORREKT: in
+KORREKT: writing
+KORREKT: or
+KORREKT: as
+KORREKT: a
+KORREKT: transcript
+KORREKT: at
+KORREKT: the
+KORREKT: KraftfahrtBundesamt
+FAST KORREKT: Fördestraße
+KORREKT: 16
+KORREKT: DE24944
+KORREKT: Flensburg
+ZUSÄTZLICH: clause
+ZUSÄTZLICH: authorised
+ZUSÄTZLICH: KraftfahtBundesanat
+ZUSÄTZLICH: appoval
+ZUSÄTZLICH: types
+ZUSÄTZLICH: KraftfahrBundesaat
+ZUSÄTZLICH: KraftrahtBunestaat
+ZUSÄTZLICH: tto
+ZUSÄTZLICH: bfiled
+ZUSÄTZLICH: Kraft
+ZUSÄTZLICH: FahrtBunenaat
+ZUSÄTZLICH: Fordestraße

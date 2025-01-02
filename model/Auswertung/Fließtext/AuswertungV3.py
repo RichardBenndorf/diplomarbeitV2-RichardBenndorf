@@ -6,6 +6,11 @@ from nltk.translate.bleu_score import sentence_bleu
 import os
 from collections import Counter
 import pandas as pd
+import re
+
+def clean_text(text):
+    # Entfernt alle nicht-alphanumerischen Zeichen (außer Leerzeichen)
+    return re.sub(r'[^\w\s]', '', text)
 
 def cosine_similarity(text1, text2):
     vectorizer = TfidfVectorizer()
@@ -30,6 +35,10 @@ def evaluate_extraction(goldstandard_path, extracted_path):
 
     with open(extracted_path, 'r', encoding='utf-8') as ex_file:
         extracted = ex_file.read().strip()
+
+    # Bereinigung der Texte
+    goldstandard = clean_text(goldstandard)
+    extracted = clean_text(extracted)
 
     goldstandard_words = goldstandard.split()
     extracted_words = extracted.split()
@@ -105,10 +114,20 @@ Weitere Metriken:
 - F1-Score: {f1:.2f}
 """
 
-    detailed_content = "Detaillierter Vergleich:\n-----------------------\n"
-    diff = difflib.unified_diff(goldstandard_words, extracted_words, lineterm='')
-    for line in diff:
-        detailed_content += line + "\n"
+    detailed_comparison = []
+    for word in goldstandard_words:
+        if word in extracted_words:
+            detailed_comparison.append(f"KORREKT: {word}")
+        elif any(edit_distance(word, ew) <= 2 for ew in extracted_words):
+            detailed_comparison.append(f"FAST KORREKT: {word}")
+        else:
+            detailed_comparison.append(f"FEHLT: {word}")
+
+    for word in extracted_words:
+        if word not in goldstandard_words:
+            detailed_comparison.append(f"ZUSÄTZLICH: {word}")
+
+    detailed_content = "\n".join(detailed_comparison)
 
     return summary_content, detailed_content, {
         "Gesamtzeichen": len(goldstandard),
@@ -140,7 +159,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
         if file_name.startswith("Goldstandard_") and file_name.endswith(".txt"):
             index = file_name.split("_")[1].split(".")[0]
             goldstandard_path = os.path.join(goldstandard_directory, file_name)
-            extracted_path = os.path.join(extracted_directory, f"Fließtext_{index}.txt")
+            extracted_path = os.path.join(extracted_directory, f"Fließtext_{index}_output.txt")
 
             if os.path.exists(extracted_path):
                 summary, details, metrics = evaluate_extraction(goldstandard_path, extracted_path)
@@ -169,7 +188,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 
                 print(f"Auswertung für Datei {index} abgeschlossen.")
             else:
-                print(f"Passende Datei für {file_name} nicht gefunden.")
+                print(f"Passende Datei für {file_name} nicht gefunden. Erzeugter Pfad: {extracted_path}")
 
     # Ergebnisse in eine Excel-Datei schreiben
     df = pd.DataFrame(results)
@@ -191,7 +210,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 # Beispielaufruf
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/Fließtext",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/Molmo/Fließtext",
-    output_directory="Ergebnis_Molmo",
-    excel_path="Ergebnis_Molmo/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen7b/Fließtext",
+    output_directory="Ergebnis_Qwen7b",
+    excel_path="Ergebnis_Qwen7b/results.xlsx"
 )

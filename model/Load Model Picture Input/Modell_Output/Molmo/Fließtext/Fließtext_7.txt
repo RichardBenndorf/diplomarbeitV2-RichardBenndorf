@@ -1,29 +1,18 @@
- Korrosionsbestandigkeit (Resistance to corrosion)
-
-Der Grundwerkstoff des Kraftstoffbehalters und die verwendeten Zubehörteile müssen korrosionfest gegen das Betriebsmittel und auch gegen außerseitige Beeinflussungenprüfen werden.
-
+Korrosionsbeständigkeit (Resistence to corrosion)
+Der Grundwerkstoff des Kraftstoffbehälteres und die verwendeten Zubehörteile müssen korrosionfest gegen das Betriebsmittel und auch gegen außerseitige Beeinflussungenprüfen werden.
 The ground material of the fuel tank and also the materials of the accessory parts are to be judged as sufficient corrosion resistant to the filling medium and also against environmental influences.
 
 5. Kennzeichnung des Behälters (Markings on the fuel tank)
-
-Der Behälter ist dauerhaft und in eingebautem Zustand gut lesbar zu kennzeichnen. Die Kennzeichnung muss enthalten:
-
+Der Behälter ist dauerhaft und eingebautem Zustand gut lesbar zu kennzeichnen. Die Kennzeichnung muss enthalten:
+The following markings shall be affixed to the fuel tank, it shall be indelible clearly legible on the tank when the latter is installed on the vehicle:
 a) Hersteller des Behälters
 Manufacturer of the tank
-
 b) Herstellungsmonat und Jahr
 Month and year of manufacturing
-
 c) Typ und/oder Handels marque
-Name and/or trade name
-
+Name and/or trade mark www.opt
 d) TÜV-Kennzeichnung
-UV marking
+UV-marking 143XS0133
+The usability of the container is to be inspected, if essential parts of the vehicle - especially concerning the installation of the fuel tank - or material, manufacturing method, dimensions or mounting of the tank have been changed, a new approval by the TÜV Rheinland Kraftfahrt GmbH is necessary.
 
-www.opt
-
-143XS0133
-
-Die Gebrauchsfähigkeit des Behälters ist zu überprüfen, wenn wesentliche Teile des Fahrzeugs, die einer Veränderung der Einbauerbeiten vorausgegangen sind, die Behälterfertigungsvorgänge geändert worden sind. Hierüber ist ein Nachtschichtgutachten der TÜV Rheinland Kraftfahrt GmbH einzureichen.
-
-If essential parts of the vehicle - especially concerning the installation of the fuel tank - or material, manufacturing method, dimensions or mounting of the tank have been changed, a new approval by the TÜV Rheinland Kraftfahrt GmbH is necessary.
+This text is provided exactly as it appears in the document, without any additional words or modifications.

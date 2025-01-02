@@ -1,20 +1,37 @@
- Numer der Genehmigung: El 1 2007/46/0734 03
+Nummer der Genehmigung: El 1 2007/46/0734 03
 Approval No.: 1 2007/46/0734 03
 
-1. Für vollständige Varianten – For complete variants:
-Der Fahrzeugtyp erfüllt die technischen Anforderungen aller einschließlich in Anhang IV der Richtlinie 2007/46/EG vorgeschriebenen Rechtsakte.
-The vehicle type meets the technical requirements of all the relevant regulatory acts as prescribed in Annex IV to Directive 2007/46/EU.
+1. Für vollständige Varianten -
+For complete variants:
 
-2. Für unvollständige Varianten – For incomplete variants:
-Der Fahrzeugtyp erfüllt die technischen Anforderungen der in der Tabelle aufgeführten Rechtsakte.
+Der Fahrzeugtyp erfüllt die technischen Anforderungen aller einschließlich in
+Anhang IV der Richtlinie 2007/46/EWG vorgeschriebenen Rechtsakte.
+The vehicle type meets the technical requirements of all the relevant regulatory acts as prescribed in
+Anhang IV to Directive 2007/46/EWG.
+
+2. Für unvollständige Varianten -
+For incomplete variants:
+
+Der Fahrzeugtyp erfüllt die technischen Anforderungen der in der Tabelle
+aufgeführten Rechtsakte.
 The vehicle type meets the technical requirements of the regulatory acts listed in the table.
 
-Umfassend die Typeneigenschaften einer oder mehrerer unvollständiger Varianten bz. Versionen, so sind die vollständigen oder ver vollständigen Varianten bz. Versionen angegeben – In the case where the approval includes one or more incomplete variants, list those variants
-– which are complete or completed.
+Umfassend die Typeneigenschaften einer oder mehrerer unvollständiger Varianten bz. Versionen,
+In the case where the complete or completed variants
+bzw. Versionen angegeben sind, liste diese Varianten
+und/oder Versionen aus.
 
-Vollständige/vervollständigte Variant(en) – Complete/completed variant(s)
+Vollständige/vervollständigte Variant(en)
+Complete/completed variant(s)
 
-Aufstellung der für den (die) genehmigten unvollständigen Fahrzeugtyp oder Variante bz. Version geltenden Vorschriften (jeweils unter Berücksichtigung des Geltungsbereichs und des letzten Änderungsstandes jeder der nachstehend aufgeführten Rechtsakte).
-List of requirements applicable to the approved incomplete vehicle type or variant (as appropriate, taking account of the scope and latest amendment to each of the regulatory acts listed below).
+Aufstellung der für den (die) genehmigten unvollständigen Fahrzeugtyp oder Variante
+ bz. Version geltenden Vorschriften (jeweils unter Berücksichtigung des
+Geltungsbereichs und des letzten Andersungsstandes jeder der nachstehend aufgeführten
+Rechtsakte).
+List of requirements applicable to the approved incomplete vehicle type or variant (as
+appropriate, taking account of the scope and latest amendment to each of the regulatory acts
+listed below).
 
-List of requirements applicable to the approved incomplete vehicle type or variant (as appropriate, taking account of the scope and latest amendment to each of the regulatory acts listed below).
+List of requirements applicable to the approved incomplete vehicle type or variant (as
+appropriate, taking account of the scope and latest amendment to each of the regulatory acts
+listed below).

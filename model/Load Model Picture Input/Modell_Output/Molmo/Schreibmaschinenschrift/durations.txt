@@ -1,0 +1,9 @@
+Dateiname, Durchlaufzeit (Sekunden)
+schreibmaschinenschrift_1.png, 512.49
+schreibmaschinenschrift_2.png, 526.31
+schreibmaschinenschrift_3.png, 146.65
+schreibmaschinenschrift_4.png, 530.31
+schreibmaschinenschrift_5.png, 81.21
+schreibmaschinenschrift_6.png, 528.84
+schreibmaschinenschrift_7.png, 29.29
+schreibmaschinenschrift_8.png, 162.31
