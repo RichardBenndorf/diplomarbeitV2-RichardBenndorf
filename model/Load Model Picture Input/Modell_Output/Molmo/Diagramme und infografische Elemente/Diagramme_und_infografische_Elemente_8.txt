@@ -1,18 +1,18 @@
- Front master cylinder 0 11mm
+ Front master cylinder 0.11mm
 Floating brake disc front 300mm
 ABS modulator Bosch GMP
 Brake disc rear 240mm
-Wheel speed sensor WSS rear
+Wheel speed sensor (WSS) rear
 Rear master cylinder 13mm
 Brake fluid reservoir
 Front brake caliper
-Wheel speed sensor WSS front
+Wheel speed sensor (WSS) front
 Rear brake caliper
 ABS modulator Bosch GMP
 Floating brake disc front 320mm
 Brake disc rear 240mm
-Wheel speed sensor WSS rear
+Wheel speed sensor (WSS) rear
 Rear master cylinder 13mm
 Brake fluid reservoir
 Front brake caliper
-Wheel speed sensor WSS front
+Wheel speed sensor (WSS) front

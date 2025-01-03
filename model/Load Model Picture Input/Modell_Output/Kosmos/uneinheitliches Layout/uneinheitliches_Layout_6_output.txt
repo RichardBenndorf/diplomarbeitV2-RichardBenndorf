@@ -24,46 +24,27 @@ Results of the tests for vehicles fitted with eco-innovation(s)
 
 4. General code of the eco-innovation(s)
 
-<table>
-<thead>
-<tr>
-<th>
+
 Variante/Version / Variant/Version
-</th>
-<th>
+
 01.
-</th>
-<th>
+
 02.
-</th>
-<th>
+
 03.
-</th>
-<th>
+
 04.
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
+
 ?????????????????????????????????????
-</td>
-<td>
+
 --
-</td>
-<td>
+
 --
-</td>
-<td>
+
 --
-</td>
-<td>
+
 --
-</td>
-</tr>
-</tbody>
-</table>
+
 
 Zyklus NEFZ: Gemäß der UNECE-Regelung Nr. 83 (falls zutreffend)
 
@@ -71,7 +52,7 @@ Zyklus WLTP: Nach Anhang XXI der Verordnung 1151/2017 (falls zutreffend)
 
 1. Ökoinnovationen (interne Bezeichnungen)
 
-<!-- -->
+
 
 1. CO2 -Emissionsmenge des Vergleichsfahrzeugs (g/km)
 
@@ -97,7 +78,7 @@ WLTP: According to Annex XXI of Regulation (EU) 2017/1151 (if applicable)
 
 1. Eco-innovation (internal identifier)
 
-<!-- -->
+
 
 1. CO2 emissions of the baseline vehicle (g/km)
 
@@ -117,39 +98,23 @@ WLTP: According to Annex XXI of Regulation (EU) 2017/1151 (if applicable)
 
 9. Type 1/l cycle (NEDC/WLTP)
 
-<table>
-<tbody>
-<tr>
-<td>
+
 0.
-</td>
-<td>
+
 1.
-</td>
-<td>
+
 2.
-</td>
-<td>
+
 3.
-</td>
-<td>
+
 4.
-</td>
-<td>
+
 5.
-</td>
-<td>
+
 6.
-</td>
-<td>
+
 7.
-</td>
-<td>
+
 8.
-</td>
-<td>
+
 9.
-</td>
-</tr>
-</tbody>
-</table>

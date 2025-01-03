@@ -6,6 +6,6 @@ Dosiereinheit
 
 ACM-Box Dosing Unit
 
-&gt; LU Versorgungseinheit 12/24 V LU Supply Unit 12/24 V
-&gt;
-&gt; Durchfluß bei 2500 U/nin gegen 10bar Flow Rate At 2500rpm Toward 10bar
+ LU Versorgungseinheit 12/24 V LU Supply Unit 12/24 V
+
+ Durchfluß bei 2500 U/nin gegen 10bar Flow Rate At 2500rpm Toward 10bar

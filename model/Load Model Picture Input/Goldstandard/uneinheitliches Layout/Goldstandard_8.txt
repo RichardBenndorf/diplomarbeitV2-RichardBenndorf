@@ -1,0 +1,18 @@
+FHZ.-IDENTIFIZIERUNGSNUMMER / VEHICLE IDENTIFICATION NUMBER
+
+BEISPIEL / EXAMPLE:
+
+WDB9630031L479935
+
+Schrifthöhe / letter hight: ≥ 7mm
+
+AUFBAU DER NUMMER / STRUCTURE OF NUMBER:
+
+WDB 963003 1 L 479935
+6-stellige Zählnummer/ 6-digit counter
+Fertigungsstätte/ Plant
+Lenkung/ Steering system
+Baumuster
+Welthersteller/ World manufacturer identifier
+WDB= Daimler AG
+WDF= Diamler AG

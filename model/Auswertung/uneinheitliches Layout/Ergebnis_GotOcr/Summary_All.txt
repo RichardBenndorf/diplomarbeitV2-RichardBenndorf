@@ -1,0 +1,208 @@
+Durchlauf 7:
+
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 1074
+- Character Error Rate (CER): 13.78%
+- Falsche Zeichen (absolut): 148
+
+Wortbasierte Metriken:
+- Gesamtwörter: 151
+- Word Error Rate (WER): 13.25%
+- Korrekt erkannte Wörter: 146
+- Fast korrekt erkannte Wörter: 148
+- Fehlende Wörter: 4
+- Zusätzliche Wörter: 4
+
+Semantische Metriken:
+- Cosine Similarity: 97.48%
+- BLEU Score: 87.10%
+
+Weitere Metriken:
+- Precision: 1.00
+- Recall: 0.98
+- F1-Score: 0.99
+
+Durchlauf 5:
+
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 1275
+- Character Error Rate (CER): 60.63%
+- Falsche Zeichen (absolut): 773
+
+Wortbasierte Metriken:
+- Gesamtwörter: 154
+- Word Error Rate (WER): 20.78%
+- Korrekt erkannte Wörter: 123
+- Fast korrekt erkannte Wörter: 128
+- Fehlende Wörter: 27
+- Zusätzliche Wörter: 6
+
+Semantische Metriken:
+- Cosine Similarity: 82.17%
+- BLEU Score: 77.51%
+
+Weitere Metriken:
+- Precision: 1.00
+- Recall: 0.83
+- F1-Score: 0.91
+
+Durchlauf 6:
+
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 2048
+- Character Error Rate (CER): 5.91%
+- Falsche Zeichen (absolut): 121
+
+Wortbasierte Metriken:
+- Gesamtwörter: 324
+- Word Error Rate (WER): 13.89%
+- Korrekt erkannte Wörter: 285
+- Fast korrekt erkannte Wörter: 305
+- Fehlende Wörter: 33
+- Zusätzliche Wörter: 6
+
+Semantische Metriken:
+- Cosine Similarity: 95.87%
+- BLEU Score: 80.04%
+
+Weitere Metriken:
+- Precision: 1.00
+- Recall: 0.94
+- F1-Score: 0.97
+
+Durchlauf 8:
+
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 357
+- Character Error Rate (CER): 33.89%
+- Falsche Zeichen (absolut): 121
+
+Wortbasierte Metriken:
+- Gesamtwörter: 42
+- Word Error Rate (WER): 21.43%
+- Korrekt erkannte Wörter: 41
+- Fast korrekt erkannte Wörter: 42
+- Fehlende Wörter: 1
+- Zusätzliche Wörter: 0
+
+Semantische Metriken:
+- Cosine Similarity: 96.87%
+- BLEU Score: 91.79%
+
+Weitere Metriken:
+- Precision: 1.00
+- Recall: 1.00
+- F1-Score: 1.00
+
+Durchlauf 3:
+
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 1369
+- Character Error Rate (CER): 9.86%
+- Falsche Zeichen (absolut): 135
+
+Wortbasierte Metriken:
+- Gesamtwörter: 184
+- Word Error Rate (WER): 3.26%
+- Korrekt erkannte Wörter: 178
+- Fast korrekt erkannte Wörter: 181
+- Fehlende Wörter: 5
+- Zusätzliche Wörter: 3
+
+Semantische Metriken:
+- Cosine Similarity: 98.30%
+- BLEU Score: 93.38%
+
+Weitere Metriken:
+- Precision: 1.00
+- Recall: 0.97
+- F1-Score: 0.99
+
+Durchlauf 2:
+
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 755
+- Character Error Rate (CER): 1.72%
+- Falsche Zeichen (absolut): 13
+
+Wortbasierte Metriken:
+- Gesamtwörter: 104
+- Word Error Rate (WER): 0.96%
+- Korrekt erkannte Wörter: 103
+- Fast korrekt erkannte Wörter: 104
+- Fehlende Wörter: 1
+- Zusätzliche Wörter: 1
+
+Semantische Metriken:
+- Cosine Similarity: 98.73%
+- BLEU Score: 97.54%
+
+Weitere Metriken:
+- Precision: 1.00
+- Recall: 0.99
+- F1-Score: 1.00
+
+Durchlauf 4:
+
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 1135
+- Character Error Rate (CER): 11.63%
+- Falsche Zeichen (absolut): 132
+
+Wortbasierte Metriken:
+- Gesamtwörter: 127
+- Word Error Rate (WER): 2.36%
+- Korrekt erkannte Wörter: 126
+- Fast korrekt erkannte Wörter: 127
+- Fehlende Wörter: 1
+- Zusätzliche Wörter: 0
+
+Semantische Metriken:
+- Cosine Similarity: 99.55%
+- BLEU Score: 95.26%
+
+Weitere Metriken:
+- Precision: 0.98
+- Recall: 1.00
+- F1-Score: 0.99
+
+Durchlauf 1:
+
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 1071
+- Character Error Rate (CER): 7.38%
+- Falsche Zeichen (absolut): 79
+
+Wortbasierte Metriken:
+- Gesamtwörter: 127
+- Word Error Rate (WER): 0.79%
+- Korrekt erkannte Wörter: 126
+- Fast korrekt erkannte Wörter: 127
+- Fehlende Wörter: 1
+- Zusätzliche Wörter: 1
+
+Semantische Metriken:
+- Cosine Similarity: 99.11%
+- BLEU Score: 98.00%
+
+Weitere Metriken:
+- Precision: 1.00
+- Recall: 0.99
+- F1-Score: 1.00
+
