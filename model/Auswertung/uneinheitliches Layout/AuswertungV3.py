@@ -210,7 +210,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 # Beispielaufruf
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/uneinheitliches Layout",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/Docling/uneinheitliches Layout",
-    output_directory="Ergebnis_Docling",
-    excel_path="Ergebnis_Docling/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/Molmo/uneinheitliches Layout",
+    output_directory="Ergebnis_Molmo",
+    excel_path="Ergebnis_Molmo/results.xlsx"
 )

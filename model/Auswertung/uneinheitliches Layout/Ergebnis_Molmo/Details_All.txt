@@ -1,0 +1,1755 @@
+Durchlauf 7:
+KORREKT: Statement
+KORREKT: of
+KORREKT: conformity
+KORREKT: Schlussbescheinigung
+KORREKT: The
+KORREKT: information
+KORREKT: folder
+KORREKT: as
+KORREKT: mentioned
+KORREKT: under
+KORREKT: no
+KORREKT: 22
+KORREKT: and
+KORREKT: the
+KORREKT: type
+KORREKT: described
+KORREKT: therein
+KORREKT: are
+KORREKT: in
+KORREKT: compliance
+KORREKT: with
+KORREKT: the
+KORREKT: test
+KORREKT: standard
+KORREKT: mentioned
+KORREKT: above
+KORREKT: Die
+KORREKT: unter
+KORREKT: Nr
+KORREKT: 22
+FEHLT: angegebene
+FEHLT: Beschreibungsmappe
+KORREKT: und
+KORREKT: der
+FEHLT: darin
+FAST KORREKT: beschriebene
+FAST KORREKT: Typ
+KORREKT: entsprechen
+KORREKT: der
+KORREKT: oben
+KORREKT: aufgeführten
+FAST KORREKT: Prüfgrundlage
+KORREKT: With
+KORREKT: regard
+KORREKT: to
+KORREKT: the
+KORREKT: required
+KORREKT: level
+KORREKT: of
+KORREKT: performance
+KORREKT: to
+KORREKT: be
+FEHLT: achieved
+KORREKT: the
+KORREKT: test
+KORREKT: specimen
+KORREKT: were
+FEHLT: representative
+FAST KORREKT: for
+KORREKT: the
+KORREKT: type
+KORREKT: to
+KORREKT: be
+KORREKT: approved
+KORREKT: Die
+FEHLT: verwendeten
+FEHLT: Prüfmuster
+FAST KORREKT: waren
+FAST KORREKT: im
+FEHLT: Hinblick
+FAST KORREKT: auf
+FAST KORREKT: das
+FEHLT: erforderliche
+FEHLT: Leistungsniveau
+KORREKT: für
+KORREKT: den
+KORREKT: zu
+FEHLT: genehmigenden
+FAST KORREKT: Typ
+FEHLT: repräsentativ
+KORREKT: The
+KORREKT: tests
+KORREKT: were
+KORREKT: carried
+KORREKT: out
+KORREKT: in
+KORREKT: accordance
+KORREKT: with
+KORREKT: the
+KORREKT: relevant
+KORREKT: requirements
+KORREKT: of
+KORREKT: the
+KORREKT: Die
+FEHLT: Durchführung
+KORREKT: der
+FEHLT: Prüfung
+FEHLT: entsprach
+KORREKT: den
+FAST KORREKT: relevanten
+FEHLT: Anforderungen
+KORREKT: der
+FAST KORREKT: EN
+FEHLT: ISOIEC
+FEHLT: 170252005
+FAST KORREKT: EN
+FEHLT: ISO
+FEHLT: 101202102
+FEHLT: KraftfahrtBundesamt
+FEHLT: KBA
+FEHLT: National
+FAST KORREKT: Standards
+FEHLT: Rijksdienst
+FEHLT: voor
+FAST KORREKT: het
+FEHLT: Wegverkeer
+FEHLT: RDW
+FEHLT: Federal
+FEHLT: Republic
+KORREKT: of
+FEHLT: Germany
+FEHLT: Authority
+KORREKT: of
+FEHLT: Ireland
+FEHLT: NSAI
+KORREKT: The
+FEHLT: Netherlands
+FAST KORREKT: No
+FEHLT: KBA
+FAST KORREKT: P
+FEHLT: 00084
+FAST KORREKT: 10
+FAST KORREKT: No
+FEHLT: 101
+FAST KORREKT: No
+FEHLT: 99050064
+FAST KORREKT: 01
+FEHLT: Responsible
+FEHLT: expert
+FEHLT: Signature
+FEHLT: Stefan
+FAST KORREKT: van
+FEHLT: Husen
+FAST KORREKT: Nov
+FAST KORREKT: 30
+FEHLT: 2015
+FAST KORREKT: Conformity
+FEHLT: check
+FEHLT: Signature
+FEHLT: Michael
+FEHLT: Juschkat
+ZUSÄTZLICH: 3
+ZUSÄTZLICH: i
+ZUSÄTZLICH: beschriebenen
+ZUSÄTZLICH: Prüfungsbedingungen
+ZUSÄTZLICH: an
+ZUSÄTZLICH: Prüfgründlage
+ZUSÄTZLICH: wurde
+ZUSÄTZLICH: hinlänglich
+ZUSÄTZLICH: die
+ZUSÄTZLICH: typisch
+ZUSÄTZLICH: erwartete
+ZUSÄTZLICH: Leistungsdauer
+ZUSÄTZLICH: durchgeführt
+ZUSÄTZLICH: prüfen
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Prüfgrundsätze
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+ZUSÄTZLICH: gültigen
+ZUSÄTZLICH: Prüfregeln
+ZUSÄTZLICH: Daten
+ZUSÄTZLICH: nach
+ZUSÄTZLICH: jeweils
+Durchlauf 5:
+FAST KORREKT: 321227
+FEHLT: OnboardDiagnosesystem
+KORREKT: OBDSystem
+KORREKT: janein
+FEHLT: Onboarddiagnostic
+KORREKT: OBD
+KORREKT: system
+KORREKT: yesno
+KORREKT: ja
+KORREKT: yes
+FAST KORREKT: X
+FAST KORREKT: 321228
+KORREKT: Andere
+FEHLT: Einrichtung
+KORREKT: Other
+KORREKT: system
+FEHLT: entfällt
+KORREKT: not
+KORREKT: applicable
+FAST KORREKT: 321229
+FEHLT: Drehmomentbegrenzer
+KORREKT: janein
+KORREKT: Torque
+KORREKT: limiter
+KORREKT: yesno
+FEHLT: entfällt
+KORREKT: not
+KORREKT: applicable
+FAST KORREKT: 3212210
+KORREKT: Periodisch
+FAST KORREKT: arbeitendes
+FEHLT: Regenerationssystem
+FEHLT: nachstehende
+KORREKT: Angaben
+KORREKT: sind
+KORREKT: für
+KORREKT: jede
+FEHLT: selbstständige
+KORREKT: Einheit
+KORREKT: einzeln
+FAST KORREKT: anzugeben
+KORREKT: Periodically
+KORREKT: regenerating
+KORREKT: system
+KORREKT: provide
+KORREKT: the
+KORREKT: information
+KORREKT: below
+KORREKT: for
+KORREKT: each
+KORREKT: separate
+KORREKT: unit
+FAST KORREKT: 32122101
+FEHLT: Verfahren
+KORREKT: oder
+FEHLT: Einrichtung
+FAST KORREKT: zur
+KORREKT: Regenerierung
+KORREKT: Beschreibung
+FAST KORREKT: undoder
+KORREKT: Zeichnung
+KORREKT: Method
+KORREKT: or
+KORREKT: system
+KORREKT: of
+KORREKT: regeneration
+KORREKT: description
+KORREKT: andor
+KORREKT: drawing
+FEHLT: diskontinuierliche
+FAST KORREKT: Regeneration
+FEHLT: noncontinuous
+KORREKT: regeneration
+FAST KORREKT: 32122111
+KORREKT: Art
+KORREKT: und
+KORREKT: Konzentration
+KORREKT: des
+KORREKT: erforderlichen
+KORREKT: Reagens
+KORREKT: Type
+KORREKT: and
+KORREKT: concentration
+KORREKT: of
+KORREKT: reagent
+KORREKT: needed
+KORREKT: UREA
+KORREKT: Konzentration
+KORREKT: gemäß
+KORREKT: ISO
+KORREKT: 222411
+FAST KORREKT: Aktivierung
+FAST KORREKT: Warnsystem
+FEHLT: außerhalb
+FEHLT: Konzentrationsbereich
+FAST KORREKT: von
+FAST KORREKT: 278
+KORREKT: 46
+FAST KORREKT: Gew
+FEHLT: Harnstoff
+KORREKT: UREA
+KORREKT: concentration
+FEHLT: according
+FAST KORREKT: to
+KORREKT: ISO
+FAST KORREKT: 22241
+FAST KORREKT: 1
+FEHLT: activation
+FEHLT: inducement
+KORREKT: system
+KORREKT: outside
+KORREKT: concentration
+KORREKT: range
+KORREKT: from
+FAST KORREKT: 278
+KORREKT: 46
+FAST KORREKT: ww
+KORREKT: urea
+FAST KORREKT: X
+KORREKT: 32131
+FEHLT: Anbringungsstelle
+KORREKT: des
+FAST KORREKT: Symbols
+KORREKT: für
+FAST KORREKT: den
+FEHLT: Absorptionskoeffizienten
+FAST KORREKT: nur
+KORREKT: bei
+FEHLT: Selbstzündungsmotoren
+KORREKT: Location
+KORREKT: of
+KORREKT: the
+KORREKT: absorption
+KORREKT: coefficient
+KORREKT: symbol
+FEHLT: compression
+FEHLT: ignition
+FEHLT: engines
+FAST KORREKT: only
+FAST KORREKT: beim
+FEHLT: Fabrikschild
+FEHLT: wahlweise
+KORREKT: auf
+FAST KORREKT: dem
+FEHLT: Fabrikschild
+KORREKT: near
+KORREKT: vehicle
+KORREKT: plate
+FAST KORREKT: opt
+KORREKT: on
+KORREKT: the
+KORREKT: vehicle
+KORREKT: plate
+FAST KORREKT: X
+ZUSÄTZLICH: 32127
+ZUSÄTZLICH: Diagnostisches
+ZUSÄTZLICH: System
+ZUSÄTZLICH: Onboard
+ZUSÄTZLICH: diagnostic
+ZUSÄTZLICH: 32128
+ZUSÄTZLICH: Systeme
+ZUSÄTZLICH: systems
+ZUSÄTZLICH: 32129
+ZUSÄTZLICH: Spezifische
+ZUSÄTZLICH: Erreichung
+ZUSÄTZLICH: 321210
+ZUSÄTZLICH: arbeitender
+ZUSÄTZLICH: Regenerations
+ZUSÄTZLICH: Nachtsende
+ZUSÄTZLICH: Selbständige
+ZUSÄTZLICH: angegeben
+ZUSÄTZLICH: 3212101
+ZUSÄTZLICH: Methode
+ZUSÄTZLICH: System
+ZUSÄTZLICH: der
+ZUSÄTZLICH: undor
+ZUSÄTZLICH: 321211
+ZUSÄTZLICH: Koncentration
+ZUSÄTZLICH: Wärmsystem
+ZUSÄTZLICH: aktivierung
+ZUSÄTZLICH: induktiver
+ZUSÄTZLICH: System
+ZUSÄTZLICH: 274
+ZUSÄTZLICH: wwe
+ZUSÄTZLICH: 3213
+ZUSÄTZLICH: Absorptionskoeffizientssymbol
+ZUSÄTZLICH: platzieren
+ZUSÄTZLICH: Fahrzeugbau
+ZUSÄTZLICH: platzweise
+ZUSÄTZLICH: Fahrzeugbau
+ZUSÄTZLICH: Beim
+ZUSÄTZLICH: Hersteller
+ZUSÄTZLICH: platzieren
+ZUSÄTZLICH: Place
+ZUSÄTZLICH: at
+ZUSÄTZLICH: manufacturer
+ZUSÄTZLICH: Hersteller
+ZUSÄTZLICH: platzweise
+ZUSÄTZLICH: manufacturer
+Durchlauf 6:
+KORREKT: Anlage
+KORREKT: 2
+KORREKT: zum
+FEHLT: EWGGenehmigungsbogen
+KORREKT: Nr
+FEHLT: e1200746035619
+KORREKT: Enclosure
+KORREKT: 2
+KORREKT: to
+KORREKT: EEC
+KORREKT: approval
+KORREKT: certificate
+KORREKT: No
+FEHLT: Prüfergebnisse
+KORREKT: VO
+KORREKT: EU
+FAST KORREKT: 20181832
+KORREKT: Anhang
+KORREKT: VIII
+KORREKT: Test
+KORREKT: results
+FAST KORREKT: VOEU
+FAST KORREKT: 20181832
+KORREKT: Annex
+KORREKT: VIII
+FAST KORREKT: 4
+KORREKT: Ergebnisse
+KORREKT: der
+KORREKT: Prüfungen
+KORREKT: von
+KORREKT: Fahrzeugen
+KORREKT: die
+KORREKT: mit
+FEHLT: Ökoinnovationen
+KORREKT: ausgestattet
+KORREKT: sind
+KORREKT: 01
+FEHLT: Ökoinnovationen
+FAST KORREKT: interne
+FAST KORREKT: Bezeichnungen
+KORREKT: 02
+FEHLT: Gesamteinsparung
+KORREKT: von
+KORREKT: CO2
+FEHLT: Emissionen
+FEHLT: durch
+KORREKT: NEFZ
+KORREKT: gkm
+KORREKT: 03
+FEHLT: Gesamteinsparung
+FEHLT: CO2Emissionen
+FEHLT: durch
+KORREKT: WLTP
+FAST KORREKT: g
+FAST KORREKT: km
+KORREKT: 04
+KORREKT: Allgemeiner
+KORREKT: Code
+KORREKT: der
+FEHLT: Ökoinnovationen
+KORREKT: Results
+KORREKT: of
+KORREKT: the
+KORREKT: tests
+KORREKT: for
+KORREKT: vehicles
+KORREKT: fitted
+KORREKT: with
+KORREKT: ecoinnovations
+KORREKT: 01
+FAST KORREKT: Ecoinnovations
+KORREKT: internal
+KORREKT: identifiers
+KORREKT: 02
+KORREKT: Total
+KORREKT: CO2
+KORREKT: emissions
+KORREKT: savings
+KORREKT: on
+FAST KORREKT: NEDC
+KORREKT: gkm
+KORREKT: 03
+KORREKT: Total
+KORREKT: CO2
+KORREKT: emissions
+FAST KORREKT: saving
+KORREKT: on
+KORREKT: WLTP
+KORREKT: gkm
+KORREKT: 04
+KORREKT: General
+KORREKT: code
+KORREKT: of
+KORREKT: the
+KORREKT: ecoinnovations
+FEHLT: VarianteVersion
+FEHLT: VariantVersion
+KORREKT: 01
+KORREKT: 02
+KORREKT: 03
+KORREKT: 04
+KORREKT: Zyklus
+FAST KORREKT: NEF
+FAST KORREKT: Z
+KORREKT: Gemäß
+KORREKT: der
+FEHLT: UNECERegelung
+KORREKT: Nr
+KORREKT: 83
+KORREKT: falls
+KORREKT: zutreffend
+KORREKT: Zyklus
+KORREKT: WLTP
+FEHLT: Nach
+KORREKT: Anhang
+FEHLT: XXI
+KORREKT: der
+FEHLT: Verordnung
+FEHLT: 11512017
+KORREKT: falls
+KORREKT: zutreffend
+FAST KORREKT: 0
+FEHLT: Ökoinnovationen
+FAST KORREKT: interne
+FAST KORREKT: Bezeichnungen
+KORREKT: 1
+KORREKT: CO2
+FEHLT: Emissionsmenge
+KORREKT: des
+FEHLT: Vergleichsfahrzeugs
+KORREKT: gkm
+KORREKT: 2
+KORREKT: CO2
+FEHLT: Emissionsmenge
+KORREKT: des
+FAST KORREKT: Ökoinnovationsfahrzeugs
+KORREKT: gkm
+FAST KORREKT: 3
+KORREKT: CO2
+FEHLT: Emissionsmenge
+KORREKT: des
+FEHLT: Vergleichsfahrzeugs
+FAST KORREKT: im
+FEHLT: Prüfzyklus
+KORREKT: Typ
+KORREKT: 1
+KORREKT: gkm
+FAST KORREKT: 4
+KORREKT: CO2
+FEHLT: Emissionsmenge
+KORREKT: des
+FAST KORREKT: Ökoinnovationsfahrzeugs
+FAST KORREKT: im
+FEHLT: Prüfzyklus
+KORREKT: Typ
+KORREKT: 1
+KORREKT: gkm
+FAST KORREKT: 5
+KORREKT: Nutzungsfaktor
+FAST KORREKT: NF
+FAST KORREKT: dh
+KORREKT: Anteil
+KORREKT: der
+FAST KORREKT: Zeit
+FEHLT: während
+KORREKT: der
+KORREKT: die
+KORREKT: Technologie
+KORREKT: unter
+KORREKT: normalen
+FEHLT: Betriebsbedingungen
+FEHLT: genutzt
+FAST KORREKT: wird
+FAST KORREKT: 6
+FEHLT: Einsparung
+KORREKT: von
+FAST KORREKT: C02
+FEHLT: Emissionen
+KORREKT: 1
+KORREKT: 2
+FAST KORREKT: 3
+FAST KORREKT: 4
+FAST KORREKT: 5
+FAST KORREKT: 7
+KORREKT: Beschluss
+FAST KORREKT: zur
+FEHLT: Genehmigung
+KORREKT: der
+FAST KORREKT: Ökoinnovation
+FAST KORREKT: 8
+KORREKT: Code
+KORREKT: der
+FAST KORREKT: Ökoinnovation
+FAST KORREKT: 9
+KORREKT: Typ
+KORREKT: 1
+FAST KORREKT: I
+KORREKT: Zyklus
+KORREKT: NEFZWLTP
+FAST KORREKT: NEDC
+KORREKT: According
+KORREKT: to
+KORREKT: Regulation
+KORREKT: 83
+KORREKT: if
+KORREKT: applicable
+KORREKT: WLTP
+KORREKT: According
+KORREKT: to
+KORREKT: Annex
+FEHLT: XXI
+KORREKT: of
+KORREKT: Regulation
+KORREKT: EU
+KORREKT: 2
+KORREKT: 1
+FAST KORREKT: 15
+KORREKT: 1
+KORREKT: 2
+KORREKT: if
+FAST KORREKT: app
+FEHLT: licable
+FAST KORREKT: 0
+FAST KORREKT: Ecoinnovation
+KORREKT: internal
+KORREKT: identifier
+KORREKT: 1
+KORREKT: CO2
+KORREKT: emissions
+KORREKT: of
+KORREKT: the
+KORREKT: baseline
+KORREKT: vehicle
+KORREKT: gkm
+KORREKT: 2
+KORREKT: CO2
+KORREKT: emissions
+FAST KORREKT: o
+FAST KORREKT: f
+KORREKT: the
+KORREKT: ecoinnovation
+KORREKT: vehicle
+KORREKT: gkm
+FAST KORREKT: 3
+KORREKT: CO2
+KORREKT: emissions
+KORREKT: of
+KORREKT: the
+KORREKT: baseline
+KORREKT: vehicle
+KORREKT: under
+KORREKT: Type
+KORREKT: 1
+FEHLT: testcycle
+KORREKT: gkm
+FAST KORREKT: 4
+FAST KORREKT: C
+FAST KORREKT: O
+KORREKT: 2
+FAST KORREKT: em
+FAST KORREKT: issions
+KORREKT: of
+FAST KORREKT: t
+FAST KORREKT: he
+FAST KORREKT: eco
+FAST KORREKT: inno
+FEHLT: vation
+KORREKT: vehicle
+KORREKT: under
+FAST KORREKT: Ty
+FAST KORREKT: pe
+KORREKT: 1
+FAST KORREKT: tes
+FAST KORREKT: t
+FAST KORREKT: cycleg
+FAST KORREKT: km
+FAST KORREKT: 5
+KORREKT: Usage
+KORREKT: factor
+KORREKT: UF
+FAST KORREKT: ie
+KORREKT: temporal
+KORREKT: share
+KORREKT: of
+KORREKT: technology
+KORREKT: usage
+KORREKT: in
+KORREKT: normal
+KORREKT: operation
+KORREKT: conditions
+FAST KORREKT: 6
+KORREKT: CO2
+KORREKT: emissions
+KORREKT: savings
+KORREKT: 1
+FAST KORREKT: 23
+FAST KORREKT: 4
+FAST KORREKT: 5
+FAST KORREKT: 7
+FAST KORREKT: Decision
+KORREKT: approving
+KORREKT: the
+KORREKT: ecoinnovation
+FAST KORREKT: 8
+KORREKT: Code
+KORREKT: of
+KORREKT: the
+KORREKT: ecoinnovation
+FAST KORREKT: 9
+KORREKT: Type
+KORREKT: 1
+FAST KORREKT: I
+KORREKT: cycle
+FAST KORREKT: NEDCWLTP
+FAST KORREKT: 0
+KORREKT: 1
+KORREKT: 2
+FAST KORREKT: 3
+FAST KORREKT: 4
+FAST KORREKT: 5
+FAST KORREKT: 6
+FAST KORREKT: 7
+FAST KORREKT: 8
+FAST KORREKT: 9
+ZUSÄTZLICH: EGWelgEingemachungsblatt
+ZUSÄTZLICH: E12017035619
+ZUSÄTZLICH: Prüfgebungen
+ZUSÄTZLICH: 2018832
+ZUSÄTZLICH: 2018832
+ZUSÄTZLICH: ÖkoInnovationsverfahren
+ZUSÄTZLICH: ÖkoInnovation
+ZUSÄTZLICH: intern
+ZUSÄTZLICH: Bezeichnung
+ZUSÄTZLICH: Internal
+ZUSÄTZLICH: GesamtCO2Emissionssparung
+ZUSÄTZLICH: NECD
+ZUSÄTZLICH: NECD
+ZUSÄTZLICH: GesamtCO2Emissionssparung
+ZUSÄTZLICH: ÖkoInnovationsverfahren
+ZUSÄTZLICH: EcoInnovations
+ZUSÄTZLICH: Internal
+ZUSÄTZLICH: NECD
+ZUSÄTZLICH: NECD
+ZUSÄTZLICH: derUNECE
+ZUSÄTZLICH: Regulierung
+ZUSÄTZLICH: Cycle
+ZUSÄTZLICH: In
+ZUSÄTZLICH: accordance
+ZUSÄTZLICH: UNECE
+ZUSÄTZLICH: ÖkoInnovation
+ZUSÄTZLICH: intern
+ZUSÄTZLICH: Bezeichnung
+ZUSÄTZLICH: Internal
+ZUSÄTZLICH: GesamtCO2Emissionssparung
+ZUSÄTZLICH: ÖkoInnovationsfahrzeuges
+ZUSÄTZLICH: GesamtCO2Emissionssparung
+ZUSÄTZLICH: ÖkoInnovationsfahrzeuges
+ZUSÄTZLICH: test
+ZUSÄTZLICH: ciclo
+ZUSÄTZLICH: test
+ZUSÄTZLICH: 05
+ZUSÄTZLICH: GesamtCO2Emissionssparung
+ZUSÄTZLICH: ÖkoInnovationsfahrzeuges
+ZUSÄTZLICH: Betriebssituationen
+ZUSÄTZLICH: operating
+ZUSÄTZLICH: 06
+ZUSÄTZLICH: temporaler
+ZUSÄTZLICH: Nutzung
+ZUSÄTZLICH: normaler
+ZUSÄTZLICH: Betriebssituation
+ZUSÄTZLICH: percentage
+ZUSÄTZLICH: time
+ZUSÄTZLICH: is
+ZUSÄTZLICH: used
+ZUSÄTZLICH: operating
+ZUSÄTZLICH: 07
+ZUSÄTZLICH: Einsparungsfaktor
+ZUSÄTZLICH: EF
+ZUSÄTZLICH: temporaler
+ZUSÄTZLICH: CO2Emissionssparung
+ZUSÄTZLICH: temporaler
+ZUSÄTZLICH: Energieeinsparung
+ZUSÄTZLICH: percentage
+ZUSÄTZLICH: time
+ZUSÄTZLICH: percentage
+ZUSÄTZLICH: time
+ZUSÄTZLICH: energy
+ZUSÄTZLICH: percentage
+ZUSÄTZLICH: time
+ZUSÄTZLICH: is
+ZUSÄTZLICH: used
+ZUSÄTZLICH: 08
+ZUSÄTZLICH: approbierender
+ZUSÄTZLICH: Behörde
+ZUSÄTZLICH: decision
+ZUSÄTZLICH: authority
+ZUSÄTZLICH: 09
+ZUSÄTZLICH: 11
+ZUSÄTZLICH: 11
+ZUSÄTZLICH: NWECD
+ZUSÄTZLICH: EcoInnovation
+ZUSÄTZLICH: Internal
+ZUSÄTZLICH: test
+ZUSÄTZLICH: test
+ZUSÄTZLICH: operating
+ZUSÄTZLICH: test
+ZUSÄTZLICH: operating
+ZUSÄTZLICH: 05
+ZUSÄTZLICH: percentage
+ZUSÄTZLICH: time
+ZUSÄTZLICH: is
+ZUSÄTZLICH: used
+ZUSÄTZLICH: 06
+ZUSÄTZLICH: Einsparungsfaktor
+ZUSÄTZLICH: EF
+ZUSÄTZLICH: temporaler
+ZUSÄTZLICH: CO2Emissionssparung
+ZUSÄTZLICH: percentage
+ZUSÄTZLICH: time
+ZUSÄTZLICH: percentage
+ZUSÄTZLICH: time
+ZUSÄTZLICH: is
+ZUSÄTZLICH: used
+ZUSÄTZLICH: 07
+ZUSÄTZLICH: Entscheidung
+ZUSÄTZLICH: approbierender
+ZUSÄTZLICH: Behörde
+ZUSÄTZLICH: decision
+ZUSÄTZLICH: authority
+ZUSÄTZLICH: 08
+ZUSÄTZLICH: 11
+ZUSÄTZLICH: NWECDWLTP
+ZUSÄTZLICH: 11
+ZUSÄTZLICH: NWECDWLTP
+Durchlauf 8:
+FEHLT: FHZIDENTIFIZIERUNGSNUMMER
+FEHLT: VEHICLE
+KORREKT: IDENTIFICATION
+KORREKT: NUMBER
+FEHLT: BEISPIEL
+FEHLT: EXAMPLE
+FAST KORREKT: WDB9630031L479935
+FEHLT: Schrifthöhe
+FEHLT: letter
+FAST KORREKT: hight
+FAST KORREKT: 7mm
+KORREKT: AUFBAU
+KORREKT: DER
+FAST KORREKT: NUMMER
+FEHLT: STRUCTURE
+KORREKT: OF
+KORREKT: NUMBER
+FEHLT: WDB
+FEHLT: 963003
+FAST KORREKT: 1
+FAST KORREKT: L
+FEHLT: 479935
+KORREKT: 6stellige
+FEHLT: Zählnummer
+FEHLT: 6digit
+KORREKT: counter
+FEHLT: Fertigungsstätte
+FEHLT: Plant
+FEHLT: Lenkung
+FEHLT: Steering
+KORREKT: system
+KORREKT: Baumuster
+FEHLT: Welthersteller
+FEHLT: World
+KORREKT: manufacturer
+KORREKT: identifier
+FEHLT: WDB
+FEHLT: Daimler
+KORREKT: AG
+FAST KORREKT: WDF
+FEHLT: Diamler
+KORREKT: AG
+ZUSÄTZLICH: FHZIDENTIFIZIERUNGSNUMMERVEHICLE
+ZUSÄTZLICH: BEISPIELEXAMPLE
+ZUSÄTZLICH: WD89630031L479935
+ZUSÄTZLICH: Schriftgrößeletter
+ZUSÄTZLICH: height
+ZUSÄTZLICH: 2
+ZUSÄTZLICH: mm
+ZUSÄTZLICH: NUMMERSTRUCTURE
+ZUSÄTZLICH: WD89630031L479935
+ZUSÄTZLICH: Zahlennummer6digit
+ZUSÄTZLICH: FertigungstättePlant
+ZUSÄTZLICH: LenkungSteering
+ZUSÄTZLICH: WeltstellerWorld
+ZUSÄTZLICH: WD8Wanderer
+ZUSÄTZLICH: WDFDaimler
+Durchlauf 3:
+KORREKT: Manufacturers
+KORREKT: statement
+KORREKT: on
+KORREKT: endurance
+KORREKT: testing
+KORREKT: Annex
+KORREKT: V
+KORREKT: to
+KORREKT: Commission
+KORREKT: Delegated
+KORREKT: Regulation
+KORREKT: EU
+KORREKT: No
+KORREKT: 32014
+KORREKT: The
+KORREKT: undersigned
+KORREKT: Erich
+KORREKT: Kern
+FAST KORREKT: Teamleader
+FAST KORREKT: homologation
+FAST KORREKT: Company
+KORREKT: name
+KORREKT: and
+FEHLT: address
+KORREKT: of
+KORREKT: manufacturer
+KORREKT: KTM
+KORREKT: AG
+FEHLT: Stallhofnerstraße
+KORREKT: 3
+KORREKT: A5230
+KORREKT: Mattighofen
+KORREKT: Name
+KORREKT: and
+FEHLT: address
+KORREKT: of
+KORREKT: the
+FAST KORREKT: manufacturers
+FEHLT: representative
+KORREKT: if
+KORREKT: any
+KORREKT: na
+KORREKT: Hereby
+KORREKT: states
+KORREKT: that
+KORREKT: the
+KORREKT: vehicles
+KORREKT: 01
+KORREKT: Make
+KORREKT: trade
+KORREKT: name
+KORREKT: of
+KORREKT: the
+FAST KORREKT: manu
+FEHLT: facturer
+KORREKT: Husqvarna
+KORREKT: 02
+KORREKT: Type
+KORREKT: Husqvarna
+KORREKT: 701
+KORREKT: 021
+KORREKT: Variants
+KORREKT: ABC
+FAST KORREKT: 0
+FAST KORREKT: 22
+KORREKT: Versions
+KORREKT: na
+KORREKT: 023
+KORREKT: Commercial
+KORREKT: names
+KORREKT: if
+KORREKT: available
+KORREKT: Husqvarna
+KORREKT: 701
+FEHLT: Supermoto
+FEHLT: Enduro
+KORREKT: LR
+KORREKT: 03
+KORREKT: Category
+KORREKT: subcategory
+KORREKT: and
+KORREKT: subsubcategory
+KORREKT: of
+KORREKT: vehicle
+FEHLT: L3eA2
+FAST KORREKT: For
+FAST KORREKT: which
+FEHLT: typeapproval
+KORREKT: is
+FEHLT: sought
+FEHLT: shall
+FEHLT: withstand
+FEHLT: normal
+KORREKT: use
+FAST KORREKT: as
+FEHLT: intended
+KORREKT: for
+FAST KORREKT: at
+FEHLT: least
+FEHLT: 52500
+FAST KORREKT: km
+FEHLT: travelled
+FEHLT: within
+FEHLT: five
+FEHLT: years
+KORREKT: of
+FEHLT: first
+FEHLT: registration
+FEHLT: taking
+FAST KORREKT: into
+FEHLT: account
+FEHLT: regular
+KORREKT: and
+FEHLT: scheduled
+FEHLT: maintenance
+KORREKT: and
+FEHLT: specific
+KORREKT: equipment
+FEHLT: adjustments
+FAST KORREKT: as
+FEHLT: described
+FEHLT: clearly
+KORREKT: and
+FEHLT: unambiguously
+KORREKT: in
+KORREKT: the
+FEHLT: instructions
+FEHLT: manual
+FEHLT: delivered
+FEHLT: with
+KORREKT: the
+KORREKT: vehicles
+KORREKT: The
+KORREKT: undersigned
+KORREKT: furthermore
+KORREKT: confirms
+KORREKT: that
+KORREKT: the
+KORREKT: endurance
+KORREKT: of
+KORREKT: the
+KORREKT: systems
+KORREKT: parts
+KORREKT: and
+KORREKT: equipment
+KORREKT: critical
+KORREKT: for
+KORREKT: functional
+KORREKT: safety
+KORREKT: is
+KORREKT: ensured
+KORREKT: through
+KORREKT: appropriate
+KORREKT: testing
+KORREKT: and
+KORREKT: the
+KORREKT: use
+KORREKT: of
+KORREKT: good
+KORREKT: engineering
+KORREKT: practice
+KORREKT: This
+KORREKT: declaration
+KORREKT: has
+KORREKT: no
+KORREKT: bearing
+KORREKT: on
+KORREKT: any
+KORREKT: vehicle
+KORREKT: warranty
+KORREKT: Place
+KORREKT: Mattighofen
+KORREKT: Date
+FAST KORREKT: 02122019
+KORREKT: Signature
+KORREKT: Name
+KORREKT: Erich
+KORREKT: Kern
+KORREKT: Position
+KORREKT: in
+KORREKT: the
+KORREKT: company
+FAST KORREKT: Teamleader
+FAST KORREKT: homologation
+ZUSÄTZLICH: Stolln
+ZUSÄTZLICH: erhebung
+ZUSÄTZLICH: 022
+ZUSÄTZLICH: SupermotoEnduro
+ZUSÄTZLICH: A4E2
+ZUSÄTZLICH: 12122019
+ZUSÄTZLICH: Teamleiter
+ZUSÄTZLICH: Homologation
+Durchlauf 2:
+KORREKT: Prüfbericht
+KORREKT: Test
+KORREKT: report
+KORREKT: Übereinstimmungs
+KORREKT: und
+FAST KORREKT: Anbauprüfungen
+KORREKT: gemäß
+KORREKT: Artikel
+KORREKT: 44
+KORREKT: Compliance
+KORREKT: and
+KORREKT: mounting
+KORREKT: tests
+KORREKT: referred
+KORREKT: to
+KORREKT: in
+KORREKT: Article
+KORREKT: 44
+FAST KORREKT: VOEU
+FEHLT: 2018858
+FAST KORREKT: zuletzt
+FEHLT: geändert
+KORREKT: durch
+FAST KORREKT: last
+KORREKT: amended
+KORREKT: by
+KORREKT: Genehmigungsgegenstand
+KORREKT: Subject
+KORREKT: of
+KORREKT: approval
+KORREKT: EUFahrzeugEinzelgenehmigung
+KORREKT: EU
+KORREKT: individual
+KORREKT: vehicle
+KORREKT: approval
+FEHLT: Prüffundlage
+KORREKT: Test
+FEHLT: basis
+KORREKT: Anhang
+KORREKT: II
+KORREKT: Teil
+FAST KORREKT: I
+FEHLT: Anlage
+KORREKT: 2
+KORREKT: Appendix
+KORREKT: 2
+KORREKT: to
+KORREKT: Part
+FAST KORREKT: I
+KORREKT: of
+FEHLT: Annex
+KORREKT: II
+KORREKT: Name
+KORREKT: und
+KORREKT: Anschrift
+KORREKT: des
+FAST KORREKT: Auftraggebers
+KORREKT: Name
+KORREKT: and
+KORREKT: address
+KORREKT: of
+KORREKT: the
+KORREKT: client
+FAST KORREKT: INDIMO
+KORREKT: Automotive
+KORREKT: GmbH
+FEHLT: Bruchwiesenstr
+KORREKT: 30
+KORREKT: 66849
+KORREKT: Landstuhl
+KORREKT: Name
+KORREKT: und
+KORREKT: Anschrift
+KORREKT: des
+KORREKT: Herstellers
+KORREKT: Name
+KORREKT: and
+KORREKT: address
+KORREKT: of
+KORREKT: the
+KORREKT: manufacturer
+FAST KORREKT: DFSK
+FEHLT: MOTOR
+FAST KORREKT: CO
+FAST KORREKT: LTD
+FAST KORREKT: No1
+FAST KORREKT: Donghuan
+KORREKT: Road
+FAST KORREKT: Shiyan
+KORREKT: City
+KORREKT: Hubei
+KORREKT: Province
+KORREKT: China
+KORREKT: Typ
+KORREKT: Type
+KORREKT: FENGON500MT
+FAST KORREKT: Fertigungsstand
+KORREKT: Production
+KORREKT: status
+FEHLT: vollständiges
+FEHLT: Fahrzeug
+KORREKT: Complete
+KORREKT: Stufe
+KORREKT: Stage
+ZUSÄTZLICH: Anbaugeprüfungen
+ZUSÄTZLICH: Zuletzt
+ZUSÄTZLICH: genehmigt
+ZUSÄTZLICH: Last
+ZUSÄTZLICH: Auftragsgebers
+ZUSÄTZLICH: INDIMD
+ZUSÄTZLICH: Brechiner
+ZUSÄTZLICH: Str
+ZUSÄTZLICH: DSK
+ZUSÄTZLICH: Motor
+ZUSÄTZLICH: Co
+ZUSÄTZLICH: Ltd
+ZUSÄTZLICH: No
+ZUSÄTZLICH: 1
+ZUSÄTZLICH: Donghuang
+ZUSÄTZLICH: Shiyang
+ZUSÄTZLICH: Fertigungstand
+ZUSÄTZLICH: Vollständig
+Durchlauf 4:
+FEHLT: Anlage
+KORREKT: 1
+FEHLT: Enclosure
+KORREKT: 1
+KORREKT: Zum
+FEHLT: EGTypgenehmigungsbogen
+KORREKT: Nr
+FAST KORREKT: e1200746035619
+KORREKT: To
+KORREKT: EC
+KORREKT: type
+KORREKT: approval
+KORREKT: certificate
+KORREKT: No
+KORREKT: Inhaltsverzeichnis
+KORREKT: zu
+KORREKT: den
+FEHLT: Beschreibungsunterlagen
+FEHLT: Index
+FAST KORREKT: to
+FAST KORREKT: the
+FAST KORREKT: information
+FEHLT: package
+FEHLT: Ausgabedatum
+KORREKT: 04032010
+FEHLT: letztes
+FEHLT: Änderungsdatum
+KORREKT: 07012020
+KORREKT: Date
+KORREKT: of
+KORREKT: issue
+KORREKT: last
+KORREKT: date
+KORREKT: of
+KORREKT: amendment
+KORREKT: 1
+FEHLT: Nebenbestimmungen
+KORREKT: und
+FEHLT: Rechtsbehelfsbelehrung
+FEHLT: Collateral
+FEHLT: clauses
+FAST KORREKT: and
+FEHLT: instruction
+FAST KORREKT: on
+FEHLT: right
+FAST KORREKT: to
+FEHLT: appeal
+KORREKT: 2
+FEHLT: Beschreibungsbogen
+KORREKT: Nr
+KORREKT: Datum
+KORREKT: Information
+KORREKT: document
+KORREKT: No
+KORREKT: Date
+FAST KORREKT: 099
+FAST KORREKT: 2H
+FAST KORREKT: 11012010
+FEHLT: letztes
+FEHLT: Änderungsdatum
+FAST KORREKT: 29112019
+KORREKT: last
+KORREKT: date
+KORREKT: of
+FAST KORREKT: Amendment
+FAST KORREKT: Gültige
+KORREKT: Seiten
+KORREKT: Valid
+KORREKT: pages
+KORREKT: Datum
+KORREKT: Date
+KORREKT: 152
+FAST KORREKT: 29112019
+KORREKT: 3
+FEHLT: Prüfbericht
+FAST KORREKT: e
+KORREKT: Nr
+KORREKT: Test
+FAST KORREKT: report
+FAST KORREKT: s
+KORREKT: No
+FAST KORREKT: 8106334607
+KORREKT: 19022010
+FAST KORREKT: 8106705343
+FAST KORREKT: 20072010
+FEHLT: 8107043822
+KORREKT: 09092010
+FEHLT: 8107820822
+FAST KORREKT: 03062011
+FEHLT: 8108113498
+FAST KORREKT: 13092011
+FEHLT: 8108305385
+FAST KORREKT: 09122011
+FAST KORREKT: 8108771121
+FAST KORREKT: 04062012
+FEHLT: 8109159206
+FAST KORREKT: 06092012
+FEHLT: 8109303475
+FEHLT: 20112012
+FAST KORREKT: 8109962603
+FAST KORREKT: 05062013
+FEHLT: 8110268718
+FAST KORREKT: 09092013
+FEHLT: 8111032690
+FAST KORREKT: 12062014
+FEHLT: 8112173224
+KORREKT: 18062015
+FEHLT: 8113052767
+FEHLT: 02082016
+FEHLT: 8113665404
+FAST KORREKT: 25082016
+FEHLT: 8113847698
+FEHLT: 06102016
+FAST KORREKT: 8113911509
+FAST KORREKT: 05092017
+FAST KORREKT: 8115033582
+FAST KORREKT: 11012018
+FEHLT: 8115380212
+FAST KORREKT: 10042018
+FAST KORREKT: 8115862753
+FAST KORREKT: 26072018
+FEHLT: 8116302285
+FAST KORREKT: 21012019
+FAST KORREKT: 8116302339
+FAST KORREKT: 09072019
+FEHLT: 8116302432
+FAST KORREKT: 20122019
+ZUSÄTZLICH: ANGLAGE
+ZUSÄTZLICH: EGTypenGenehmigungsblatt
+ZUSÄTZLICH: e12007035619
+ZUSÄTZLICH: Beschreibungsgutachten
+ZUSÄTZLICH: Last
+ZUSÄTZLICH: Neblustellbestand
+ZUSÄTZLICH: Rechtsbeschelferung
+ZUSÄTZLICH: Beschreibungsgutachten
+ZUSÄTZLICH: 099H
+ZUSÄTZLICH: 11012019
+ZUSÄTZLICH: 11012019
+ZUSÄTZLICH: Gultige
+ZUSÄTZLICH: PrüfbaueNr
+ZUSÄTZLICH: reports
+ZUSÄTZLICH: 810633467
+ZUSÄTZLICH: 810670543
+ZUSÄTZLICH: 810781328
+ZUSÄTZLICH: 8108035034
+ZUSÄTZLICH: 8108071322
+ZUSÄTZLICH: 8108781222
+ZUSÄTZLICH: 8108877121
+ZUSÄTZLICH: 8109359705
+ZUSÄTZLICH: 8109962678
+ZUSÄTZLICH: 8112112324
+ZUSÄTZLICH: 8112705674
+ZUSÄTZLICH: 8113035434
+ZUSÄTZLICH: 8113105279
+ZUSÄTZLICH: 8113365607
+ZUSÄTZLICH: 8113814509
+ZUSÄTZLICH: 8115033812
+ZUSÄTZLICH: 8115058273
+ZUSÄTZLICH: 8115112687
+ZUSÄTZLICH: 8115302753
+ZUSÄTZLICH: 8115630292
+ZUSÄTZLICH: 8116132039
+ZUSÄTZLICH: 8116132043
+ZUSÄTZLICH: 81163023429
+ZUSÄTZLICH: 09092011
+ZUSÄTZLICH: 03032012
+ZUSÄTZLICH: 09062012
+ZUSÄTZLICH: 12062012
+ZUSÄTZLICH: 14062013
+ZUSÄTZLICH: 05092013
+ZUSÄTZLICH: 09062014
+ZUSÄTZLICH: 25062016
+ZUSÄTZLICH: 05062017
+ZUSÄTZLICH: 10062017
+ZUSÄTZLICH: 11062018
+ZUSÄTZLICH: 10042019
+ZUSÄTZLICH: 20062019
+ZUSÄTZLICH: 26072019
+ZUSÄTZLICH: 09122019
+Durchlauf 1:
+KORREKT: KraftfahrtBundesamt
+KORREKT: DE24932
+KORREKT: Flensburg
+FEHLT: EUFAHRZEUGEINZELGENEHMIGUNGSBOGEN
+KORREKT: EU
+KORREKT: INDIVIDUAL
+KORREKT: VEHICLE
+KORREKT: APPROVAL
+KORREKT: CERTIFICATE
+KORREKT: e1
+FAST KORREKT: KraftfährtBundesamt
+KORREKT: KBA
+KORREKT: DE24932
+KORREKT: Flensburg
+FEHLT: Telefon
+KORREKT: Phone
+KORREKT: 49
+KORREKT: 461
+FAST KORREKT: 316
+FAST KORREKT: 0
+KORREKT: EMail
+FAST KORREKT: Email
+FAST KORREKT: EUFEGkbade
+KORREKT: Mitteilung
+KORREKT: über
+KORREKT: die
+FEHLT: Erteilung
+FAST KORREKT: einer
+FEHLT: EUFahrzeugEinzelgenehmigung
+KORREKT: nach
+KORREKT: Artikel
+KORREKT: 44
+KORREKT: der
+KORREKT: Verordnung
+KORREKT: EU
+KORREKT: 2018858
+KORREKT: Communication
+KORREKT: concerning
+FAST KORREKT: granting
+KORREKT: of
+KORREKT: of
+KORREKT: EU
+KORREKT: individual
+KORREKT: vehicle
+KORREKT: approval
+KORREKT: in
+KORREKT: accordance
+KORREKT: with
+KORREKT: Article
+KORREKT: 44
+KORREKT: of
+KORREKT: Regulation
+KORREKT: EU
+KORREKT: 2018858
+KORREKT: Nummer
+KORREKT: des
+FEHLT: EUFahrzeugEinzelgenehmigungsbogens
+FEHLT: e1IV18858DE0435
+KORREKT: Number
+KORREKT: of
+KORREKT: the
+KORREKT: EU
+KORREKT: individual
+KORREKT: vehicle
+KORREKT: approval
+KORREKT: certificate
+KORREKT: Grund
+KORREKT: für
+KORREKT: die
+KORREKT: VersagungRücknahme
+KORREKT: Reason
+KORREKT: for
+KORREKT: refusalwithdrawal
+FAST KORREKT: Entfällt
+KORREKT: Not
+KORREKT: applicable
+KORREKT: ABSCHNITT
+KORREKT: I
+KORREKT: SECTION
+KORREKT: I
+KORREKT: Der
+KORREKT: Unterzeichnete
+KORREKT: Herr
+KORREKT: Lorenzen
+KORREKT: bestätigt
+KORREKT: hiermit
+KORREKT: dass
+KORREKT: das
+KORREKT: Fahrzeug
+FAST KORREKT: The
+FEHLT: undersigned
+FAST KORREKT: Mr
+KORREKT: Lorenzen
+FEHLT: hereby
+FEHLT: certifies
+FAST KORREKT: that
+KORREKT: the
+KORREKT: vehicle
+KORREKT: 01
+FEHLT: Fabrikmarke
+KORREKT: Firmenname
+KORREKT: des
+KORREKT: Herstellers
+KORREKT: Make
+KORREKT: trade
+KORREKT: name
+KORREKT: of
+KORREKT: manufacturer
+KORREKT: DFSK
+KORREKT: 02
+KORREKT: Typ
+KORREKT: Type
+FAST KORREKT: FENGON500MT
+KORREKT: Variante
+KORREKT: Variant
+FAST KORREKT: DXK7150KDH
+FEHLT: Version
+FEHLT: Version
+FAST KORREKT: Entfällt
+KORREKT: Not
+KORREKT: applicable
+KORREKT: 021
+KORREKT: Handelsbezeichnungen
+KORREKT: Commercial
+FAST KORREKT: names
+FAST KORREKT: FENGON
+KORREKT: 500
+ZUSÄTZLICH: EUFAHRZEUGEINZELGENEHRIGSBOGEN
+ZUSÄTZLICH: Telephone
+ZUSÄTZLICH: 3160
+ZUSÄTZLICH: EUFEUGkbade
+ZUSÄTZLICH: EiTELiNg
+ZUSÄTZLICH: eines
+ZUSÄTZLICH: EUFAHRZEUGEINZELGENEHRIGSBOGEN
+ZUSÄTZLICH: Granting
+ZUSÄTZLICH: EUFAHRZEUGEINZELGENEHRIGSBOGENs
+ZUSÄTZLICH: E1V18858
+ZUSÄTZLICH: DE0435
+ZUSÄTZLICH: E1V18858
+ZUSÄTZLICH: DE0435
+ZUSÄTZLICH: Entfall
+ZUSÄTZLICH: Fabrik
+ZUSÄTZLICH: marque
+ZUSÄTZLICH: FEGON500MT
+ZUSÄTZLICH: FEGON500MT
+ZUSÄTZLICH: DKX7150KDH
+ZUSÄTZLICH: DKX7150KDH
+ZUSÄTZLICH: 0211
+ZUSÄTZLICH: FEGON
+ZUSÄTZLICH: FEGON

@@ -1,0 +1,15 @@
+3.2.12.7 Diagnostisches System (OBD-System) [ja/nein]: On-board diagnostic (OBD) system [yes/no]: ja
+
+3.2.12.8 Andere Systeme: Other systems: not applicable
+
+3.2.12.9 Spezifische Erreichung: Torque limiter: yes/no: yes
+
+3.2.12.10 Periodisch arbeitender Regenerations system: (Nachtsende Angaben sind für jede Selbständige Einheit einzeln angegeben) Periodically regenerating system: provide the information below for each separate unit
+
+3.2.12.10.1 Methode oder System der Regenerierung, Beschreibung und/or Zeichnung: Method or system of regeneration, description and/or drawing:
+
+3.2.12.11 Art und Koncentration des erforderlichen Reagens: Type and concentration of reagent needed: UREA: Konzentration gemäß ISO 22241-1 - 46 %-Wärmsystem aktivierung induktiver System outside concentration range from 27.4 % - 46 %-wwe urea
+
+3.2.13 Absorptionskoeffizientssymbol platzieren: Location of the absorption coefficient symbol: bei Fahrzeugbau platzweise auf Fahrzeugbau near vehicle plate
+
+3.2.13.1 Beim Hersteller platzieren: Place at the manufacturer: bei Hersteller platzweise on manufacturer

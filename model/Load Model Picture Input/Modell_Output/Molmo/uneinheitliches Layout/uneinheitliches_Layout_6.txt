@@ -1,0 +1,57 @@
+ Anlage 2 zum EG-Welg-Eingemachungsblatt Nr. E1+2017/0356/19 Enclosure 2 to EEC approval certificate No.
+
+Prüfgebungen (VO (EU) 2018/832, Anhang VIII) Test results (VO (EU) 2018/832, Annex VIII)
+
+Ergebnisse der Prüfungen von Fahrzeugen, die mit Öko-Innovationsverfahren ausgestattet sind Results of tests for vehicles fitted with eco-innovations
+
+01. Öko-Innovation (intern Bezeichnung) Internal identifier of eco-innovation
+
+02. GesamtCO2-Emissionssparung von NECD (g/km) Total CO2 emissions savings on NECD (g/km)
+
+03. GesamtCO2-Emissionssparung von WLTP (g/km) Total CO2 emissions savings on WLTP (g/km)
+
+04. Allgemeiner Code der Öko-Innovationsverfahren General code of the eco-innovations
+
+01. Eco-Innovations (internal identifiers) Internal identifiers of eco-innovations
+
+02. Total CO2 emissions savings on NECD (g/km) Total CO2 emissions savings on NECD (g/km)
+
+03. Total CO2 emissions savings on WLTP (g/km) Total CO2 emissions savings on WLTP (g/km)
+
+04. General code of the eco-innovations General code of the eco-innovations
+
+01. Zyklus NEFZ: Gemäß derUNECE Regulierung 83, falls zutreffend Cycle NEFZ: In accordance with UNECE Regulation 83, if applicable
+
+02. Öko-Innovation (intern Bezeichnung) Internal identifier of eco-innovation
+
+03. GesamtCO2-Emissionssparung des Öko-Innovationsfahrzeuges in g/km Total CO2 emissions savings of eco-innovation vehicle (g/km)
+
+04. GesamtCO2-Emissionssparung des Öko-Innovationsfahrzeuges unter Typ 1 test ciclo in g/km Total CO2 emissions savings of eco-innovation vehicle under Type 1 test cycle (g/km)
+
+05. GesamtCO2-Emissionssparung des Öko-Innovationsfahrzeuges unter normalen Betriebssituationen in g/km Total CO2 emissions savings of eco-innovation vehicle under normal operating conditions (g/km)
+
+06. Nutzungsfaktor (UF) = temporaler Anteil der Technologie Nutzung in normaler Betriebssituation percentage of time the technology is used under normal operating conditions
+
+07. Einsparungsfaktor (EF) = temporaler Anteil der CO2-Emissionssparung = temporaler Anteil der Energieeinsparung = percentage of time the CO2 emissions savings = percentage of time the energy savings = percentage of time the eco-innovation is used
+
+08. Beschluss approbierender Behörde = decision approving the eco-innovation = authority approving the eco-innovation
+
+09. Typ 1/1 Zyklus (NEFZ/WLTP) = Type 1/1 cycle (NEFZ/WLTP)
+
+NWECD: According to Regulation 83, if applicable
+
+Eco-Innovation (internal identifier) = Internal identifier of eco-innovation
+
+02. CO2 emissions of the baseline vehicle in g/km = CO2 emissions of the baseline vehicle under Type 1 test cycle (g/km)
+
+03. CO2 emissions of the baseline vehicle under Type 1 test cycle in g/km = CO2 emissions of the baseline vehicle under normal operating conditions (g/km)
+
+04. CO2 emissions of the eco-innovation vehicle under Type 1 test cycle in g/km = CO2 emissions of the eco-innovation vehicle under normal operating conditions (g/km)
+
+05. Usage factor (UF) = temporal share of technology usage in normal operation conditions = percentage of time the eco-innovation is used
+
+06. Einsparungsfaktor (EF) = temporaler Anteil der CO2-Emissionssparung = percentage of time the CO2 emissions savings = percentage of time the eco-innovation is used
+
+07. Entscheidung approbierender Behörde = decision approving the eco-innovation = authority approving the eco-innovation
+
+08. Type 1/1 cycle (NWECD/WLTP) = Type 1/1 cycle (NWECD/WLTP)

@@ -8,9 +8,9 @@ processor = AutoProcessor.from_pretrained('allenai/Molmo-7B-D-0924', trust_remot
 model = AutoModelForCausalLM.from_pretrained('allenai/Molmo-7B-D-0924', trust_remote_code=True, torch_dtype='auto', device_map='auto')
 
 # Pfad zum Bild und zum Output-Ordner festlegen
-image_filename = 'Kopf_Fußzeilen_6.png'
-images_directory = '../Bilder/Kopf_Fußzeilen'
-output_directory = '../Modell_Output/Molmo/Kopf_Fußzeilen'
+image_filename = 'uneinheitliches_Layout_6.png'
+images_directory = '../Bilder/uneinheitliches Layout'
+output_directory = '../Modell_Output/Molmo/uneinheitliches Layout'
 
 # Output-Ordner erstellen, falls er nicht existiert
 os.makedirs(output_directory, exist_ok=True)
@@ -23,7 +23,7 @@ if os.path.isfile(image_path) and image_path.lower().endswith(('.png', '.jpg', '
     image = Image.open(image_path)
 
     # Bild verarbeiten mit spezifischer Aufforderung
-    inputs = processor.process(images=[image], text="I need to extract the text from this old document. Can you please take over this task for me? I need the exact text, please do not add any words.")
+    inputs = processor.process(images=[image], text="Please extract the text from the image and don't add any aditional words.")
     inputs = {k: v.to(model.device).unsqueeze(0) for k, v in inputs.items()}
     output = model.generate_from_batch(
         inputs,

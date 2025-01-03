@@ -1,0 +1,13 @@
+ FHZ-IDENTIFIZIERUNGSNUMMER/VEHICLE IDENTIFICATION NUMBER
+BEISPIEL/EXAMPLE:
+WD89630031L479935
+Schriftgröße/letter height = 2 mm
+AUFBAU DER NUMMER/STRUCTURE OF NUMBER:
+WD89630031L479935
+6-stellige Zahlennummer/6-digit counter
+Fertigungstätte/Plant
+Lenkung/Steering system
+Baumuster
+Weltsteller/World manufacturer identifier
+WD8=Wanderer AG
+WDF=Daimler AG
