@@ -1,0 +1,19 @@
+user
+
+* brake disk rear @ 240mm
+* wheel speed sensor (WSS) rear
+* rear brake calliper
+* rear master cylinder @ 13mm brake fluid reservoir
+* front master cylinder @ 11mm
+* floating brake disc front @ 320mm
+* wheel speed sensor (WSS) front
+* front brake calliper
+* ABS modulator Bosch 6MP
+* rear brake calliper
+* rear master cylinder @ 13mm brake fluid reservoir
+* front master cylinder @ 11mm
+* floating brake disc front @ 300mm
+* wheel speed sensor (WSS) front
+* front brake calliper
+* ABS modulator Bosch 6MP
+

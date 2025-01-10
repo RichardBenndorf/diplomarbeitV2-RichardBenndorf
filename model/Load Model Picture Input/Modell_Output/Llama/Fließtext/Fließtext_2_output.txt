@@ -1,0 +1,55 @@
+**2.12.2.**
+
+des Sattelanhängers oder des Zentralachsanhängers:
+
+Of the semi-trailer or centre-axle trailer:
+
+entfällt
+
+not applicable
+
+**2.16.**
+
+Bei der Zulassung/im Betrieb vorgesehene zulässige Massen (fakultativ; werden diese Massen angegeben, müssen sie nach Anhang IV der Richtlinie 97/27/EG überprüft werden):
+
+Intended registration/in service maximum permissible masses (optional: where these values are given, they shall be verified in accordance with the requirements of Annex IV to Directive 97/27/EC):
+
+**2.16.1.**
+
+Bei der Zulassung/im Betrieb vorgesehene höchstzulässige Gesamtmasse (mehrere Angaben für verschiedene technische Konfigurationen möglich (5)):
+
+Intended registration/in service maximum permissible laden mass (several entries possible for each technical configuration (5)):
+
+siehe 2.8.
+
+see 2.8.
+
+**2.16.2.**
+
+Bei der Zulassung/im Betrieb vorgesehene höchstzulässige Achslast je Achse oder Achsgruppe und bei Sattelanhängern und Zentralachsanhängern vorgesehene Stützlast nach Angaben des Herstellers, wenn diese niedriger ist als die technisch zulässige Höchststützlast (mehrere Angaben für verschiedene technische Konfigurationen möglich (5)):
+
+Intended registration/in service maximum permissible mass on each axle and, in the case of a semi-trailer or centre-axle trailer, intended load on the coupling point stated by the manufacturer if lower than the technically permissible maximum mass on the coupling point (several entries possible for each technical configuration (5)):
+
+siehe 2.8.
+
+see 2.8.
+
+**2.16.3.**
+
+Bei der Zulassung/im Betrieb vorgesehene höchstzulässige Masse je Achsgruppe (mehrere Angaben für verschiedene technische Konfigurationen möglich (5)):
+
+Intended registration/in service maximum permissible mass on each axle group (several entries possible for each technical configuration (5)):
+
+siehe 2.8.
+
+see 2.8.
+
+**2.16.4.**
+
+Bei der Zulassung/im Betrieb vorgesehene höchstzulässige Anhängemasse (mehrere Angaben für verschiedene technische Konfigurationen möglich (5)):
+
+Intended registration/in service maximum permissible towable mass (several entries possible for each technical configuration (5)):
+
+siehe 2.11.
+
+see 2.11.

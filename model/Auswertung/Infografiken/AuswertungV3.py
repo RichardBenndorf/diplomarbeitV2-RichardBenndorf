@@ -159,7 +159,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
         if file_name.startswith("Goldstandard_") and file_name.endswith(".txt"):
             index = file_name.split("_")[1].split(".")[0]
             goldstandard_path = os.path.join(goldstandard_directory, file_name)
-            extracted_path = os.path.join(extracted_directory, f"Diagramme_und_infografische_Elemente_{index}.txt")
+            extracted_path = os.path.join(extracted_directory, f"Diagramme_und_infografische_Elemente_{index}_output.txt")
 
             if os.path.exists(extracted_path):
                 summary, details, metrics = evaluate_extraction(goldstandard_path, extracted_path)
@@ -210,7 +210,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 # Beispielaufruf
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/Infografiken",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/Molmo/Diagramme und infografische Elemente",
-    output_directory="Ergebnis_Molmo",
-    excel_path="Ergebnis_Molmo/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/Llama/Diagramme und infografische Elemente",
+    output_directory="Ergebnis_Llama",
+    excel_path="Ergebnis_Llama/results.xlsx"
 )
