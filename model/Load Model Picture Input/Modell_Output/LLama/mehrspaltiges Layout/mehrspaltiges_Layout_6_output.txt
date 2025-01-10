@@ -1,0 +1,40 @@
+user
+
+Please extract the text from the image. Make sure to maintain the multi-column layout and maintain the correct text order. Please do not add any additional words.assistant
+
+**General / Allgemeine Angaben**
+
+0.1
+Make (trade name of manufacturer) / Fabrikmarke (Firmenname des Herstellers): KIRCHHOFF Ecotec GmbH
+
+0.2
+Type completed vehicle / Typ vollständiges Fahrzeug: N321
+
+Type of base vehicle / Typ des Basisfahrzeugs: N321
+
+0.2.1
+Commercial description / Handelsname: refer to information document / siehe Beschreibungsbogen
+
+Means of identification of type, if marked on the vehicle / Merkmale zur Typidentifizierung, sofern am Fahrzeug vorhanden: refer to information document / siehe Beschreibungsbogen
+
+0.3
+Category of vehicle / Fahrzeugklasse: N3, N3G
+
+0.4
+Manufacturer's name and address / Name und Anschrift des Herstellers: KIRCHHOFF Ecotec GmbH
+
+Stefanstraße 2
+
+58638 Iserlohn
+
+0.5
+Address of assembly plant / Name(n) und Anschrift(en) der Fertigungsstätte: refer to information folder / gemäß Beschreibungsbogen
+
+FAUN Umwelttechnik GmbH & Co. KG
+
+Feldhorst 4
+
+27711 Osterholz-Scharmbeck
+
+0.8
+Name and address of representative / Name und Anschrift des Beauftragten:

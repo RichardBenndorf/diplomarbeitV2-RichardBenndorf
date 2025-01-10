@@ -1,0 +1,17 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Daimler AG, Stuttgart, Germany
+
+Vorstand/Board of Management: Dieter Zetsche, Vorstandsvorsitzender/Chairman
+
+Wolfgang Bernhard, Christian Herzog, Andreas Renschler, Hubertus Troska, Bodo Uebber, Thomas Weber
+
+Daimler AG
+
+Sitz und Registergericht/Domicile and Court of Registry: Stuttgart
+
+HRB-Nr./Commercial Register No.: 19360
+
+Vorstandsregister des Amtsgerichts Stuttgart/Registry of the Supervisory Board: Manfred Bischoff

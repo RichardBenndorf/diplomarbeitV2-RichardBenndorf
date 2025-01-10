@@ -1,0 +1,113 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+The text in the document is:
+
+VOLKSWAGEN AG
+
+Anbau Innenspiegel (Frontscheibe)
+
+Installation interior mirror (Windshield)
+
+Klebeplatte (Adhesive Plate)
+
+ZSB Rueckblickspiegel, innen
+
+(Rear view mirror Assy)
+
+Anbau Aussenspiegel (Tuer vorne, links und rechts)
+
+Installation exterior mirror (Front door, left and right)
+
+ZSB Rueckblickspiegel, aussen
+
+(Outer Rear View Mirror Assy)
+
+Befestigungsschraube M6
+
+Attachement screw M6
+
+Vereinfachte Darstellung
+
+Simplified representation
+
+Spiegelsichtfelder
+
+Mirror field of view
+
+Mounting
+
+Typ: 2H.
+
+Scale
+
+o.M.
+
+2H0 000 171
+
+A3
+
+Sheet
+
+003
+
+of
+
+003
+
+VOLKSWAGEN AG bezeichnet sich alle Rechte vor. Das gilt insbesondere fuer Erfindungsrechte, Know-how, Urheberrechte und Namensrechte, sowie fuer das Recht, diese gewerbliche Schutzrechte anzumelden. Jede Verfügungsabfügung incl. Kopier- und Vervielfältigungsrechte bei ure. Gemägung von Erstlieferung und Aenderung nach VW01 55.
+
+All rights remain with VOLKSWAGEN AG. This applies especially to rights of invention, know-how, copyrights and rights to name as well as for the right to patent these as commercial protective rights. All rights of disposition, particularly for copying or distributing, reserved.
+
+Approval of first supply and copies according to VW01 55.
+
+The English translation is believed to be accurate.
+
+In case of discrepancies the German version shall govern.
+
+CAO-System und Verwaltungs-System-Schluessel/
+
+CAO-System and Administration code
+
+Itedo Isodraw 6.2
+
+Krollig
+
+Abt./Dept. NE-G/SK 1748
+
+Tel.
+
+30422
+
+Benennung
+
+Title
+
+Spiegelsichtfelder
+
+Mirror field of view
+
+Befestigung
+
+Mounting
+
+Masstab/ Scale
+
+Typ: 2H.
+
+Scale
+
+o.M.
+
+2H0 000 171
+
+A3
+
+Sheet
+
+003
+
+of
+
+003

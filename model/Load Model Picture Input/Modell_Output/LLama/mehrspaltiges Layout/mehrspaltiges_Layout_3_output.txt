@@ -1,0 +1,129 @@
+user
+
+Please extract the text from the image. Make sure to maintain the multi-column layout and maintain the correct text order. Please do not add any additional words.assistant
+
+**BRAKING**
+
+Diagram of braking devices : see Annex A.7.1.
+
+Front and rear brakes : 2-discs
+
+Make(s) : Disc : Harley-Davidson
+
+Type(s) : Solid or floating
+
+Drawing of parts of the brake system
+
+Shoes and/or pads(2)
+
+Linings and/or pads(2)
+
+Brake levers and/or pedals(2)
+
+Hydraulic reservoirs
+
+Other device (where applicable): drawing and desorption
+
+Brief description of the electrical and/or electronic components used in the braking system : N/A
+
+**LIGHTING AND LIGHT-SIGNALLING DEVICES**
+
+List of all devices
+
+Diagram showing the location of the lighting and light-signalling devices : see Annex A.8.1.
+
+Hazard warning lamps (where fixed)
+
+Additional equipment relating to special vehicles : N/A
+
+Brief description of the electrical and/or electronic components used in the lighting system and in the light signalling system : N/A
+
+**EQUIPMENT**
+
+Coupling devices (where applicable) : N/A
+
+Type(2)
+
+Photographs and/or drawings of the construction of the coupling devices : N/A
+
+Arrangement and identification of controls, tell-tales and indicators : see Annex A.9.2.
+
+Photographs and/or drawings of the arrangement of the symbols, controls, tell-tales and indicators : see Annex A.9.2.
+
+Statutory inscriptions
+
+Photographs and/or drawings showing the location of the statutory inscriptions and the chassis number : see Annex A.9.3.
+
+Photographs and/or drawing showing the official part of the inscriptions : see Annex A.9.3.
+
+Photographs and/or drawings of the chassis number : see Annex A.9.3.
+
+Device(s) to protect against unauthorized use
+
+Type of device(s)
+
+Summary description of device(s) used : Type-1
+
+The device is a barrel key-driven, steel locking bolt type. The locking bolt is able to be extended into a pocket within the fork stem of the steering head assembly. The lock is a pin type.
+
+**7.**
+
+**7.1.**
+
+**7.2.**
+
+**7.2.1.**
+
+**7.2.2.**
+
+**7.3.**
+
+**7.3.1.**
+
+**7.3.2.**
+
+**7.3.3.**
+
+**7.3.4.**
+
+**7.4.**
+
+**7.5.**
+
+**6.**
+
+**6.1.**
+
+**6.2.**
+
+**6.3.**
+
+**6.4.**
+
+**6.5.**
+
+**9.**
+
+**9.1.**
+
+**9.1.1.**
+
+**9.1.2.**
+
+**9.2.**
+
+**9.2.1.**
+
+**9.3.**
+
+**9.3.1.**
+
+**9.3.2.**
+
+**9.3.3.**
+
+**9.4.**
+
+**9.4.1.**
+
+**9.4.2.**

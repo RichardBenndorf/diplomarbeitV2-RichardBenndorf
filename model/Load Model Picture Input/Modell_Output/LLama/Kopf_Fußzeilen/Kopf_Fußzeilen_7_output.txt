@@ -1,0 +1,35 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+**TÜV AUTOMOTIVE GMBH**
+
+Unternehmensgruppe
+
+TÜV Süddeutschland
+
+**Daimlerstraße 11**
+
+D-85748 Garching
+
+**Telefon 0 89 / 329 50 - 653**
+
+Telefax 0 89 / 329 50 - 650
+
+**Technical Report No.**
+
+350-0202-02-ITA
+
+**Manufacturer:**
+
+Aprilia S.p.A. - Noale (ITALY)
+
+**Type:**
+
+SP
+
+**AUTOMOTIVE**
+
+92/61/EEC
+
+**Page 8**

@@ -1,0 +1,29 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+**AIR CLEANER ASSEMBLY**
+
+**Air Cleaner Top**
+
+*   Wing Nut
+*   Air Filter Cover
+
+**Air Filter**
+
+**Gasket, Air Box Top to Bottom**
+
+*   Velocity Stack (rear)
+    *   Version: C#### 29438-01
+    *   T#### 29484-01
+*   Air Cleaner Bottom
+*   Retainer Clip (Qty-7)
+
+**Plug**
+
+**Bottom View of Air Cleaner Bottom**
+
+**Velocity Stack (front)**
+
+*   Version: C#### 29438-01
+*   T#### 29484-01

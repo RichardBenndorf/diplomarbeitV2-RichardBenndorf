@@ -1,0 +1,23 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+**LW Versorgungseinheit 12/24 V**
+
+**LW Supply Unit 12/24 V**
+
+**Durchfluss bei 2500 U/min gegen 10bar**
+
+**Flow Rate At 2500rpm Toward 10bar**
+
+**Kuehlwasser-Ausgang Coolant Outlet**
+
+**Kuehlwasser-Eingang Coolant Inlet**
+
+**AdBlue Ausgang AdBlue Outlet**
+
+**AdBlue Eingang AdBlue Inlet**
+
+**Dosierteinheit Dosing Unit**
+
+**ACM-Box**

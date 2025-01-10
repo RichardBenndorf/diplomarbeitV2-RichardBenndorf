@@ -1,0 +1,41 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Sure, here is the text of the document:
+
+**Statement of conformity / Schlussbescheinigung:**
+
+The information folder as mentioned under no. 2.2 and the type described therein are in compliance with the test standard mentioned above. / Die unter Nr. 2.2 angegebene Beschreibungsmappe und derin beschriebene Typ entsprechen der oben aufgefuhrten Prifgrundlage.
+
+With regard to the required level of performance to be achieved, the test specimen were representative for the type to be approved. / Die verwendeten Prifmuster waren im Hinblick auf das erforderliche Leistungsniveau fur den zu genehmigenden Typ reprasentativ.
+
+The tests were carried out in accordance to the relevant requirements of the Die Durchfihung der Prifungen entsprach den relevanten Anforderungen der
+
+EN ISO/IEC 17025:2005
+
+EN ISO/IEC 17020:2012
+
+Kraftfahrt-Bundesamt (KBA), Federal Republic of Germany
+
+National Standards Authority of Ireland (NSAI)
+
+Rijkedienst voor het Wegverkeer (RDW), The Netherlands
+
+No. KBA - P 00084 – 10
+
+No. 101
+
+No. 99050064 00
+
+Responsible expert
+
+Stefan van Husen
+
+Nov 30, 2015
+
+Conformity check
+
+Michael Juschkat
+
+Signature

@@ -1,0 +1,27 @@
+user
+
+Please extract the text from the image. Make sure to maintain the table layout and maintain the correct text order. Please do not add any additional words.assistant
+
+| component/system | monitoring strategy | malfunction criteria | secondary parameters | fault code |
+| --- | --- | --- | --- | --- |
+| Exhaust air injection valve | circuit contiunity, signal range check | lower threshhold, short to ground |  | P0412 |
+|  |  | upper threshhold |  | P044F |
+| Purge control valve | circuit contiunity, signal range check | lower threshhold, short to ground |  | P0443 |
+|  |  | upper threshhold |  | P0459 |
+| Side stand position switch (sensor) | signal check | receiving of malfunction signal |  | P1590 |
+|  |  |  |  |  |
+| signal check | signal frequency is abnormal |  |  |  |
+| CAN communication | communication check | A period of the circuit malfunction is ≥ XCACAN |  | P1690 |
+|  |  | • CAN line disconnection or short-circuit ≥ 4sec |  |  |
+|  |  | • Communication with a dashboard unreceivable or an unusual value ≥ 10sec |  |  |
+|  |  | • Communication with MCU is unreceivable ≥ 3sec |  |  |
+|  |  | • VSP information is unreceivable ≥ 1sec |  |  |
+| Immobilizer | system check | immobilizer check after ignition on was not successfull |  | P1650 |
+| Oil temperature sensor | communication check | oil temperator reading via CAN is malfunction |  | P0196 |
+| EEPROM | EEPROM check | Reading value and writing value in EEPROM data are different. |  | P0603 |
+| CC Cancel signal | plausibility check | comparison APS signal 1 vs. APS signal 2 |  | P056C |
+| Clutch pressure sensor | circuit contiunity, signal range check | lower threshhold, short to ground |  | P1662 |
+|  |  | upper threshhold |  |  |
+| Shift shaft sensor | circuit contiunity, signal range check | lower threshhold, short to ground |  | P1702 |
+|  |  | upper threshhold |  | P1703 |
+| Crank sensor | circuit contiunity | lower threshhold |  | P0335 |

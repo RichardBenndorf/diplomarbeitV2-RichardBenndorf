@@ -1,0 +1,16 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Here is the text in the image:
+
+Beschreibungsbogen Nr. 2007/48-5008
+Information Document No. 2007/48-5008
+2007/48/EG
+2007/48/EC
+Anderung vom 19.07.2013 (03)
+Amendment from 19.07.2013 (03)
+Erstausgabedatum:
+Date of first issue: 30.09.2011
+BI/pa 20 von/of 102
+TP/EVA

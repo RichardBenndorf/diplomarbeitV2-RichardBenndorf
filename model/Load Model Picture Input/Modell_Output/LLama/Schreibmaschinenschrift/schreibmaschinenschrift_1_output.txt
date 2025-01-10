@@ -1,0 +1,43 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+The text in the image is:
+
+**1. Auf Grund des anliegenden Gutachtens der Technischen Prüf-**
+**stelle für den Kraftfahrzeugversicherungsh (KCV Hannheim)**
+**in Lahnheim von 4. November 1949 wird für die reichenweise**
+**gefertigten Zugmaschinen (Ackerbulldog D 35 FS Ackerbulldog D 8506**
+**der Firma Heinrich Lenz AG in Lahnheim weiternflich die**
+**allgemeine Betriebsbewährnis gemäß § 20 Abs. 1 der**
+**Verordnung über die Zulassung von Personen und Fahrzeugen**
+**zu Straßenverkehr vom 13. November 1937 (StVZO) erneilt.**
+
+**Die Zugmaschinen Typ 35 FS Ackerbulldog D 8506 werden**
+**in folgenden Ausführungen hergestellt:**
+
+**Aussfuhrung A mit Luftbereifung,**
+**Aussfuhrung B mit Eisenbereifung.**
+
+**2. Auf Grund des § 70 Abs. 1 StVZO werden die Zugmaschinen**
+**Typ 35 FS Ackerbulldog D 8506 der Firma Heinrich Lenz AG,**
+**Lahnheim, von der Erfillung der Vorschrift des § 46 Abs. 2 StVZO**
+**uber die Bedienbarkeit der Absperrvorrichtung in der**
+**Kraftstoffleitung vonFahrzeugen aus sowie von der**
+**Erfillung der Vorschrift des § 49 Abs. 1 und 2 StVZO uber**
+**die Hochstzulassige Leistung des Fahrzeuges freigesellt.**
+
+**3. Der Hersteller hat für jedes den Typ entsprechende**
+**Fahrzeug einen Kraftfahrzeugbrief auszufullen sowie die**
+**Richtigkeit der Angaben uber die Beschaftenheit des Fahrzeuges**
+**und dessen Überleistung mit dem gesetzlichen Typ zu**
+**bescheinigen. Die Vordrucke fur die**
+**Briefe sind von dem Strassen-Zentralamt der Verwaltung**
+**fur Verkehr des vereinigten Wirtschaftsgebietes**
+**(Saarländisches für Nachrichten über Kraftfahrzeuge)**
+**in Düssefeld, Herforder Strasse 3 - 10, zu beschiehen.**
+
+**Die Ausfertigung von Kraftfahrzeugbriefen für die**
+**Zugmaschinen Typ 35 FS Ackerbulldog D 8506 der Firma**
+**Heinrich Lenz AG in Lahnheim ist unter Nr. 19**
+**"Bemerkungen" einzutragen:**

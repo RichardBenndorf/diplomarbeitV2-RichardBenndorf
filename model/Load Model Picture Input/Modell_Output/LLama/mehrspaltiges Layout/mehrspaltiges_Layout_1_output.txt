@@ -1,0 +1,35 @@
+user
+
+Please extract the text from the image. Make sure to maintain the multi-column layout and maintain the correct text order. Please do not add any additional words.assistant
+
+**Vehicle:**
+
+* Manufacturer: Aprilia S.p.A.
+* Type: SP
+* Engine family: M
+* Vehicle Identification Number: ZD4SP0002S000001
+* Test weight together with rider: 237 kg
+
+**Engine:**
+
+* Manufacturer: Piaggio & C. S.p.A.
+* Type: Piaggio M245M
+* Spark ignition engine, four stroke
+* Power: 7.0 kW at 7250 min^-1
+* Maximum vehicle speed: 85 km/h
+
+**Gearbox:**
+
+* Sort: automatic
+* Number of gears: not applicable
+* Final drive ratio: 1 : 10,379 (15/46 x 13/44)
+
+**Equipment:**
+
+* Exhaust System: Reflection-Absorption; exhaust pipe marking Aprilia B-1150 e11; silencer Aprilia SM 26 e11; see enclosures information document
+* Intake System: Foam substance dry air filter box, marking AM 11 e3; see enclosures information document
+* Tire dimension: 110/790-13 56P rear; 130/70-13 63P front
+
+**Measurements:**
+
+* **Measurements:**

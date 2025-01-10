@@ -1,0 +1,34 @@
+user
+
+Please extract the text from the image. Make sure to maintain the table layout and maintain the correct text order. Please do not add any additional words.assistant
+
+**Table Data**
+
+| Nr. | No. | Benennung | Baunummer | Datum |
+| --- | --- | --- | --- | --- |
+| - | - | Liste der Genehmigungen | - | 19.07.2013 |
+| LE10-75288 | - | List of approval | - | 01.07.2013 |
+| LE11-75154 | - | Uebernahme SFTP rank pursuant ADR | - | 15.04.2013 |
+| LE11-75175 | - | Endurance brake SFTP pursuant ADR | - | 11.04.2011 |
+| LE11-75260 | - | Front silencer SV 6002 (963-964) | - | 19.06.2013 |
+| LE11-75261 | - | Manufacturers Statutory Plate (963-964) | - | 07.02.2012 |
+| LE11-75272 [K7A] | - | VIN description (963-964) | - | 08.05.2012 |
+| LE11-75273 [K7I] | - | AO Auspuff Actros 4 K7A OM936 | - | 08.05.2012 |
+| LE11-75274 [K7A] | - | AO exhaust Actros 4 K7A OM936 | - | 08.05.2012 |
+| LE11-75275 [K7B] | - | AO exhaust Actros 4 K7A OM470, OM471, OM473 | - | 08.05.2012 |
+| LE11-75276 [K7C] | - | AO exhaust Actros 4 K7B OM470, OM471, OM473 | - | 25.03.2013 |
+| LE11-75277 [K7D] | - | AO exhaust Actros 4 K7D OM470, OM471, OM473 | - | 08.05.2012 |
+| LE11-75278 [K7Q] | - | AO exhaust Actros 4 K7Q OM470, OM471, OM473 | - | 08.11.2011 |
+| LE12-75010 [K7E] | - | AO exhaust Actros 4 K7E OM470, OM471, OM473 | - | 20.04.2012 |
+| LE12-75014 [K7N] | - | AO exhaust Actros 4 K7N OM470, OM471, OM473 | - | 20.04.2012 |
+| LE12-75015 [K7E] | - | AO exhaust Actros 4 K7E OM686 | - | 24.04.2012 |
+| LE12-75029 | - | Drawing Model series 963-964 | - | 23.01.2012 |
+| T0557 | - | Dosierteinheit AdBlue DE 2001 | - | 08.03.2012 |
+| T0558 | - | Versorgungseinheit AdBlue | - | 08.03.2012 |
+| T0587 | - | Supply Unit AdBlue | - | 03.03.2011 |
+| T0568 | - | HC Dosiereinheit DE 2002 | - | 18.05.2012 |
+| T0568 | - | HC Metering Unit | - | 18.05.2012 |
+| T0568 | - | NOx-sensor | - | 18.05.2012 |
+| T0579 | - | Funktionsschema Abgaspfeif OM 471 EURO 5 | - | 03.03.2011 |
+
+**End of Table**

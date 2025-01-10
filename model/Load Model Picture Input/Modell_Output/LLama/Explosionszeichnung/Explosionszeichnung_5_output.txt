@@ -1,0 +1,97 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Sure, here is the text from the document:
+
+Anbau Innenspiegel (Frontscheibe)
+
+Installation interior mirror (Windshield)
+
+Klebeplatte gehoert zum ZSB Scheibe
+
+Adhesive plate is part of ASSY window glass
+
+Spiegel aufgeschoben
+
+Mirror slipped on
+
+Abdeckung Spiegelfuss
+
+Cover, mirror support
+
+Regensor
+
+Rain sensor
+
+ZSB Rueckblickspiegel, innen
+
+ASSY rear view mirror, interior
+
+Vereinfachte Darstellung
+
+Simplified representation
+
+Typ: 2H
+
+2H0.000.171
+
+* VOLKSWAGEN AG behaelt sich alle Rechte vor. Das gilt insbesondere fuer Erfindungsgrechte, Know-how, Urheberrechte und Namensrechte sowie fuer das Recht, diese als gewerbliche Schutzrechte anzumelden. Jede Verwendungsbefugnis incl. Kopien- und Weitergaberecht ist bei uns. Genennung von Eratlieferung und Anderung nach VW 0195.
+
+* All rights remain with VOLKSWAGEN AG. This applies especially to rights of invention, know-how, copyrights and rights on names as well as to the right to patent these as commercial protective rights. All rights of disposition, particularly for copying or distributing, reserved.
+
+* Approval of first supply and changes acc. to VW 0195. The English translation is believed to be accurate. In case of discrepancies the German version shall govern.
+
+* Typ-Pruef-Dok. und CAD-System und Verwaltungssystem-Schlussel
+
+* Typ-Pruef-Nr.
+
+* Type-appr.-doc. and type approval number
+
+* Name
+
+* Krollig
+
+* Konstruktions-Verantwortung/Design Resp.
+
+* Abt. / Dept.
+
+* NE-GS/K
+
+* Tel.
+
+* 30422
+
+* Gez. / Drawn
+
+* Krollig
+
+* Benennung
+
+* Spiegelsichtfelder
+
+* Befestigung
+
+* Title
+
+* Mirror field of view
+
+* Mounting
+
+* Waszstab Scale
+
+* Teil-Nr. / Part no.
+
+* Format
+
+* Sheet
+
+* Blatt
+
+* 004
+
+* von
+
+* GF
+
+* 004

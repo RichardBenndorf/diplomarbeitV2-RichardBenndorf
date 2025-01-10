@@ -1,0 +1,2 @@
+Modell Ladezeit, 4.58 Sekunden
+Dateiname, Durchlaufzeit (Sekunden)

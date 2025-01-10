@@ -1,0 +1,376 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+1. Traeger, Stossfaenger
+2. Schaumteil
+3. Halteteil
+4. Schliessteil Stosse.
+5. Schaumteil
+6. Frontspoiler
+7. Lueftungsfilter Mitte
+8. Abdeckkappe, Abschleppose
+9. Blende mit/ohne NSW
+10. Ww. ZSB Nebelscheinwerfer
+11. Abdeckung, vorn, lackiert
+12. Fuehrung seitl.
+13. Ww. Radabdeckung
+14. Blende KSG
+15. ZSB Firmenzeichen
+16. Chromleiste vertikal
+17. Chromleiste horizontal
+18. ZSB Scheinwerfer
+19. Traegerteil
+20. Fuehrungsprofil
+21. Abdeckung, vorn, genarbt
+22. Ww. Chromleiste horizontal
+23. Ww. KSG
+24
+25
+26
+27
+28
+29
+30. Rahmen
+31. Traegerteil
+32. Klappe
+
+Werkstoff
+
+Material
+
+Stahl/ steel
+
+PP Schaum/foam 30g/l
+
+PP-GF30
+
+PP-GF30
+
+EPP Schaum/foam 60g/l
+
+PP+EPDM-TD12 WD01/WD14
+
+PP+EPDM-TD30
+
+PP+EPDM-TD12
+
+PP+EPDM-TD30
+
+PP+EPDM-(PE)-TD10
+
+PP+EPDM+PE-TD12
+
+PP
+
+PP+EPDM-TD30
+
+ABS+PC
+
+ABS, PMMA
+
+ABS
+
+ABS
+
+ASA
+
+PP-TD20
+
+PP+EPDM
+
+3,0
+
+2,5
+
+3,0
+
+3,0
+
+Frame
+
+ABS-PWMA
+
+Carrier
+
+ABS
+
+Flap
+
+ABS-PWMA
+
+**Vereinfachte Darstellung**
+
+Simplified representation
+
+**Frontend**
+
+Front end
+
+**Additional title**
+
+**Wassstab Scale**
+
+**Teil-Nr. / Part-No.**
+
+**Typ:**
+
+**O.W.**
+
+**2H6.000.295**
+
+**Format**
+
+**A2**
+
+**Blaettch Size**
+
+**Sheet**
+
+**of**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec.**
+
+**No.**
+
+**ChangePaper**
+
+**Gesendet**
+
+**Weight**
+
+**Date**
+
+**25.01.17**
+
+**Datum**
+
+**Nr. Sec

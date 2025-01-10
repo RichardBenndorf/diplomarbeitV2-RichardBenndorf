@@ -1,0 +1,29 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Here is the text in the image:
+
+**BEISPIEL / EXAMPLE:**
+
+WDB9630031L479935
+
+Schnifthöhe / letter hight: ≥ 7mm
+
+**AUFBAU DER NUMMER / STRUCTURE OF NUMBER:**
+
+WDB 963003 1 L 479935
+
+6-stellige Zahlnummer/ 6-digit counter
+
+Fertigungsstätte/ Plant
+
+Lenkung/ Steering system
+
+Baumuster
+
+Welthertsteller/ World manufacturer identifier
+
+WDB= Daimler AG
+
+WDF= Daimler AG

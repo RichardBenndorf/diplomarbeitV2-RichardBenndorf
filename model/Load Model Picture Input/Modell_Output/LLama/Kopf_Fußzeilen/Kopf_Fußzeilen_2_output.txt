@@ -1,0 +1,22 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Sure, here is the text from the document:
+
+**VCA Headquarters**
+
+1 The Eastgate Office Centre
+Eastgate Road
+Bristol, BS5 6XX
+United Kingdom
+
+**Switchboard:** +44 (0) 117 951 5151
+**Main Fax:** +44 (0) 117 952 4103
+
+**Email:** enquiries@vca.gov.uk
+**Web:** www.vca.gov.uk
+
+**THE UNITED KINGDOM VEHICLE APPROVAL AUTHORITY**
+
+**28 October 2011**

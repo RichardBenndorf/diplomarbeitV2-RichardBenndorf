@@ -1,0 +1,45 @@
+user
+
+Please extract the text from the image. Make sure to maintain the table layout and maintain the correct text order. Please do not add any additional words.assistant
+
+**3.2.1. PF types;**
+
+|  | N/A | << |
+| --- | --- | --- |
+| 3.2.2. number and elements of PF; | N/A | << |
+| 3.2.3. size of PF (volume of filter element +/- 10 %); | N/A | << |
+| 3.2.4. operation principle of PF (partial / wall-flow / other); | N/A | << |
+| 3.2.5. active surface of PF; | N/A | << |
+
+**3.3. propulsion (not) equipped with periodically regenerating system;**
+
+|  | N/A | << |
+| --- | --- | --- |
+| 3.3.1. periodically regenerating system type; | N/A | << |
+| 3.3.2. operation principle of periodically regenerating system; | N/A | << |
+| 3.3.3. operation principle of periodically regenerating system; | N/A | << |
+| 3.3.4. propulsion (not) equipped with selective catalytic converter reduction (SCR) system; | N/A | << |
+| 3.3.5. propulsion (not) equipped with lean NO x trap /absorber; | N/A | << |
+
+**3.4. SCR system type;**
+
+|  | N/A | << |
+| --- | --- | --- |
+| 3.4.1. SCR system type; | N/A | << |
+| 3.4.2. operation principle of periodically regenerating system; | N/A | << |
+| 3.4.3. operation principle of periodically regenerating system; | N/A | << |
+| 3.4.4. propulsion (not) equipped with selective catalytic converter reduction (SCR) system; | N/A | << |
+
+**3.5. lean NO x trap / absorber type;**
+
+|  | N/A | << |
+| --- | --- | --- |
+| 3.5.1. lean NO x trap / absorber type; | N/A | << |
+| 3.5.2. operation principle of lean NO x trap / absorber; | N/A | << |
+
+**3.6. propulsion (not) equipped with a cold-start device or starting aid device(s);**
+
+|  | N/A | << |
+| --- | --- | --- |
+| 3.6.1. cold-start or starting aid device type; | Automatic | << |
+| 3.6.2. operation principle of cold start or starting aid device(s); | Fuel enrichment | << |

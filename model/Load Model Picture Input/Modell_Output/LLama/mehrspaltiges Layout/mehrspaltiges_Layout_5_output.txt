@@ -1,0 +1,26 @@
+user
+
+Please extract the text from the image. Make sure to maintain the multi-column layout and maintain the correct text order. Please do not add any additional words.assistant
+
+The image presents a document with a white background and black text, featuring a list of sections with corresponding numbers and German titles. The content is organized into two columns, with the left column containing section numbers and titles, while the right column displays the text.
+
+**Section 2.3.3:**
+Übereinstimmungsprüfung nach Anhang V, Nr. 1c, 2007/46/EG / Test of conformity according to annex V, No. 1c, 2007/46/EG
+Die Fabrizierungsmale und -daten des oben angeführten Beschreibungsstimmten mit den Angaben der Beschreibungsunterlagen der herangezogenen Systemgenehmigungsüberin. / The vehicle specifications and data of the information document mentioned above correspond to those included in the information package of the relevant system approvals.
+keine / n.a.
+
+**Section 2.3.4:**
+Übereinstimmungs- und Anbauüberprüfung nach Anhang V, Nr. 1d, 2007/46/EG / Test of conformity and installation according to annex V, No. 1d, 2007/46/EG
+Das ausgewählte Prüffahrzeuge gestatt eine angemessene Beurteilung der verschiedenen genannten Kombinationen und Kriterien, die in Anhang V Nr. 2 aufgeführt sind. / The selected vehicle permits a proper inspection of the various combinations to be approved according the specifications listed in annex V, no. 2.
+Liste der Genhmigungen siehe Anlage zum Beschreibungsblatt. / List of the approvals see appendix of the information document.
+
+**Section 2.3.5:**
+Ein- und Anbauüberprüfung nach Anhang V, Nr. 1e, 2007/46/EG / Verification and installation according to annex V, No. 1e, 2007/46/EG
+entfällt / n.a.
+
+**Section 2.3.6:**
+Übereinstimmungs- und Anbauüberprüfung nach Anhang V, Nr. 1f, 2007/46/EG / Test of conformity and installation according to annex V, No. 1f, 2007/46/EG
+78/317/EWG / 78/317/EEC: entsprechende Einrichtungen vorhanden / fitted with an adequate device
+78/318/EWG / 78/318/EEC: entsprechende Einrichtungen vorhanden / fitted with an adequate device
+
+This document appears to be a technical specification or regulatory document, likely related to vehicle safety or conformity testing. The text is written in German, and the content suggests that it outlines the requirements for testing and verifying the conformity of vehicles with specific regulations or standards.

@@ -1,0 +1,39 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+The document contains the following text:
+
+**Technische Daten Motorrad BMW R 35**
+
+=============================================
+
+Nachstehende Daten kommen nicht ausstzlich zu uem bisnerigen Typenschein fur das neue Typentacaton in Frage:
+
+Bohrung 72 mm
+
+Hub 84 mm
+
+Acku 6 Voit
+
+Lange 2000 mm
+
+Breite 800 mm
+
+Höhe - 950 mm
+
+Radentrieb
+
+Kraftübertragung : Karan
+
+Reifen vorn 5,50 - 19 Luftdruck 1,4 atu
+
+Reifen hinten 5,50 - 19 Luftdruck 1,9 atu (mit Jozius)
+
+Bremsaniage mechanisch DLW
+
+Ligengewicht (mit U1 und Kraftstoff) 162 kg
+
+Zulassige Belastung 2 Personen = 188 kg
+
+Zulassiges Gewantgevichat 350 kg

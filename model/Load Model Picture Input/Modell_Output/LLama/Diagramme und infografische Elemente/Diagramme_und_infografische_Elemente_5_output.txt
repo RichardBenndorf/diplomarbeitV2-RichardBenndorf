@@ -1,0 +1,45 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+**Note**
+
+STEERING ANGLE
+
+R : 46°
+
+L : 46°
+
+ANGLE OF LOCKED STEERING
+
+R : 43°
+
+L : 43°
+
+**LOCK PIN**
+
+MATERIAL: CARBON STEEL
+
+LOCK BODY
+
+MATERIAL: 20 ALLOY
+
+**STOPPER HANDLE LOCK**
+
+MATERIAL: STEEL
+
+**M6 BOLT**
+
+(2 PIECES)
+
+**STEERING HANDLE**
+
+LOCK TYPE
+
+SMPO
+
+STEERING HEAD PIPE
+
+**LOCK STAY**
+
+MATERIAL: STEEL

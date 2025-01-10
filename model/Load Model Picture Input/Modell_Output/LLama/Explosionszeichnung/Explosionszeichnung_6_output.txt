@@ -1,0 +1,64 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Sure, here is the text from the document:
+
+**26.01.17**
+**MAF Neu fuer 17V196P**
+
+**Veikswagen AG behält sich alle Rechte vor. Dan gilt insbesondere fuer Erfindungsperschte, Know-How, Urheberrechte und Namensrechte sonstig fuer das Recht, diese alsgewerbliche Schutzrechte anzuweiden. Jede Verfuengungsbefugnis incl. Kopier- und Weitergaberecht liegt bei uns. Genehmigung von Erteilferung und Aenderung nach WN 01159.**
+
+**Veikswagen AG reserves all rights, including without limitation rights of invention, know-how, copyrights, rights to names, and the right to apply for industrial property rights. All rights of use and exploitation including the right to copy and disseminate or distribute reside with us. Approval of first delivery and changes in accordance with WN 01159. The English translation is believed to be accurate. In case of discrepancies the German version is alone authoritative and controlling.**
+
+**Typ-Fruef-Dok. und CAD-System und Vorwaltungssystem-Schluessel CAD system and administration code**
+
+**Catia V5 R24**
+
+**Name Krollig**
+
+**Konstruktions-Abt./Dept. NE-GP/D**
+
+**Verantwuerung/Design Resp. 30422**
+
+**Sex./Drawn Krollig**
+
+**Benaehung Frontklappe**
+
+**Zusatzbezeichnung Title**
+
+**Additional title**
+
+**Typ: Scale 2H**
+
+**O.W.**
+
+**2H6.000.056**
+
+**Format D.Size A2**
+
+**Blaett 1 Sheet 4**
+
+**Von DT**
+
+**Vereinfachte Darstellung Simplified representation**
+
+**Pos. Item Teilebenennung/Part designation Werkstoff / Material Mat.-Dicke/ Mat.-Thickness**
+
+**1 Aussenteil /Outer panel Stahl/steel 0,7**
+
+**2 Innenteil /Inner part Stahl/steel 0,65**
+
+**3 Scharnierversstaerkung /Hinge reinforcement Stahl/steel 1,2**
+
+**4 Scharnierversstaerkung /Hinge reinforcement Stahl/steel 1,2**
+
+**5 Verstaerkung Schliessbuegel /reinf. striker Stahl/steel 1,4**
+
+**6 Scharnier links /Hinge left Stahl/steel 2,5**
+
+**7 Scharnier rechts /Hinge right Stahl/steel 2,5**
+
+**8 Fanghaken/Buegel Stahl/steel**
+
+**Vereinfachte Darstellung Simplified representation**

@@ -1,0 +1,85 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+The document contains the following text:
+
+18.) Kraftübertragung:
+
+a) Art:
+
+Motor, Zweischeibenkupplung,
+
+Zwischenräder,
+
+Hinterachse mit Kegelradausgleichgetriebe,
+
+Hinterträder
+
+b) Übersetzung:
+
+0,966
+
+Getriebe:
+
+1. Gang
+
+2. "
+
+3. "
+
+R.1 "
+
+4. "
+
+5. "
+
+6. "
+
+R.2 "
+
+Hinterachse:
+
+4,21
+
+19.) Art der Scholldämpfung:
+
+Kegelige Haube mit gelochtem
+
+Prallkörper und Siebeinsetz,
+
+Auslaß nach oben
+
+20.) Passungsverhältnis des
+
+Kraftstoffbehälters
+
+90 ltr (Rohöl) + 7 Ltr (Benzin)
+
+22.) Bemerkungen:
+
+Zu Ziffer 4)
+
+Das Eigengewicht des Fahrzeugs
+
+sich durch Abau
+
+eines Fahrersitzdaches um
+
+60 kg
+
+einer Windschutzscheibe um
+
+30 kg
+
+von Kotflügeln hinten um
+
+50 kg
+
+von Kotflügeln vorn und hinten um
+
+95 kg
+
+einer Windschelle um
+
+50 kg

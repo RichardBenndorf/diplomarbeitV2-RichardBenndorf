@@ -1,0 +1,29 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Sure, here is the text from the image:
+
+Schlussbescheinigung / Certification
+
+Der unter Nr. 0.5 angegebene Beschreibungsbogen und der darin beschriebene Typ -entspricht- der o. a. Prüfsezifikation.
+
+The information document as mentioned under No. 0.5 and the type described therein are -in compliance- with the test specification mentioned above.
+
+Die verwendeten Prüfmuster waren im Hinblick auf das erforderliche Leistungsniveau für den zu genehmigenden Typ repräsentativ (siehe 1.1).
+
+With regard to the required level of performance to be achieved, the tested items were representative for the type to be approved (see 1.1).
+
+Dieser Prüfbereicht umfasst Blatt 1 bis 9 sowie die Anlagen.
+
+Dieser Prüfbereicht darf nur vom Auftraggeber und nur vollem Wortlaut vervielfältigt und weitergegeben werden. Eine auszugsweise Vervielfältigung und Veröffentlichung des Prüfbereichtes ist nur nach schriftlicher Genehmigung des Prüfaboratoriums zulässig.
+
+This Test Report compromises pages 1 to 9 and attachments.
+
+The Test Report shall be reproduced and published in full only and by the client only. It shall be reproduced partially with the written permission of the Test Laboratory only.
+
+PRÜFLABORATORIUM / TEST LABORATORY
+
+benannt von der Benennungsstelle des Kraftfahrt-Bundesamtes, Bundesrepublik Deutschland
+
+designated by designation department of Kraftfahrt-Bundesamt, Federal Republic of Germany

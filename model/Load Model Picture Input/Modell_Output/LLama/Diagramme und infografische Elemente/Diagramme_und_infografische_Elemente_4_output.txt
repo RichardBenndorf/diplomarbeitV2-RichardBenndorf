@@ -1,0 +1,17 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+**LOCATION OF LIGHTING DEVICES**
+
+Version(s): #####
+
+**Motorcycle**
+
+*   Side Reflex Reflectors
+*   Stop Light / Position Light
+*   Registration Plate Light
+*   Rear Reflex Reflector
+*   Direction Indicators Rear
+*   Passing and Driving Light / Front Position Light
+*   Direction Indicators Front

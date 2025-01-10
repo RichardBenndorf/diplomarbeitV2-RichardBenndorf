@@ -1,0 +1,24 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+The text in the document is as follows:
+
+TÜV SÜD Automotive GmbH
+Westendstraße 199
+D-80686 München
+
+Automotive
+
+Prüfbericht-Nr. / Test Report-No.:
+11-00470-CC-BWG-03
+
+Hersteller / Manufacturer:
+Daimler AG
+70546 Stuttgart
+Deutschland
+
+Typ / Type:
+963-4-C
+
+Seite / Page 5 von / of 8

@@ -1,0 +1,61 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Here is the text in the image:
+
+3.2.12.2.7
+On-Board-Diagnosesystem (OBD-System) (ja/nein):
+On-board-diagnostic (OBD) system (yes/no):
+
+ja
+yes
+X
+
+3.2.12.2.8
+Andere Einrichtung:
+Other system:
+
+entfällt
+not applicable
+
+3.2.12.2.9
+Drehmomentbegrenzer: ja/nein
+Torque limiter: yes/no
+
+entfällt
+not applicable
+
+3.2.12.2.10
+Periodisch arbeitendes Regenerationssystem: (nachstehende Angaben sind für jede selbstständige Einheit einzeln anzugeben)
+Periodically regenerating system: (provide the information below for each separate unit)
+
+Periodisch regeneratendes System: (provide the information below for each separate unit)
+
+3.2.12.2.10.1
+Verfahren oder Einrichtung zur Regenerierung, Beschreibung und/oder Zeichnung:
+Method or system of regeneration, description and/or drawing:
+
+diskontinuierliche Regeneration
+non-continuous regeneration
+
+3.2.12.2.11.1
+Art und Konzentration des erforderlichen Reagens:
+Type and concentration of reagent needed:
+
+UREA, Konzentration gemäß ISO 22241-1
+(Aktivierung Wamsystem außerhalb Konzentrationsbereich von 27,8 - 46 Gew.% Hamstoff)
+
+UREA, concentration according to ISO 22241-1
+(activation inducement system outside concentration range from 27.8 - 46 % w/w urea)
+
+X
+
+3.2.13.1
+Anbringungsstelle des Symbols für den Absorptionskoeffizienten (nur bei Selbstzündungsmotoren):
+Location of the absorption coefficient symbol (compression ignition engines only):
+
+beim Fahrzeugchild weiß, auf dem Fahrzeugkind
+near vehicle plate opt. on the vehicle plate
+
+X

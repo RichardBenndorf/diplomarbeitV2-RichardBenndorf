@@ -1,0 +1,115 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Here is the text in the image:
+
+**Seitenansicht XZ Lateral view XZ**
+
+**Beifahrerseite front passenger side**
+
+**Fahrerseite driver**
+
+**Roadway plane**
+
+**Draufsicht Fahrbahn Top view Roadway**
+
+**4000**
+
+**a2**
+
+**a1**
+
+**Beifahrerseite front passenger side**
+
+**Unters. R=1400 (1300±100)**
+
+**Testing R=1400 (1300±100)**
+
+**Verdeckung Covering 1,4%**
+
+**Ermittelt mit Catia V5, R19 und CAVA 1.12.6.0 Determined with Catia V5, R19 and CAVA 1.12.6.0**
+
+**Vereinfachte Darstellung Simplified representation**
+
+**Fahrerseit Driver**
+
+**Unters. R=1400 (1300±100)**
+
+**Testing R=1400 (1300±100)**
+
+**Spiegelsichtfelder Darstellung Mirror field of view Drawing**
+
+**Masstab/ Scale**
+
+**Tel-Nr./ Part-No.**
+
+**Format A3**
+
+**Benennung Title**
+
+**Typ. 2H.**
+
+**o.M.**
+
+**Datum Date**
+
+**Gesamt- Change Appr.**
+
+**Geändert/ Changed**
+
+**Beechreibung der Aenderung und Aenderungsteminischluesse/ Revision Record and change date code**
+
+**Str. EA 333/00**
+
+**Str. Zeichn. ber.: (EA 333/00)**
+
+**VOLKSWAGEN AG behaelt sich alle Rechte vor. Das gilt insbesondere fuer Erfindungsrechte, Know-how, Urheberrechte und Namensrechte, sowie fuer das Recht, diese als gewerbliche und Schutzrechte zu nutzen. Jedoch Vorliegende Zeichnungen und Kopien -und Wiedergabeercht bei uns. Genehmigung von Erstlieferung und Aenderung nach VW 011 55.**
+
+**All rights remain with VOLKSWAGEN AG. This applies especially to rights of invention, know-how, copyrights and rights to name as well as for the right to patent these as commercial protective rights. All rights of disposition, particularly for copying or distributing, reserved.**
+
+**Approval of first supply and changes according to VW 011 55.**
+
+**The English translation is believed to be accurate.**
+
+**In case of discrepancies the German version shall govern.**
+
+**Typ-Fruef-Dok. und Typ-Fruef-Nr./ Type-Approval Doc. and type approval number**
+
+**CAD-System und Verwaltungssystem-Schluessel/ CAD-System and Administration code**
+
+**Itedo Isodraw 6.2**
+
+**Konstruktionen- Name**
+
+**Verantwortung/ Design Resp.**
+
+**Abt./Dept.**
+
+**Krollig**
+
+**NE-G/SK 1748**
+
+**Tel.**
+
+**30422**
+
+**Gez./Drawn**
+
+**Benennung Title**
+
+**Typ. 2H.**
+
+**o.M.**
+
+**Datum Date**
+
+**Gesamt- Change Appr.**
+
+**Geändert/ Changed**
+
+**Beechreibung der Aenderung und Aenderungsteminischluesse/ Revision Record and change date code**
+
+**Str. EA 333/00**
+
+**Str. Zeichn. ber.: (EA 333/00)**

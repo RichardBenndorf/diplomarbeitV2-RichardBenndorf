@@ -1,0 +1,10 @@
+Modell Ladezeit, 4.60 Sekunden
+Dateiname, Durchlaufzeit (Sekunden)
+mehrspaltiges_Layout_1.png, 21.57
+mehrspaltiges_Layout_2.png, 25.83
+mehrspaltiges_Layout_3.png, 48.39
+mehrspaltiges_Layout_4.png, 35.17
+mehrspaltiges_Layout_5.png, 46.18
+mehrspaltiges_Layout_6.png, 24.70
+mehrspaltiges_Layout_7.png, 37.09
+mehrspaltiges_Layout_8.png, 27.71

@@ -1,0 +1,36 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+**HAND CONTROLS**
+
+*   HEADLIGHTS (LOW BEAM)
+*   HORN
+*   HAZARD WARNING
+*   HEADLIGHTS (HIGH BEAM)
+*   ELECTRIC STARTER
+*   DEVICE FOR SWITCHING THE ENGINE ON OR OFF (OFF/SHUTDOWN)
+*   ENGINE IGNITION (OPERATING POSITION)
+*   HAZARD WARNING
+
+**LEFT-HAND CONTROL**
+
+*   DIRECTION INDICATOR (LEFT)
+*   LEFT-HAND CONTROL
+*   LOW FUEL LIGHT (COLD STARTER)
+*   FUEL LEVEL (GAL/G)
+*   BATTERY CHARGE
+*   LEFT TURN SIGNAL (COLOR: GREEN)
+
+**RIGHT-HAND CONTROL**
+
+*   DIRECTION INDICATOR (RIGHT)
+*   RIGHT-HAND CONTROL
+*   RIGHT TURN SIGNAL (COLOR: GREEN)
+
+**INDICATOR LIGHTS**
+
+*   HEADLIGHTS (HIGH BEAM) (COLOR: RED)
+*   GEAR BOX NEUTRAL (COLOR: GREEN)
+*   ENGINE OIL (COLOR: RED)
+*   ENGINE COOLANT TEMPERATURE (COLOR: RED)
