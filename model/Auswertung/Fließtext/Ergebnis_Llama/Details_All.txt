@@ -54,7 +54,7 @@ KORREKT: also
 KORREKT: outside
 KORREKT: environmental
 KORREKT: influences
-FAST KORREKT: 5
+FEHLT: 5
 KORREKT: Kennzeichnung
 KORREKT: des
 KORREKT: Behälters
@@ -215,12 +215,7 @@ KORREKT: Kraftfahrt
 KORREKT: GmbH
 KORREKT: is
 KORREKT: necessary
-ZUSÄTZLICH: außere
-ZUSÄTZLICH: accessory
-ZUSÄTZLICH: Fahrzeuges
 ZUSÄTZLICH: Einbauerhaltinsse
-ZUSÄTZLICH: Behälterbestigung
-ZUSÄTZLICH: Behalterabmessungen
 Durchlauf 5:
 KORREKT: Throttle
 KORREKT: Body
@@ -524,7 +519,7 @@ KORREKT: end
 KORREKT: of
 KORREKT: the
 KORREKT: throttle
-FAST KORREKT: shaft
+FEHLT: shaft
 KORREKT: It
 KORREKT: provides
 KORREKT: the
@@ -811,8 +806,7 @@ KORREKT: Test
 KORREKT: Lamp
 KORREKT: or
 KORREKT: the
-FAST KORREKT: Scanalyser
-ZUSÄTZLICH: old
+FEHLT: Scanalyser
 ZUSÄTZLICH: three
 ZUSÄTZLICH: softhard
 ZUSÄTZLICH: Scanner
@@ -1007,12 +1001,8 @@ ZUSÄTZLICH: Beschreibungs
 ZUSÄTZLICH: Prüf
 ZUSÄTZLICH: spezifikation
 ZUSÄTZLICH: Paragraph
-ZUSÄTZLICH: 2
 ZUSÄTZLICH: Paragraph
 ZUSÄTZLICH: 3
-ZUSÄTZLICH: Prübericht
-ZUSÄTZLICH: Prübericht
-ZUSÄTZLICH: Prüberichtes
 ZUSÄTZLICH: Prüf
 ZUSÄTZLICH: laboratoriums
 ZUSÄTZLICH: Paragraph
@@ -1065,7 +1055,7 @@ KORREKT: 6
 KORREKT: April
 KORREKT: rückten
 KORREKT: jedoch
-FAST KORREKT: amerikanischer
+FEHLT: amerikanischer
 KORREKT: Panzer
 KORREKT: in
 KORREKT: das
@@ -1090,7 +1080,7 @@ KORREKT: Thüringen
 KORREKT: zum
 FAST KORREKT: 5
 KORREKT: Juni
-FAST KORREKT: 1045
+FEHLT: 1045
 KORREKT: endgültig
 KORREKT: der
 KORREKT: sowjetischen
@@ -1100,9 +1090,9 @@ KORREKT: Diese
 KORREKT: übernahmen
 KORREKT: am
 KORREKT: 03Juli
-FAST KORREKT: 1454
+FEHLT: 1454
 KORREKT: das
-FAST KORREKT: Eisenachers
+FEHLT: Eisenachers
 KORREKT: Werk
 KORREKT: Die
 KORREKT: Sowjets
@@ -1224,7 +1214,7 @@ FEHLT: vorgeführt
 KORREKT: Der
 KORREKT: Trick
 FAST KORREKT: saß
-FAST KORREKT: Shukov
+FEHLT: Shukov
 KORREKT: verlangte
 KORREKT: weitere
 KORREKT: fünf
@@ -1253,7 +1243,7 @@ KORREKT: und
 KORREKT: Motorräder
 KORREKT: in
 KORREKT: der
-FAST KORREKT: Fahrzeug
+FEHLT: Fahrzeug
 KORREKT: und
 FEHLT: Maschinenfabrik
 KORREKT: Thüringen
@@ -1342,7 +1332,7 @@ KORREKT: interpretiert
 KORREKT: wurden
 KORREKT: Sie
 KORREKT: die
-FAST KORREKT: Widerspruche
+FEHLT: Widerspruche
 KORREKT: sind
 KORREKT: nur
 KORREKT: zu
@@ -1351,7 +1341,7 @@ KORREKT: als
 FAST KORREKT: Raubansprüche
 KORREKT: der
 KORREKT: auch
-FAST KORREKT: heute
+FEHLT: heute
 KORREKT: wieder
 KORREKT: in
 KORREKT: Westdeutschland
@@ -1383,7 +1373,7 @@ KORREKT: eingegliedert
 KORREKT: Die
 KORREKT: Planwirtschaft
 KORREKT: hatte
-FAST KORREKT: also
+FEHLT: also
 KORREKT: zugeschlagen
 KORREKT: Erste
 KORREKT: Planansätze
@@ -1396,7 +1386,7 @@ KORREKT: die
 KORREKT: Herstellung
 KORREKT: von
 KORREKT: 70
-FAST KORREKT: Motorrändern
+FEHLT: Motorrändern
 KORREKT: gefertigt
 KORREKT: wurden
 KORREKT: 16
@@ -1436,7 +1426,7 @@ KORREKT: 1955
 KORREKT: Insgesamt
 KORREKT: sind
 FEHLT: etwa
-FAST KORREKT: 65
+FEHLT: 65
 KORREKT: bis
 KORREKT: 70
 KORREKT: Tausend
@@ -1448,33 +1438,19 @@ KORREKT: worden
 KORREKT: Andere
 KORREKT: Quellen
 FAST KORREKT: Schröder
-FAST KORREKT: siehe
+FEHLT: siehe
 KORREKT: Literaturverweis
 KORREKT: sprechen
 KORREKT: von
 KORREKT: ca
 KORREKT: 81000
-ZUSÄTZLICH: S
-ZUSÄTZLICH: Telle
-ZUSÄTZLICH: errinntere
-ZUSÄTZLICH: erproben
-ZUSÄTZLICH: verfügten
-ZUSÄTZLICH: Sledler
-ZUSÄTZLICH: Marshall
 ZUSÄTZLICH: vorgestellt
-ZUSÄTZLICH: sah
 ZUSÄTZLICH: kurz
-ZUSÄTZLICH: Verfüugung
-ZUSÄTZLICH: seltene
 ZUSÄTZLICH: wenn
-ZUSÄTZLICH: Räubansprüche
 ZUSÄTZLICH: hier
 ZUSÄTZLICH: führerlicher
-ZUSÄTZLICH: Imperialisimus
-ZUSÄTZLICH: legen
 ZUSÄTZLICH: Fertigung
 ZUSÄTZLICH: zwei
-ZUSÄTZLICH: Schroder
 Durchlauf 3:
 KORREKT: Nummer
 KORREKT: der
@@ -1534,17 +1510,17 @@ KORREKT: For
 KORREKT: incomplete
 KORREKT: variants
 FAST KORREKT: Die
-FAST KORREKT: Fahrzeugtype
+FEHLT: Fahrzeugtype
 KORREKT: erfüllt
 KORREKT: die
-FAST KORREKT: technische
+FEHLT: technische
 KORREKT: Anforderungen
 KORREKT: der
 KORREKT: in
 KORREKT: der
 KORREKT: Tabelle
 KORREKT: aufgeführten
-FAST KORREKT: Rechtsakten
+FEHLT: Rechtsakten
 KORREKT: The
 KORREKT: vehicle
 KORREKT: type
@@ -1679,11 +1655,8 @@ ZUSÄTZLICH: Section
 ZUSÄTZLICH: 200746EG
 ZUSÄTZLICH: Section
 ZUSÄTZLICH: Vollständigevollständigte
-ZUSÄTZLICH: Completecomplete
-ZUSÄTZLICH: Anderungsstandes
 ZUSÄTZLICH: Note
 ZUSÄTZLICH: text
-ZUSÄTZLICH: is
 ZUSÄTZLICH: written
 ZUSÄTZLICH: a
 ZUSÄTZLICH: formal
@@ -1691,7 +1664,6 @@ ZUSÄTZLICH: tone
 ZUSÄTZLICH: suggesting
 ZUSÄTZLICH: that
 ZUSÄTZLICH: it
-ZUSÄTZLICH: is
 ZUSÄTZLICH: a
 ZUSÄTZLICH: legal
 ZUSÄTZLICH: document
@@ -1702,7 +1674,6 @@ ZUSÄTZLICH: terms
 ZUSÄTZLICH: indicates
 ZUSÄTZLICH: that
 ZUSÄTZLICH: document
-ZUSÄTZLICH: is
 ZUSÄTZLICH: intended
 ZUSÄTZLICH: for
 ZUSÄTZLICH: a
@@ -1829,7 +1800,7 @@ KORREKT: Zentralachsanhängern
 KORREKT: vorgesehene
 KORREKT: Stützlast
 KORREKT: nach
-FAST KORREKT: Angabe
+FEHLT: Angabe
 KORREKT: des
 KORREKT: Herstellers
 KORREKT: wenn
@@ -1979,7 +1950,7 @@ KORREKT: see
 KORREKT: 211
 Durchlauf 4:
 KORREKT: The
-FAST KORREKT: TMAP
+FEHLT: TMAP
 KORREKT: Sensor
 KORREKT: mounted
 KORREKT: on
@@ -1989,7 +1960,7 @@ KORREKT: induction
 KORREKT: module
 FEHLT: assembly
 KORREKT: monitors
-FAST KORREKT: both
+FEHLT: both
 FEHLT: manifold
 KORREKT: air
 FEHLT: pressure
@@ -1998,8 +1969,8 @@ FEHLT: intake
 KORREKT: air
 KORREKT: temperature
 KORREKT: The
-FAST KORREKT: MAP
-FAST KORREKT: portion
+FEHLT: MAP
+FEHLT: portion
 KORREKT: of
 KORREKT: the
 KORREKT: sensor
@@ -2008,7 +1979,7 @@ KORREKT: used
 KORREKT: to
 FEHLT: detect
 KORREKT: engine
-FAST KORREKT: load
+FEHLT: load
 KORREKT: for
 FEHLT: proper
 KORREKT: fuel
@@ -2016,7 +1987,7 @@ KORREKT: and
 KORREKT: spark
 KORREKT: timing
 KORREKT: The
-FAST KORREKT: data
+FEHLT: data
 KORREKT: provided
 KORREKT: by
 KORREKT: the
@@ -2030,10 +2001,10 @@ KORREKT: in
 FEHLT: conjunction
 KORREKT: with
 KORREKT: the
-FAST KORREKT: data
+FEHLT: data
 KORREKT: from
 KORREKT: the
-FAST KORREKT: MAP
+FEHLT: MAP
 KORREKT: sensor
 KORREKT: to
 KORREKT: determine
@@ -2047,9 +2018,9 @@ KORREKT: to
 KORREKT: fuel
 FEHLT: delivery
 KORREKT: during
-FAST KORREKT: cold
-FAST KORREKT: start
-FAST KORREKT: warm
+FEHLT: cold
+FEHLT: start
+FEHLT: warm
 KORREKT: up
 KORREKT: and
 FEHLT: general
@@ -2211,7 +2182,7 @@ KORREKT: advance
 KORREKT: during
 KORREKT: elevated
 KORREKT: temperatures
-FAST KORREKT: Throtte
+FEHLT: Throtte
 KORREKT: Position
 KORREKT: Sensor
 KORREKT: TP
@@ -2221,7 +2192,7 @@ KORREKT: TP
 KORREKT: Sensor
 KORREKT: is
 KORREKT: a
-FAST KORREKT: potentiomter
+FEHLT: potentiomter
 KORREKT: mounted
 KORREKT: on
 KORREKT: the
@@ -2245,7 +2216,7 @@ KORREKT: the
 KORREKT: ECM
 KORREKT: with
 KORREKT: information
-FAST KORREKT: About
+FEHLT: About
 KORREKT: throttle
 KORREKT: angle
 KORREKT: for
@@ -2441,7 +2412,6 @@ KORREKT: of
 KORREKT: a
 KORREKT: fault
 KORREKT: condition
-ZUSÄTZLICH: inject
 ZUSÄTZLICH: Overall
 ZUSÄTZLICH: text
 ZUSÄTZLICH: detailed
@@ -2674,7 +2644,7 @@ KORREKT: or
 KORREKT: environmental
 KORREKT: protection
 KORREKT: The
-FAST KORREKT: KraftfahrBundestamt
+FEHLT: KraftfahrBundestamt
 KORREKT: may
 KORREKT: check
 KORREKT: the
@@ -2791,5 +2761,3 @@ KORREKT: Fördestraße
 KORREKT: 16
 KORREKT: DE24944
 KORREKT: Flensburg
-ZUSÄTZLICH: authorised
-ZUSÄTZLICH: filed

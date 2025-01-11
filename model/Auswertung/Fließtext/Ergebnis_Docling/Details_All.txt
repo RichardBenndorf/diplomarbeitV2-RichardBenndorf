@@ -123,7 +123,7 @@ KORREKT: and
 KORREKT: year
 KORREKT: of
 KORREKT: manufacturing
-FAST KORREKT: c
+FEHLT: c
 KORREKT: Typ
 KORREKT: undoder
 KORREKT: Handelsmarke
@@ -215,13 +215,7 @@ KORREKT: Kraftfahrt
 KORREKT: GmbH
 KORREKT: is
 KORREKT: necessary
-ZUSÄTZLICH: Korrosionsbestandigkeit
-ZUSÄTZLICH: muls
 ZUSÄTZLICH: Behalters
-ZUSÄTZLICH: Jame
-ZUSÄTZLICH: andlor
-ZUSÄTZLICH: 143X50133
-ZUSÄTZLICH: Fahrzeuges
 Durchlauf 5:
 KORREKT: Throttle
 KORREKT: Body
@@ -493,7 +487,7 @@ KORREKT: manifold
 KORREKT: air
 FAST KORREKT: pressure
 KORREKT: and
-FAST KORREKT: senses
+FEHLT: senses
 KORREKT: engine
 KORREKT: load
 KORREKT: for
@@ -812,79 +806,39 @@ KORREKT: Test
 KORREKT: Lamp
 KORREKT: or
 KORREKT: the
-FAST KORREKT: Scanalyser
-ZUSÄTZLICH: distributos
-ZUSÄTZLICH: alr
-ZUSÄTZLICH: t
+FEHLT: Scanalyser
 ZUSÄTZLICH: th0
 ZUSÄTZLICH: argine
 ZUSÄTZLICH: cylindors
-ZUSÄTZLICH: s
 ZUSÄTZLICH: withi
-ZUSÄTZLICH: aeparate
-ZUSÄTZLICH: housos
-ZUSÄTZLICH: injoctors
 ZUSÄTZLICH: luel
-ZUSÄTZLICH: prcssure
 ZUSÄTZLICH: thromie
-ZUSÄTZLICH: Idle
 ZUSÄTZLICH: specd
-ZUSÄTZLICH: lhrottle
-ZUSÄTZLICH: Iinkages
-ZUSÄTZLICH: fitings
-ZUSÄTZLICH: conneci
 ZUSÄTZLICH: uel
-ZUSÄTZLICH: cupply
-ZUSÄTZLICH: roturn
-ZUSÄTZLICH: lo
 ZUSÄTZLICH: Io
-ZUSÄTZLICH: Fivo
-ZUSÄTZLICH: sGnsors
 ZUSÄTZLICH: provlde
 ZUSÄTZLICH: Ihe
 ZUSÄTZLICH: dala
-ZUSÄTZLICH: descrlption
 ZUSÄTZLICH: sengor
-ZUSÄTZLICH: ollows
 ZUSÄTZLICH: Sonsor
 ZUSÄTZLICH: i6
-ZUSÄTZLICH: fagnelic
-ZUSÄTZLICH: pIckup
 ZUSÄTZLICH: lef
-ZUSÄTZLICH: crarikcase
-ZUSÄTZLICH: hall
-ZUSÄTZLICH: allernalor
-ZUSÄTZLICH: calculale
 ZUSÄTZLICH: Ihe
 ZUSÄTZLICH: te
-ZUSÄTZLICH: plcke
 ZUSÄTZLICH: VP
-ZUSÄTZLICH: presonce
-ZUSÄTZLICH: fywheel
-ZUSÄTZLICH: g2p
 ZUSÄTZLICH: teoth
 ZUSÄTZLICH: engino
-ZUSÄTZLICH: cooiant
-ZUSÄTZLICH: informnation
 ZUSÄTZLICH: durlng
 ZUSÄTZLICH: tho
-ZUSÄTZLICH: Idle
-ZUSÄTZLICH: aojustmient
 ZUSÄTZLICH: l0
-ZUSÄTZLICH: Injector
-ZUSÄTZLICH: pulze
 ZUSÄTZLICH: LAT
 ZUSÄTZLICH: Sonsor
 ZUSÄTZLICH: Ihe
 ZUSÄTZLICH: u8ed
 ZUSÄTZLICH: Ihe
 ZUSÄTZLICH: datermine
-ZUSÄTZLICH: Oxygen
 ZUSÄTZLICH: adjustnent
 ZUSÄTZLICH: warmUP
-ZUSÄTZLICH: Manlfold
-ZUSÄTZLICH: Prebsure
-ZUSÄTZLICH: alr
 ZUSÄTZLICH: prossure
 ZUSÄTZLICH: sen805
 ZUSÄTZLICH: cngine
@@ -896,62 +850,42 @@ ZUSÄTZLICH: throtile
 ZUSÄTZLICH: 0
 ZUSÄTZLICH: Ihe
 ZUSÄTZLICH: throtle
-ZUSÄTZLICH: shalt
 ZUSÄTZLICH: infcrmatlon
 ZUSÄTZLICH: throtile
-ZUSÄTZLICH: WIre
 ZUSÄTZLICH: 0
 ZUSÄTZLICH: à
 ZUSÄTZLICH: separale
 ZUSÄTZLICH: smiall
 ZUSÄTZLICH: connecled
-ZUSÄTZLICH: WarnIng
 ZUSÄTZLICH: ad
-ZUSÄTZLICH: eliminaled
 ZUSÄTZLICH: uel
 ZUSÄTZLICH: luel
 ZUSÄTZLICH: i6
 ZUSÄTZLICH: levcl
-ZUSÄTZLICH: rcaches
 ZUSÄTZLICH: 72
 ZUSÄTZLICH: t0
 ZUSÄTZLICH: uel
 ZUSÄTZLICH: i8
 ZUSÄTZLICH: s0
-ZUSÄTZLICH: movemient
 ZUSÄTZLICH: Ihe
 ZUSÄTZLICH: 1o
-ZUSÄTZLICH: inslde
 ZUSÄTZLICH: Ihe
 ZUSÄTZLICH: Iank
-ZUSÄTZLICH: eleclrical
 ZUSÄTZLICH: Is
 ZUSÄTZLICH: whlch
 ZUSÄTZLICH: Ihe
 ZUSÄTZLICH: uel
 ZUSÄTZLICH: injeclors
 ZUSÄTZLICH: Ihe
-ZUSÄTZLICH: prolection
 ZUSÄTZLICH: Ihe
-ZUSÄTZLICH: appropriale
 ZUSÄTZLICH: fusos
-ZUSÄTZLICH: alr
 ZUSÄTZLICH: i3
-ZUSÄTZLICH: instrurent
-ZUSÄTZLICH: faut
 ZUSÄTZLICH: provideg
 ZUSÄTZLICH: twvo
 ZUSÄTZLICH: cn
-ZUSÄTZLICH: diagnoslics
-ZUSÄTZLICH: asslat
-ZUSÄTZLICH: delerminirg
 ZUSÄTZLICH: 0f
-ZUSÄTZLICH: lechnician
 ZUSÄTZLICH: 0
 ZUSÄTZLICH: t0
-ZUSÄTZLICH: paricular
-ZUSÄTZLICH: protlem
-ZUSÄTZLICH: areà
 ZUSÄTZLICH: provices
 ZUSÄTZLICH: cr
 Durchlauf 6:
@@ -1139,20 +1073,16 @@ KORREKT: Federal
 KORREKT: Republic
 KORREKT: of
 KORREKT: Germany
-ZUSÄTZLICH: e
 ZUSÄTZLICH: nt
 ZUSÄTZLICH: s
 ZUSÄTZLICH: p
 ZUSÄTZLICH: ri
 ZUSÄTZLICH: cht
 ZUSÄTZLICH: 0
-ZUSÄTZLICH: inforation
 ZUSÄTZLICH: c0
 ZUSÄTZLICH: M
 ZUSÄTZLICH: plian
 ZUSÄTZLICH: c
-ZUSÄTZLICH: e
-ZUSÄTZLICH: reprasentativ
 ZUSÄTZLICH: KraftfahrtBundesamt
 Durchlauf 8:
 KORREKT: Motorradfertigung
@@ -1227,7 +1157,7 @@ KORREKT: Thüringen
 FAST KORREKT: zum
 KORREKT: 5
 KORREKT: Juni
-FAST KORREKT: 1045
+FEHLT: 1045
 FAST KORREKT: endgültig
 KORREKT: der
 KORREKT: sowjetischen
@@ -1237,9 +1167,9 @@ KORREKT: Diese
 FAST KORREKT: übernahmen
 FAST KORREKT: am
 KORREKT: 03Juli
-FAST KORREKT: 1454
+FEHLT: 1454
 KORREKT: das
-FAST KORREKT: Eisenachers
+FEHLT: Eisenachers
 KORREKT: Werk
 KORREKT: Die
 KORREKT: Sowjets
@@ -1361,7 +1291,7 @@ FAST KORREKT: vorgeführt
 KORREKT: Der
 KORREKT: Trick
 KORREKT: saß
-FAST KORREKT: Shukov
+FEHLT: Shukov
 KORREKT: verlangte
 KORREKT: weitere
 FAST KORREKT: fünf
@@ -1390,7 +1320,7 @@ KORREKT: und
 KORREKT: Motorräder
 KORREKT: in
 KORREKT: der
-FAST KORREKT: Fahrzeug
+FEHLT: Fahrzeug
 KORREKT: und
 KORREKT: Maschinenfabrik
 KORREKT: Thüringen
@@ -1465,7 +1395,7 @@ KORREKT: worden
 FAST KORREKT: Natürlich
 KORREKT: gab
 FAST KORREKT: es
-FAST KORREKT: Widersprüche
+FEHLT: Widersprüche
 KORREKT: aus
 FAST KORREKT: München
 KORREKT: die
@@ -1591,90 +1521,34 @@ KORREKT: sprechen
 KORREKT: von
 FAST KORREKT: ca
 KORREKT: 81000
-ZUSÄTZLICH: erhcbllch
-ZUSÄTZLICH: rerstort
 ZUSÄTZLICH: Idie
-ZUSÄTZLICH: Iusanmen
-ZUSÄTZLICH: Teilebestanden
-ZUSÄTZLICH: In
-ZUSÄTZLICH: umllcgenden
-ZUSÄTZLICH: KallBergwerke
-ZUSÄTZLICH: Führerbefchl
-ZUSÄTZLICH: ruckte
-ZUSÄTZLICH: ruckten
-ZUSÄTZLICH: amerikanlsche
-ZUSÄTZLICH: Panrer
-ZUSÄTZLICH: iM
-ZUSÄTZLICH: e5
-ZUSÄTZLICH: IuF
-ZUSÄTZLICH: Auftellung
-ZUSÄTZLICH: um
-ZUSÄTZLICH: endgultig
-ZUSÄTZLICH: Z
-ZUSÄTZLICH: lubernahmen
-ZUSÄTZLICH: aM
 ZUSÄTZLICH: dic
-ZUSÄTZLICH: Telle
 ZUSÄTZLICH: undi
-ZUSÄTZLICH: schneli
-ZUSÄTZLICH: DMWMotorrider
 ZUSÄTZLICH: 50
 ZUSÄTZLICH: Man
-ZUSÄTZLICH: au5
-ZUSÄTZLICH: Fur
-ZUSÄTZLICH: lersten
 ZUSÄTZLICH: EMW
-ZUSÄTZLICH: Iedlglich
-ZUSÄTZLICH: fur
-ZUSÄTZLICH: verfügten
-ZUSÄTZLICH: Motorrsdern
-ZUSÄTZLICH: scine
 ZUSÄTZLICH: Iml
-ZUSÄTZLICH: verblicbene
-ZUSÄTZLICH: vorgefuhrt
-ZUSÄTZLICH: fünt
-ZUSÄTZLICH: kurzester
 ZUSÄTZLICH: zuF
-ZUSÄTZLICH: neven
 ZUSÄTZLICH: Fahrzeugund
 ZUSÄTZLICH: Thuringen
-ZUSÄTZLICH: War
-ZUSÄTZLICH: glelche
 ZUSÄTZLICH: Motorradern
 ZUSÄTZLICH: zuN
 ZUSÄTZLICH: diel
 ZUSÄTZLICH: zuM
 ZUSÄTZLICH: Dlese
-ZUSÄTZLICH: Verfugung
-ZUSÄTZLICH: Prisidenten
 ZUSÄTZLICH: Imn
-ZUSÄTZLICH: Naturlich
 ZUSÄTZLICH: 2s
-ZUSÄTZLICH: Hunchen
-ZUSÄTZLICH: Interpreticrt
 ZUSÄTZLICH: nuF
-ZUSÄTZLICH: Raubanspruche
-ZUSÄTZLICH: In
-ZUSÄTZLICH: tuhrender
 ZUSÄTZLICH: 0r
-ZUSÄTZLICH: Kriegstrelber
-ZUSÄTZLICH: BMWMunchen
 ZUSÄTZLICH: 200
 ZUSÄTZLICH: lin
-ZUSÄTZLICH: SowjetIsche
-ZUSÄTZLICH: rugeschlagen
-ZUSÄTZLICH: Planansatze
 ZUSÄTZLICH: fdr
 ZUSÄTZLICH: Jahn
-ZUSÄTZLICH: Iiegen
-ZUSÄTZLICH: zuverlassigere
 ZUSÄTZLICH: 50
-ZUSÄTZLICH: sticg
 ZUSÄTZLICH: dic
 ZUSÄTZLICH: Fertigungsstuckzahl
 ZUSÄTZLICH: Von
 ZUSÄTZLICH: Juf
-ZUSÄTZLICH: Schroder
 ZUSÄTZLICH: a
 Durchlauf 3:
 KORREKT: Nummer
@@ -1734,18 +1608,18 @@ KORREKT: Varianten
 KORREKT: For
 KORREKT: incomplete
 KORREKT: variants
-FAST KORREKT: Die
-FAST KORREKT: Fahrzeugtype
+FEHLT: Die
+FEHLT: Fahrzeugtype
 KORREKT: erfüllt
 KORREKT: die
-FAST KORREKT: technische
+FEHLT: technische
 KORREKT: Anforderungen
 KORREKT: der
 KORREKT: in
 KORREKT: der
 KORREKT: Tabelle
 KORREKT: aufgeführten
-FAST KORREKT: Rechtsakten
+FEHLT: Rechtsakten
 KORREKT: The
 KORREKT: vehicle
 KORREKT: type
@@ -1876,7 +1750,6 @@ KORREKT: acts
 KORREKT: listed
 KORREKT: below
 ZUSÄTZLICH: 200746EG
-ZUSÄTZLICH: s0
 ZUSÄTZLICH: Vollständige
 ZUSÄTZLICH: vervollständigte
 ZUSÄTZLICH: Complete
@@ -2149,17 +2022,6 @@ KORREKT: siehe
 KORREKT: 211
 KORREKT: see
 KORREKT: 211
-ZUSÄTZLICH: Zulassunglim
-ZUSÄTZLICH: registrationlin
-ZUSÄTZLICH: 97I27EC
-ZUSÄTZLICH: Zulassunglim
-ZUSÄTZLICH: registrationlin
-ZUSÄTZLICH: Zulassunglim
-ZUSÄTZLICH: registrationlin
-ZUSÄTZLICH: registrationlin
-ZUSÄTZLICH: Zulassunglim
-ZUSÄTZLICH: registrationlin
-ZUSÄTZLICH: Zulassunglim
 Durchlauf 4:
 KORREKT: The
 KORREKT: TMAP
@@ -2394,7 +2256,7 @@ KORREKT: advance
 KORREKT: during
 KORREKT: elevated
 KORREKT: temperatures
-FAST KORREKT: Throtte
+FEHLT: Throtte
 KORREKT: Position
 KORREKT: Sensor
 KORREKT: TP
@@ -2404,7 +2266,7 @@ KORREKT: TP
 KORREKT: Sensor
 KORREKT: is
 KORREKT: a
-FAST KORREKT: potentiomter
+FEHLT: potentiomter
 KORREKT: mounted
 KORREKT: on
 KORREKT: the
@@ -2428,7 +2290,7 @@ KORREKT: the
 KORREKT: ECM
 KORREKT: with
 KORREKT: information
-FAST KORREKT: About
+FEHLT: About
 KORREKT: throttle
 KORREKT: angle
 KORREKT: for
@@ -2625,7 +2487,6 @@ KORREKT: a
 KORREKT: fault
 KORREKT: condition
 ZUSÄTZLICH: sensoris
-ZUSÄTZLICH: Oz
 ZUSÄTZLICH: i5
 ZUSÄTZLICH: 4
 ZUSÄTZLICH: Or
@@ -2845,7 +2706,7 @@ KORREKT: or
 KORREKT: environmental
 KORREKT: protection
 KORREKT: The
-FAST KORREKT: KraftfahrBundestamt
+FEHLT: KraftfahrBundestamt
 KORREKT: may
 KORREKT: check
 KORREKT: the
@@ -2962,5 +2823,3 @@ KORREKT: Fördestraße
 KORREKT: 16
 KORREKT: DE24944
 KORREKT: Flensburg
-ZUSÄTZLICH: authorised
-ZUSÄTZLICH: filed

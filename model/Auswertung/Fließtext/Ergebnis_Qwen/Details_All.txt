@@ -215,23 +215,17 @@ KORREKT: Kraftfahrt
 KORREKT: GmbH
 KORREKT: is
 KORREKT: necessary
-ZUSÄTZLICH: accessory
 ZUSÄTZLICH: tanker
 ZUSÄTZLICH: Tank
-ZUSÄTZLICH: TÜvmarking
 ZUSÄTZLICH: Behalters
 ZUSÄTZLICH: Behäl
 ZUSÄTZLICH: terunterbringung
-ZUSÄTZLICH: Beihalterbefestigung
-ZUSÄTZLICH: behälterabmessungen
 ZUSÄTZLICH: Behäl
 ZUSÄTZLICH: tersetwerkstoff
-ZUSÄTZLICH: TÜ
 ZUSÄTZLICH: V
 ZUSÄTZLICH: fu
 ZUSÄTZLICH: el
 ZUSÄTZLICH: Tank
-ZUSÄTZLICH: TÜ
 ZUSÄTZLICH: VRheinlandKraftfahrgmbh
 Durchlauf 5:
 KORREKT: Throttle
@@ -823,13 +817,11 @@ KORREKT: Test
 KORREKT: Lamp
 KORREKT: or
 KORREKT: the
-FAST KORREKT: Scanalyser
+FEHLT: Scanalyser
 ZUSÄTZLICH: Rail
 ZUSÄTZLICH: Spark
 ZUSÄTZLICH: Throat
 ZUSÄTZLICH: SPARK
-ZUSÄTZLICH: design
-ZUSÄTZLICH: onboard
 ZUSÄTZLICH: test
 ZUSÄTZLICH: test
 ZUSÄTZLICH: Scan
@@ -840,7 +832,7 @@ FEHLT: Schlussbescheinigung
 FEHLT: Certification
 KORREKT: Der
 KORREKT: unter
-FAST KORREKT: Nr
+FEHLT: Nr
 KORREKT: 05
 KORREKT: angegebene
 FEHLT: Beschreibungsbogen
@@ -851,28 +843,28 @@ KORREKT: beschriebene
 KORREKT: Typ
 KORREKT: entspricht
 KORREKT: der
-FAST KORREKT: o
-FAST KORREKT: a
+FEHLT: o
+FEHLT: a
 KORREKT: Prüfspezifikation
 KORREKT: The
 FEHLT: information
 FEHLT: document
-FAST KORREKT: as
+FEHLT: as
 FEHLT: mentioned
-FAST KORREKT: under
+FEHLT: under
 KORREKT: No
-FAST KORREKT: 5
+FEHLT: 5
 KORREKT: and
 KORREKT: the
-FAST KORREKT: type
+FEHLT: type
 FEHLT: described
 FEHLT: therein
-FAST KORREKT: are
+FEHLT: are
 KORREKT: in
 FEHLT: compliance
 KORREKT: with
 KORREKT: the
-FAST KORREKT: test
+FEHLT: test
 FEHLT: specification
 FEHLT: mentioned
 FEHLT: above
@@ -894,7 +886,7 @@ KORREKT: Typ
 KORREKT: repräsentativ
 KORREKT: siehe
 KORREKT: 11
-FAST KORREKT: With
+FEHLT: With
 FEHLT: regard
 KORREKT: to
 KORREKT: the
@@ -908,15 +900,15 @@ FEHLT: achieved
 KORREKT: the
 FEHLT: tested
 FEHLT: items
-FAST KORREKT: were
-FAST KORREKT: representative
-FAST KORREKT: for
+FEHLT: were
+FEHLT: representative
+FEHLT: for
 KORREKT: the
-FAST KORREKT: type
+FEHLT: type
 KORREKT: to
 KORREKT: be
 FEHLT: approved
-FAST KORREKT: see
+FEHLT: see
 KORREKT: 11
 KORREKT: Dieser
 FAST KORREKT: Prüfbericht
@@ -1020,15 +1012,9 @@ KORREKT: Republic
 KORREKT: of
 KORREKT: Germany
 ZUSÄTZLICH: Beschreibungsblock
-ZUSÄTZLICH: oa
 ZUSÄTZLICH: Prüfmaschinen
-ZUSÄTZLICH: Prüferbericht
 ZUSÄTZLICH: Testbericht
-ZUSÄTZLICH: voller
-ZUSÄTZLICH: Vervielfaltigung
 ZUSÄTZLICH: Prüfterberichtes
-ZUSÄTZLICH: Pruflaboratoriums
-ZUSÄTZLICH: comprises
 ZUSÄTZLICH: replicated
 Durchlauf 8:
 KORREKT: Motorradfertigung
@@ -1097,7 +1083,7 @@ KORREKT: der
 KORREKT: Aufteilung
 KORREKT: Deutschlands
 KORREKT: in
-FAST KORREKT: Besatzungszonen
+FEHLT: Besatzungszonen
 KORREKT: fiel
 KORREKT: Thüringen
 KORREKT: zum
@@ -1115,7 +1101,7 @@ KORREKT: am
 FAST KORREKT: 03Juli
 FAST KORREKT: 1454
 KORREKT: das
-FAST KORREKT: Eisenachers
+FEHLT: Eisenachers
 KORREKT: Werk
 KORREKT: Die
 KORREKT: Sowjets
@@ -1355,7 +1341,7 @@ KORREKT: interpretiert
 KORREKT: wurden
 KORREKT: Sie
 KORREKT: die
-FAST KORREKT: Widerspruche
+FEHLT: Widerspruche
 KORREKT: sind
 KORREKT: nur
 KORREKT: zu
@@ -1467,57 +1453,34 @@ KORREKT: sprechen
 KORREKT: von
 KORREKT: ca
 FAST KORREKT: 81000
-ZUSÄTZLICH: 1
-ZUSÄTZLICH: 94
 ZUSÄTZLICH: 03
-ZUSÄTZLICH: Juli
 ZUSÄTZLICH: Maschienen
 ZUSÄTZLICH: Sowjetjets
-ZUSÄTZLICH: komplett
-ZUSÄTZLICH: Pressstahlahren
 ZUSÄTZLICH: 3
-ZUSÄTZLICH: verfügten
 ZUSÄTZLICH: Motorrä
 ZUSÄTZLICH: dern
 ZUSÄTZLICH: Demontation
-ZUSÄTZLICH: verbliefenen
 ZUSÄTZLICH: SowJetjs
 ZUSÄTZLICH: SowJets
 ZUSÄTZLICH: verblievene
-ZUSÄTZLICH: Befehle
 ZUSÄTZLICH: Motorrä
-ZUSÄTZLICH: Maschenfabrik
 ZUSÄTZLICH: Thüringens
 ZUSÄTZLICH: drohend
-ZUSÄTZLICH: Demontag
 ZUSÄTZLICH: 312
-ZUSÄTZLICH: Motorräden
 ZUSÄTZLICH: werdenDie
 ZUSÄTZLICH: Maschiner
-ZUSÄTZLICH: 1
-ZUSÄTZLICH: 944
 ZUSÄTZLICH: Fahrzege
-ZUSÄTZLICH: Sowejetunion
 ZUSÄTZLICH: Thüringer
-ZUSÄTZLICH: 145
-ZUSÄTZLICH: damalgigen
 ZUSÄTZLICH: 1846
-ZUSÄTZLICH: sowjetische
-ZUSÄTZLICH: 145
-ZUSÄTZLICH: 1
-ZUSÄTZLICH: 4648
 ZUSÄTZLICH: 119
 ZUSÄTZLICH: 45
 ZUSÄTZLICH: Fertigungszustückzahl
 ZUSÄTZLICH: 13949
-ZUSÄTZLICH: 1700
-ZUSÄTZLICH: 555
 ZUSÄTZLICH: 7
 ZUSÄTZLICH: 0
 ZUSÄTZLICH: R3
 ZUSÄTZLICH: 85
 ZUSÄTZLICH: hergestellert
-ZUSÄTZLICH: 8100
 Durchlauf 3:
 KORREKT: Nummer
 KORREKT: der
@@ -1576,7 +1539,7 @@ KORREKT: Varianten
 KORREKT: For
 KORREKT: incomplete
 KORREKT: variants
-FAST KORREKT: Die
+FEHLT: Die
 FAST KORREKT: Fahrzeugtype
 KORREKT: erfüllt
 KORREKT: die
@@ -1719,26 +1682,18 @@ KORREKT: listed
 KORREKT: below
 ZUSÄTZLICH: 201766EG
 ZUSÄTZLICH: 2720EC
-ZUSÄTZLICH: FahrzeugTyp
 ZUSÄTZLICH: erfüllet
 ZUSÄTZLICH: Anforderung
-ZUSÄTZLICH: Rechtsakt
 ZUSÄTZLICH: requirement
 ZUSÄTZLICH: unvOLLständigeVarianten
-ZUSÄTZLICH: Vollständigervervollstandigter
-ZUSÄTZLICH: 1Stelle
-ZUSÄTZLICH: Variantenschlussels
-ZUSÄTZLICH: 1digit
-ZUSÄTZLICH: unvollerständigen
-ZUSÄTZLICH: Versions
 ZUSÄTZLICH: regulatary
 Durchlauf 2:
 FAST KORREKT: 2122
 KORREKT: des
-FAST KORREKT: Sattelanhängers
+FEHLT: Sattelanhängers
 KORREKT: oder
 KORREKT: des
-FAST KORREKT: Zentralachsanhängers
+FEHLT: Zentralachsanhängers
 KORREKT: Of
 KORREKT: the
 KORREKT: semitrailer
@@ -1748,7 +1703,7 @@ KORREKT: trailer
 KORREKT: entfällt
 KORREKT: not
 KORREKT: applicable
-FAST KORREKT: 216
+FEHLT: 216
 KORREKT: Bei
 KORREKT: der
 KORREKT: Zulassungim
@@ -1833,7 +1788,7 @@ KORREKT: siehe
 KORREKT: 28
 KORREKT: see
 KORREKT: 28
-FAST KORREKT: 2162
+FEHLT: 2162
 KORREKT: Bei
 KORREKT: der
 KORREKT: Zulassungim
@@ -1906,7 +1861,7 @@ KORREKT: if
 KORREKT: lower
 KORREKT: than
 KORREKT: the
-FAST KORREKT: technically
+FEHLT: technically
 KORREKT: permissible
 KORREKT: maximum
 KORREKT: mass
@@ -1926,7 +1881,7 @@ KORREKT: siehe
 KORREKT: 28
 KORREKT: see
 KORREKT: 28
-FAST KORREKT: 2163
+FEHLT: 2163
 KORREKT: Bei
 KORREKT: der
 KORREKT: Zulassungim
@@ -1966,7 +1921,7 @@ KORREKT: siehe
 KORREKT: 28
 KORREKT: see
 KORREKT: 28
-FAST KORREKT: 2164
+FEHLT: 2164
 KORREKT: Bei
 KORREKT: der
 KORREKT: Zulassungim
@@ -1998,18 +1953,14 @@ KORREKT: technical
 KORREKT: configuration
 KORREKT: 5
 KORREKT: siehe
-FAST KORREKT: 211
+FEHLT: 211
 KORREKT: see
-FAST KORREKT: 211
-ZUSÄTZLICH: centreaxe
-ZUSÄTZLICH: 97EC
+FEHLT: 211
 ZUSÄTZLICH: ZulasungimBetrieb
 ZUSÄTZLICH: vorgehene
-ZUSÄTZLICH: höchstzulässi
 ZUSÄTZLICH: ge
 ZUSÄTZLICH: Intendedregistrationin
 ZUSÄTZLICH: servicemaximum
-ZUSÄTZLICH: 2262
 ZUSÄTZLICH: derselben
 ZUSÄTZLICH: ZulästungimBetreib
 ZUSÄTZLICH: vorgesehenen
@@ -2381,7 +2332,7 @@ KORREKT: advance
 KORREKT: during
 KORREKT: elevated
 KORREKT: temperatures
-FAST KORREKT: Throtte
+FEHLT: Throtte
 KORREKT: Position
 KORREKT: Sensor
 KORREKT: TP
@@ -2415,7 +2366,7 @@ KORREKT: the
 KORREKT: ECM
 KORREKT: with
 KORREKT: information
-FAST KORREKT: About
+FEHLT: About
 KORREKT: throttle
 KORREKT: angle
 KORREKT: for
@@ -2619,7 +2570,6 @@ ZUSÄTZLICH: onthe
 ZUSÄTZLICH: Throttelposition
 ZUSÄTZLICH: T
 ZUSÄTZLICH: P
-ZUSÄTZLICH: apotentiometer
 ZUSÄTZLICH: lam
 Durchlauf 1:
 KORREKT: Collateral
@@ -2953,14 +2903,10 @@ KORREKT: 16
 KORREKT: DE24944
 KORREKT: Flensburg
 ZUSÄTZLICH: clause
-ZUSÄTZLICH: authorised
 ZUSÄTZLICH: KraftfahtBundesanat
 ZUSÄTZLICH: appoval
 ZUSÄTZLICH: types
-ZUSÄTZLICH: KraftfahrBundesaat
 ZUSÄTZLICH: KraftrahtBunestaat
 ZUSÄTZLICH: tto
-ZUSÄTZLICH: bfiled
 ZUSÄTZLICH: Kraft
 ZUSÄTZLICH: FahrtBunenaat
-ZUSÄTZLICH: Fordestraße

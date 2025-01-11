@@ -215,11 +215,6 @@ KORREKT: Kraftfahrt
 KORREKT: GmbH
 KORREKT: is
 KORREKT: necessary
-ZUSÄTZLICH: 1
-ZUSÄTZLICH: 1
-ZUSÄTZLICH: 1
-ZUSÄTZLICH: 1
-ZUSÄTZLICH: Fahrzeuges
 Durchlauf 5:
 KORREKT: Throttle
 KORREKT: Body
@@ -810,7 +805,7 @@ KORREKT: Test
 KORREKT: Lamp
 KORREKT: or
 KORREKT: the
-FAST KORREKT: Scanalyser
+FEHLT: Scanalyser
 Durchlauf 6:
 KORREKT: 4
 KORREKT: Schlussbescheinigung
@@ -996,7 +991,6 @@ KORREKT: Federal
 KORREKT: Republic
 KORREKT: of
 KORREKT: Germany
-ZUSÄTZLICH: e
 ZUSÄTZLICH: n
 ZUSÄTZLICH: t
 ZUSÄTZLICH: s
@@ -1015,7 +1009,6 @@ ZUSÄTZLICH: l
 ZUSÄTZLICH: i
 ZUSÄTZLICH: n
 ZUSÄTZLICH: c
-ZUSÄTZLICH: e
 ZUSÄTZLICH: KraftfahrtBundesamt
 Durchlauf 8:
 KORREKT: Motorradfertigung
@@ -1065,7 +1058,7 @@ KORREKT: 6
 KORREKT: April
 KORREKT: rückten
 KORREKT: jedoch
-FAST KORREKT: amerikanischer
+FEHLT: amerikanischer
 KORREKT: Panzer
 KORREKT: in
 KORREKT: das
@@ -1090,7 +1083,7 @@ KORREKT: Thüringen
 KORREKT: zum
 KORREKT: 5
 KORREKT: Juni
-FAST KORREKT: 1045
+FEHLT: 1045
 KORREKT: endgültig
 KORREKT: der
 KORREKT: sowjetischen
@@ -1100,9 +1093,9 @@ KORREKT: Diese
 KORREKT: übernahmen
 KORREKT: am
 KORREKT: 03Juli
-FAST KORREKT: 1454
+FEHLT: 1454
 KORREKT: das
-FAST KORREKT: Eisenachers
+FEHLT: Eisenachers
 KORREKT: Werk
 KORREKT: Die
 KORREKT: Sowjets
@@ -1224,7 +1217,7 @@ KORREKT: vorgeführt
 KORREKT: Der
 KORREKT: Trick
 KORREKT: saß
-FAST KORREKT: Shukov
+FEHLT: Shukov
 KORREKT: verlangte
 KORREKT: weitere
 KORREKT: fünf
@@ -1321,7 +1314,7 @@ KORREKT: waren
 KORREKT: im
 KORREKT: September
 KORREKT: 1945
-FAST KORREKT: alle
+FEHLT: alle
 KORREKT: Betriebsanlagen
 KORREKT: enteignet
 KORREKT: worden
@@ -1342,7 +1335,7 @@ KORREKT: interpretiert
 KORREKT: wurden
 KORREKT: Sie
 KORREKT: die
-FAST KORREKT: Widerspruche
+FEHLT: Widerspruche
 KORREKT: sind
 KORREKT: nur
 KORREKT: zu
@@ -1396,7 +1389,7 @@ KORREKT: die
 KORREKT: Herstellung
 KORREKT: von
 KORREKT: 70
-FAST KORREKT: Motorrändern
+FEHLT: Motorrändern
 KORREKT: gefertigt
 KORREKT: wurden
 KORREKT: 16
@@ -1454,7 +1447,6 @@ KORREKT: sprechen
 KORREKT: von
 KORREKT: ca
 KORREKT: 81000
-ZUSÄTZLICH: verfügten
 ZUSÄTZLICH: Umwirtschaft
 ZUSÄTZLICH: Fertigungsstückzahl
 Durchlauf 3:
@@ -1508,25 +1500,25 @@ KORREKT: IV
 KORREKT: to
 KORREKT: Directive
 KORREKT: 200746EC
-FAST KORREKT: 2
+FEHLT: 2
 KORREKT: Für
 KORREKT: unvollständige
 KORREKT: Varianten
 KORREKT: For
 KORREKT: incomplete
 KORREKT: variants
-FAST KORREKT: Die
-FAST KORREKT: Fahrzeugtype
+FEHLT: Die
+FEHLT: Fahrzeugtype
 KORREKT: erfüllt
 KORREKT: die
-FAST KORREKT: technische
+FEHLT: technische
 KORREKT: Anforderungen
 KORREKT: der
 KORREKT: in
 KORREKT: der
 KORREKT: Tabelle
 KORREKT: aufgeführten
-FAST KORREKT: Rechtsakten
+FEHLT: Rechtsakten
 KORREKT: The
 KORREKT: vehicle
 KORREKT: type
@@ -1657,7 +1649,6 @@ KORREKT: acts
 KORREKT: listed
 KORREKT: below
 ZUSÄTZLICH: 200746EG
-ZUSÄTZLICH: Vollständigevervollständigte
 Durchlauf 2:
 KORREKT: 2122
 KORREKT: des
@@ -2161,7 +2152,7 @@ KORREKT: advance
 KORREKT: during
 KORREKT: elevated
 KORREKT: temperatures
-FAST KORREKT: Throtte
+FEHLT: Throtte
 KORREKT: Position
 KORREKT: Sensor
 KORREKT: TP
@@ -2171,7 +2162,7 @@ KORREKT: TP
 KORREKT: Sensor
 KORREKT: is
 KORREKT: a
-FAST KORREKT: potentiomter
+FEHLT: potentiomter
 KORREKT: mounted
 KORREKT: on
 KORREKT: the
@@ -2195,7 +2186,7 @@ KORREKT: the
 KORREKT: ECM
 KORREKT: with
 KORREKT: information
-FAST KORREKT: About
+FEHLT: About
 KORREKT: throttle
 KORREKT: angle
 KORREKT: for
@@ -2605,7 +2596,7 @@ KORREKT: or
 KORREKT: environmental
 KORREKT: protection
 KORREKT: The
-FAST KORREKT: KraftfahrBundestamt
+FEHLT: KraftfahrBundestamt
 KORREKT: may
 KORREKT: check
 KORREKT: the
@@ -2722,5 +2713,3 @@ KORREKT: Fördestraße
 KORREKT: 16
 KORREKT: DE24944
 KORREKT: Flensburg
-ZUSÄTZLICH: authorised
-ZUSÄTZLICH: filed

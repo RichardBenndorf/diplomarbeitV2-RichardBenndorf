@@ -215,12 +215,10 @@ KORREKT: Kraftfahrt
 KORREKT: GmbH
 KORREKT: is
 KORREKT: necessary
-ZUSÄTZLICH: accessory
 ZUSÄTZLICH: tanker
 ZUSÄTZLICH: Kennzeichung
 ZUSÄTZLICH: Tank
 ZUSÄTZLICH: Behalters
-ZUSÄTZLICH: TÜvmarking
 ZUSÄTZLICH: Behältermontierung
 ZUSÄTZLICH: Befestigung
 ZUSÄTZLICH: Abmessungen
@@ -229,7 +227,6 @@ ZUSÄTZLICH: TÜVRheinland
 ZUSÄTZLICH: Fuel
 ZUSÄTZLICH: Tank
 ZUSÄTZLICH: Tank
-ZUSÄTZLICH: TÜ
 ZUSÄTZLICH: VRheinl
 ZUSÄTZLICH: Kraftfahr
 ZUSÄTZLICH: t
@@ -828,7 +825,6 @@ ZUSÄTZLICH: fuelrail
 ZUSÄTZLICH: cylinde
 ZUSÄTZLICH: andspark
 ZUSÄTZLICH: Throtl
-ZUSÄTZLICH: apotentiometer
 ZUSÄTZLICH: onthe
 ZUSÄTZLICH: ECMwith
 ZUSÄTZLICH: andspark
@@ -1024,10 +1020,7 @@ KORREKT: Federal
 KORREKT: Republic
 KORREKT: of
 KORREKT: Germany
-ZUSÄTZLICH: comprises
 ZUSÄTZLICH: Testbericht
-ZUSÄTZLICH: Vervielfaltigung
-ZUSÄTZLICH: Prüferichtes
 ZUSÄTZLICH: Prufinstituts
 Durchlauf 8:
 KORREKT: Motorradfertigung
@@ -1346,7 +1339,7 @@ KORREKT: München
 KORREKT: die
 KORREKT: seitens
 KORREKT: der
-FAST KORREKT: damaligen
+FEHLT: damaligen
 KORREKT: Machthaber
 KORREKT: wie
 KORREKT: folgt
@@ -1470,42 +1463,28 @@ ZUSÄTZLICH: Maschienen
 ZUSÄTZLICH: Sowjeten
 ZUSÄTZLICH: Sowjeten
 ZUSÄTZLICH: Motorräden
-ZUSÄTZLICH: Demontag
-ZUSÄTZLICH: verblibenen
 ZUSÄTZLICH: Sowjeta
 ZUSÄTZLICH: Sowjaen
 ZUSÄTZLICH: verbliefene
-ZUSÄTZLICH: Befehls
 ZUSÄTZLICH: Motorräeder
-ZUSÄTZLICH: Maschiinenfabrik
 ZUSÄTZLICH: Thüring
 ZUSÄTZLICH: drohnde
 ZUSÄTZLICH: Demontagem
-ZUSÄTZLICH: 312
 ZUSÄTZLICH: 25
 ZUSÄTZLICH: Maschien
-ZUSÄTZLICH: 1845
 ZUSÄTZLICH: Fahrzeige
-ZUSÄTZLICH: Sowejetunion
 ZUSÄTZLICH: Thürin
 ZUSÄTZLICH: gen
-ZUSÄTZLICH: 1345
 ZUSÄTZLICH: damali
 ZUSÄTZLICH: gen
 ZUSÄTZLICH: 346
-ZUSÄTZLICH: Soewjetische
 ZUSÄTZLICH: 1146
-ZUSÄTZLICH: 124648
 ZUSÄTZLICH: 1749
-ZUSÄTZLICH: zuverlässige
 ZUSÄTZLICH: 3949
 ZUSÄTZLICH: Jare
-ZUSÄTZLICH: 3355
 ZUSÄTZLICH: 71
 ZUSÄTZLICH: R33
 ZUSÄTZLICH: hergestell
-ZUSÄTZLICH: Schroeder
-ZUSÄTZLICH: 8100
 Durchlauf 3:
 KORREKT: Nummer
 KORREKT: der
@@ -1706,17 +1685,13 @@ KORREKT: acts
 KORREKT: listed
 KORREKT: below
 ZUSÄTZLICH: 20176EG
-ZUSÄTZLICH: 21076EC
 ZUSÄTZLICH: unvollständigeVarianten
 ZUSÄTZLICH: erfüllet
 ZUSÄTZLICH: Anforderung
 ZUSÄTZLICH: fulfills
 ZUSÄTZLICH: requirement
-ZUSÄTZLICH: unvöllständige
 ZUSÄTZLICH: n
 ZUSÄTZLICH: versionen
-ZUSÄTZLICH: Vollständigervervollstänigter
-ZUSÄTZLICH: unvölständigen
 ZUSÄTZLICH: Rechtsakt
 Durchlauf 2:
 KORREKT: 2122
@@ -1783,7 +1758,7 @@ KORREKT: Annex
 KORREKT: IV
 KORREKT: to
 KORREKT: Directive
-FAST KORREKT: 9727EC
+FEHLT: 9727EC
 FAST KORREKT: 2161
 KORREKT: Bei
 KORREKT: der
@@ -1987,18 +1962,13 @@ KORREKT: siehe
 FAST KORREKT: 211
 KORREKT: see
 FAST KORREKT: 211
-ZUSÄTZLICH: 2
-ZUSÄTZLICH: 16
 ZUSÄTZLICH: 9
 ZUSÄTZLICH: 7
 ZUSÄTZLICH: 27
 ZUSÄTZLICH: EC
-ZUSÄTZLICH: 2
 ZUSÄTZLICH: 1
 ZUSÄTZLICH: 6
-ZUSÄTZLICH: 2
 ZUSÄTZLICH: 1
-ZUSÄTZLICH: 21
 ZUSÄTZLICH: Zul
 ZUSÄTZLICH: 22
 ZUSÄTZLICH: assungim
@@ -2012,7 +1982,6 @@ ZUSÄTZLICH: sige
 ZUSÄTZLICH: 29
 ZUSÄTZLICH: 30
 ZUSÄTZLICH: 31
-ZUSÄTZLICH: 2
 ZUSÄTZLICH: 8
 ZUSÄTZLICH: 32
 ZUSÄTZLICH: Z
@@ -2026,7 +1995,6 @@ ZUSÄTZLICH: sehene
 ZUSÄTZLICH: höchstzu
 ZUSÄTZLICH: 37
 ZUSÄTZLICH: lassige
-ZUSÄTZLICH: Zentralachsenanhängern
 ZUSÄTZLICH: vorges
 ZUSÄTZLICH: 38
 ZUSÄTZLICH: sehener
@@ -2072,8 +2040,6 @@ ZUSÄTZLICH: see27
 ZUSÄTZLICH: 58
 ZUSÄTZLICH: siehe59
 ZUSÄTZLICH: 82
-ZUSÄTZLICH: 2
-ZUSÄTZLICH: 16
 ZUSÄTZLICH: 3
 ZUSÄTZLICH: Bei60
 ZUSÄTZLICH: 61
@@ -2146,7 +2112,6 @@ ZUSÄTZLICH: 95
 ZUSÄTZLICH: 96
 ZUSÄTZLICH: see97
 ZUSÄTZLICH: 98
-ZUSÄTZLICH: 2
 ZUSÄTZLICH: 1
 ZUSÄTZLICH: 9964
 ZUSÄTZLICH: Bei100
@@ -2468,7 +2433,7 @@ KORREKT: the
 KORREKT: ECM
 KORREKT: with
 KORREKT: information
-FAST KORREKT: About
+FEHLT: About
 KORREKT: throttle
 KORREKT: angle
 KORREKT: for
@@ -2996,7 +2961,6 @@ KORREKT: 16
 KORREKT: DE24944
 KORREKT: Flensburg
 ZUSÄTZLICH: Clauses
-ZUSÄTZLICH: Kraftffahrt
 ZUSÄTZLICH: approv
 ZUSÄTZLICH: apprival
 ZUSÄTZLICH: KrafthartBundessamt
