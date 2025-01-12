@@ -150,34 +150,12 @@ KORREKT: check
 KORREKT: Signature
 KORREKT: Michael
 KORREKT: Juschkat
-ZUSÄTZLICH: confomit
 ZUSÄTZLICH: schlussbescheiwiqwu
 ZUSÄTZLICH: Thne
-ZUSÄTZLICH: infomation
-ZUSÄTZLICH: descrbed
-ZUSÄTZLICH: terein
-ZUSÄTZLICH: beschniebene
-ZUSÄTZLICH: aufgefühiten
 ZUSÄTZLICH: Prüfgnmidlage
-ZUSÄTZLICH: venwendeten
-ZUSÄTZLICH: Früfmuster
 ZUSÄTZLICH: enorderiiche
-ZUSÄTZLICH: Leistungsniveaw
-ZUSÄTZLICH: Zu
-ZUSÄTZLICH: repräsentativ_
-ZUSÄTZLICH: Carried
-ZUSÄTZLICH: Durchfuhrung
-ZUSÄTZLICH: Prüfungen
 ZUSÄTZLICH: ISOIIEC
 ZUSÄTZLICH: 170202012
-ZUSÄTZLICH: KraftfahtBundesamt
-ZUSÄTZLICH: Repudlic
-ZUSÄTZLICH: Gemany
-ZUSÄTZLICH: Auhority
-ZUSÄTZLICH: Rijksdiens
-ZUSÄTZLICH: he
-ZUSÄTZLICH: Nethedands
-ZUSÄTZLICH: 00
 Durchlauf 5:
 KORREKT: 321227
 FAST KORREKT: OnboardDiagnosesystem
@@ -333,59 +311,23 @@ KORREKT: the
 KORREKT: vehicle
 KORREKT: plate
 KORREKT: X
-ZUSÄTZLICH: OnBoardDiagnosesystem
-ZUSÄTZLICH: anein
-ZUSÄTZLICH: vesino
-ZUSÄTZLICH: Einrchiung
-ZUSÄTZLICH: Oher
 ZUSÄTZLICH: Syqtem
-ZUSÄTZLICH: entfillt
-ZUSÄTZLICH: Drehmonentbegtenzer
 ZUSÄTZLICH: jJnein
-ZUSÄTZLICH: liniter
 ZUSÄTZLICH: yeaino
 ZUSÄTZLICH: entfiillt
-ZUSÄTZLICH: Perodically
 ZUSÄTZLICH: systen
-ZUSÄTZLICH: Frovide
 ZUSÄTZLICH: informziicn
 ZUSÄTZLICH: fcreach
-ZUSÄTZLICH: sep
 ZUSÄTZLICH: arste
-ZUSÄTZLICH: Perodisch
-ZUSÄTZLICH: Regeneratonssystem
-ZUSÄTZLICH: salbstständige
 ZUSÄTZLICH: Einnchuung
-ZUSÄTZLICH: Zur
-ZUSÄTZLICH: Regenererung
-ZUSÄTZLICH: Meth
-ZUSÄTZLICH: d
 ZUSÄTZLICH: systemof
-ZUSÄTZLICH: regeneraton
-ZUSÄTZLICH: descripjon
-ZUSÄTZLICH: anlor
-ZUSÄTZLICH: diskontinuieniche
-ZUSÄTZLICH: noncontnvous
 ZUSÄTZLICH: regeneraion
-ZUSÄTZLICH: At
-ZUSÄTZLICH: erorderlichen
 ZUSÄTZLICH: concentrajon
-ZUSÄTZLICH: reagen
-ZUSÄTZLICH: gemàß
 ZUSÄTZLICH: 150
-ZUSÄTZLICH: 2224122
-ZUSÄTZLICH: auBerhalb
-ZUSÄTZLICH: Hanstoff
 ZUSÄTZLICH: _
 ZUSÄTZLICH: Wlw
-ZUSÄTZLICH: Symbdls
-ZUSÄTZLICH: fur
 ZUSÄTZLICH: Abeorptionskoeiizienten
 ZUSÄTZLICH: absompicn
-ZUSÄTZLICH: symbdl
-ZUSÄTZLICH: cnly
-ZUSÄTZLICH: bein
-ZUSÄTZLICH: Yes
 Durchlauf 6:
 KORREKT: Anlage
 KORREKT: 2
@@ -408,7 +350,7 @@ KORREKT: Anhang
 KORREKT: VIII
 KORREKT: Test
 KORREKT: results
-FAST KORREKT: VOEU
+FEHLT: VOEU
 KORREKT: 20181832
 KORREKT: Annex
 KORREKT: VIII
@@ -472,7 +414,7 @@ KORREKT: 03
 KORREKT: Total
 KORREKT: CO2
 KORREKT: emissions
-FAST KORREKT: saving
+FEHLT: saving
 KORREKT: on
 KORREKT: WLTP
 KORREKT: gkm
@@ -489,7 +431,7 @@ KORREKT: 02
 KORREKT: 03
 KORREKT: 04
 KORREKT: Zyklus
-FAST KORREKT: NEF
+FEHLT: NEF
 FAST KORREKT: Z
 FAST KORREKT: Gemäß
 KORREKT: der
@@ -607,7 +549,7 @@ FAST KORREKT: 15
 KORREKT: 1
 KORREKT: 2
 KORREKT: if
-FAST KORREKT: app
+FEHLT: app
 FEHLT: licable
 KORREKT: 0
 KORREKT: Ecoinnovation
@@ -625,7 +567,7 @@ KORREKT: 2
 KORREKT: CO2
 KORREKT: emissions
 FAST KORREKT: o
-FAST KORREKT: f
+FEHLT: f
 KORREKT: the
 KORREKT: ecoinnovation
 KORREKT: vehicle
@@ -643,25 +585,25 @@ KORREKT: 1
 KORREKT: testcycle
 KORREKT: gkm
 KORREKT: 4
-FAST KORREKT: C
-FAST KORREKT: O
+FEHLT: C
+FEHLT: O
 KORREKT: 2
 FAST KORREKT: em
-FAST KORREKT: issions
+FEHLT: issions
 KORREKT: of
-FAST KORREKT: t
-FAST KORREKT: he
-FAST KORREKT: eco
-FAST KORREKT: inno
+FEHLT: t
+FEHLT: he
+FEHLT: eco
+FEHLT: inno
 FEHLT: vation
 KORREKT: vehicle
 KORREKT: under
-FAST KORREKT: Ty
-FAST KORREKT: pe
+FEHLT: Ty
+FEHLT: pe
 KORREKT: 1
-FAST KORREKT: tes
-FAST KORREKT: t
-FAST KORREKT: cycleg
+FEHLT: tes
+FEHLT: t
+FEHLT: cycleg
 KORREKT: km
 KORREKT: 5
 KORREKT: Usage
@@ -682,7 +624,7 @@ KORREKT: CO2
 KORREKT: emissions
 KORREKT: savings
 KORREKT: 1
-FAST KORREKT: 23
+FEHLT: 23
 KORREKT: 4
 KORREKT: 5
 KORREKT: 7
@@ -711,35 +653,20 @@ KORREKT: 6
 KORREKT: 7
 KORREKT: 8
 KORREKT: 9
-ZUSÄTZLICH: EWVGGenehmigungsbogen
-ZUSÄTZLICH: Prüferqebnisse
-ZUSÄTZLICH: qkm
-ZUSÄTZLICH: Allqemeiner
 ZUSÄTZLICH: dler
-ZUSÄTZLICH: qkm
 ZUSÄTZLICH: Variante
 ZUSÄTZLICH: Version
 ZUSÄTZLICH: Variant
 ZUSÄTZLICH: Version
-ZUSÄTZLICH: Gemaß
 ZUSÄTZLICH: Ökoinnovationsfalrzeugs
 ZUSÄTZLICH: 1C02
 ZUSÄTZLICH: 3CO2
-ZUSÄTZLICH: d
-ZUSÄTZLICH: h
-ZUSÄTZLICH: qkm
-ZUSÄTZLICH: _4
-ZUSÄTZLICH: Zur
 ZUSÄTZLICH: Accordling
 ZUSÄTZLICH: Requlation
 ZUSÄTZLICH: 20171151
 ZUSÄTZLICH: 1CO2
 ZUSÄTZLICH: emnissions
-ZUSÄTZLICH: qkm
 ZUSÄTZLICH: 4CO2
-ZUSÄTZLICH: q
-ZUSÄTZLICH: 1l
-ZUSÄTZLICH: NEDCIWLTP
 Durchlauf 8:
 KORREKT: FHZIDENTIFIZIERUNGSNUMMER
 KORREKT: VEHICLE
@@ -779,13 +706,10 @@ FEHLT: manufacturer
 FEHLT: identifier
 FEHLT: WDB
 FEHLT: Daimler
-FAST KORREKT: AG
-FAST KORREKT: WDF
+FEHLT: AG
+FEHLT: WDF
 FEHLT: Diamler
-FAST KORREKT: AG
-ZUSÄTZLICH: I
-ZUSÄTZLICH: Schrifthohe
-ZUSÄTZLICH: 2
+FEHLT: AG
 Durchlauf 3:
 KORREKT: Manufacturers
 KORREKT: statement
@@ -968,102 +892,46 @@ KORREKT: Kern
 FEHLT: Position
 FAST KORREKT: in
 KORREKT: the
-FAST KORREKT: company
+FEHLT: company
 FEHLT: Teamleader
 FEHLT: homologation
-ZUSÄTZLICH: Commisslon
 ZUSÄTZLICH: undersene
-ZUSÄTZLICH: Compzny
-ZUSÄTZLICH: manufacturzr
-ZUSÄTZLICH: manufacturer5
-ZUSÄTZLICH: representadve
-ZUSÄTZLICH: If
-ZUSÄTZLICH: anvl
-ZUSÄTZLICH: 5tatss
 ZUSÄTZLICH: thazthe
 ZUSÄTZLICH: vehides
-ZUSÄTZLICH: 1
-ZUSÄTZLICH: Hake
 ZUSÄTZLICH: adename
-ZUSÄTZLICH: J2
 ZUSÄTZLICH: Mznuiacarer
 ZUSÄTZLICH: Nusqvond
-ZUSÄTZLICH: Tyde
 ZUSÄTZLICH: Husyvun2
-ZUSÄTZLICH: 022
-ZUSÄTZLICH: Verslons
-ZUSÄTZLICH: lí
-ZUSÄTZLICH: avzlable
 ZUSÄTZLICH: Husqvrrau
-ZUSÄTZLICH: Superoto
-ZUSÄTZLICH: rduro
-ZUSÄTZLICH: Catsgory
-ZUSÄTZLICH: subcatecory
-ZUSÄTZLICH: subsubcatecory
-ZUSÄTZLICH: vzhicle
-ZUSÄTZLICH: De
-ZUSÄTZLICH: 42
-ZUSÄTZLICH: whch
-ZUSÄTZLICH: type2Pproval
-ZUSÄTZLICH: Is
-ZUSÄTZLICH: scucht
-ZUSÄTZLICH: wihstand
-ZUSÄTZLICH: normel
-ZUSÄTZLICH: Inzended
-ZUSÄTZLICH: 52500km
-ZUSÄTZLICH: wlthln
 ZUSÄTZLICH: reg
 ZUSÄTZLICH: stradon
-ZUSÄTZLICH: taklne
-ZUSÄTZLICH: Into
-ZUSÄTZLICH: recular
-ZUSÄTZLICH: ma
 ZUSÄTZLICH: nvenance
-ZUSÄTZLICH: specifiz
-ZUSÄTZLICH: J5
-ZUSÄTZLICH: descrbed
-ZUSÄTZLICH: dearly
 ZUSÄTZLICH: unamb
 ZUSÄTZLICH: guously
 ZUSÄTZLICH: In
-ZUSÄTZLICH: Instructlons
-ZUSÄTZLICH: dellvered
-ZUSÄTZLICH: wlth
-ZUSÄTZLICH: urthermore
 ZUSÄTZLICH: cf
 ZUSÄTZLICH: te
-ZUSÄTZLICH: spatems
-ZUSÄTZLICH: Parts
 ZUSÄTZLICH: eqviprent
 ZUSÄTZLICH: crifiedl
 ZUSÄTZLICH: Poropriate
 ZUSÄTZLICH: w1e
 ZUSÄTZLICH: D3e
 ZUSÄTZLICH: d
-ZUSÄTZLICH: Good
-ZUSÄTZLICH: Engineering
-ZUSÄTZLICH: hus
 ZUSÄTZLICH: 0n1
 ZUSÄTZLICH: J7lY
 ZUSÄTZLICH: væhicle
-ZUSÄTZLICH: Pluce
 ZUSÄTZLICH: Mgxighofen
-ZUSÄTZLICH: Pluce
 ZUSÄTZLICH: Mgxighofen
 ZUSÄTZLICH: O212Z1s
 ZUSÄTZLICH: Seratlre
 ZUSÄTZLICH: Nune
-ZUSÄTZLICH: Erdh
 ZUSÄTZLICH: image
-ZUSÄTZLICH: Variantos
-ZUSÄTZLICH: Erdh
 ZUSÄTZLICH: Kenn
 ZUSÄTZLICH: Teurlecder
 ZUSÄTZLICH: hornviogution
 ZUSÄTZLICH: aG
 ZUSÄTZLICH: Stolitghncrstrole
 ZUSÄTZLICH: J
-ZUSÄTZLICH: A52J0
 ZUSÄTZLICH: Mohphofen
 ZUSÄTZLICH: FLAL
 ZUSÄTZLICH: vc
@@ -1173,31 +1041,12 @@ FAST KORREKT: Fahrzeug
 FAST KORREKT: Complete
 KORREKT: Stufe
 KORREKT: Stage
-ZUSÄTZLICH: Priifbericht
-ZUSÄTZLICH: Genehnigungsgegenstand
-ZUSÄTZLICH: EUFahrzeugBinzelgenehigung
-ZUSÄTZLICH: Tehicle
-ZUSÄTZLICH: Prüfgrundlage
-ZUSÄTZLICH: Aperdix
-ZUSÄTZLICH: Fart
-ZUSÄTZLICH: cf
-ZUSÄTZLICH: Znzex
 ZUSÄTZLICH: Nane
 ZUSÄTZLICH: IlDN
-ZUSÄTZLICH: GobH
-ZUSÄTZLICH: Bruchwiegenatr
-ZUSÄTZLICH: Landsthl
 ZUSÄTZLICH: Nane
-ZUSÄTZLICH: DESK
-ZUSÄTZLICH: KOIOR
 ZUSÄTZLICH: Co
-ZUSÄTZLICH: LID
-ZUSÄTZLICH: Dongbuan
-ZUSÄTZLICH: Elbei
 ZUSÄTZLICH: FENCONSOOHI
 ZUSÄTZLICH: vollstindijeg
-ZUSÄTZLICH: Falrzeug
-ZUSÄTZLICH: Coxlete
 Durchlauf 4:
 KORREKT: Anlage
 KORREKT: 1
@@ -1208,7 +1057,7 @@ FAST KORREKT: EGTypgenehmigungsbogen
 KORREKT: Nr
 FAST KORREKT: e1200746035619
 KORREKT: To
-FAST KORREKT: EC
+FEHLT: EC
 FAST KORREKT: type
 KORREKT: approval
 KORREKT: certificate
@@ -1263,7 +1112,7 @@ KORREKT: 29112019
 KORREKT: last
 KORREKT: date
 KORREKT: of
-FAST KORREKT: Amendment
+FEHLT: Amendment
 FAST KORREKT: Gültige
 KORREKT: Seiten
 KORREKT: Valid
@@ -1326,15 +1175,6 @@ KORREKT: 8116302339
 KORREKT: 09072019
 KORREKT: 8116302432
 KORREKT: 20122019
-ZUSÄTZLICH: EGTypgenehmiqungsbogen
-ZUSÄTZLICH: Nre1200746035619
-ZUSÄTZLICH: ECtype
-ZUSÄTZLICH: infornation
-ZUSÄTZLICH: instuction
-ZUSÄTZLICH: rght
-ZUSÄTZLICH: Beschreibungshogen
-ZUSÄTZLICH: Datuni
-ZUSÄTZLICH: Gultige
 ZUSÄTZLICH: Datun
 ZUSÄTZLICH: Datun
 Durchlauf 1:
@@ -1348,16 +1188,16 @@ KORREKT: VEHICLE
 KORREKT: APPROVAL
 KORREKT: CERTIFICATE
 KORREKT: e1
-FAST KORREKT: KraftfährtBundesamt
+FEHLT: KraftfährtBundesamt
 KORREKT: KBA
 KORREKT: DE24932
 KORREKT: Flensburg
 KORREKT: Telefon
 KORREKT: Phone
-FAST KORREKT: 49
+FEHLT: 49
 FAST KORREKT: 461
 FAST KORREKT: 316
-FAST KORREKT: 0
+FEHLT: 0
 KORREKT: EMail
 KORREKT: Email
 KORREKT: EUFEGkbade
@@ -1415,9 +1255,9 @@ KORREKT: Entfällt
 KORREKT: Not
 KORREKT: applicable
 KORREKT: ABSCHNITT
-FAST KORREKT: I
+FEHLT: I
 KORREKT: SECTION
-FAST KORREKT: I
+FEHLT: I
 KORREKT: Der
 KORREKT: Unterzeichnete
 KORREKT: Herr
@@ -1465,20 +1305,11 @@ KORREKT: Commercial
 KORREKT: names
 KORREKT: FENGON
 KORREKT: 500
-ZUSÄTZLICH: 49461
-ZUSÄTZLICH: 3160
-ZUSÄTZLICH: EUFahizeugEinzelgenehmigung
-ZUSÄTZLICH: conceming
-ZUSÄTZLICH: EUFahzeugEinzelgenehmigungsbogens
 ZUSÄTZLICH: e11v18858DEO435
 ZUSÄTZLICH: Versagung
 ZUSÄTZLICH: Rucknahme
 ZUSÄTZLICH: refusal
 ZUSÄTZLICH: withdrawal
-ZUSÄTZLICH: beststigt
-ZUSÄTZLICH: Fahizeug
-ZUSÄTZLICH: Firnenname
-ZUSÄTZLICH: Manufacturer
 ZUSÄTZLICH: FENGONSOOMT
 ZUSÄTZLICH: FENGONSOOMT
 ZUSÄTZLICH: DXKTISOKDH

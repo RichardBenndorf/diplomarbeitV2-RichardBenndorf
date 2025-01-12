@@ -4,16 +4,22 @@ Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
 - Gesamtzeichen: 151
-- Character Error Rate (CER): 33.11%
-- Falsche Zeichen (absolut): 50
+- Korrekte Zeichen: 145
+- Fehlende Zeichen: 6
+- Zusätzliche Zeichen: 32
+- Character Error Rate (CER): 25.17%
 
 Wortbasierte Metriken:
 - Gesamtwörter: 19
-- Word Error Rate (WER): 78.95%
 - Korrekt erkannte Wörter: 10
-- Fast korrekt erkannte Wörter: 17
-- Fehlende Wörter: 9
-- Zusätzliche Wörter: 15
+- Korrekt erkannte Wörter inkl. fast korrekter Wörter: 17
+- Fehlende Wörter: 2
+- Zusätzliche Wörter: 8
+- Word Error Rate (WER): 89.47%
+- Word Error Rate inkl. fast korrekter Wörter: 52.63%
+- Fast korrekt erkannte Wörter: 7
+- Korrekt erkannte Quote: 52.63%
+- Korrekt erkannte Quote inkl. fast korrekter Wörter: 89.47%
 
 Semantische Metriken:
 - Cosine Similarity: 32.57%
@@ -30,16 +36,22 @@ Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
 - Gesamtzeichen: 486
-- Character Error Rate (CER): 51.03%
-- Falsche Zeichen (absolut): 248
+- Korrekte Zeichen: 333
+- Fehlende Zeichen: 153
+- Zusätzliche Zeichen: 9
+- Character Error Rate (CER): 33.33%
 
 Wortbasierte Metriken:
 - Gesamtwörter: 79
-- Word Error Rate (WER): 62.03%
 - Korrekt erkannte Wörter: 36
-- Fast korrekt erkannte Wörter: 41
-- Fehlende Wörter: 38
-- Zusätzliche Wörter: 21
+- Korrekt erkannte Wörter inkl. fast korrekter Wörter: 41
+- Fehlende Wörter: 33
+- Zusätzliche Wörter: 16
+- Word Error Rate (WER): 68.35%
+- Word Error Rate inkl. fast korrekter Wörter: 62.03%
+- Fast korrekt erkannte Wörter: 5
+- Korrekt erkannte Quote: 45.57%
+- Korrekt erkannte Quote inkl. fast korrekter Wörter: 51.90%
 
 Semantische Metriken:
 - Cosine Similarity: 48.32%
@@ -56,16 +68,22 @@ Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
 - Gesamtzeichen: 1850
-- Character Error Rate (CER): 85.14%
-- Falsche Zeichen (absolut): 1575
+- Korrekte Zeichen: 1021
+- Fehlende Zeichen: 829
+- Zusätzliche Zeichen: 830
+- Character Error Rate (CER): 89.68%
 
 Wortbasierte Metriken:
 - Gesamtwörter: 247
-- Word Error Rate (WER): 137.65%
 - Korrekt erkannte Wörter: 29
-- Fast korrekt erkannte Wörter: 67
-- Fehlende Wörter: 210
-- Zusätzliche Wörter: 148
+- Korrekt erkannte Wörter inkl. fast korrekter Wörter: 57
+- Fehlende Wörter: 151
+- Zusätzliche Wörter: 120
+- Word Error Rate (WER): 121.05%
+- Word Error Rate inkl. fast korrekter Wörter: 109.72%
+- Fast korrekt erkannte Wörter: 28
+- Korrekt erkannte Quote: 11.74%
+- Korrekt erkannte Quote inkl. fast korrekter Wörter: 23.08%
 
 Semantische Metriken:
 - Cosine Similarity: 17.71%
@@ -82,16 +100,22 @@ Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
 - Gesamtzeichen: 799
-- Character Error Rate (CER): 56.07%
-- Falsche Zeichen (absolut): 448
+- Korrekte Zeichen: 621
+- Fehlende Zeichen: 178
+- Zusätzliche Zeichen: 36
+- Character Error Rate (CER): 26.78%
 
 Wortbasierte Metriken:
 - Gesamtwörter: 109
-- Word Error Rate (WER): 78.90%
 - Korrekt erkannte Wörter: 48
-- Fast korrekt erkannte Wörter: 74
-- Fehlende Wörter: 55
-- Zusätzliche Wörter: 52
+- Korrekt erkannte Wörter inkl. fast korrekter Wörter: 67
+- Fehlende Wörter: 35
+- Zusätzliche Wörter: 32
+- Word Error Rate (WER): 78.90%
+- Word Error Rate inkl. fast korrekter Wörter: 61.47%
+- Fast korrekt erkannte Wörter: 19
+- Korrekt erkannte Quote: 44.04%
+- Korrekt erkannte Quote inkl. fast korrekter Wörter: 61.47%
 
 Semantische Metriken:
 - Cosine Similarity: 37.19%
@@ -108,16 +132,22 @@ Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
 - Gesamtzeichen: 926
-- Character Error Rate (CER): 31.21%
-- Falsche Zeichen (absolut): 289
+- Korrekte Zeichen: 731
+- Fehlende Zeichen: 195
+- Zusätzliche Zeichen: 35
+- Character Error Rate (CER): 24.84%
 
 Wortbasierte Metriken:
 - Gesamtwörter: 126
-- Word Error Rate (WER): 53.97%
 - Korrekt erkannte Wörter: 65
-- Fast korrekt erkannte Wörter: 81
-- Fehlende Wörter: 54
-- Zusätzliche Wörter: 27
+- Korrekt erkannte Wörter inkl. fast korrekter Wörter: 76
+- Fehlende Wörter: 42
+- Zusätzliche Wörter: 16
+- Word Error Rate (WER): 54.76%
+- Word Error Rate inkl. fast korrekter Wörter: 46.03%
+- Fast korrekt erkannte Wörter: 11
+- Korrekt erkannte Quote: 51.59%
+- Korrekt erkannte Quote inkl. fast korrekter Wörter: 60.32%
 
 Semantische Metriken:
 - Cosine Similarity: 59.97%
@@ -134,16 +164,22 @@ Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
 - Gesamtzeichen: 1238
-- Character Error Rate (CER): 163.81%
-- Falsche Zeichen (absolut): 2028
+- Korrekte Zeichen: 1168
+- Fehlende Zeichen: 70
+- Zusätzliche Zeichen: 1645
+- Character Error Rate (CER): 138.53%
 
 Wortbasierte Metriken:
 - Gesamtwörter: 174
-- Word Error Rate (WER): 205.75%
 - Korrekt erkannte Wörter: 64
-- Fast korrekt erkannte Wörter: 103
-- Fehlende Wörter: 106
-- Zusätzliche Wörter: 176
+- Korrekt erkannte Wörter inkl. fast korrekter Wörter: 77
+- Fehlende Wörter: 90
+- Zusätzliche Wörter: 154
+- Word Error Rate (WER): 147.70%
+- Word Error Rate inkl. fast korrekter Wörter: 140.23%
+- Fast korrekt erkannte Wörter: 13
+- Korrekt erkannte Quote: 36.78%
+- Korrekt erkannte Quote inkl. fast korrekter Wörter: 44.25%
 
 Semantische Metriken:
 - Cosine Similarity: 50.52%
@@ -160,16 +196,22 @@ Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
 - Gesamtzeichen: 1163
-- Character Error Rate (CER): 139.04%
-- Falsche Zeichen (absolut): 1617
+- Korrekte Zeichen: 1029
+- Fehlende Zeichen: 134
+- Zusätzliche Zeichen: 1426
+- Character Error Rate (CER): 134.14%
 
 Wortbasierte Metriken:
 - Gesamtwörter: 154
-- Word Error Rate (WER): 59.09%
 - Korrekt erkannte Wörter: 79
-- Fast korrekt erkannte Wörter: 114
-- Fehlende Wörter: 65
-- Zusätzliche Wörter: 50
+- Korrekt erkannte Wörter inkl. fast korrekter Wörter: 106
+- Fehlende Wörter: 36
+- Zusätzliche Wörter: 19
+- Word Error Rate (WER): 53.25%
+- Word Error Rate inkl. fast korrekter Wörter: 35.71%
+- Fast korrekt erkannte Wörter: 27
+- Korrekt erkannte Quote: 51.30%
+- Korrekt erkannte Quote inkl. fast korrekter Wörter: 68.83%
 
 Semantische Metriken:
 - Cosine Similarity: 60.00%
@@ -186,16 +228,22 @@ Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
 - Gesamtzeichen: 1798
-- Character Error Rate (CER): 77.03%
-- Falsche Zeichen (absolut): 1385
+- Korrekte Zeichen: 1029
+- Fehlende Zeichen: 769
+- Zusätzliche Zeichen: 493
+- Character Error Rate (CER): 70.19%
 
 Wortbasierte Metriken:
 - Gesamtwörter: 259
-- Word Error Rate (WER): 165.25%
 - Korrekt erkannte Wörter: 60
-- Fast korrekt erkannte Wörter: 156
-- Fehlende Wörter: 131
-- Zusätzliche Wörter: 357
+- Korrekt erkannte Wörter inkl. fast korrekter Wörter: 91
+- Fehlende Wörter: 72
+- Zusätzliche Wörter: 266
+- Word Error Rate (WER): 142.47%
+- Word Error Rate inkl. fast korrekter Wörter: 130.50%
+- Fast korrekt erkannte Wörter: 31
+- Korrekt erkannte Quote: 23.17%
+- Korrekt erkannte Quote inkl. fast korrekter Wörter: 35.14%
 
 Semantische Metriken:
 - Cosine Similarity: 13.85%

@@ -94,18 +94,14 @@ KORREKT: 2
 KORREKT: Personen
 FAST KORREKT: 188
 KORREKT: kg
-FAST KORREKT: Zulässiges
+FEHLT: Zulässiges
 KORREKT: Gesamtgewicht
 FAST KORREKT: 350
 KORREKT: kg
-ZUSÄTZLICH: Voit
 ZUSÄTZLICH: Karussell
 ZUSÄTZLICH: Reif
 ZUSÄTZLICH: en
-ZUSÄTZLICH: 25
 ZUSÄTZLICH: Luifdruck19
-ZUSÄTZLICH: Jozius
-ZUSÄTZLICH: 180
 ZUSÄTZLICH: 330
 Durchlauf 6:
 KORREKT: Allgemeine
@@ -355,40 +351,25 @@ KORREKT: erfolgt
 KORREKT: durch
 FEHLT: gebürstete
 FAST KORREKT: Zahn
-ZUSÄTZLICH: Bullig
 ZUSÄTZLICH: Acker
 ZUSÄTZLICH: schlepper
 ZUSÄTZLICH: 336
-ZUSÄTZLICH: 39
-ZUSÄTZLICH: 72
-ZUSÄTZLICH: Ackerbulling
-ZUSÄTZLICH: 8526
 ZUSÄTZLICH: Getriebezylinder
 ZUSÄTZLICH: Rückwärte
 ZUSÄTZLICH: zylinder
-ZUSÄTZLICH: Schaltthebeln
-ZUSÄTZLICH: 13
 ZUSÄTZLICH: be
-ZUSÄTZLICH: trägt
 ZUSÄTZLICH: Hintermotoren
 ZUSÄTZLICH: Schleppcr
-ZUSÄTZLICH: Hinterraufußbremse
 ZUSÄTZLICH: Getriebeeinzelbremsc
-ZUSÄTZLICH: ZweifaktClükkopfmotor
-ZUSÄTZLICH: Anlaufzündung
-ZUSÄTZLICH: Anwerfen
 ZUSÄTZLICH: MercosyphonKüster
-ZUSÄTZLICH: umlaufkühlung
 ZUSÄTZLICH: dureh
 ZUSÄTZLICH: DerSchlepper
-ZUSÄTZLICH: StVAG
 ZUSÄTZLICH: Leistung
 ZUSÄTZLICH: durc11
 ZUSÄTZLICH: Acmaschenkellenkung
 ZUSÄTZLICH: L
 ZUSÄTZLICH: 8626
 ZUSÄTZLICH: Sechszylindertriebe
-ZUSÄTZLICH: gespeist
 ZUSÄTZLICH: DerSchlepperc
 ZUSÄTZLICH: 15sechzylinder
 ZUSÄTZLICH: Straßen
@@ -396,11 +377,9 @@ ZUSÄTZLICH: fahrt
 ZUSÄTZLICH: Fahrgeschiidigkeit
 ZUSÄTZLICH: liebseren
 ZUSÄTZLICH: geseipt
-ZUSÄTZLICH: Getriebez
 ZUSÄTZLICH: öffnung
 ZUSÄTZLICH: Flügelflansch
 ZUSÄTZLICH: Ingangssetzung
-ZUSÄTZLICH: Kupplng
 ZUSÄTZLICH: Kühlng
 ZUSÄTZLICH: Schmierg
 ZUSÄTZLICH: Beleuchung
@@ -408,17 +387,14 @@ ZUSÄTZLICH: Leistung
 ZUSÄTZLICH: gleicnen
 ZUSÄTZLICH: Ausfiihrungen
 ZUSÄTZLICH: Getriehe
-ZUSÄTZLICH: LanzVerlitgus
 ZUSÄTZLICH: DerMotor
 ZUSÄTZLICH: Kuplung
-ZUSÄTZLICH: Hiezenscheibe
 ZUSÄTZLICH: Kräf1übertra
 ZUSÄTZLICH: gung
 ZUSÄTZLICH: Hinternd
 ZUSÄTZLICH: se
 ZUSÄTZLICH: duich
 ZUSÄTZLICH: gebürzte
-ZUSÄTZLICH: Zaim
 Durchlauf 8:
 KORREKT: 18
 KORREKT: Kraftübertragung
@@ -453,7 +429,7 @@ KORREKT: 254
 KORREKT: 6
 KORREKT: 191
 KORREKT: R2
-FAST KORREKT: 268
+FEHLT: 268
 KORREKT: Bei
 KORREKT: B
 KORREKT: gesperrt
@@ -533,12 +509,8 @@ ZUSÄTZLICH: Hinterschse
 ZUSÄTZLICH: Kegelradausgleich
 ZUSÄTZLICH: getriebe
 ZUSÄTZLICH: Zwischenrader
-ZUSÄTZLICH: 0966
-ZUSÄTZLICH: 766
 ZUSÄTZLICH: Schalt
 ZUSÄTZLICH: habel
-ZUSÄTZLICH: Prallteiler
-ZUSÄTZLICH: kraftstoffbehälters
 ZUSÄTZLICH: Eigenggewicht
 ZUSÄTZLICH: 55
 Durchlauf 3:
@@ -669,10 +641,8 @@ KORREKT: e
 KORREKT: Takt
 KORREKT: Zweitakt
 ZUSÄTZLICH: Zugmaschmne
-ZUSÄTZLICH: Eisenbereifmg
 ZUSÄTZLICH: Sechseganggetriebc
 ZUSÄTZLICH: Ausführmgen
-ZUSÄTZLICH: ausgerüst
 ZUSÄTZLICH: Kotflugel
 ZUSÄTZLICH: FS
 ZUSÄTZLICH: Zugmaschin
@@ -681,8 +651,6 @@ ZUSÄTZLICH: erschleper
 ZUSÄTZLICH: Glühkopf
 ZUSÄTZLICH: motor
 ZUSÄTZLICH: 5
-ZUSÄTZLICH: 10358
-ZUSÄTZLICH: 60
 ZUSÄTZLICH: Hein
 ZUSÄTZLICH: rich
 ZUSÄTZLICH: Mannhein
@@ -749,7 +717,7 @@ KORREKT: Zugmaschinen
 KORREKT: in
 KORREKT: Land
 KORREKT: und
-FAST KORREKT: forstwirtschaftlichen
+FEHLT: forstwirtschaftlichen
 KORREKT: Betrieben
 FAST KORREKT: Ausführung
 KORREKT: B
@@ -861,38 +829,31 @@ KORREKT: Abs4
 KORREKT: StVZ0
 FAST KORREKT: verlängert
 KORREKT: werden
-ZUSÄTZLICH: Auszührung
-ZUSÄTZLICH: Laufreifen
 ZUSÄTZLICH: Abgassvorrichtung
 ZUSÄTZLICH: Fahrerseits
 ZUSÄTZLICH: 3tVZO
 ZUSÄTZLICH: höchstauflassige
 ZUSÄTZLICH: Leistung
 ZUSÄTZLICH: Fahrerzuschus
-ZUSÄTZLICH: Der
 ZUSÄTZLICH: Fahrzeuggeräte
 ZUSÄTZLICH: Leistungsfähigkeit
 ZUSÄTZLICH: Auszführung
 ZUSÄTZLICH: eigener
-ZUSÄTZLICH: Reihe
 ZUSÄTZLICH: Zugsmachine
 ZUSÄTZLICH: derr
 ZUSÄTZLICH: Erfüillung
 ZUSÄTZLICH: derVorschrift
 ZUSÄTZLICH: ders
-ZUSÄTZLICH: 146
 ZUSÄTZLICH: 2StVZO
 ZUSÄTZLICH: Bediehbarkeit
 ZUSÄTZLICH: ders
 ZUSÄTZLICH: Abgarr
 ZUSÄTZLICH: vorrichtungin
 ZUSÄTZLICH: Kraftstofleitun
-ZUSÄTZLICH: Fahrersits
 ZUSÄTZLICH: sowies
 ZUSÄTZLICH: Eruillung
 ZUSÄTZLICH: ders
 ZUSÄTZLICH: Vorscricht
-ZUSÄTZLICH: 149
 ZUSÄTZLICH: Ab1
 ZUSÄTZLICH: uncl
 ZUSÄTZLICH: 23t
@@ -902,7 +863,6 @@ ZUSÄTZLICH: höchstaufflassige
 ZUSÄTZLICH: Leistung
 ZUSÄTZLICH: Fährerzusches
 ZUSÄTZLICH: freigestell
-ZUSÄTZLICH: Der
 ZUSÄTZLICH: Fährzeuggerät
 ZUSÄTZLICH: hinsichllich
 ZUSÄTZLICH: eigener
@@ -913,15 +873,9 @@ ZUSÄTZLICH: Zugmaschen
 ZUSÄTZLICH: Forstr
 ZUSÄTZLICH: wirtschaftlichen
 ZUSÄTZLICH: Bctrieben
-ZUSÄTZLICH: In
 ZUSÄTZLICH: beschrägen
 ZUSÄTZLICH: allgeimein
-ZUSÄTZLICH: Betrieberlaubnis
-ZUSÄTZLICH: Defugnisse
-ZUSÄTZLICH: erlöchen
-ZUSÄTZLICH: 15
 ZUSÄTZLICH: 1971
-ZUSÄTZLICH: verliegert
 Durchlauf 4:
 KORREKT: D
 KORREKT: 8506
@@ -968,7 +922,7 @@ KORREKT: mm
 KORREKT: 3390
 KORREKT: mm
 FAST KORREKT: Höhe
-FAST KORREKT: 2452
+FEHLT: 2452
 KORREKT: mm
 KORREKT: Durch
 KORREKT: Anbau
@@ -1079,20 +1033,14 @@ KORREKT: 531
 KORREKT: StVZO
 ZUSÄTZLICH: ausgestattet
 ZUSÄTZLICH: Seitenwänden
-ZUSÄTZLICH: Hase
 ZUSÄTZLICH: Fahrersitzzdach
-ZUSÄTZLICH: 1705
 ZUSÄTZLICH: Zugmaschin
-ZUSÄTZLICH: en
 ZUSÄTZLICH: Eisenbahn
-ZUSÄTZLICH: 564
 ZUSÄTZLICH: StVZ0
 ZUSÄTZLICH: Scheinw
 ZUSÄTZLICH: erfer
-ZUSÄTZLICH: höhe
 ZUSÄTZLICH: Fahr
 ZUSÄTZLICH: bahn
-ZUSÄTZLICH: 5
 ZUSÄTZLICH: 0
 ZUSÄTZLICH: St
 ZUSÄTZLICH: VZO
@@ -1102,15 +1050,11 @@ ZUSÄTZLICH: t
 ZUSÄTZLICH: StrassenverkehrsZulassungsGrundung
 ZUSÄTZLICH: Reichsverkehrsamini
 ZUSÄTZLICH: sters
-ZUSÄTZLICH: Rohrleitung
-ZUSÄTZLICH: Fahrersatz
 ZUSÄTZLICH: be
-ZUSÄTZLICH: dienbar
 ZUSÄTZLICH: StVzo
 ZUSÄTZLICH: 95
 ZUSÄTZLICH: St
 ZUSÄTZLICH: Vzo
-ZUSÄTZLICH: Kotflugel
 ZUSÄTZLICH: StVz0
 Durchlauf 1:
 KORREKT: Ausfertigung
@@ -1373,8 +1317,6 @@ FAST KORREKT: 19
 KORREKT: Bemerkungen
 KORREKT: einzutragen
 ZUSÄTZLICH: Ackerb
-ZUSÄTZLICH: L
-ZUSÄTZLICH: a
 ZUSÄTZLICH: n
 ZUSÄTZLICH: z
 ZUSÄTZLICH: Lingenheim
@@ -1387,14 +1329,12 @@ ZUSÄTZLICH: Lingenheim
 ZUSÄTZLICH: Betriebse
 ZUSÄTZLICH: rlaubniss
 ZUSÄTZLICH: 26
-ZUSÄTZLICH: 937
 ZUSÄTZLICH: Zugmaschin
 ZUSÄTZLICH: 5S
 ZUSÄTZLICH: ckerbulld
 ZUSÄTZLICH: dog
 ZUSÄTZLICH: 50
 ZUSÄTZLICH: 6
-ZUSÄTZLICH: Ausbührung
 ZUSÄTZLICH: Ausbürhung
 ZUSÄTZLICH: Eisenbereif
 ZUSÄTZLICH: Zug
@@ -1406,7 +1346,6 @@ ZUSÄTZLICH: 5
 ZUSÄTZLICH: 0
 ZUSÄTZLICH: 6
 ZUSÄTZLICH: Firm
-ZUSÄTZLICH: a
 ZUSÄTZLICH: vomFührersitz
 ZUSÄTZLICH: Erfü
 ZUSÄTZLICH: llung
@@ -1416,8 +1355,6 @@ ZUSÄTZLICH: Abs1
 ZUSÄTZLICH: StVzo
 ZUSÄTZLICH: höchstd
 ZUSÄTZLICH: zulässige
-ZUSÄTZLICH: Harsteller
-ZUSÄTZLICH: Kraftfahzeugbrief
 ZUSÄTZLICH: Bescha
 ZUSÄTZLICH: ffenheit
 ZUSÄTZLICH: Über

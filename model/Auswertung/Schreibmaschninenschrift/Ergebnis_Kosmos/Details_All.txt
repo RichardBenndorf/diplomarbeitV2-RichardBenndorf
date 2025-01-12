@@ -199,7 +199,7 @@ KORREKT: atu
 KORREKT: Reifen
 KORREKT: hinten
 KORREKT: 35
-FAST KORREKT: 0
+FEHLT: 0
 KORREKT: 19
 KORREKT: Luftdruck
 KORREKT: 19
@@ -211,7 +211,7 @@ KORREKT: mechanisch
 KORREKT: BMW
 FAST KORREKT: Eigengewicht
 KORREKT: mit
-FAST KORREKT: Öl
+FEHLT: Öl
 KORREKT: und
 KORREKT: Kraftstoff
 KORREKT: 162
@@ -226,17 +226,7 @@ FAST KORREKT: Zulässiges
 KORREKT: Gesamtgewicht
 KORREKT: 350
 KORREKT: kg
-ZUSÄTZLICH: Kommen
-ZUSÄTZLICH: bisserigen
-ZUSÄTZLICH: fur
 ZUSÄTZLICH: Typgutachten
-ZUSÄTZLICH: Linge
-ZUSÄTZLICH: Höne
-ZUSÄTZLICH: Karuan
-ZUSÄTZLICH: Nigengewicht
-ZUSÄTZLICH: Ul
-ZUSÄTZLICH: Zulassige
-ZUSÄTZLICH: Zulassiges
 Durchlauf 6:
 KORREKT: Allgemeine
 KORREKT: Beschreibung
@@ -336,7 +326,7 @@ KORREKT: erfolgt
 KORREKT: durch
 KORREKT: eine
 FAST KORREKT: Mehrscheibenkupplung
-FAST KORREKT: Das
+FEHLT: Das
 KORREKT: Schmierung
 KORREKT: ist
 KORREKT: eine
@@ -352,7 +342,7 @@ FEHLT: Plattform
 KORREKT: und
 FAST KORREKT: Seitenbleche
 KORREKT: Er
-FAST KORREKT: besitzet
+FEHLT: besitzet
 KORREKT: elektrische
 KORREKT: Beleuchtung
 KORREKT: nach
@@ -454,7 +444,7 @@ KORREKT: Motor
 KORREKT: und
 KORREKT: Getriebe
 KORREKT: sind
-FAST KORREKT: als
+FEHLT: als
 KORREKT: Blockkonstruktion
 KORREKT: in
 FAST KORREKT: LanzPerlitguß
@@ -462,7 +452,7 @@ KORREKT: ausgeführt
 KORREKT: Der
 KORREKT: Motor
 KORREKT: hat
-FAST KORREKT: Ein
+FEHLT: Ein
 KORREKT: und
 KORREKT: Leerlaufregler
 KORREKT: und
@@ -486,70 +476,34 @@ KORREKT: durch
 FAST KORREKT: gebürstete
 FAST KORREKT: Zahn
 ZUSÄTZLICH: Ausnahme
-ZUSÄTZLICH: im
-ZUSÄTZLICH: Bulling
-ZUSÄTZLICH: Acherschlepper
-ZUSÄTZLICH: 856
-ZUSÄTZLICH: im
-ZUSÄTZLICH: Ackerbulling
 ZUSÄTZLICH: bereitstellt
-ZUSÄTZLICH: Normaleusführung
-ZUSÄTZLICH: 856
 ZUSÄTZLICH: Getriebegehage
-ZUSÄTZLICH: vorwirts
 ZUSÄTZLICH: Lockwerts
 ZUSÄTZLICH: gänge
-ZUSÄTZLICH: Schnlthebeln
-ZUSÄTZLICH: 13
-ZUSÄTZLICH: be
 ZUSÄTZLICH: tritt
 ZUSÄTZLICH: Ninternefern
-ZUSÄTZLICH: luftbereit
 ZUSÄTZLICH: Ninterneifudbräse
-ZUSÄTZLICH: faststellare
-ZUSÄTZLICH: Getriebehandbrense
-ZUSÄTZLICH: ZweitaktGlühkopfmotor
 ZUSÄTZLICH: Anladzüllung
-ZUSÄTZLICH: Anwerfen
 ZUSÄTZLICH: Anicern
-ZUSÄTZLICH: abneisbar
 ZUSÄTZLICH: Leniatsch
-ZUSÄTZLICH: im
 ZUSÄTZLICH: gehliebt
 ZUSÄTZLICH: MercosyphonMaster
-ZUSÄTZLICH: umlaufkühlung
-ZUSÄTZLICH: Einflügel
-ZUSÄTZLICH: Achrscheibenkupplung
 ZUSÄTZLICH: Frisch
 ZUSÄTZLICH: BlUmlaufschmierung
-ZUSÄTZLICH: Ferrers
 ZUSÄTZLICH: rinttform
-ZUSÄTZLICH: eitenableche
-ZUSÄTZLICH: StVGC
-ZUSÄTZLICH: Achnschenkellenkung
-ZUSÄTZLICH: 856
 ZUSÄTZLICH: Sechsammgetriebe
 ZUSÄTZLICH: sechsamm
 ZUSÄTZLICH: Strassen
 ZUSÄTZLICH: fahrt
 ZUSÄTZLICH: anreprocht
-ZUSÄTZLICH: Schnlthebel
 ZUSÄTZLICH: Bffnung
 ZUSÄTZLICH: Riluiflansch
 ZUSÄTZLICH: Erdrzen
-ZUSÄTZLICH: Küpplung
-ZUSÄTZLICH: Lanzerlitgut
-ZUSÄTZLICH: Küpplung
-ZUSÄTZLICH: Riezenscheibe
-ZUSÄTZLICH: lankwirtschaftlichen
 ZUSÄTZLICH: Anschäden
 ZUSÄTZLICH: Kraftübortra
 ZUSÄTZLICH: gung
-ZUSÄTZLICH: nur
 ZUSÄTZLICH: Ninterne
 ZUSÄTZLICH: se
-ZUSÄTZLICH: gebrötete
-ZUSÄTZLICH: Zaim
 Durchlauf 8:
 KORREKT: 18
 KORREKT: Kraftübertragung
@@ -579,9 +533,9 @@ KORREKT: R1
 KORREKT: 765
 KORREKT: 4
 KORREKT: 338
-FAST KORREKT: 5
+FEHLT: 5
 KORREKT: 254
-FAST KORREKT: 6
+FEHLT: 6
 KORREKT: 191
 KORREKT: R2
 KORREKT: 268
@@ -650,7 +604,7 @@ KORREKT: hinten
 KORREKT: um
 KORREKT: 50
 KORREKT: kg
-FAST KORREKT: Kotflügen
+FEHLT: Kotflügen
 FAST KORREKT: vor
 KORREKT: und
 KORREKT: hinten
@@ -662,14 +616,7 @@ KORREKT: 50
 KORREKT: kg
 ZUSÄTZLICH: Schalt
 ZUSÄTZLICH: hebel
-ZUSÄTZLICH: Schalldempfung
-ZUSÄTZLICH: Ausläß
-ZUSÄTZLICH: Passungsvormögen
-ZUSÄTZLICH: Rohül
 ZUSÄTZLICH: Sonzn
-ZUSÄTZLICH: Windsohitzscheibe
-ZUSÄTZLICH: vorn
-ZUSÄTZLICH: am
 ZUSÄTZLICH: Zaufmells
 Durchlauf 3:
 FEHLT: TYPGUTACHTEN
@@ -738,7 +685,7 @@ KORREKT: Ackerbulldog
 KORREKT: gelten
 KORREKT: im
 KORREKT: Übrigen
-FAST KORREKT: folgende
+FEHLT: folgende
 KORREKT: Merkmale
 KORREKT: 1
 KORREKT: Art
@@ -751,7 +698,7 @@ KORREKT: Hersteller
 KORREKT: des
 FAST KORREKT: Fahrzeuges
 KORREKT: Heinrich
-FAST KORREKT: Lan
+FEHLT: Lan
 FAST KORREKT: z
 KORREKT: A
 KORREKT: G
@@ -798,27 +745,13 @@ KORREKT: Mannheim
 FAST KORREKT: e
 KORREKT: Takt
 KORREKT: Zweitakt
-ZUSÄTZLICH: T
-ZUSÄTZLICH: Y
-ZUSÄTZLICH: P
-ZUSÄTZLICH: U
-ZUSÄTZLICH: T
 ZUSÄTZLICH: C
 ZUSÄTZLICH: H
-ZUSÄTZLICH: T
 ZUSÄTZLICH: E
-ZUSÄTZLICH: Über
-ZUSÄTZLICH: Hsuptyp
 ZUSÄTZLICH: Sechsanggetriebe
-ZUSÄTZLICH: Zusatsteilen
-ZUSÄTZLICH: ausgerüst
-ZUSÄTZLICH: HinterraJern
-ZUSÄTZLICH: vom
 ZUSÄTZLICH: fol
 ZUSÄTZLICH: ende
-ZUSÄTZLICH: Fahrzeugs
 ZUSÄTZLICH: Fahrgestells
-ZUSÄTZLICH: Antriebs
 Durchlauf 2:
 FEHLT: Ausführung
 FAST KORREKT: A
@@ -856,7 +789,7 @@ KORREKT: des
 KORREKT: Vorschriften
 KORREKT: des
 KORREKT: 49
-FAST KORREKT: Abs1
+FEHLT: Abs1
 KORREKT: und
 KORREKT: 2
 KORREKT: StVZO
@@ -875,7 +808,7 @@ KORREKT: der
 FEHLT: Scheinwerferhöhe
 KORREKT: nur
 KORREKT: den
-FAST KORREKT: Vorschritten
+FEHLT: Vorschritten
 KORREKT: für
 KORREKT: die
 FAST KORREKT: Zugmaschinen
@@ -902,7 +835,7 @@ KORREKT: 46
 KORREKT: Abs
 KORREKT: 2
 KORREKT: StVZO
-FAST KORREKT: Uber
+FEHLT: Uber
 KORREKT: die
 FAST KORREKT: Bedienbarkeit
 KORREKT: der
@@ -921,7 +854,7 @@ KORREKT: der
 KORREKT: Vorschrift
 KORREKT: des
 KORREKT: 49
-FAST KORREKT: Ab
+FEHLT: Ab
 KORREKT: 1
 KORREKT: und
 KORREKT: 2
@@ -951,7 +884,7 @@ FAST KORREKT: Zugmaschinen
 KORREKT: in
 FAST KORREKT: Land
 KORREKT: und
-FAST KORREKT: Forstwirtschaftlichen
+FEHLT: Forstwirtschaftlichen
 KORREKT: Betrieben
 KORREKT: 4
 KORREKT: Im
@@ -982,7 +915,7 @@ KORREKT: erlöschen
 KORREKT: mit
 FEHLT: Ablauf
 KORREKT: des
-FAST KORREKT: 19
+FEHLT: 19
 KORREKT: November
 KORREKT: 1951
 KORREKT: wenn
@@ -990,45 +923,24 @@ KORREKT: sie
 KORREKT: nicht
 KORREKT: gemäß
 KORREKT: 20
-FAST KORREKT: Abs4
-FAST KORREKT: StVZ0
+FEHLT: Abs4
+FEHLT: StVZ0
 KORREKT: verlängert
 KORREKT: werden
 ZUSÄTZLICH: Ausfährmg
-ZUSÄTZLICH: Auftreifen
-ZUSÄTZLICH: Zugnasciine
-ZUSÄTZLICH: Bedienbereit
 ZUSÄTZLICH: Prüversitz
 ZUSÄTZLICH: höchstauldasige
 ZUSÄTZLICH: Kontestärke
-ZUSÄTZLICH: Freigestellt
-ZUSÄTZLICH: Der
-ZUSÄTZLICH: hinrichtlich
 ZUSÄTZLICH: Sozialwerferhöhe
-ZUSÄTZLICH: Zugnasciinen
-ZUSÄTZLICH: land
 ZUSÄTZLICH: Ausfährmg
-ZUSÄTZLICH: 3
-ZUSÄTZLICH: Zugnasciine
-ZUSÄTZLICH: Bedienbereit
 ZUSÄTZLICH: Prüversitz
 ZUSÄTZLICH: höchstauldasige
 ZUSÄTZLICH: Kontestärke
-ZUSÄTZLICH: Freigestellt
-ZUSÄTZLICH: Der
-ZUSÄTZLICH: hinrichtlich
 ZUSÄTZLICH: Sozialwerferhöhe
-ZUSÄTZLICH: Zugnasciinen
-ZUSÄTZLICH: land
-ZUSÄTZLICH: Zelle
-ZUSÄTZLICH: Tyrs
 ZUSÄTZLICH: entsprechender
 ZUSÄTZLICH: Rechtreg
-ZUSÄTZLICH: an
-ZUSÄTZLICH: besatragen
 ZUSÄTZLICH: Rechtsses
 ZUSÄTZLICH: Ablenr
-ZUSÄTZLICH: 15
 Durchlauf 4:
 KORREKT: D
 FAST KORREKT: 8506
@@ -1056,7 +968,7 @@ FAST KORREKT: Wetterdach
 KORREKT: mit
 KORREKT: abnehmbaren
 FAST KORREKT: Seitenteilen
-FAST KORREKT: Zur
+FEHLT: Zur
 FAST KORREKT: Ziffer8
 FEHLT: Maße
 KORREKT: über
@@ -1081,7 +993,7 @@ KORREKT: Durch
 KORREKT: Anbau
 KORREKT: von
 KORREKT: Kotflügeln
-FAST KORREKT: änderte
+FEHLT: änderte
 KORREKT: sich
 KORREKT: Breite
 KORREKT: unverändert
@@ -1184,46 +1096,23 @@ KORREKT: 110
 KORREKT: cm
 KORREKT: 531
 KORREKT: StVZO
-ZUSÄTZLICH: 8906
-ZUSÄTZLICH: Aufbous
-ZUSÄTZLICH: wird
-ZUSÄTZLICH: Fahrersitzdaoh
 ZUSÄTZLICH: nag
 ZUSÄTZLICH: rnotet
-ZUSÄTZLICH: ab
-ZUSÄTZLICH: a
-ZUSÄTZLICH: Wetterdaoh
-ZUSÄTZLICH: Seitezteilen
-ZUSÄTZLICH: Ziff8
 ZUSÄTZLICH: Haag
 ZUSÄTZLICH: Ausrustung
-ZUSÄTZLICH: Fahrersitzdaoh
 ZUSÄTZLICH: folgen
-ZUSÄTZLICH: 1705
-ZUSÄTZLICH: entapriöht
-ZUSÄTZLICH: folgenaem
 ZUSÄTZLICH: Eisenberei
 ZUSÄTZLICH: fung
 ZUSÄTZLICH: entapriönt
-ZUSÄTZLICH: vorstenenden
-ZUSÄTZLICH: geniät
-ZUSÄTZLICH: StrassenverkehrsZulasungsCrdnung
 ZUSÄTZLICH: fol
 ZUSÄTZLICH: genden
-ZUSÄTZLICH: Rohblleitung
-ZUSÄTZLICH: be
-ZUSÄTZLICH: dienbar
-ZUSÄTZLICH: Auspuffgeräusch
-ZUSÄTZLICH: Überschreiten
-ZUSÄTZLICH: Pmon
-ZUSÄTZLICH: Schluslichter
 Durchlauf 1:
 KORREKT: Ausfertigung
 KORREKT: Allgemeine
 KORREKT: Betriebserlaubnis
 KORREKT: Nr
 KORREKT: 207
-FAST KORREKT: Für
+FEHLT: Für
 KORREKT: die
 KORREKT: Zugmaschinen
 KORREKT: Ackerschlepper
@@ -1357,7 +1246,7 @@ KORREKT: des
 KORREKT: 46
 KORREKT: Abs
 KORREKT: 2
-FAST KORREKT: StVZ0
+FEHLT: StVZ0
 KORREKT: über
 KORREKT: die
 KORREKT: Bedienbarkeit
@@ -1479,27 +1368,6 @@ KORREKT: Bemerkungen
 KORREKT: einzutragen
 ZUSÄTZLICH: Acker
 ZUSÄTZLICH: bulldog
-ZUSÄTZLICH: L
-ZUSÄTZLICH: a
-ZUSÄTZLICH: n
-ZUSÄTZLICH: z
 ZUSÄTZLICH: Aß
-ZUSÄTZLICH: Kanzheim
-ZUSÄTZLICH: Gntachtehs
-ZUSÄTZLICH: Früfstelle
 ZUSÄTZLICH: TVV
-ZUSÄTZLICH: Kanzheim
-ZUSÄTZLICH: Kanzheim
-ZUSÄTZLICH: Kanzheim
-ZUSÄTZLICH: AusfÜhrungen
-ZUSÄTZLICH: AusfÜhrung
-ZUSÄTZLICH: AusfÜhrung
-ZUSÄTZLICH: Kanzheim
-ZUSÄTZLICH: Brfüllung
-ZUSÄTZLICH: Brfüllung
-ZUSÄTZLICH: Fahrzeugs
-ZUSÄTZLICH: beschaeinigen
-ZUSÄTZLICH: Vordrücke
-ZUSÄTZLICH: Samuelstelle
 ZUSÄTZLICH: Stelafeld
-ZUSÄTZLICH: Kanzheim
