@@ -1,13 +1,27 @@
-Honda Italia Industriale S.p.A.
+Here is the extracted text from your image:
 
-Sede legale, amministrativa e stabilità fiscale: Via E. Fermi, 10 - 20121 Milano
+```
+TÜV AUTOMOTIVE GMBH
+Unternehmensgruppe
+TÜV Süddeutschland
 
-Sede operativa: Via della Cacciniglia, 9 - 00143 Roma
+Daimlerstraße 11
+D-85748 Garching
+Telefon 0 89 / 329 50 - 653
+Telefax 089/32 950-650
 
-Tel. 06 095 9281 - Fax 0845 0420309
+TÜV
+AUTOMOTIV
+92/61/EEC
 
-Sito Web: www.honda-italia.com
+Technical Report No.
+3500202-02ITA
 
-EMAS
+Manufacturer:
+Aprilia S.p.A. - Noale (ITALY)
 
-Direzion Generale e Commerciale: 0114-3 Roma - Via della Cecchina, 57 - Tel. 800 059 931 -  Fax 864 020 308
+Type:
+SP
+
+Page 8
+```

@@ -14,8 +14,8 @@ model = Qwen2VLForConditionalGeneration.from_pretrained(repo, torch_dtype="auto"
 processor = AutoProcessor.from_pretrained(repo)
 
 # Verzeichnispfade
-image_path = "../Bilder/uneinheitliches Layout/uneinheitliches_Layout_5.png"  # Pfad zum Bild
-output_folder = "../Modell_Output/Qwen/uneinheitliches Layout"  # Ordner für die Ausgaben
+image_path = "../Bilder/Kopf_Fußzeilen/Kopf_Fußzeilen_7.png"  # Pfad zum Bild
+output_folder = "../Modell_Output/Qwen/Kopf_Fußzeilen"  # Ordner für die Ausgaben
 dummy_image_path = "../DummyPicture/dummy.png"  # Pfad zur Dummy-Datei
 os.makedirs(output_folder, exist_ok=True)
 

@@ -8,9 +8,9 @@ processor = AutoProcessor.from_pretrained('allenai/Molmo-7B-D-0924', trust_remot
 model = AutoModelForCausalLM.from_pretrained('allenai/Molmo-7B-D-0924', trust_remote_code=True, torch_dtype='auto', device_map='auto')
 
 # Pfad zum Bild und zum Output-Ordner festlegen
-image_filename = 'uneinheitliches_Layout_6.png'
-images_directory = '../Bilder/uneinheitliches Layout'
-output_directory = '../Modell_Output/Molmo/uneinheitliches Layout'
+image_filename = 'Kopf_Fußzeilen_7.png'
+images_directory = '../Bilder/Kopf_Fußzeilen'
+output_directory = '../Modell_Output/Molmo/Kopf_Fußzeilen'
 
 # Output-Ordner erstellen, falls er nicht existiert
 os.makedirs(output_directory, exist_ok=True)
