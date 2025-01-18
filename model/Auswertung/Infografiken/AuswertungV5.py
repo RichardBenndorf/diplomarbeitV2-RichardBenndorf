@@ -57,6 +57,15 @@ def evaluate_extraction(goldstandard_path, extracted_path):
     fast_correct_missing = [match[0] for match in near_matches if match[0] in unmatched_gold]
     fast_correct_extra = [match[1] for match in near_matches if match[1] in unmatched_extracted]
 
+    # Zeichenbasierte Metriken
+    gold_chars = Counter(goldstandard)
+    extracted_chars = Counter(extracted)
+
+    char_correct = sum(min(gold_chars[char], extracted_chars[char]) for char in gold_chars)
+    char_missing = sum(max(gold_chars[char] - extracted_chars.get(char, 0), 0) for char in gold_chars)
+    char_extra = sum(max(extracted_chars[char] - gold_chars.get(char, 0), 0) for char in extracted_chars)
+    cer = (char_missing + char_extra) / len(goldstandard) if len(goldstandard) > 0 else 0
+
     # Fehlende Wörter: Alle Wörter im Goldstandard, die nicht exakt im extrahierten Text enthalten sind
     word_missing = len(unmatched_gold)
 
@@ -109,25 +118,42 @@ def evaluate_extraction(goldstandard_path, extracted_path):
     summary_content = f"""
 Zusammenfassung der Metriken:
 --------------------------------
-Gesamtwörter: {total_words}
-Korrekt erkannte Wörter: {word_correct}
-Fehlende Wörter: {word_missing}
-Zusätzliche Wörter: {word_extra}
-Fast korrekt fehlend: {len(fast_correct_missing)}
-Fast korrekt zusätzlich: {len(fast_correct_extra)}
-WER: {wer:.4f}
-Erweiterter WER: {extended_wer:.4f}
-Precision: {precision:.4f}
-Precision erweitert: {extended_precision:.4f}
-Recall: {recall:.4f}
-Recall erweitert: {extended_recall:.4f}
-F1-Score: {f1:.4f}
-F1-Score erweitert: {extended_f1:.4f}
-Cosine Similarity: {cosine_sim:.4f}
-BLEU Score: {bleu_score:.4f}
+Zeichenbasierte Metriken:
+- Gesamtzeichen: {len(goldstandard)}
+- Korrekte Zeichen: {char_correct}
+- Fehlende Zeichen: {char_missing}
+- Zusätzliche Zeichen: {char_extra}
+- Character Error Rate (CER): {cer:.4f}
+
+Wortbasierte Metriken:
+- Gesamtwörter: {total_words}
+- Korrekt erkannte Wörter: {word_correct}
+- Fehlende Wörter: {word_missing}
+- Zusätzliche Wörter: {word_extra}
+- Fast korrekt fehlend: {len(fast_correct_missing)}
+- Fast korrekt zusätzlich: {len(fast_correct_extra)}
+- WER: {wer:.4f}
+- Erweiterter WER: {extended_wer:.4f}
+
+Semantische Metriken:
+- Cosine Similarity: {cosine_sim:.4f}
+- BLEU Score: {bleu_score:.4f}
+
+Weitere Metriken:
+- Precision: {precision:.4f}
+- Precision erweitert: {extended_precision:.4f}
+- Recall: {recall:.4f}
+- Recall erweitert: {extended_recall:.4f}
+- F1-Score: {f1:.4f}
+- F1-Score erweitert: {extended_f1:.4f}
 """
 
     return summary_content, detailed_content, {
+        "Gesamtzeichen": len(goldstandard),
+        "Korrekte Zeichen": char_correct,
+        "Fehlende Zeichen": char_missing,
+        "Zusätzliche Zeichen": char_extra,
+        "CER": cer,
         "Gesamtwörter": total_words,
         "Korrekt erkannte Wörter": word_correct,
         "Fehlende Wörter": word_missing,
@@ -156,7 +182,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
         if file_name.startswith("Goldstandard_") and file_name.endswith(".txt"):
             index = file_name.split("_")[1].split(".")[0]
             goldstandard_path = os.path.join(goldstandard_directory, file_name)
-            extracted_path = os.path.join(extracted_directory, f"Diagramme_und_infografische_Elemente_{index}_output.txt")
+            extracted_path = os.path.join(extracted_directory, f"Diagramme_und_infografische_Elemente_{index}.txt")
 
             if os.path.exists(extracted_path):
                 summary, details, metrics = evaluate_extraction(goldstandard_path, extracted_path)
@@ -186,7 +212,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 # Beispielaufruf
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/Infografiken",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen7b/Diagramme und infografische Elemente",
-    output_directory="Ergebnis_Qwen7b",
-    excel_path="Ergebnis_Qwen7b/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/Molmo/Diagramme und infografische Elemente",
+    output_directory="Ergebnis_Molmo",
+    excel_path="Ergebnis_Molmo/results.xlsx"
 )
