@@ -8,34 +8,62 @@ from nltk.metrics import edit_distance
 from nltk.translate.bleu_score import sentence_bleu
 
 def clean_text(text):
-    return re.sub(r'[^\w\s]', '', text)
+    """Bereinigt den Text und wandelt ihn in Kleinbuchstaben um."""
+    return re.sub(r'[^\w\s]', '', text).lower()
 
 def cosine_similarity(text1, text2):
+    """Berechnet die Cosine Similarity zwischen zwei Texten."""
     vectorizer = TfidfVectorizer()
     tfidf_matrix = vectorizer.fit_transform([text1, text2])
     cosine_sim = (tfidf_matrix[0] @ tfidf_matrix[1].T).toarray()[0][0]
     return cosine_sim
 
 def find_near_matches(gold_words, extracted_words, threshold=2):
-    near_matches = []
-    gold_counter = Counter(gold_words)
-    extracted_counter = Counter(extracted_words)
+    """Findet fast korrekt fehlende und zusätzliche Wörter (ohne Berücksichtigung der Groß-/Kleinschreibung)."""
+    near_matches_missing = []  # Für fast korrekt fehlend
+    near_matches_extra = []  # Für fast korrekt zusätzlich
 
-    for gold_word in list(gold_counter.keys()):
-        for extracted_word in list(extracted_counter.keys()):
+    gold_words = [word.lower() for word in gold_words]
+    extracted_words = [word.lower() for word in extracted_words]
+
+    gold_counter_original = Counter(gold_words)
+    extracted_counter_original = Counter(extracted_words)
+
+    gold_counter_missing = gold_counter_original.copy()
+    extracted_counter_missing = extracted_counter_original.copy()
+
+    for gold_word in list(gold_counter_missing.keys()):
+        for extracted_word in list(extracted_counter_missing.keys()):
             if edit_distance(gold_word, extracted_word) <= threshold:
-                match_count = min(gold_counter[gold_word], extracted_counter[extracted_word])
-                near_matches.extend([(gold_word, extracted_word)] * match_count)
-                gold_counter[gold_word] -= match_count
-                extracted_counter[extracted_word] -= match_count
+                match_count = min(gold_counter_missing[gold_word], extracted_counter_missing[extracted_word])
+                near_matches_missing.extend([gold_word] * match_count)
+                gold_counter_missing[gold_word] -= match_count
+                extracted_counter_missing[extracted_word] -= match_count
 
-                if gold_counter[gold_word] <= 0:
-                    del gold_counter[gold_word]
-                if extracted_counter[extracted_word] <= 0:
-                    del extracted_counter[extracted_word]
+                if gold_counter_missing[gold_word] <= 0:
+                    del gold_counter_missing[gold_word]
+                if extracted_counter_missing[extracted_word] <= 0:
+                    del extracted_counter_missing[extracted_word]
                 break
 
-    return near_matches
+    gold_counter_extra = gold_counter_original.copy()
+    extracted_counter_extra = extracted_counter_original.copy()
+
+    for extracted_word in list(extracted_counter_extra.keys()):
+        for gold_word in list(gold_counter_extra.keys()):
+            if edit_distance(extracted_word, gold_word) <= threshold:
+                match_count = min(extracted_counter_extra[extracted_word], gold_counter_extra[gold_word])
+                near_matches_extra.extend([extracted_word] * match_count)
+                extracted_counter_extra[extracted_word] -= match_count
+                gold_counter_extra[gold_word] -= match_count
+
+                if extracted_counter_extra[extracted_word] <= 0:
+                    del extracted_counter_extra[extracted_word]
+                if gold_counter_extra[gold_word] <= 0:
+                    del gold_counter_extra[gold_word]
+                break
+
+    return near_matches_missing, near_matches_extra
 
 def evaluate_extraction(goldstandard_path, extracted_path):
     with open(goldstandard_path, 'r', encoding='utf-8') as gs_file:
@@ -50,14 +78,14 @@ def evaluate_extraction(goldstandard_path, extracted_path):
     goldstandard_words = goldstandard.split()
     extracted_words = extracted.split()
 
-    unmatched_gold = [word for word in goldstandard_words if word not in extracted_words]
-    unmatched_extracted = [word for word in extracted_words if word not in goldstandard_words]
+    unmatched_gold = [word for word in goldstandard_words if word.lower() not in extracted_words]
+    unmatched_extracted = [word for word in extracted_words if word.lower() not in goldstandard_words]
 
-    near_matches = find_near_matches(unmatched_gold, unmatched_extracted, threshold=2)
-    fast_correct_missing = [match[0] for match in near_matches if match[0] in unmatched_gold]
-    fast_correct_extra = [match[1] for match in near_matches if match[1] in unmatched_extracted]
+    near_matches_missing, near_matches_extra = find_near_matches(unmatched_gold, unmatched_extracted, threshold=2)
 
-    # Zeichenbasierte Metriken
+    fast_correct_missing = near_matches_missing
+    fast_correct_extra = near_matches_extra
+
     gold_chars = Counter(goldstandard)
     extracted_chars = Counter(extracted)
 
@@ -66,55 +94,43 @@ def evaluate_extraction(goldstandard_path, extracted_path):
     char_extra = sum(max(extracted_chars[char] - gold_chars.get(char, 0), 0) for char in extracted_chars)
     cer = (char_missing + char_extra) / len(goldstandard) if len(goldstandard) > 0 else 0
 
-    # Fehlende Wörter: Alle Wörter im Goldstandard, die nicht exakt im extrahierten Text enthalten sind
     word_missing = len(unmatched_gold)
-
-    # Zusätzliche Wörter: Alle Wörter im extrahierten Text, die nicht exakt im Goldstandard enthalten sind
     word_extra = len(unmatched_extracted)
-
-    # Korrekte Wörter: Alle Wörter, die exakt übereinstimmen
-    word_correct = len([word for word in goldstandard_words if word in extracted_words])
+    word_correct = len([word for word in goldstandard_words if word.lower() in extracted_words])
     total_words = len(goldstandard_words)
 
-    # WER und erweiterter WER
     wer = (word_missing + word_extra) / total_words
     extended_wer = (word_missing - len(fast_correct_missing) + word_extra - len(fast_correct_extra)) / total_words
 
-    # Precision und erweiterte Precision
     precision = word_correct / (word_correct + word_extra) if word_correct + word_extra > 0 else 0
     extended_precision = word_correct / (word_correct + word_extra - len(fast_correct_extra)) if word_correct + word_extra - len(fast_correct_extra) > 0 else 0
 
-    # Recall und erweiterter Recall
     recall = word_correct / (word_correct + word_missing) if word_correct + word_missing > 0 else 0
     extended_recall = word_correct / (word_correct + word_missing - len(fast_correct_missing)) if word_correct + word_missing - len(fast_correct_missing) > 0 else 0
 
-    # F1-Score und erweiterter F1-Score
     f1 = 2 * (precision * recall) / (precision + recall) if precision + recall > 0 else 0
     extended_f1 = 2 * (extended_precision * extended_recall) / (extended_precision + extended_recall) if extended_precision + extended_recall > 0 else 0
 
-    # Semantische Metriken
     cosine_sim = cosine_similarity(goldstandard, extracted)
     bleu_score = sentence_bleu([goldstandard_words], extracted_words)
 
-    # Detaillierte Vergleichsliste erstellen
     detailed_comparison = []
     for word in goldstandard_words:
-        if word in extracted_words:
+        if word.lower() in extracted_words:
             detailed_comparison.append(f"KORREKT: {word}")
-        elif word in fast_correct_missing:
+        elif word.lower() in fast_correct_missing:
             detailed_comparison.append(f"FAST KORREKT FEHLEND: {word}")
         else:
             detailed_comparison.append(f"FEHLT: {word}")
 
     for word in extracted_words:
-        if word not in goldstandard_words and word not in fast_correct_extra:
+        if word.lower() not in goldstandard_words and word.lower() not in fast_correct_extra:
             detailed_comparison.append(f"ZUSÄTZLICH: {word}")
-        elif word in fast_correct_extra:
+        elif word.lower() in fast_correct_extra:
             detailed_comparison.append(f"FAST KORREKT ZUSÄTZLICH: {word}")
 
     detailed_content = "\n".join(detailed_comparison)
 
-    # Zusammenfassung erstellen
     summary_content = f"""
 Zusammenfassung der Metriken:
 --------------------------------
@@ -182,7 +198,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
         if file_name.startswith("Goldstandard_") and file_name.endswith(".txt"):
             index = file_name.split("_")[1].split(".")[0]
             goldstandard_path = os.path.join(goldstandard_directory, file_name)
-            extracted_path = os.path.join(extracted_directory, f"Fließtext_{index}_output.txt")
+            extracted_path = os.path.join(extracted_directory, f"Fließtext_{index}.txt")
 
             if os.path.exists(extracted_path):
                 summary, details, metrics = evaluate_extraction(goldstandard_path, extracted_path)
@@ -193,11 +209,9 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
                 summary_contents.append(f"Durchlauf {index}:{summary}\n")
                 detailed_contents.append(f"Durchlauf {index}:{details}\n")
 
-    # Ergebnisse in Excel speichern
     df = pd.DataFrame(results)
     df.to_excel(excel_path, index=False, float_format="%.4f")
 
-    # Zusammenfassung und Details speichern
     summary_path = os.path.join(output_directory, "Summary_All.txt")
     details_path = os.path.join(output_directory, "Details_All.txt")
 
@@ -209,10 +223,9 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 
     print(f"Zusammenfassung und Details wurden gespeichert.")
 
-# Beispielaufruf
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/Fließtext",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen7b/Fließtext",
-    output_directory="Ergebnis_Qwen7b",
-    excel_path="Ergebnis_Qwen7b/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/Molmo/Fließtext",
+    output_directory="Ergebnis_Molmo",
+    excel_path="Ergebnis_Molmo/results.xlsx"
 )

@@ -1,27 +1,27 @@
-Durchlauf 7:FAST KORREKT FEHLEND: Korrosionsbeständigkeit
-KORREKT: Resistance
+Durchlauf 7:FAST KORREKT FEHLEND: korrosionsbeständigkeit
+KORREKT: resistance
 KORREKT: to
 KORREKT: corrosion
-KORREKT: Der
-KORREKT: Grundwerkstoff
+KORREKT: der
+KORREKT: grundwerkstoff
 KORREKT: des
-KORREKT: Kraftstoffbehälters
+KORREKT: kraftstoffbehälters
 KORREKT: und
 KORREKT: die
 KORREKT: verwendeten
-KORREKT: Zubehörteile
+KORREKT: zubehörteile
 KORREKT: können
 KORREKT: als
 KORREKT: korrosionsfest
 KORREKT: gegen
 KORREKT: das
-KORREKT: Betriebsmedium
+KORREKT: betriebsmedium
 KORREKT: und
 KORREKT: äußere
-KORREKT: Beeinflussungen
+KORREKT: beeinflussungen
 KORREKT: angesehen
 KORREKT: werden
-KORREKT: The
+KORREKT: the
 KORREKT: ground
 KORREKT: material
 KORREKT: of
@@ -54,31 +54,31 @@ KORREKT: outside
 KORREKT: environmental
 KORREKT: influences
 KORREKT: 5
-KORREKT: Kennzeichnung
+KORREKT: kennzeichnung
 KORREKT: des
-KORREKT: Behälters
-KORREKT: Markings
+KORREKT: behälters
+KORREKT: markings
 KORREKT: on
 KORREKT: the
 KORREKT: fuel
 KORREKT: tank
-KORREKT: Der
-KORREKT: Behälter
+KORREKT: der
+KORREKT: behälter
 KORREKT: ist
 KORREKT: dauerhaft
 KORREKT: und
 KORREKT: in
 KORREKT: eingebautem
-KORREKT: Zustand
+KORREKT: zustand
 KORREKT: gut
 KORREKT: lesbar
 KORREKT: zu
 KORREKT: kennzeichnen
-KORREKT: Die
-KORREKT: Kennzeichnung
+KORREKT: die
+KORREKT: kennzeichnung
 FAST KORREKT FEHLEND: muß
 KORREKT: enthalten
-KORREKT: The
+KORREKT: the
 KORREKT: following
 KORREKT: markings
 KORREKT: shall
@@ -106,77 +106,77 @@ KORREKT: on
 KORREKT: the
 KORREKT: vehicle
 KORREKT: a
-KORREKT: Hersteller
+KORREKT: hersteller
 KORREKT: des
-KORREKT: Behälters
-KORREKT: Manufacturer
+KORREKT: behälters
+KORREKT: manufacturer
 KORREKT: of
 KORREKT: the
 KORREKT: tank
 KORREKT: b
-KORREKT: Herstellungsmonat
+KORREKT: herstellungsmonat
 KORREKT: und
 KORREKT: jahr
-KORREKT: Month
+KORREKT: month
 KORREKT: and
 KORREKT: year
 KORREKT: of
 KORREKT: manufacturing
 FEHLT: c
-KORREKT: Typ
+KORREKT: typ
 KORREKT: undoder
-KORREKT: Handelsmarke
+KORREKT: handelsmarke
 KORREKT: wwopt
-FAST KORREKT FEHLEND: Name
+FAST KORREKT FEHLEND: name
 FAST KORREKT FEHLEND: andor
 KORREKT: trademark
 KORREKT: d
-KORREKT: TÜVKennzeichnung
-FAST KORREKT FEHLEND: 143XS0133
-KORREKT: TÜVmarking
-KORREKT: Die
-KORREKT: Gebrauchsfähigkeit
+KORREKT: tüvkennzeichnung
+FAST KORREKT FEHLEND: 143xs0133
+KORREKT: tüvmarking
+KORREKT: die
+KORREKT: gebrauchsfähigkeit
 KORREKT: des
-KORREKT: Behälters
+KORREKT: behälters
 KORREKT: ist
 KORREKT: zu
 KORREKT: überprüfen
 KORREKT: wenn
 KORREKT: wesentliche
-KORREKT: Teile
+KORREKT: teile
 KORREKT: des
-FAST KORREKT FEHLEND: Fahrzeugs
+FAST KORREKT FEHLEND: fahrzeugs
 KORREKT: die
 KORREKT: zu
 KORREKT: einer
-KORREKT: Veränderung
+KORREKT: veränderung
 KORREKT: der
-KORREKT: Einbauverhältnisse
+KORREKT: einbauverhältnisse
 KORREKT: führen
 KORREKT: die
-KORREKT: Behälterunterbringung
+KORREKT: behälterunterbringung
 KORREKT: die
-KORREKT: Behälterbefestigung
+KORREKT: behälterbefestigung
 KORREKT: die
-KORREKT: Behälterabmessungen
+KORREKT: behälterabmessungen
 KORREKT: der
-KORREKT: Behälterwerkstoff
+KORREKT: behälterwerkstoff
 KORREKT: oder
 KORREKT: das
-KORREKT: Herstellungsverfahren
+KORREKT: herstellungsverfahren
 KORREKT: geändert
 KORREKT: werden
-KORREKT: Hierüber
+KORREKT: hierüber
 KORREKT: ist
 KORREKT: ein
-KORREKT: Nachtragsgutachten
+KORREKT: nachtragsgutachten
 KORREKT: der
-KORREKT: TÜV
-KORREKT: Rheinland
-KORREKT: Kraftfahrt
-KORREKT: GmbH
+KORREKT: tüv
+KORREKT: rheinland
+KORREKT: kraftfahrt
+KORREKT: gmbh
 KORREKT: einzuholen
-KORREKT: If
+KORREKT: if
 KORREKT: essential
 KORREKT: parts
 KORREKT: of
@@ -208,28 +208,28 @@ KORREKT: new
 KORREKT: approval
 KORREKT: by
 KORREKT: the
-KORREKT: TÜV
-KORREKT: Rheinland
-KORREKT: Kraftfahrt
-KORREKT: GmbH
+KORREKT: tüv
+KORREKT: rheinland
+KORREKT: kraftfahrt
+KORREKT: gmbh
 KORREKT: is
 KORREKT: necessary
-FAST KORREKT ZUSÄTZLICH: Korrosionsbestandigkeit
+FAST KORREKT ZUSÄTZLICH: korrosionsbestandigkeit
 FAST KORREKT ZUSÄTZLICH: muls
-ZUSÄTZLICH: Behalters
-FAST KORREKT ZUSÄTZLICH: Jame
+ZUSÄTZLICH: behalters
+FAST KORREKT ZUSÄTZLICH: jame
 FAST KORREKT ZUSÄTZLICH: andlor
-FAST KORREKT ZUSÄTZLICH: 143X50133
-FAST KORREKT ZUSÄTZLICH: Fahrzeuges
-Durchlauf 5:KORREKT: Throttle
-KORREKT: Body
-KORREKT: TB
+FAST KORREKT ZUSÄTZLICH: 143x50133
+FAST KORREKT ZUSÄTZLICH: fahrzeuges
+Durchlauf 5:KORREKT: throttle
+KORREKT: body
+KORREKT: tb
 KORREKT: and
 KORREKT: fuel
 KORREKT: rail
-KORREKT: The
-KORREKT: Throttle
-KORREKT: Body
+KORREKT: the
+KORREKT: throttle
+KORREKT: body
 KORREKT: which
 FAST KORREKT FEHLEND: distributes
 KORREKT: fuel
@@ -247,8 +247,8 @@ KORREKT: runner
 KORREKT: with
 FAST KORREKT FEHLEND: separate
 KORREKT: manifolds
-KORREKT: The
-KORREKT: TB
+KORREKT: the
+KORREKT: tb
 KORREKT: and
 KORREKT: fuel
 KORREKT: rail
@@ -259,20 +259,20 @@ FAST KORREKT FEHLEND: injectors
 KORREKT: fuel
 FAST KORREKT FEHLEND: pressure
 KORREKT: regulator
-FAST KORREKT FEHLEND: throttle
+KORREKT: throttle
 KORREKT: position
 KORREKT: sensor
-FAST KORREKT FEHLEND: idle
+KORREKT: idle
 KORREKT: speed
 KORREKT: control
 KORREKT: actuator
 KORREKT: and
 KORREKT: the
-FAST KORREKT FEHLEND: throttle
+KORREKT: throttle
 KORREKT: plates
 KORREKT: and
 FAST KORREKT FEHLEND: linkages
-KORREKT: Fuel
+KORREKT: fuel
 FAST KORREKT FEHLEND: fittings
 FAST KORREKT FEHLEND: connect
 KORREKT: the
@@ -284,12 +284,12 @@ KORREKT: to
 KORREKT: the
 KORREKT: fuel
 KORREKT: tank
-KORREKT: Sensors
-FAST KORREKT FEHLEND: Five
-FAST KORREKT FEHLEND: sensors
+KORREKT: sensors
+FAST KORREKT FEHLEND: five
+KORREKT: sensors
 KORREKT: provide
 KORREKT: the
-KORREKT: ECM
+KORREKT: ecm
 KORREKT: with
 KORREKT: data
 KORREKT: on
@@ -304,25 +304,25 @@ KORREKT: fuel
 KORREKT: and
 KORREKT: spark
 KORREKT: requirements
-KORREKT: A
+KORREKT: a
 KORREKT: brief
 FAST KORREKT FEHLEND: description
 KORREKT: of
 KORREKT: each
 KORREKT: sensor
 FAST KORREKT FEHLEND: follows
-KORREKT: Crankshaft
-KORREKT: Position
-KORREKT: Sensor
-KORREKT: CKP
-KORREKT: Sensor
-KORREKT: The
-KORREKT: CKP
-KORREKT: Sensor
+KORREKT: crankshaft
+KORREKT: position
+KORREKT: sensor
+KORREKT: ckp
+KORREKT: sensor
+KORREKT: the
+KORREKT: ckp
+KORREKT: sensor
 KORREKT: is
 KORREKT: a
 FAST KORREKT FEHLEND: magnetic
-FAST KORREKT FEHLEND: pickup
+KORREKT: pickup
 KORREKT: device
 KORREKT: mounted
 KORREKT: in
@@ -334,13 +334,13 @@ KORREKT: near
 KORREKT: the
 FAST KORREKT FEHLEND: alternator
 KORREKT: plug
-KORREKT: To
+KORREKT: to
 FAST KORREKT FEHLEND: calculate
 KORREKT: engine
 KORREKT: speed
 KORREKT: for
 KORREKT: the
-KORREKT: ECM
+KORREKT: ecm
 KORREKT: the
 KORREKT: sensor
 FAST KORREKT FEHLEND: picks
@@ -358,7 +358,7 @@ KORREKT: the
 KORREKT: left
 FAST KORREKT FEHLEND: flywheel
 KORREKT: cheek
-KORREKT: A
+KORREKT: a
 FAST KORREKT FEHLEND: gap
 KORREKT: created
 KORREKT: by
@@ -369,40 +369,40 @@ KORREKT: two
 KORREKT: teeth
 KORREKT: establishes
 KORREKT: a
-KORREKT: Top
-KORREKT: Dead
-KORREKT: Center
-KORREKT: TDC
+KORREKT: top
+KORREKT: dead
+KORREKT: center
+KORREKT: tdc
 KORREKT: reference
-KORREKT: Coolant
-KORREKT: Temperature
-KORREKT: Sensor
-KORREKT: ET
-KORREKT: Sensor
-KORREKT: The
-KORREKT: ET
-KORREKT: Sensor
+KORREKT: coolant
+KORREKT: temperature
+KORREKT: sensor
+KORREKT: et
+KORREKT: sensor
+KORREKT: the
+KORREKT: et
+KORREKT: sensor
 KORREKT: monitors
 KORREKT: temperature
 KORREKT: of
 KORREKT: the
 KORREKT: engine
-FAST KORREKT FEHLEND: coolant
+KORREKT: coolant
 KORREKT: and
 KORREKT: is
 KORREKT: mounted
 KORREKT: between
 KORREKT: the
 KORREKT: engine
-KORREKT: V
-KORREKT: This
+KORREKT: v
+KORREKT: this
 FAST KORREKT FEHLEND: information
 KORREKT: is
 KORREKT: primarily
 KORREKT: used
 KORREKT: by
 KORREKT: the
-KORREKT: ECM
+KORREKT: ecm
 KORREKT: during
 KORREKT: engine
 KORREKT: warmup
@@ -411,27 +411,27 @@ KORREKT: for
 KORREKT: the
 KORREKT: purpose
 KORREKT: of
-FAST KORREKT FEHLEND: idle
+KORREKT: idle
 KORREKT: speed
 FAST KORREKT FEHLEND: adjustment
-KORREKT: The
-KORREKT: ECM
+KORREKT: the
+KORREKT: ecm
 KORREKT: also
 KORREKT: uses
 KORREKT: the
 KORREKT: data
 KORREKT: to
 KORREKT: determine
-FAST KORREKT FEHLEND: injector
+KORREKT: injector
 FAST KORREKT FEHLEND: pulse
 KORREKT: width
-KORREKT: Intake
-KORREKT: Air
-KORREKT: Temperature
-KORREKT: Sensor
-KORREKT: IAT
-KORREKT: Sensor
-KORREKT: Located
+KORREKT: intake
+KORREKT: air
+KORREKT: temperature
+KORREKT: sensor
+KORREKT: iat
+KORREKT: sensor
+KORREKT: located
 KORREKT: in
 KORREKT: the
 KORREKT: front
@@ -442,8 +442,8 @@ KORREKT: data
 KORREKT: provided
 KORREKT: by
 KORREKT: the
-KORREKT: IAT
-KORREKT: Sensor
+KORREKT: iat
+KORREKT: sensor
 KORREKT: is
 KORREKT: used
 KORREKT: in
@@ -453,11 +453,11 @@ KORREKT: the
 KORREKT: data
 KORREKT: from
 KORREKT: the
-KORREKT: MAP
-KORREKT: Sensor
+KORREKT: map
+KORREKT: sensor
 KORREKT: to
 KORREKT: determine
-FAST KORREKT FEHLEND: oxygen
+KORREKT: oxygen
 KORREKT: content
 KORREKT: air
 KORREKT: density
@@ -471,15 +471,15 @@ KORREKT: cold
 KORREKT: starting
 KORREKT: and
 KORREKT: warmup
-FAST KORREKT FEHLEND: Manifold
-KORREKT: Air
-FAST KORREKT FEHLEND: Pressure
-KORREKT: Sensor
-KORREKT: MAP
-KORREKT: Sensor
-KORREKT: The
-KORREKT: MAP
-KORREKT: Sensor
+KORREKT: manifold
+KORREKT: air
+FAST KORREKT FEHLEND: pressure
+KORREKT: sensor
+KORREKT: map
+KORREKT: sensor
+KORREKT: the
+KORREKT: map
+KORREKT: sensor
 KORREKT: mounted
 KORREKT: on
 KORREKT: the
@@ -499,21 +499,21 @@ KORREKT: fuel
 KORREKT: and
 KORREKT: spark
 KORREKT: timing
-KORREKT: Throttle
-KORREKT: Position
-KORREKT: Sensor
-KORREKT: TP
-KORREKT: Sensor
-KORREKT: The
-KORREKT: TP
-KORREKT: Sensor
+KORREKT: throttle
+KORREKT: position
+KORREKT: sensor
+KORREKT: tp
+KORREKT: sensor
+KORREKT: the
+KORREKT: tp
+KORREKT: sensor
 KORREKT: is
 KORREKT: a
 KORREKT: potentiometer
 KORREKT: mounted
 KORREKT: on
 KORREKT: the
-FAST KORREKT FEHLEND: throttle
+KORREKT: throttle
 KORREKT: body
 KORREKT: and
 KORREKT: attached
@@ -522,16 +522,16 @@ KORREKT: the
 KORREKT: end
 KORREKT: of
 KORREKT: the
-FAST KORREKT FEHLEND: throttle
+KORREKT: throttle
 FAST KORREKT FEHLEND: shaft
-KORREKT: It
+KORREKT: it
 KORREKT: provides
 KORREKT: the
-KORREKT: ECM
+KORREKT: ecm
 KORREKT: with
 FAST KORREKT FEHLEND: information
 KORREKT: about
-FAST KORREKT FEHLEND: throttle
+KORREKT: throttle
 KORREKT: angle
 KORREKT: for
 KORREKT: transient
@@ -539,17 +539,17 @@ KORREKT: fuel
 KORREKT: and
 KORREKT: spark
 KORREKT: timing
-KORREKT: Other
-KORREKT: Features
-FAST KORREKT FEHLEND: Wire
-KORREKT: Harnesses
-KORREKT: There
+KORREKT: other
+KORREKT: features
+KORREKT: wire
+KORREKT: harnesses
+KORREKT: there
 KORREKT: is
 KORREKT: a
 KORREKT: single
 KORREKT: main
 KORREKT: harness
-KORREKT: There
+KORREKT: there
 KORREKT: is
 KORREKT: a
 FAST KORREKT FEHLEND: separate
@@ -562,12 +562,12 @@ KORREKT: the
 KORREKT: main
 KORREKT: wire
 KORREKT: harness
-KORREKT: Low
-KORREKT: Level
-KORREKT: Fuel
-FAST KORREKT FEHLEND: Warning
-KORREKT: Lamp
-KORREKT: Since
+KORREKT: low
+KORREKT: level
+KORREKT: fuel
+KORREKT: warning
+KORREKT: lamp
+KORREKT: since
 KORREKT: the
 KORREKT: fuel
 KORREKT: valve
@@ -590,7 +590,7 @@ KORREKT: lamp
 KORREKT: have
 KORREKT: been
 KORREKT: provided
-KORREKT: The
+KORREKT: the
 KORREKT: lamp
 KORREKT: is
 KORREKT: activated
@@ -617,7 +617,7 @@ KORREKT: or
 KORREKT: fuel
 KORREKT: is
 KORREKT: added
-KORREKT: The
+KORREKT: the
 KORREKT: lamp
 KORREKT: is
 KORREKT: designed
@@ -640,10 +640,10 @@ KORREKT: slosh
 FAST KORREKT FEHLEND: inside
 KORREKT: the
 KORREKT: tank
-KORREKT: Fuses
+KORREKT: fuses
 KORREKT: and
-KORREKT: Relays
-KORREKT: One
+KORREKT: relays
+KORREKT: one
 FAST KORREKT FEHLEND: electrical
 KORREKT: relay
 KORREKT: is
@@ -657,7 +657,7 @@ KORREKT: ignition
 KORREKT: coil
 KORREKT: and
 FAST KORREKT FEHLEND: injectors
-KORREKT: The
+KORREKT: the
 KORREKT: relays
 KORREKT: are
 KORREKT: similar
@@ -670,7 +670,7 @@ KORREKT: used
 KORREKT: on
 KORREKT: production
 KORREKT: vehicles
-KORREKT: To
+KORREKT: to
 KORREKT: provide
 KORREKT: circuit
 FAST KORREKT FEHLEND: protection
@@ -684,7 +684,7 @@ KORREKT: a
 KORREKT: sealed
 KORREKT: fuse
 KORREKT: holder
-KORREKT: Another
+KORREKT: another
 KORREKT: holder
 KORREKT: at
 KORREKT: the
@@ -693,9 +693,9 @@ KORREKT: location
 KORREKT: contains
 KORREKT: spare
 KORREKT: fuses
-KORREKT: Air
-KORREKT: Cleaner
-KORREKT: The
+KORREKT: air
+KORREKT: cleaner
+KORREKT: the
 KORREKT: air
 KORREKT: cleaner
 KORREKT: is
@@ -704,7 +704,7 @@ KORREKT: in
 KORREKT: the
 KORREKT: air
 KORREKT: box
-KORREKT: It
+KORREKT: it
 KORREKT: is
 KORREKT: located
 KORREKT: on
@@ -712,13 +712,13 @@ KORREKT: top
 KORREKT: of
 KORREKT: the
 KORREKT: cylinders
-KORREKT: Check
-KORREKT: Engine
-KORREKT: Lamp
-KORREKT: The
-KORREKT: Check
-KORREKT: Engine
-KORREKT: Lamp
+KORREKT: check
+KORREKT: engine
+KORREKT: lamp
+KORREKT: the
+KORREKT: check
+KORREKT: engine
+KORREKT: lamp
 KORREKT: on
 KORREKT: the
 FAST KORREKT FEHLEND: instrument
@@ -730,11 +730,11 @@ KORREKT: of
 KORREKT: a
 FAST KORREKT FEHLEND: fault
 KORREKT: condition
-KORREKT: Data
-KORREKT: Link
-KORREKT: Connector
-KORREKT: The
-KORREKT: EFI
+KORREKT: data
+KORREKT: link
+KORREKT: connector
+KORREKT: the
+KORREKT: efi
 KORREKT: system
 KORREKT: provides
 KORREKT: two
@@ -742,7 +742,7 @@ KORREKT: levels
 KORREKT: of
 KORREKT: on
 KORREKT: board
-FAST KORREKT FEHLEND: diagnostics
+KORREKT: diagnostics
 KORREKT: to
 FAST KORREKT FEHLEND: assist
 KORREKT: in
@@ -752,38 +752,38 @@ KORREKT: source
 KORREKT: of
 KORREKT: system
 KORREKT: problems
-KORREKT: In
+KORREKT: in
 KORREKT: the
 KORREKT: more
 KORREKT: sophisticated
 KORREKT: mode
 KORREKT: the
-KORREKT: Scanalyzer
+KORREKT: scanalyzer
 KORREKT: is
 KORREKT: connected
 KORREKT: to
 KORREKT: the
-KORREKT: ECM
+KORREKT: ecm
 KORREKT: and
 KORREKT: allows
 KORREKT: for
 KORREKT: an
 KORREKT: indepth
 KORREKT: diagnosis
-KORREKT: In
+KORREKT: in
 KORREKT: the
 KORREKT: other
 KORREKT: mode
 KORREKT: a
-KORREKT: Diagnostics
-KORREKT: Test
-KORREKT: Lamp
+KORREKT: diagnostics
+KORREKT: test
+KORREKT: lamp
 KORREKT: is
 KORREKT: observed
 KORREKT: by
 KORREKT: the
 FAST KORREKT FEHLEND: technician
-KORREKT: The
+KORREKT: the
 KORREKT: lamp
 KORREKT: flashes
 KORREKT: a
@@ -795,22 +795,22 @@ KORREKT: a
 FAST KORREKT FEHLEND: particular
 FAST KORREKT FEHLEND: problem
 FAST KORREKT FEHLEND: area
-KORREKT: The
-KORREKT: Data
-KORREKT: Link
-KORREKT: Connector
+KORREKT: the
+KORREKT: data
+KORREKT: link
+KORREKT: connector
 KORREKT: provides
 KORREKT: for
 KORREKT: connection
 KORREKT: of
 KORREKT: either
 KORREKT: the
-KORREKT: Diagnostics
-KORREKT: Test
-KORREKT: Lamp
+KORREKT: diagnostics
+KORREKT: test
+KORREKT: lamp
 KORREKT: or
 KORREKT: the
-FEHLT: Scanalyser
+FEHLT: scanalyser
 FAST KORREKT ZUSÄTZLICH: distributos
 FAST KORREKT ZUSÄTZLICH: alr
 FAST KORREKT ZUSÄTZLICH: t
@@ -825,85 +825,77 @@ FAST KORREKT ZUSÄTZLICH: injoctors
 ZUSÄTZLICH: luel
 FAST KORREKT ZUSÄTZLICH: prcssure
 ZUSÄTZLICH: thromie
-FAST KORREKT ZUSÄTZLICH: Idle
 ZUSÄTZLICH: specd
-FAST KORREKT ZUSÄTZLICH: lhrottle
-FAST KORREKT ZUSÄTZLICH: Iinkages
+ZUSÄTZLICH: lhrottle
+FAST KORREKT ZUSÄTZLICH: iinkages
 FAST KORREKT ZUSÄTZLICH: fitings
 FAST KORREKT ZUSÄTZLICH: conneci
 ZUSÄTZLICH: uel
 FAST KORREKT ZUSÄTZLICH: cupply
 FAST KORREKT ZUSÄTZLICH: roturn
 FAST KORREKT ZUSÄTZLICH: lo
-ZUSÄTZLICH: Io
-FAST KORREKT ZUSÄTZLICH: Fivo
-FAST KORREKT ZUSÄTZLICH: sGnsors
+ZUSÄTZLICH: io
+FAST KORREKT ZUSÄTZLICH: fivo
+ZUSÄTZLICH: sgnsors
 ZUSÄTZLICH: provlde
-ZUSÄTZLICH: Ihe
+ZUSÄTZLICH: ihe
 ZUSÄTZLICH: dala
 FAST KORREKT ZUSÄTZLICH: descrlption
 ZUSÄTZLICH: sengor
 FAST KORREKT ZUSÄTZLICH: ollows
-ZUSÄTZLICH: Sonsor
+ZUSÄTZLICH: sonsor
 ZUSÄTZLICH: i6
 FAST KORREKT ZUSÄTZLICH: fagnelic
-FAST KORREKT ZUSÄTZLICH: pIckup
 ZUSÄTZLICH: lef
 FAST KORREKT ZUSÄTZLICH: crarikcase
 FAST KORREKT ZUSÄTZLICH: hall
 FAST KORREKT ZUSÄTZLICH: allernalor
 FAST KORREKT ZUSÄTZLICH: calculale
-ZUSÄTZLICH: Ihe
+ZUSÄTZLICH: ihe
 ZUSÄTZLICH: te
 FAST KORREKT ZUSÄTZLICH: plcke
-ZUSÄTZLICH: VP
+FAST KORREKT ZUSÄTZLICH: vp
 FAST KORREKT ZUSÄTZLICH: presonce
 FAST KORREKT ZUSÄTZLICH: fywheel
-FAST KORREKT ZUSÄTZLICH: g2p
+ZUSÄTZLICH: g2p
 ZUSÄTZLICH: teoth
 ZUSÄTZLICH: engino
-FAST KORREKT ZUSÄTZLICH: cooiant
+ZUSÄTZLICH: cooiant
 FAST KORREKT ZUSÄTZLICH: informnation
 ZUSÄTZLICH: durlng
 ZUSÄTZLICH: tho
-FAST KORREKT ZUSÄTZLICH: Idle
 FAST KORREKT ZUSÄTZLICH: aojustmient
 ZUSÄTZLICH: l0
-FAST KORREKT ZUSÄTZLICH: Injector
 FAST KORREKT ZUSÄTZLICH: pulze
-ZUSÄTZLICH: LAT
-ZUSÄTZLICH: Sonsor
-ZUSÄTZLICH: Ihe
+ZUSÄTZLICH: lat
+ZUSÄTZLICH: sonsor
+ZUSÄTZLICH: ihe
 ZUSÄTZLICH: u8ed
-ZUSÄTZLICH: Ihe
+ZUSÄTZLICH: ihe
 ZUSÄTZLICH: datermine
-FAST KORREKT ZUSÄTZLICH: Oxygen
-ZUSÄTZLICH: adjustnent
-ZUSÄTZLICH: warmUP
-FAST KORREKT ZUSÄTZLICH: Manlfold
-FAST KORREKT ZUSÄTZLICH: Prebsure
+FAST KORREKT ZUSÄTZLICH: adjustnent
+ZUSÄTZLICH: manlfold
+FAST KORREKT ZUSÄTZLICH: prebsure
 FAST KORREKT ZUSÄTZLICH: alr
-ZUSÄTZLICH: prossure
+FAST KORREKT ZUSÄTZLICH: prossure
 ZUSÄTZLICH: sen805
 ZUSÄTZLICH: cngine
 ZUSÄTZLICH: tming
-ZUSÄTZLICH: Throttlo
-ZUSÄTZLICH: Posltlon
+ZUSÄTZLICH: throttlo
+ZUSÄTZLICH: posltlon
 ZUSÄTZLICH: i8
 ZUSÄTZLICH: throtile
 ZUSÄTZLICH: 0
-ZUSÄTZLICH: Ihe
+ZUSÄTZLICH: ihe
 ZUSÄTZLICH: throtle
 FAST KORREKT ZUSÄTZLICH: shalt
-ZUSÄTZLICH: infcrmatlon
+FAST KORREKT ZUSÄTZLICH: infcrmatlon
 ZUSÄTZLICH: throtile
-FAST KORREKT ZUSÄTZLICH: WIre
 ZUSÄTZLICH: 0
 ZUSÄTZLICH: à
-ZUSÄTZLICH: separale
+FAST KORREKT ZUSÄTZLICH: separale
 ZUSÄTZLICH: smiall
 ZUSÄTZLICH: connecled
-FAST KORREKT ZUSÄTZLICH: WarnIng
 ZUSÄTZLICH: ad
 FAST KORREKT ZUSÄTZLICH: eliminaled
 ZUSÄTZLICH: uel
@@ -917,20 +909,19 @@ ZUSÄTZLICH: uel
 ZUSÄTZLICH: i8
 ZUSÄTZLICH: s0
 FAST KORREKT ZUSÄTZLICH: movemient
-ZUSÄTZLICH: Ihe
+ZUSÄTZLICH: ihe
 ZUSÄTZLICH: 1o
 FAST KORREKT ZUSÄTZLICH: inslde
-ZUSÄTZLICH: Ihe
-ZUSÄTZLICH: Iank
+ZUSÄTZLICH: ihe
+ZUSÄTZLICH: iank
 FAST KORREKT ZUSÄTZLICH: eleclrical
-ZUSÄTZLICH: Is
 ZUSÄTZLICH: whlch
-ZUSÄTZLICH: Ihe
+ZUSÄTZLICH: ihe
 ZUSÄTZLICH: uel
-ZUSÄTZLICH: injeclors
-ZUSÄTZLICH: Ihe
+FAST KORREKT ZUSÄTZLICH: injeclors
+ZUSÄTZLICH: ihe
 FAST KORREKT ZUSÄTZLICH: prolection
-ZUSÄTZLICH: Ihe
+ZUSÄTZLICH: ihe
 FAST KORREKT ZUSÄTZLICH: appropriale
 ZUSÄTZLICH: fusos
 FAST KORREKT ZUSÄTZLICH: alr
@@ -940,7 +931,7 @@ FAST KORREKT ZUSÄTZLICH: faut
 ZUSÄTZLICH: provideg
 ZUSÄTZLICH: twvo
 ZUSÄTZLICH: cn
-FAST KORREKT ZUSÄTZLICH: diagnoslics
+ZUSÄTZLICH: diagnoslics
 FAST KORREKT ZUSÄTZLICH: asslat
 FAST KORREKT ZUSÄTZLICH: delerminirg
 ZUSÄTZLICH: 0f
@@ -953,31 +944,31 @@ FAST KORREKT ZUSÄTZLICH: areà
 ZUSÄTZLICH: provices
 ZUSÄTZLICH: cr
 Durchlauf 6:KORREKT: 4
-KORREKT: Schlussbescheinigung
-KORREKT: Certification
-KORREKT: Der
+KORREKT: schlussbescheinigung
+KORREKT: certification
+KORREKT: der
 KORREKT: unter
-KORREKT: Nr
+KORREKT: nr
 KORREKT: 05
 KORREKT: angegebene
-KORREKT: Beschreibungsbogen
+KORREKT: beschreibungsbogen
 KORREKT: und
 KORREKT: der
 KORREKT: darin
 KORREKT: beschriebene
-KORREKT: Typ
+KORREKT: typ
 FEHLT: entspricht
 KORREKT: der
 FAST KORREKT FEHLEND: o
 KORREKT: a
-KORREKT: Prüfspezifikation
-KORREKT: The
+KORREKT: prüfspezifikation
+KORREKT: the
 FAST KORREKT FEHLEND: information
 KORREKT: document
 KORREKT: as
 KORREKT: mentioned
 KORREKT: under
-KORREKT: No
+KORREKT: no
 FAST KORREKT FEHLEND: 5
 KORREKT: and
 KORREKT: the
@@ -993,25 +984,25 @@ KORREKT: test
 KORREKT: specification
 KORREKT: mentioned
 KORREKT: above
-KORREKT: Die
+KORREKT: die
 KORREKT: verwendeten
-KORREKT: Prüfmuster
+KORREKT: prüfmuster
 KORREKT: waren
 KORREKT: im
-KORREKT: Hinblick
+KORREKT: hinblick
 KORREKT: auf
 KORREKT: das
 KORREKT: erforderliche
-KORREKT: Leistungsniveau
+KORREKT: leistungsniveau
 KORREKT: für
 KORREKT: den
 KORREKT: zu
 KORREKT: genehmigenden
-KORREKT: Typ
+KORREKT: typ
 FAST KORREKT FEHLEND: repräsentativ
 KORREKT: siehe
 KORREKT: 11
-KORREKT: With
+KORREKT: with
 KORREKT: regard
 KORREKT: to
 KORREKT: the
@@ -1035,49 +1026,49 @@ KORREKT: be
 KORREKT: approved
 KORREKT: see
 KORREKT: 11
-KORREKT: Dieser
-KORREKT: Prüfbericht
+KORREKT: dieser
+KORREKT: prüfbericht
 KORREKT: umfasst
-KORREKT: Blatt
+KORREKT: blatt
 KORREKT: 1
 KORREKT: bis
 KORREKT: 9
 KORREKT: sowie
 KORREKT: die
-KORREKT: Anlagen
-KORREKT: Dieser
-KORREKT: Prüfbericht
+KORREKT: anlagen
+KORREKT: dieser
+KORREKT: prüfbericht
 KORREKT: darf
 KORREKT: nur
 KORREKT: vom
-KORREKT: Auftraggeber
+KORREKT: auftraggeber
 KORREKT: und
 KORREKT: nur
 KORREKT: in
 KORREKT: vollem
-KORREKT: Wortlaut
+KORREKT: wortlaut
 KORREKT: vervielfältigt
 KORREKT: und
 KORREKT: weitergegeben
 KORREKT: werden
-KORREKT: Eine
+KORREKT: eine
 KORREKT: auszugsweise
-KORREKT: Vervielfältigung
+KORREKT: vervielfältigung
 KORREKT: und
-KORREKT: Veröffentlichung
+KORREKT: veröffentlichung
 KORREKT: des
-KORREKT: Prüfberichtes
+KORREKT: prüfberichtes
 KORREKT: ist
 KORREKT: nur
 KORREKT: nach
 KORREKT: schriftlicher
-KORREKT: Genehmigung
+KORREKT: genehmigung
 KORREKT: des
-KORREKT: Prüflaboratoriums
+KORREKT: prüflaboratoriums
 KORREKT: zulässig
-KORREKT: This
-KORREKT: Test
-KORREKT: Report
+KORREKT: this
+KORREKT: test
+KORREKT: report
 KORREKT: compromises
 KORREKT: pages
 KORREKT: 1
@@ -1085,9 +1076,9 @@ KORREKT: to
 KORREKT: 9
 KORREKT: and
 KORREKT: attachments
-KORREKT: The
-KORREKT: Test
-KORREKT: Report
+KORREKT: the
+KORREKT: test
+KORREKT: report
 KORREKT: shall
 KORREKT: be
 KORREKT: reproduced
@@ -1101,7 +1092,7 @@ KORREKT: by
 KORREKT: the
 KORREKT: client
 KORREKT: only
-KORREKT: It
+KORREKT: it
 KORREKT: shall
 KORREKT: be
 KORREKT: reproduced
@@ -1112,32 +1103,32 @@ KORREKT: written
 KORREKT: permission
 KORREKT: of
 KORREKT: the
-KORREKT: Test
-KORREKT: Laboratory
+KORREKT: test
+KORREKT: laboratory
 KORREKT: only
-KORREKT: PRÜFLABORATORIUM
-KORREKT: TEST
-KORREKT: LABORATORY
+KORREKT: prüflaboratorium
+KORREKT: test
+KORREKT: laboratory
 KORREKT: benannt
 KORREKT: von
 KORREKT: der
-KORREKT: Benennungsstelle
+KORREKT: benennungsstelle
 KORREKT: des
-KORREKT: KraftfahrtBundesamtes
-KORREKT: Bundesrepublik
-KORREKT: Deutschland
+KORREKT: kraftfahrtbundesamtes
+KORREKT: bundesrepublik
+KORREKT: deutschland
 KORREKT: designated
 KORREKT: by
 KORREKT: designation
 KORREKT: department
 KORREKT: of
-FEHLT: KraftfahrBundesanamt
-KORREKT: Federal
-KORREKT: Republic
+FEHLT: kraftfahrbundesanamt
+KORREKT: federal
+KORREKT: republic
 KORREKT: of
-KORREKT: Germany
+KORREKT: germany
 FAST KORREKT ZUSÄTZLICH: e
-ZUSÄTZLICH: nt
+FAST KORREKT ZUSÄTZLICH: nt
 ZUSÄTZLICH: s
 ZUSÄTZLICH: p
 ZUSÄTZLICH: ri
@@ -1145,129 +1136,129 @@ ZUSÄTZLICH: cht
 ZUSÄTZLICH: 0
 FAST KORREKT ZUSÄTZLICH: inforation
 ZUSÄTZLICH: c0
-ZUSÄTZLICH: M
+ZUSÄTZLICH: m
 ZUSÄTZLICH: plian
 ZUSÄTZLICH: c
 FAST KORREKT ZUSÄTZLICH: e
 FAST KORREKT ZUSÄTZLICH: reprasentativ
-ZUSÄTZLICH: KraftfahrtBundesamt
-Durchlauf 8:KORREKT: Motorradfertigung
+ZUSÄTZLICH: kraftfahrtbundesamt
+Durchlauf 8:KORREKT: motorradfertigung
 KORREKT: nach
-KORREKT: Eisenach
-KORREKT: Im
+KORREKT: eisenach
+KORREKT: im
 KORREKT: zweiten
-KORREKT: Weltkrieg
+KORREKT: weltkrieg
 KORREKT: wurde
 KORREKT: das
-KORREKT: Eisenacher
-KORREKT: BMWWerk
+KORREKT: eisenacher
+KORREKT: bmwwerk
 FAST KORREKT FEHLEND: erheblich
 FAST KORREKT FEHLEND: zerstört
 KORREKT: die
-KORREKT: Maschinen
+KORREKT: maschinen
 KORREKT: wurden
 FAST KORREKT FEHLEND: zusammen
 KORREKT: mit
-FAST KORREKT FEHLEND: Teilebeständen
+FAST KORREKT FEHLEND: teilebeständen
 KORREKT: in
 KORREKT: den
 FAST KORREKT FEHLEND: umliegenden
-KORREKT: Schächten
+KORREKT: schächten
 KORREKT: der
-FAST KORREKT FEHLEND: KaliBergwerke
+FAST KORREKT FEHLEND: kalibergwerke
 KORREKT: versteckt
-KORREKT: Das
-KORREKT: Werk
+KORREKT: das
+KORREKT: werk
 KORREKT: sollte
 KORREKT: laut
-FAST KORREKT FEHLEND: Führerbefehl
+FAST KORREKT FEHLEND: führerbefehl
 KORREKT: im
-KORREKT: April
+KORREKT: april
 KORREKT: 1945
 KORREKT: gesprengt
 KORREKT: werden
 KORREKT: da
 KORREKT: die
 KORREKT: amerikanische
-KORREKT: Armee
+KORREKT: armee
 KORREKT: immer
 KORREKT: näher
 FAST KORREKT FEHLEND: rückte
-KORREKT: Am
+KORREKT: am
 KORREKT: 6
-KORREKT: April
+KORREKT: april
 FAST KORREKT FEHLEND: rückten
 KORREKT: jedoch
 FAST KORREKT FEHLEND: amerikanischer
-FAST KORREKT FEHLEND: Panzer
+FAST KORREKT FEHLEND: panzer
 KORREKT: in
 KORREKT: das
-KORREKT: Eisenach
-KORREKT: Werk
+KORREKT: eisenach
+KORREKT: werk
 KORREKT: ein
 KORREKT: noch
 KORREKT: bevor
 FAST KORREKT FEHLEND: es
 FAST KORREKT FEHLEND: zur
-KORREKT: Sprengung
+KORREKT: sprengung
 KORREKT: kam
-KORREKT: Im
-KORREKT: Rahmen
+KORREKT: im
+KORREKT: rahmen
 KORREKT: der
-FAST KORREKT FEHLEND: Aufteilung
-KORREKT: Deutschlands
+FAST KORREKT FEHLEND: aufteilung
+KORREKT: deutschlands
 KORREKT: in
-KORREKT: Besatzungszonen
+KORREKT: besatzungszonen
 KORREKT: fiel
-KORREKT: Thüringen
-FAST KORREKT FEHLEND: zum
+KORREKT: thüringen
+KORREKT: zum
 KORREKT: 5
-KORREKT: Juni
+KORREKT: juni
 FEHLT: 1045
 FAST KORREKT FEHLEND: endgültig
 KORREKT: der
 KORREKT: sowjetischen
-KORREKT: Besatzungszone
+KORREKT: besatzungszone
 KORREKT: zu
-KORREKT: Diese
+KORREKT: diese
 FAST KORREKT FEHLEND: übernahmen
-FAST KORREKT FEHLEND: am
-KORREKT: 03Juli
+KORREKT: am
+KORREKT: 03juli
 FEHLT: 1454
 KORREKT: das
-FEHLT: Eisenachers
-KORREKT: Werk
-KORREKT: Die
-KORREKT: Sowjets
+FEHLT: eisenachers
+KORREKT: werk
+KORREKT: die
+KORREKT: sowjets
 KORREKT: planten
 KORREKT: das
-KORREKT: Werk
+KORREKT: werk
 KORREKT: zu
 KORREKT: demontieren
 KORREKT: auch
 KORREKT: die
 KORREKT: versteckten
-FAST KORREKT FEHLEND: Teile
+FAST KORREKT FEHLEND: teile
 KORREKT: und
-KORREKT: Maschinen
+KORREKT: maschinen
 KORREKT: wurden
 FAST KORREKT FEHLEND: schnell
 KORREKT: entdeckt
-FAST KORREKT FEHLEND: BMWMotorräder
+FAST KORREKT FEHLEND: bmwmotorräder
 KORREKT: standen
 KORREKT: bei
 KORREKT: den
-KORREKT: Sowjets
+KORREKT: sowjets
 KORREKT: hoch
 KORREKT: im
-KORREKT: Kurs
+KORREKT: kurs
 KORREKT: man
 KORREKT: erinnere
 KORREKT: sich
 KORREKT: an
 KORREKT: die
-KORREKT: R71
-KORREKT: M72
+KORREKT: r71
+KORREKT: m72
 KORREKT: und
 FAST KORREKT FEHLEND: so
 KORREKT: forderte
@@ -1275,433 +1266,423 @@ KORREKT: man
 KORREKT: aus
 KORREKT: den
 KORREKT: verbliebenen
-KORREKT: Teilen
+KORREKT: teilen
 KORREKT: komplette
-KORREKT: Motorräder
+KORREKT: motorräder
 KORREKT: zu
 KORREKT: fertigen
-KORREKT: Für
+KORREKT: für
 KORREKT: die
 FAST KORREKT FEHLEND: ersten
 KORREKT: 220
-KORREKT: BMW
-KORREKT: R
+KORREKT: bmw
+KORREKT: r
 KORREKT: 35
 KORREKT: mussten
 FAST KORREKT FEHLEND: lediglich
 KORREKT: die
 KORREKT: nicht
 KORREKT: eingelagerten
-KORREKT: Pressstahlrahmen
+KORREKT: pressstahlrahmen
 KORREKT: hergestellt
 KORREKT: werden
-KORREKT: Die
-KORREKT: Sowjets
+KORREKT: die
+KORREKT: sowjets
 KORREKT: erprobten
 KORREKT: die
 KORREKT: gebauten
-KORREKT: R
+KORREKT: r
 KORREKT: 5
 KORREKT: und
 KORREKT: befanden
 KORREKT: sie
-FAST KORREKT FEHLEND: für
+KORREKT: für
 KORREKT: gut
 KORREKT: und
 FAST KORREKT FEHLEND: verfügt
 KORREKT: daraufhin
 KORREKT: den
-KORREKT: Bau
+KORREKT: bau
 KORREKT: von
 KORREKT: weiteren
-KORREKT: Motorrädern
-KORREKT: Um
+KORREKT: motorrädern
+KORREKT: um
 KORREKT: die
 KORREKT: durch
 KORREKT: den
-KORREKT: Demontagebefehl
+KORREKT: demontagebefehl
 KORREKT: weiterhin
 KORREKT: drohende
-KORREKT: Demontage
+KORREKT: demontage
 KORREKT: abzuwenden
 KORREKT: versuchten
 KORREKT: der
 KORREKT: damalige
-KORREKT: Leiter
+KORREKT: leiter
 KORREKT: der
-KORREKT: Motorradproduktion
-KORREKT: Albert
-KORREKT: Siedler
+KORREKT: motorradproduktion
+KORREKT: albert
+KORREKT: siedler
 KORREKT: und
 FAST KORREKT FEHLEND: seine
 KORREKT: verbliebenen
-KORREKT: Männer
+KORREKT: männer
 KORREKT: die
-KORREKT: Sowjets
+KORREKT: sowjets
 KORREKT: umzustimmen
-KORREKT: Im
-KORREKT: Hauptquartier
+KORREKT: im
+KORREKT: hauptquartier
 KORREKT: der
-KORREKT: Sowjets
+KORREKT: sowjets
 KORREKT: wurde
-KORREKT: Marschall
-KORREKT: Georgi
-KORREKT: Shukow
+KORREKT: marschall
+KORREKT: georgi
+KORREKT: shukow
 KORREKT: die
 KORREKT: letzte
 KORREKT: intakte
 FAST KORREKT FEHLEND: verbliebene
-KORREKT: BMW
-KORREKT: 321Limousine
+KORREKT: bmw
+KORREKT: 321limousine
 FAST KORREKT FEHLEND: vorgeführt
-KORREKT: Der
-KORREKT: Trick
+KORREKT: der
+KORREKT: trick
 KORREKT: saß
-FEHLT: Shukov
+FEHLT: shukov
 KORREKT: verlangte
 KORREKT: weitere
 FAST KORREKT FEHLEND: fünf
-KORREKT: Neuwagen
+KORREKT: neuwagen
 KORREKT: innerhalb
 FAST KORREKT FEHLEND: kürzester
-KORREKT: Zeit
-KORREKT: Die
-KORREKT: Herstellung
+KORREKT: zeit
+KORREKT: die
+KORREKT: herstellung
 KORREKT: der
-KORREKT: Fahrzeuge
+KORREKT: fahrzeuge
 KORREKT: gelang
 KORREKT: und
 KORREKT: mit
-KORREKT: Befehl
-KORREKT: Nummer
+KORREKT: befehl
+KORREKT: nummer
 KORREKT: 93
 FAST KORREKT FEHLEND: zur
-KORREKT: Sicherstellung
+KORREKT: sicherstellung
 KORREKT: der
-KORREKT: Herausbringung
+KORREKT: herausbringung
 KORREKT: der
 FAST KORREKT FEHLEND: neuen
-KORREKT: Personenkraftwagen
+KORREKT: personenkraftwagen
 KORREKT: und
-KORREKT: Motorräder
+KORREKT: motorräder
 KORREKT: in
 KORREKT: der
-FEHLT: Fahrzeug
+FEHLT: fahrzeug
 KORREKT: und
-KORREKT: Maschinenfabrik
-KORREKT: Thüringen
-FAST KORREKT FEHLEND: war
+KORREKT: maschinenfabrik
+KORREKT: thüringen
+KORREKT: war
 KORREKT: die
 KORREKT: drohende
-KORREKT: Demontage
+KORREKT: demontage
 KORREKT: abgewendet
-KORREKT: Jährlich
+KORREKT: jährlich
 KORREKT: sollten
 KORREKT: 3000
-KORREKT: PKW
+KORREKT: pkw
 KORREKT: des
-KORREKT: Typs
+KORREKT: typs
 KORREKT: 321
 KORREKT: und
 KORREKT: die
 FAST KORREKT FEHLEND: gleiche
-KORREKT: Anzahl
+KORREKT: anzahl
 KORREKT: von
-KORREKT: Motorrädern
-KORREKT: Typ
-KORREKT: R
+KORREKT: motorrädern
+KORREKT: typ
+KORREKT: r
 KORREKT: 35
 KORREKT: gebaut
 KORREKT: werden
-KORREKT: Die
-KORREKT: Maschinen
+KORREKT: die
+KORREKT: maschinen
 FAST KORREKT FEHLEND: zur
-KORREKT: Fahrzeugherstellung
+KORREKT: fahrzeugherstellung
 KORREKT: kamen
 KORREKT: zurück
 KORREKT: ins
-KORREKT: Werk
+KORREKT: werk
 KORREKT: im
-KORREKT: November
+KORREKT: november
 KORREKT: 1945
 KORREKT: begann
 KORREKT: die
-KORREKT: Produktion
+KORREKT: produktion
 KORREKT: der
-KORREKT: BMW
-KORREKT: R35
-FAST KORREKT FEHLEND: zum
+KORREKT: bmw
+KORREKT: r35
+KORREKT: zum
 KORREKT: zweiten
-KORREKT: Mal
-KORREKT: Diese
-KORREKT: Fahrzeuge
+KORREKT: mal
+KORREKT: diese
+KORREKT: fahrzeuge
 KORREKT: gingen
 KORREKT: vorerst
 KORREKT: als
-KORREKT: Reparationsleistung
+KORREKT: reparationsleistung
 KORREKT: in
 KORREKT: die
-KORREKT: Sowjetunion
-KORREKT: Mit
+KORREKT: sowjetunion
+KORREKT: mit
 KORREKT: der
-FAST KORREKT FEHLEND: Verfügung
+FAST KORREKT FEHLEND: verfügung
 KORREKT: des
-FAST KORREKT FEHLEND: Präsidenten
+FAST KORREKT FEHLEND: präsidenten
 KORREKT: des
-KORREKT: Landes
-KORREKT: Thüringen
+KORREKT: landes
+KORREKT: thüringen
 KORREKT: waren
 KORREKT: im
-KORREKT: September
+KORREKT: september
 KORREKT: 1945
 KORREKT: alle
-KORREKT: Betriebsanlagen
+KORREKT: betriebsanlagen
 KORREKT: enteignet
 KORREKT: worden
-FAST KORREKT FEHLEND: Natürlich
+FAST KORREKT FEHLEND: natürlich
 KORREKT: gab
 FAST KORREKT FEHLEND: es
-FEHLT: Widersprüche
+FEHLT: widersprüche
 KORREKT: aus
-FAST KORREKT FEHLEND: München
+FAST KORREKT FEHLEND: münchen
 KORREKT: die
 KORREKT: seitens
 KORREKT: der
 KORREKT: damaligen
-KORREKT: Machthaber
+KORREKT: machthaber
 KORREKT: wie
 KORREKT: folgt
 FAST KORREKT FEHLEND: interpretiert
 KORREKT: wurden
-KORREKT: Sie
+KORREKT: sie
 KORREKT: die
-KORREKT: Widerspruche
+KORREKT: widerspruche
 KORREKT: sind
 FAST KORREKT FEHLEND: nur
 KORREKT: zu
 KORREKT: bewerten
 KORREKT: als
-FAST KORREKT FEHLEND: Raubansprüche
+FAST KORREKT FEHLEND: raubansprüche
 KORREKT: der
 KORREKT: auch
 KORREKT: heute
 KORREKT: wieder
 KORREKT: in
-KORREKT: Westdeutschland
+KORREKT: westdeutschland
 KORREKT: in
 FAST KORREKT FEHLEND: führender
-KORREKT: Position
+KORREKT: position
 KORREKT: des
 KORREKT: deutschen
-KORREKT: Imperialismus
+KORREKT: imperialismus
 KORREKT: stehenden
-KORREKT: Monopolherren
+KORREKT: monopolherren
 KORREKT: und
-FAST KORREKT FEHLEND: Kriegstreiber
+FAST KORREKT FEHLEND: kriegstreiber
 KORREKT: der
-FAST KORREKT FEHLEND: BMWMünchen
-KORREKT: Am
+FAST KORREKT FEHLEND: bmwmünchen
+KORREKT: am
 KORREKT: 15
-KORREKT: September
+KORREKT: september
 KORREKT: 1946
 KORREKT: wurde
 KORREKT: das
-KORREKT: Werk
+KORREKT: werk
 KORREKT: in
 KORREKT: die
-FAST KORREKT FEHLEND: Sowjetische
-KORREKT: Aktiengesellschaft
-KORREKT: Awtovelo
+KORREKT: sowjetische
+KORREKT: aktiengesellschaft
+KORREKT: awtovelo
 KORREKT: eingegliedert
-KORREKT: Die
-KORREKT: Planwirtschaft
+KORREKT: die
+KORREKT: planwirtschaft
 KORREKT: hatte
 KORREKT: also
 FAST KORREKT FEHLEND: zugeschlagen
-KORREKT: Erste
-FAST KORREKT FEHLEND: Planansätze
-FAST KORREKT FEHLEND: für
+KORREKT: erste
+FAST KORREKT FEHLEND: planansätze
+KORREKT: für
 KORREKT: das
-FAST KORREKT FEHLEND: Jahr
+FAST KORREKT FEHLEND: jahr
 KORREKT: 1945
 KORREKT: forderten
 KORREKT: die
-KORREKT: Herstellung
+KORREKT: herstellung
 KORREKT: von
 KORREKT: 70
-FAST KORREKT FEHLEND: Motorrändern
+FAST KORREKT FEHLEND: motorrändern
 KORREKT: gefertigt
 KORREKT: wurden
 KORREKT: 16
-KORREKT: Für
+KORREKT: für
 KORREKT: das
-KORREKT: Jahre
+KORREKT: jahre
 KORREKT: 194648
 KORREKT: sind
-KORREKT: Planzahlen
+KORREKT: planzahlen
 KORREKT: bekannt
 KORREKT: aber
 KORREKT: keine
 KORREKT: konkreten
-KORREKT: Ergebnisse
-KORREKT: Erst
+KORREKT: ergebnisse
+KORREKT: erst
 KORREKT: ab
 KORREKT: 1949
 FAST KORREKT FEHLEND: liegen
 FAST KORREKT FEHLEND: zuverlässigere
-KORREKT: Werte
+KORREKT: werte
 KORREKT: vor
 FAST KORREKT FEHLEND: so
 FAST KORREKT FEHLEND: stieg
 KORREKT: die
 KORREKT: jährliche
-FEHLT: Fertigungszahl
+FEHLT: fertigungszahl
 KORREKT: von
 KORREKT: 4250
 KORREKT: im
-KORREKT: Jahre
+KORREKT: jahre
 KORREKT: 1949
 FAST KORREKT FEHLEND: auf
 KORREKT: 13700
 KORREKT: im
-KORREKT: Jahre
+KORREKT: jahre
 KORREKT: 1955
-KORREKT: Insgesamt
+KORREKT: insgesamt
 KORREKT: sind
 KORREKT: etwa
 KORREKT: 65
 KORREKT: bis
 KORREKT: 70
-KORREKT: Tausend
-KORREKT: R35
+KORREKT: tausend
+KORREKT: r35
 KORREKT: in
-KORREKT: Eisenach
+KORREKT: eisenach
 KORREKT: hergestellt
 KORREKT: worden
-KORREKT: Andere
-KORREKT: Quellen
-FAST KORREKT FEHLEND: Schröder
+KORREKT: andere
+KORREKT: quellen
+FAST KORREKT FEHLEND: schröder
 KORREKT: siehe
-KORREKT: Literaturverweis
+KORREKT: literaturverweis
 KORREKT: sprechen
 KORREKT: von
 FAST KORREKT FEHLEND: ca
 KORREKT: 81000
 FAST KORREKT ZUSÄTZLICH: erhcbllch
 FAST KORREKT ZUSÄTZLICH: rerstort
-ZUSÄTZLICH: Idie
-FAST KORREKT ZUSÄTZLICH: Iusanmen
-FAST KORREKT ZUSÄTZLICH: Teilebestanden
-FAST KORREKT ZUSÄTZLICH: In
+ZUSÄTZLICH: idie
+FAST KORREKT ZUSÄTZLICH: iusanmen
+FAST KORREKT ZUSÄTZLICH: teilebestanden
 FAST KORREKT ZUSÄTZLICH: umllcgenden
-FAST KORREKT ZUSÄTZLICH: KallBergwerke
-FAST KORREKT ZUSÄTZLICH: Führerbefchl
+FAST KORREKT ZUSÄTZLICH: kallbergwerke
+FAST KORREKT ZUSÄTZLICH: führerbefchl
 FAST KORREKT ZUSÄTZLICH: ruckte
 FAST KORREKT ZUSÄTZLICH: ruckten
 FAST KORREKT ZUSÄTZLICH: amerikanlsche
-FAST KORREKT ZUSÄTZLICH: Panrer
-FAST KORREKT ZUSÄTZLICH: iM
+FAST KORREKT ZUSÄTZLICH: panrer
 FAST KORREKT ZUSÄTZLICH: e5
-FAST KORREKT ZUSÄTZLICH: IuF
-FAST KORREKT ZUSÄTZLICH: Auftellung
-FAST KORREKT ZUSÄTZLICH: um
+FAST KORREKT ZUSÄTZLICH: iuf
+FAST KORREKT ZUSÄTZLICH: auftellung
 FAST KORREKT ZUSÄTZLICH: endgultig
-FAST KORREKT ZUSÄTZLICH: Z
+FAST KORREKT ZUSÄTZLICH: z
 FAST KORREKT ZUSÄTZLICH: lubernahmen
-FAST KORREKT ZUSÄTZLICH: aM
 ZUSÄTZLICH: dic
-FAST KORREKT ZUSÄTZLICH: Telle
+FAST KORREKT ZUSÄTZLICH: telle
 ZUSÄTZLICH: undi
 FAST KORREKT ZUSÄTZLICH: schneli
-FAST KORREKT ZUSÄTZLICH: DMWMotorrider
-ZUSÄTZLICH: 50
-ZUSÄTZLICH: Man
+FAST KORREKT ZUSÄTZLICH: dmwmotorrider
+FAST KORREKT ZUSÄTZLICH: 50
 FAST KORREKT ZUSÄTZLICH: au5
-FAST KORREKT ZUSÄTZLICH: Fur
+FAST KORREKT ZUSÄTZLICH: fur
 FAST KORREKT ZUSÄTZLICH: lersten
-ZUSÄTZLICH: EMW
-FAST KORREKT ZUSÄTZLICH: Iedlglich
+ZUSÄTZLICH: emw
+FAST KORREKT ZUSÄTZLICH: iedlglich
 FAST KORREKT ZUSÄTZLICH: fur
 FAST KORREKT ZUSÄTZLICH: verfügten
-FAST KORREKT ZUSÄTZLICH: Motorrsdern
+FAST KORREKT ZUSÄTZLICH: motorrsdern
 FAST KORREKT ZUSÄTZLICH: scine
-ZUSÄTZLICH: Iml
+ZUSÄTZLICH: iml
 FAST KORREKT ZUSÄTZLICH: verblicbene
 FAST KORREKT ZUSÄTZLICH: vorgefuhrt
 FAST KORREKT ZUSÄTZLICH: fünt
 FAST KORREKT ZUSÄTZLICH: kurzester
-ZUSÄTZLICH: zuF
+FAST KORREKT ZUSÄTZLICH: zuf
 FAST KORREKT ZUSÄTZLICH: neven
-ZUSÄTZLICH: Fahrzeugund
-ZUSÄTZLICH: Thuringen
-FAST KORREKT ZUSÄTZLICH: War
+ZUSÄTZLICH: fahrzeugund
+ZUSÄTZLICH: thuringen
 FAST KORREKT ZUSÄTZLICH: glelche
-ZUSÄTZLICH: Motorradern
-ZUSÄTZLICH: zuN
+ZUSÄTZLICH: motorradern
+FAST KORREKT ZUSÄTZLICH: zun
 ZUSÄTZLICH: diel
-ZUSÄTZLICH: zuM
-ZUSÄTZLICH: Dlese
-FAST KORREKT ZUSÄTZLICH: Verfugung
-FAST KORREKT ZUSÄTZLICH: Prisidenten
-ZUSÄTZLICH: Imn
-FAST KORREKT ZUSÄTZLICH: Naturlich
-ZUSÄTZLICH: 2s
-FAST KORREKT ZUSÄTZLICH: Hunchen
-FAST KORREKT ZUSÄTZLICH: Interpreticrt
-ZUSÄTZLICH: nuF
-FAST KORREKT ZUSÄTZLICH: Raubanspruche
-FAST KORREKT ZUSÄTZLICH: In
+ZUSÄTZLICH: dlese
+FAST KORREKT ZUSÄTZLICH: verfugung
+FAST KORREKT ZUSÄTZLICH: prisidenten
+ZUSÄTZLICH: imn
+FAST KORREKT ZUSÄTZLICH: naturlich
+FAST KORREKT ZUSÄTZLICH: 2s
+FAST KORREKT ZUSÄTZLICH: hunchen
+FAST KORREKT ZUSÄTZLICH: interpreticrt
+ZUSÄTZLICH: nuf
+FAST KORREKT ZUSÄTZLICH: raubanspruche
 FAST KORREKT ZUSÄTZLICH: tuhrender
 ZUSÄTZLICH: 0r
-FAST KORREKT ZUSÄTZLICH: Kriegstrelber
-FAST KORREKT ZUSÄTZLICH: BMWMunchen
+FAST KORREKT ZUSÄTZLICH: kriegstrelber
+FAST KORREKT ZUSÄTZLICH: bmwmunchen
 ZUSÄTZLICH: 200
 ZUSÄTZLICH: lin
-FAST KORREKT ZUSÄTZLICH: SowjetIsche
 FAST KORREKT ZUSÄTZLICH: rugeschlagen
-FAST KORREKT ZUSÄTZLICH: Planansatze
+FAST KORREKT ZUSÄTZLICH: planansatze
 ZUSÄTZLICH: fdr
-ZUSÄTZLICH: Jahn
-FAST KORREKT ZUSÄTZLICH: Iiegen
+FAST KORREKT ZUSÄTZLICH: jahn
+FAST KORREKT ZUSÄTZLICH: iiegen
 FAST KORREKT ZUSÄTZLICH: zuverlassigere
-ZUSÄTZLICH: 50
+FAST KORREKT ZUSÄTZLICH: 50
 FAST KORREKT ZUSÄTZLICH: sticg
 ZUSÄTZLICH: dic
-ZUSÄTZLICH: Fertigungsstuckzahl
-ZUSÄTZLICH: Von
-ZUSÄTZLICH: Juf
-FAST KORREKT ZUSÄTZLICH: Schroder
+ZUSÄTZLICH: fertigungsstuckzahl
+ZUSÄTZLICH: juf
+FAST KORREKT ZUSÄTZLICH: schroder
 ZUSÄTZLICH: a
-Durchlauf 3:KORREKT: Nummer
+Durchlauf 3:KORREKT: nummer
 KORREKT: der
-KORREKT: Genehmigung
+KORREKT: genehmigung
 KORREKT: e1200746073403
-KORREKT: Approval
-KORREKT: No
+KORREKT: approval
+KORREKT: no
 KORREKT: 1
-KORREKT: Für
+KORREKT: für
 KORREKT: vollständige
-KORREKT: Varianten
-KORREKT: For
+KORREKT: varianten
+KORREKT: for
 KORREKT: complete
 KORREKT: variants
-KORREKT: Der
-KORREKT: Fahrzeugtyp
+KORREKT: der
+KORREKT: fahrzeugtyp
 KORREKT: erfüllt
 KORREKT: die
 KORREKT: technischen
-KORREKT: Anforderungen
+KORREKT: anforderungen
 KORREKT: aller
 KORREKT: einschlägigen
 KORREKT: in
-KORREKT: Anhang
-KORREKT: IV
+KORREKT: anhang
+KORREKT: iv
 KORREKT: der
-KORREKT: Richtlinie
-KORREKT: 200746EC
+KORREKT: richtlinie
+KORREKT: 200746ec
 KORREKT: vorgeschriebenen
-KORREKT: Rechtsakte
-KORREKT: The
+KORREKT: rechtsakte
+KORREKT: the
 KORREKT: vehicle
 KORREKT: type
 KORREKT: meets
@@ -1717,31 +1698,31 @@ KORREKT: acts
 KORREKT: as
 KORREKT: prescribed
 KORREKT: in
-KORREKT: Annex
-KORREKT: IV
+KORREKT: annex
+KORREKT: iv
 KORREKT: to
-KORREKT: Directive
-KORREKT: 200746EC
+KORREKT: directive
+KORREKT: 200746ec
 KORREKT: 2
-KORREKT: Für
+KORREKT: für
 KORREKT: unvollständige
-KORREKT: Varianten
-KORREKT: For
+KORREKT: varianten
+KORREKT: for
 KORREKT: incomplete
 KORREKT: variants
-FEHLT: Die
-FEHLT: Fahrzeugtype
+KORREKT: die
+FEHLT: fahrzeugtype
 KORREKT: erfüllt
 KORREKT: die
 FEHLT: technische
-KORREKT: Anforderungen
+KORREKT: anforderungen
 KORREKT: der
 KORREKT: in
 KORREKT: der
-KORREKT: Tabelle
+KORREKT: tabelle
 KORREKT: aufgeführten
-FEHLT: Rechtsakten
-KORREKT: The
+FEHLT: rechtsakten
+KORREKT: the
 KORREKT: vehicle
 KORREKT: type
 KORREKT: meets
@@ -1756,27 +1737,27 @@ KORREKT: listed
 KORREKT: in
 KORREKT: the
 KORREKT: table
-KORREKT: Umfasst
+KORREKT: umfasst
 KORREKT: die
-KORREKT: Typgenehmigung
+KORREKT: typgenehmigung
 KORREKT: eine
 KORREKT: oder
 KORREKT: mehrere
 KORREKT: unvollständige
-KORREKT: Varianten
+KORREKT: varianten
 KORREKT: oder
-KORREKT: Versionen
+KORREKT: versionen
 FAST KORREKT FEHLEND: so
 KORREKT: sind
 KORREKT: die
 KORREKT: vollständigen
 KORREKT: oder
 KORREKT: vervollständigten
-KORREKT: Varianten
+KORREKT: varianten
 KORREKT: bzw
-KORREKT: Versionen
+KORREKT: versionen
 KORREKT: anzugeben
-KORREKT: In
+KORREKT: in
 KORREKT: the
 KORREKT: case
 KORREKT: where
@@ -1796,14 +1777,14 @@ KORREKT: are
 KORREKT: complete
 KORREKT: or
 KORREKT: completed
-FEHLT: Vollständigervervollständigte
-KORREKT: Varianten
+FEHLT: vollständigervervollständigte
+KORREKT: varianten
 KORREKT: 1
-KORREKT: Stelle
+KORREKT: stelle
 KORREKT: des
-KORREKT: Variantenschlüssels
-KORREKT: K
-FEHLT: Completecompleted
+KORREKT: variantenschlüssels
+KORREKT: k
+FEHLT: completecompleted
 KORREKT: variants
 KORREKT: 1
 KORREKT: digit
@@ -1811,36 +1792,36 @@ KORREKT: in
 KORREKT: code
 KORREKT: of
 KORREKT: variants
-KORREKT: K
-KORREKT: Aufstellung
+KORREKT: k
+KORREKT: aufstellung
 KORREKT: der
 KORREKT: für
 KORREKT: den
 KORREKT: die
 KORREKT: genehmigten
 KORREKT: unvollständigen
-KORREKT: Fahrzeugtyp
+KORREKT: fahrzeugtyp
 KORREKT: oder
-KORREKT: Variante
+KORREKT: variante
 KORREKT: bzw
-KORREKT: Version
+KORREKT: version
 KORREKT: geltenden
-KORREKT: Vorschriften
+KORREKT: vorschriften
 KORREKT: jeweils
 KORREKT: unter
-KORREKT: Berücksichtigung
+KORREKT: berücksichtigung
 KORREKT: des
-KORREKT: Geltungsbereichs
+KORREKT: geltungsbereichs
 KORREKT: und
 KORREKT: des
 KORREKT: letzten
-KORREKT: Änderungsstands
+KORREKT: änderungsstands
 KORREKT: jeder
 KORREKT: der
 KORREKT: nachstehend
 KORREKT: aufgelisteten
-KORREKT: Rechtsakte
-KORREKT: List
+KORREKT: rechtsakte
+KORREKT: list
 KORREKT: of
 KORREKT: requirements
 KORREKT: applicable
@@ -1870,18 +1851,16 @@ FEHLT: regulative
 KORREKT: acts
 KORREKT: listed
 KORREKT: below
-ZUSÄTZLICH: 200746EG
+ZUSÄTZLICH: 200746eg
 FAST KORREKT ZUSÄTZLICH: s0
-ZUSÄTZLICH: Vollständige
 ZUSÄTZLICH: vervollständigte
-ZUSÄTZLICH: Complete
 Durchlauf 2:KORREKT: 2122
 KORREKT: des
-KORREKT: Sattelanhängers
+KORREKT: sattelanhängers
 KORREKT: oder
 KORREKT: des
-KORREKT: Zentralachsanhängers
-KORREKT: Of
+KORREKT: zentralachsanhängers
+KORREKT: of
 KORREKT: the
 KORREKT: semitrailer
 KORREKT: or
@@ -1891,29 +1870,29 @@ KORREKT: entfällt
 KORREKT: not
 KORREKT: applicable
 KORREKT: 216
-KORREKT: Bei
+KORREKT: bei
 KORREKT: der
-FAST KORREKT FEHLEND: Zulassungim
-KORREKT: Betrieb
+FAST KORREKT FEHLEND: zulassungim
+KORREKT: betrieb
 KORREKT: vorgesehene
 KORREKT: zulässige
-KORREKT: Massen
+KORREKT: massen
 KORREKT: fakultativ
 KORREKT: werden
 KORREKT: diese
-KORREKT: Massen
+KORREKT: massen
 KORREKT: angegeben
 KORREKT: müssen
 KORREKT: sie
 KORREKT: nach
-KORREKT: Anhang
-KORREKT: IV
+KORREKT: anhang
+KORREKT: iv
 KORREKT: der
-KORREKT: Richtlinie
-KORREKT: 9727EG
+KORREKT: richtlinie
+KORREKT: 9727eg
 KORREKT: überprüft
 KORREKT: werden
-KORREKT: Intended
+KORREKT: intended
 FAST KORREKT FEHLEND: registrationin
 KORREKT: service
 KORREKT: maximum
@@ -1935,28 +1914,28 @@ KORREKT: with
 KORREKT: the
 KORREKT: requirements
 KORREKT: of
-KORREKT: Annex
-KORREKT: IV
+KORREKT: annex
+KORREKT: iv
 KORREKT: to
-KORREKT: Directive
-FAST KORREKT FEHLEND: 9727EC
+KORREKT: directive
+FAST KORREKT FEHLEND: 9727ec
 KORREKT: 2161
-KORREKT: Bei
+KORREKT: bei
 KORREKT: der
-FAST KORREKT FEHLEND: Zulassungim
-KORREKT: Betrieb
+FAST KORREKT FEHLEND: zulassungim
+KORREKT: betrieb
 KORREKT: vorgesehene
 KORREKT: höchstzulässige
-KORREKT: Gesamtmasse
+KORREKT: gesamtmasse
 KORREKT: mehrere
-KORREKT: Angaben
+KORREKT: angaben
 KORREKT: für
 KORREKT: verschiedene
 KORREKT: technische
-KORREKT: Konfigurationen
+KORREKT: konfigurationen
 KORREKT: möglich
 KORREKT: 5
-KORREKT: Intended
+KORREKT: intended
 FAST KORREKT FEHLEND: registrationin
 KORREKT: service
 KORREKT: maximum
@@ -1976,28 +1955,28 @@ KORREKT: 28
 KORREKT: see
 KORREKT: 28
 KORREKT: 2162
-KORREKT: Bei
+KORREKT: bei
 KORREKT: der
-FAST KORREKT FEHLEND: Zulassungim
-KORREKT: Betrieb
+FAST KORREKT FEHLEND: zulassungim
+KORREKT: betrieb
 KORREKT: vorgesehene
 KORREKT: höchstzulässige
-KORREKT: Achslast
+KORREKT: achslast
 KORREKT: je
-KORREKT: Achse
+KORREKT: achse
 KORREKT: oder
-KORREKT: Achsgruppe
+KORREKT: achsgruppe
 KORREKT: und
 KORREKT: bei
-KORREKT: Sattelanhängern
+KORREKT: sattelanhängern
 KORREKT: und
-KORREKT: Zentralachsanhängern
+KORREKT: zentralachsanhängern
 KORREKT: vorgesehene
-KORREKT: Stützlast
+KORREKT: stützlast
 KORREKT: nach
-KORREKT: Angabe
+KORREKT: angabe
 KORREKT: des
-KORREKT: Herstellers
+KORREKT: herstellers
 KORREKT: wenn
 KORREKT: diese
 KORREKT: niedriger
@@ -2006,16 +1985,16 @@ KORREKT: als
 KORREKT: die
 KORREKT: technisch
 KORREKT: zulässige
-KORREKT: Höchststützlast
+KORREKT: höchststützlast
 KORREKT: mehrere
-KORREKT: Angaben
+KORREKT: angaben
 KORREKT: für
 KORREKT: verschiedene
 KORREKT: technische
-KORREKT: Konfigurationen
+KORREKT: konfigurationen
 KORREKT: möglich
 KORREKT: 5
-KORREKT: Intended
+KORREKT: intended
 FAST KORREKT FEHLEND: registrationin
 KORREKT: service
 KORREKT: maximum
@@ -2069,24 +2048,24 @@ KORREKT: 28
 KORREKT: see
 KORREKT: 28
 KORREKT: 2163
-KORREKT: Bei
+KORREKT: bei
 KORREKT: der
-FAST KORREKT FEHLEND: Zulassungim
-KORREKT: Betrieb
+FAST KORREKT FEHLEND: zulassungim
+KORREKT: betrieb
 KORREKT: vorgesehene
 KORREKT: höchstzulässige
-KORREKT: Masse
+KORREKT: masse
 KORREKT: je
-KORREKT: Achsgruppe
+KORREKT: achsgruppe
 KORREKT: mehrere
-KORREKT: Angaben
+KORREKT: angaben
 KORREKT: für
 KORREKT: verschiedene
 KORREKT: technische
-KORREKT: Konfigurationen
+KORREKT: konfigurationen
 KORREKT: möglich
 KORREKT: 5
-KORREKT: Intended
+KORREKT: intended
 FAST KORREKT FEHLEND: registrationin
 KORREKT: service
 KORREKT: maximum
@@ -2109,22 +2088,22 @@ KORREKT: 28
 KORREKT: see
 KORREKT: 28
 KORREKT: 2164
-KORREKT: Bei
+KORREKT: bei
 KORREKT: der
-FAST KORREKT FEHLEND: Zulassungim
-KORREKT: Betrieb
+FAST KORREKT FEHLEND: zulassungim
+KORREKT: betrieb
 KORREKT: vorgesehene
 KORREKT: höchstzulässige
-KORREKT: Anhängemasse
+KORREKT: anhängemasse
 KORREKT: mehrere
-KORREKT: Angaben
+KORREKT: angaben
 KORREKT: für
 KORREKT: verschiedene
 KORREKT: technische
-KORREKT: Konfigurationen
+KORREKT: konfigurationen
 KORREKT: möglich
 KORREKT: 5
-KORREKT: Intended
+KORREKT: intended
 FAST KORREKT FEHLEND: registrationin
 KORREKT: service
 KORREKT: maximum
@@ -2143,20 +2122,20 @@ KORREKT: siehe
 KORREKT: 211
 KORREKT: see
 KORREKT: 211
-FAST KORREKT ZUSÄTZLICH: Zulassunglim
+FAST KORREKT ZUSÄTZLICH: zulassunglim
 FAST KORREKT ZUSÄTZLICH: registrationlin
-FAST KORREKT ZUSÄTZLICH: 97I27EC
-FAST KORREKT ZUSÄTZLICH: Zulassunglim
+FAST KORREKT ZUSÄTZLICH: 97i27ec
+FAST KORREKT ZUSÄTZLICH: zulassunglim
 FAST KORREKT ZUSÄTZLICH: registrationlin
-FAST KORREKT ZUSÄTZLICH: Zulassunglim
+FAST KORREKT ZUSÄTZLICH: zulassunglim
 FAST KORREKT ZUSÄTZLICH: registrationlin
 FAST KORREKT ZUSÄTZLICH: registrationlin
-FAST KORREKT ZUSÄTZLICH: Zulassunglim
+FAST KORREKT ZUSÄTZLICH: zulassunglim
 FAST KORREKT ZUSÄTZLICH: registrationlin
-FAST KORREKT ZUSÄTZLICH: Zulassunglim
-Durchlauf 4:KORREKT: The
-KORREKT: TMAP
-KORREKT: Sensor
+FAST KORREKT ZUSÄTZLICH: zulassunglim
+Durchlauf 4:KORREKT: the
+KORREKT: tmap
+KORREKT: sensor
 KORREKT: mounted
 KORREKT: on
 KORREKT: the
@@ -2173,8 +2152,8 @@ KORREKT: and
 KORREKT: intake
 KORREKT: air
 KORREKT: temperature
-KORREKT: The
-KORREKT: MAP
+KORREKT: the
+KORREKT: map
 KORREKT: portion
 KORREKT: of
 KORREKT: the
@@ -2191,7 +2170,7 @@ KORREKT: fuel
 KORREKT: and
 KORREKT: spark
 KORREKT: timing
-KORREKT: The
+KORREKT: the
 KORREKT: data
 KORREKT: provided
 KORREKT: by
@@ -2209,7 +2188,7 @@ KORREKT: the
 KORREKT: data
 KORREKT: from
 KORREKT: the
-KORREKT: MAP
+KORREKT: map
 KORREKT: sensor
 KORREKT: to
 KORREKT: determine
@@ -2230,11 +2209,11 @@ KORREKT: up
 KORREKT: and
 KORREKT: general
 KORREKT: operation
-KORREKT: Throttle
-KORREKT: Position
-KORREKT: Sensor
-KORREKT: TPS
-KORREKT: The
+KORREKT: throttle
+KORREKT: position
+KORREKT: sensor
+KORREKT: tps
+KORREKT: the
 KORREKT: throttle
 KORREKT: induction
 KORREKT: module
@@ -2245,8 +2224,8 @@ KORREKT: one
 KORREKT: throttle
 KORREKT: position
 KORREKT: sensors
-KORREKT: TPS
-KORREKT: The
+KORREKT: tps
+KORREKT: the
 KORREKT: sensor
 KORREKT: is
 KORREKT: a
@@ -2254,9 +2233,9 @@ KORREKT: single
 KORREKT: slope
 KORREKT: contacting
 KORREKT: potentiometer
-KORREKT: The
+KORREKT: the
 KORREKT: throttle
-KORREKT: Position
+KORREKT: position
 KORREKT: sensors
 KORREKT: provide
 KORREKT: information
@@ -2269,14 +2248,14 @@ KORREKT: fuel
 KORREKT: and
 KORREKT: spark
 KORREKT: timing
-KORREKT: Crankshaft
-KORREKT: Position
-KORREKT: Sensor
-KORREKT: CKP
-KORREKT: Sensor
-KORREKT: The
-KORREKT: CKP
-KORREKT: Sensor
+KORREKT: crankshaft
+KORREKT: position
+KORREKT: sensor
+KORREKT: ckp
+KORREKT: sensor
+KORREKT: the
+KORREKT: ckp
+KORREKT: sensor
 KORREKT: is
 KORREKT: a
 KORREKT: magnetic
@@ -2292,13 +2271,13 @@ KORREKT: cover
 KORREKT: near
 KORREKT: the
 KORREKT: top
-KORREKT: To
+KORREKT: to
 KORREKT: calculate
 KORREKT: engine
 KORREKT: speed
 KORREKT: for
 KORREKT: the
-KORREKT: ECM
+KORREKT: ecm
 KORREKT: the
 KORREKT: sensor
 KORREKT: picks
@@ -2316,7 +2295,7 @@ KORREKT: the
 KORREKT: left
 KORREKT: flywheel
 KORREKT: cheek
-KORREKT: A
+KORREKT: a
 KORREKT: gap
 KORREKT: created
 KORREKT: by
@@ -2327,20 +2306,20 @@ KORREKT: two
 KORREKT: teeth
 KORREKT: establishes
 KORREKT: a
-KORREKT: Top
-KORREKT: Dead
-KORREKT: Center
-KORREKT: TDC
+KORREKT: top
+KORREKT: dead
+KORREKT: center
+KORREKT: tdc
 KORREKT: reference
-KORREKT: Engine
-KORREKT: Coolant
-KORREKT: Temperature
-KORREKT: Sensor
-KORREKT: ECT
-KORREKT: Sensor
-KORREKT: The
-KORREKT: ECT
-KORREKT: Sensor
+KORREKT: engine
+KORREKT: coolant
+KORREKT: temperature
+KORREKT: sensor
+KORREKT: ect
+KORREKT: sensor
+KORREKT: the
+KORREKT: ect
+KORREKT: sensor
 KORREKT: monitors
 KORREKT: coolant
 KORREKT: temperature
@@ -2355,13 +2334,13 @@ KORREKT: front
 KORREKT: and
 KORREKT: rear
 KORREKT: cylinder
-KORREKT: This
+KORREKT: this
 KORREKT: information
 KORREKT: is
 KORREKT: used
 KORREKT: by
 KORREKT: the
-KORREKT: ECM
+KORREKT: ecm
 KORREKT: during
 KORREKT: engine
 KORREKT: warmup
@@ -2387,14 +2366,14 @@ KORREKT: advance
 KORREKT: during
 KORREKT: elevated
 KORREKT: temperatures
-FEHLT: Throtte
-KORREKT: Position
-KORREKT: Sensor
-KORREKT: TP
-KORREKT: Sensor
-KORREKT: The
-KORREKT: TP
-KORREKT: Sensor
+FEHLT: throtte
+KORREKT: position
+KORREKT: sensor
+KORREKT: tp
+KORREKT: sensor
+KORREKT: the
+KORREKT: tp
+KORREKT: sensor
 KORREKT: is
 KORREKT: a
 FEHLT: potentiomter
@@ -2404,8 +2383,8 @@ KORREKT: the
 KORREKT: side
 KORREKT: of
 KORREKT: the
-KORREKT: Induction
-KORREKT: Module
+KORREKT: induction
+KORREKT: module
 KORREKT: and
 KORREKT: attached
 KORREKT: to
@@ -2415,13 +2394,13 @@ KORREKT: of
 KORREKT: the
 KORREKT: throttle
 KORREKT: shaft
-KORREKT: It
+KORREKT: it
 KORREKT: provides
 KORREKT: the
-KORREKT: ECM
+KORREKT: ecm
 KORREKT: with
 KORREKT: information
-FEHLT: About
+KORREKT: about
 KORREKT: throttle
 KORREKT: angle
 KORREKT: for
@@ -2430,14 +2409,14 @@ KORREKT: fuel
 KORREKT: and
 KORREKT: spark
 KORREKT: timing
-KORREKT: Oxygen
-KORREKT: Sensor
-KORREKT: O2
-KORREKT: Sensor
-KORREKT: Two
+KORREKT: oxygen
+KORREKT: sensor
+KORREKT: o2
+KORREKT: sensor
+KORREKT: two
 KORREKT: heated
-KORREKT: O2
-KORREKT: Sensors
+KORREKT: o2
+KORREKT: sensors
 KORREKT: are
 KORREKT: used
 KORREKT: one
@@ -2451,23 +2430,23 @@ KORREKT: of
 KORREKT: the
 KORREKT: exhaust
 KORREKT: ports
-KORREKT: The
-KORREKT: O2
-KORREKT: Sensor
+KORREKT: the
+KORREKT: o2
+KORREKT: sensor
 KORREKT: measures
 KORREKT: oxygen
 KORREKT: in
 KORREKT: the
 KORREKT: exhaust
 KORREKT: system
-KORREKT: The
-KORREKT: ECM
+KORREKT: the
+KORREKT: ecm
 KORREKT: uses
 KORREKT: input
 KORREKT: from
 KORREKT: the
-KORREKT: O2
-KORREKT: Sensor
+KORREKT: o2
+KORREKT: sensor
 KORREKT: to
 KORREKT: keep
 KORREKT: the
@@ -2475,12 +2454,12 @@ KORREKT: air
 KORREKT: fuel
 KORREKT: mixture
 KORREKT: balanced
-KORREKT: OTHER
-KORREKT: FEATURES
-KORREKT: Wire
-KORREKT: Harnesses
-KORREKT: The
-KORREKT: EFI
+KORREKT: other
+KORREKT: features
+KORREKT: wire
+KORREKT: harnesses
+KORREKT: the
+KORREKT: efi
 KORREKT: wire
 KORREKT: harness
 KORREKT: is
@@ -2491,12 +2470,12 @@ KORREKT: harness
 KORREKT: on
 KORREKT: the
 KORREKT: vehicle
-KORREKT: Low
-KORREKT: Level
-KORREKT: Fuel
-KORREKT: Warning
-KORREKT: Lamp
-KORREKT: A
+KORREKT: low
+KORREKT: level
+KORREKT: fuel
+KORREKT: warning
+KORREKT: lamp
+KORREKT: a
 KORREKT: fuel
 KORREKT: gauge
 KORREKT: and
@@ -2509,7 +2488,7 @@ KORREKT: lamp
 KORREKT: have
 KORREKT: been
 KORREKT: provided
-KORREKT: The
+KORREKT: the
 KORREKT: lamp
 KORREKT: is
 KORREKT: activated
@@ -2536,7 +2515,7 @@ KORREKT: or
 KORREKT: fuel
 KORREKT: is
 KORREKT: added
-KORREKT: The
+KORREKT: the
 KORREKT: lamp
 KORREKT: is
 KORREKT: designed
@@ -2559,10 +2538,10 @@ KORREKT: slosh
 KORREKT: inside
 KORREKT: the
 KORREKT: tank
-KORREKT: Fuses
+KORREKT: fuses
 KORREKT: and
-KORREKT: Relays
-KORREKT: One
+KORREKT: relays
+KORREKT: one
 KORREKT: electrical
 KORREKT: relay
 KORREKT: is
@@ -2576,7 +2555,7 @@ KORREKT: ignition
 KORREKT: coil
 KORREKT: and
 KORREKT: injectors
-KORREKT: To
+KORREKT: to
 KORREKT: provide
 KORREKT: circuit
 KORREKT: protection
@@ -2590,7 +2569,7 @@ KORREKT: a
 KORREKT: sealed
 KORREKT: fuse
 KORREKT: holder
-KORREKT: Another
+KORREKT: another
 KORREKT: holder
 KORREKT: at
 KORREKT: the
@@ -2599,13 +2578,13 @@ KORREKT: location
 KORREKT: contains
 KORREKT: spare
 KORREKT: fuses
-KORREKT: Check
-KORREKT: Engine
-KORREKT: Lamp
-KORREKT: The
-KORREKT: Check
-KORREKT: Engine
-KORREKT: Lamp
+KORREKT: check
+KORREKT: engine
+KORREKT: lamp
+KORREKT: the
+KORREKT: check
+KORREKT: engine
+KORREKT: lamp
 KORREKT: on
 KORREKT: the
 KORREKT: instrument
@@ -2618,13 +2597,11 @@ KORREKT: a
 KORREKT: fault
 KORREKT: condition
 ZUSÄTZLICH: sensoris
-FAST KORREKT ZUSÄTZLICH: Oz
+FAST KORREKT ZUSÄTZLICH: oz
 ZUSÄTZLICH: i5
 ZUSÄTZLICH: 4
-ZUSÄTZLICH: Or
 ZUSÄTZLICH: s0
-ZUSÄTZLICH: check
-Durchlauf 1:KORREKT: Collateral
+Durchlauf 1:KORREKT: collateral
 KORREKT: clauses
 KORREKT: and
 KORREKT: instruction
@@ -2632,9 +2609,9 @@ KORREKT: on
 KORREKT: right
 KORREKT: to
 KORREKT: appeal
-KORREKT: Collateral
+KORREKT: collateral
 KORREKT: clauses
-KORREKT: All
+KORREKT: all
 KORREKT: equipment
 KORREKT: which
 KORREKT: corresponds
@@ -2651,16 +2628,16 @@ KORREKT: to
 KORREKT: the
 KORREKT: applied
 KORREKT: regulation
-KORREKT: The
+KORREKT: the
 KORREKT: approval
 KORREKT: identification
 KORREKT: is
 KORREKT: as
 KORREKT: follows
 KORREKT: see
-KORREKT: German
+KORREKT: german
 KORREKT: version
-KORREKT: The
+KORREKT: the
 KORREKT: individual
 KORREKT: production
 KORREKT: of
@@ -2675,7 +2652,7 @@ KORREKT: with
 KORREKT: the
 KORREKT: approval
 KORREKT: documents
-KORREKT: Changes
+KORREKT: changes
 KORREKT: in
 KORREKT: the
 KORREKT: individual
@@ -2688,8 +2665,8 @@ KORREKT: express
 KORREKT: consent
 KORREKT: of
 KORREKT: the
-KORREKT: KraftfahrtBundesamt
-KORREKT: Changes
+KORREKT: kraftfahrtbundesamt
+KORREKT: changes
 KORREKT: in
 KORREKT: the
 KORREKT: name
@@ -2729,9 +2706,9 @@ KORREKT: immediately
 KORREKT: disclosed
 KORREKT: to
 KORREKT: the
-FEHLT: Kraftfahrt
-FEHLT: Bundesamt
-KORREKT: Breach
+FEHLT: kraftfahrt
+FEHLT: bundesamt
+KORREKT: breach
 KORREKT: of
 KORREKT: this
 KORREKT: regulation
@@ -2748,7 +2725,7 @@ KORREKT: can
 KORREKT: be
 KORREKT: legally
 KORREKT: prosecuted
-KORREKT: The
+KORREKT: the
 KORREKT: approval
 KORREKT: expires
 KORREKT: if
@@ -2769,7 +2746,7 @@ KORREKT: with
 KORREKT: the
 KORREKT: legal
 KORREKT: requirements
-KORREKT: The
+KORREKT: the
 KORREKT: revocation
 KORREKT: can
 KORREKT: be
@@ -2836,8 +2813,8 @@ KORREKT: safety
 KORREKT: or
 KORREKT: environmental
 KORREKT: protection
-KORREKT: The
-FEHLT: KraftfahrBundestamt
+KORREKT: the
+FEHLT: kraftfahrbundestamt
 KORREKT: may
 KORREKT: check
 KORREKT: the
@@ -2854,7 +2831,7 @@ KORREKT: approval
 KORREKT: at
 KORREKT: any
 KORREKT: time
-KORREKT: In
+KORREKT: in
 KORREKT: particular
 KORREKT: this
 KORREKT: means
@@ -2869,7 +2846,7 @@ KORREKT: for
 KORREKT: conformity
 KORREKT: of
 KORREKT: production
-KORREKT: For
+KORREKT: for
 KORREKT: this
 KORREKT: purpose
 KORREKT: samples
@@ -2879,14 +2856,14 @@ KORREKT: taken
 KORREKT: or
 KORREKT: have
 KORREKT: taken
-KORREKT: The
+KORREKT: the
 KORREKT: employees
 KORREKT: or
 KORREKT: the
 KORREKT: representatives
 KORREKT: of
 KORREKT: the
-KORREKT: KraftfahrtBundesamt
+KORREKT: kraftfahrtbundesamt
 KORREKT: may
 KORREKT: get
 KORREKT: unhindered
@@ -2897,7 +2874,7 @@ KORREKT: production
 KORREKT: and
 KORREKT: storage
 KORREKT: facilities
-KORREKT: The
+KORREKT: the
 KORREKT: conferred
 KORREKT: authority
 KORREKT: contained
@@ -2909,7 +2886,7 @@ KORREKT: approval
 KORREKT: is
 KORREKT: not
 KORREKT: transferable
-KORREKT: Trade
+KORREKT: trade
 KORREKT: mark
 KORREKT: rights
 KORREKT: of
@@ -2921,12 +2898,12 @@ KORREKT: affected
 KORREKT: with
 KORREKT: this
 KORREKT: approval
-KORREKT: Instruction
+KORREKT: instruction
 KORREKT: on
 KORREKT: right
 KORREKT: of
 KORREKT: appeal
-KORREKT: This
+KORREKT: this
 KORREKT: approval
 KORREKT: can
 KORREKT: be
@@ -2936,7 +2913,7 @@ KORREKT: one
 KORREKT: month
 KORREKT: after
 KORREKT: notification
-KORREKT: The
+KORREKT: the
 KORREKT: appeal
 KORREKT: is
 KORREKT: to
@@ -2949,10 +2926,10 @@ KORREKT: a
 KORREKT: transcript
 KORREKT: at
 KORREKT: the
-KORREKT: KraftfahrtBundesamt
-KORREKT: Fördestraße
+KORREKT: kraftfahrtbundesamt
+KORREKT: fördestraße
 KORREKT: 16
-KORREKT: DE24944
-KORREKT: Flensburg
+KORREKT: de24944
+KORREKT: flensburg
 FAST KORREKT ZUSÄTZLICH: authorised
 FAST KORREKT ZUSÄTZLICH: filed

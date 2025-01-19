@@ -1,438 +1,437 @@
-Durchlauf 7:FEHLT: Der
-FEHLT: Erteilung
+Durchlauf 7:FEHLT: der
+FEHLT: erteilung
 FEHLT: des
-FEHLT: Typscheins
+FEHLT: typscheins
 FEHLT: stehen
 FEHLT: technische
-FEHLT: Bedenken
+FEHLT: bedenken
 FEHLT: nicht
 FEHLT: entgegen
-FEHLT: Zu
+FEHLT: zu
 FEHLT: diesem
-FEHLT: Typgutachten
+FEHLT: typgutachten
 FEHLT: gehören
 FEHLT: eine
-FEHLT: Beschreibung
+FEHLT: beschreibung
 FEHLT: des
-FEHLT: Fahrzeugs
+FEHLT: fahrzeugs
 FEHLT: fünf
-FEHLT: Zeichnungen
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-ZUSÄTZLICH: ImageLINK_SOLT
-Durchlauf 5:KORREKT: Technische
-KORREKT: Daten
-KORREKT: Motorrad
-KORREKT: BMW
-KORREKT: R
+FEHLT: zeichnungen
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+ZUSÄTZLICH: imagelink_solt
+Durchlauf 5:KORREKT: technische
+KORREKT: daten
+KORREKT: motorrad
+KORREKT: bmw
+KORREKT: r
 KORREKT: 35
-KORREKT: Nachstehende
-KORREKT: Daten
-FAST KORREKT FEHLEND: kommen
+KORREKT: nachstehende
+KORREKT: daten
+KORREKT: kommen
 KORREKT: noch
 KORREKT: zusätzlich
 KORREKT: zu
 KORREKT: dem
 FAST KORREKT FEHLEND: bisherigen
-KORREKT: Typenschein
+KORREKT: typenschein
 FAST KORREKT FEHLEND: für
 KORREKT: das
 KORREKT: neue
-FEHLT: Typenfachten
+FEHLT: typenfachten
 KORREKT: in
-KORREKT: Frage
-KORREKT: Bohrung
+KORREKT: frage
+KORREKT: bohrung
 KORREKT: 72
 KORREKT: mm
-KORREKT: Hub
+KORREKT: hub
 KORREKT: 84
 KORREKT: mm
-KORREKT: Akku
+KORREKT: akku
 KORREKT: 6
-KORREKT: Volt
-FAST KORREKT FEHLEND: Länge
+KORREKT: volt
+FAST KORREKT FEHLEND: länge
 KORREKT: 2000
 KORREKT: mm
-KORREKT: Breite
+KORREKT: breite
 KORREKT: 800
 FAST KORREKT FEHLEND: m
-FAST KORREKT FEHLEND: Höhe
+FAST KORREKT FEHLEND: höhe
 KORREKT: 950
 KORREKT: mm
-KORREKT: Radantrieb
-KORREKT: Kraftübertragung
-FAST KORREKT FEHLEND: Kardan
-KORREKT: Reifen
+KORREKT: radantrieb
+KORREKT: kraftübertragung
+FAST KORREKT FEHLEND: kardan
+KORREKT: reifen
 KORREKT: vorn
 KORREKT: 550
 KORREKT: 19
-KORREKT: Luftdruck
+KORREKT: luftdruck
 KORREKT: 14
 KORREKT: atu
-KORREKT: Reifen
+KORREKT: reifen
 KORREKT: hinten
 KORREKT: 35
 FEHLT: 0
 KORREKT: 19
-KORREKT: Luftdruck
+KORREKT: luftdruck
 KORREKT: 19
 KORREKT: atu
 KORREKT: mit
-KORREKT: Sozius
-KORREKT: Bremsanlage
+KORREKT: sozius
+KORREKT: bremsanlage
 KORREKT: mechanisch
-KORREKT: BMW
-FAST KORREKT FEHLEND: Eigengewicht
+KORREKT: bmw
+FAST KORREKT FEHLEND: eigengewicht
 KORREKT: mit
-FEHLT: Öl
+FEHLT: öl
 KORREKT: und
-KORREKT: Kraftstoff
+KORREKT: kraftstoff
 KORREKT: 162
 KORREKT: kg
-FAST KORREKT FEHLEND: Zulässige
-KORREKT: Belastung
+FAST KORREKT FEHLEND: zulässige
+KORREKT: belastung
 KORREKT: 2
-KORREKT: Personen
+KORREKT: personen
 KORREKT: 188
 KORREKT: kg
-FAST KORREKT FEHLEND: Zulässiges
-KORREKT: Gesamtgewicht
+FAST KORREKT FEHLEND: zulässiges
+KORREKT: gesamtgewicht
 KORREKT: 350
 KORREKT: kg
-FAST KORREKT ZUSÄTZLICH: Kommen
 FAST KORREKT ZUSÄTZLICH: bisserigen
 FAST KORREKT ZUSÄTZLICH: fur
-ZUSÄTZLICH: Typgutachten
-FAST KORREKT ZUSÄTZLICH: Linge
-FAST KORREKT ZUSÄTZLICH: Höne
-FAST KORREKT ZUSÄTZLICH: Karuan
-FAST KORREKT ZUSÄTZLICH: Nigengewicht
-FAST KORREKT ZUSÄTZLICH: Ul
-FAST KORREKT ZUSÄTZLICH: Zulassige
-FAST KORREKT ZUSÄTZLICH: Zulassiges
-Durchlauf 6:KORREKT: Allgemeine
-KORREKT: Beschreibung
+ZUSÄTZLICH: typgutachten
+FAST KORREKT ZUSÄTZLICH: linge
+FAST KORREKT ZUSÄTZLICH: höne
+FAST KORREKT ZUSÄTZLICH: karuan
+FAST KORREKT ZUSÄTZLICH: nigengewicht
+FAST KORREKT ZUSÄTZLICH: ul
+FAST KORREKT ZUSÄTZLICH: zulassige
+FAST KORREKT ZUSÄTZLICH: zulassiges
+Durchlauf 6:KORREKT: allgemeine
+KORREKT: beschreibung
 KORREKT: der
-FEHLT: Zugmaschine
+FEHLT: zugmaschine
 KORREKT: 35
-FAST KORREKT FEHLEND: PS
-FAST KORREKT FEHLEND: Bulldog
-FAST KORREKT FEHLEND: Ackerschlepper
-KORREKT: Ausführung
+FAST KORREKT FEHLEND: ps
+FAST KORREKT FEHLEND: bulldog
+FAST KORREKT FEHLEND: ackerschlepper
+KORREKT: ausführung
 FAST KORREKT FEHLEND: 8506
-KORREKT: A
+KORREKT: a
 KORREKT: und
-KORREKT: B
-KORREKT: Der
+KORREKT: b
+KORREKT: der
 KORREKT: 35
-FAST KORREKT FEHLEND: PS
-FAST KORREKT FEHLEND: Ackerbulldog
+FAST KORREKT FEHLEND: ps
+FAST KORREKT FEHLEND: ackerbulldog
 KORREKT: wird
 KORREKT: in
 KORREKT: zwei
-KORREKT: Ausführungen
+KORREKT: ausführungen
 FEHLT: hergestellt
 KORREKT: 1
-FAST KORREKT FEHLEND: Normalausführung
-FAST KORREKT FEHLEND: D
+FAST KORREKT FEHLEND: normalausführung
+FAST KORREKT FEHLEND: d
 FAST KORREKT FEHLEND: 8506
-KORREKT: A
-KORREKT: Der
-KORREKT: Schlepper
+KORREKT: a
+KORREKT: der
+KORREKT: schlepper
 KORREKT: besitzt
 KORREKT: 6
-FEHLT: Getriebsgänge
+FEHLT: getriebsgänge
 FAST KORREKT FEHLEND: vorwärts
 KORREKT: und
 KORREKT: 2
-FEHLT: Rückwärtsgänge
+FEHLT: rückwärtsgänge
 KORREKT: mit
 KORREKT: 2
-FAST KORREKT FEHLEND: Schalthebeln
-KORREKT: Da
+FAST KORREKT FEHLEND: schalthebeln
+KORREKT: da
 KORREKT: die
-KORREKT: Fahrgeschwindigkeit
+KORREKT: fahrgeschwindigkeit
 FAST KORREKT FEHLEND: 18
 KORREKT: km
 FEHLT: beträgt
 KORREKT: ist
 KORREKT: eran
 KORREKT: den
-KORREKT: Vorder
+KORREKT: vorder
 KORREKT: und
-FEHLT: Hinterräder
+FEHLT: hinterräder
 FAST KORREKT FEHLEND: luftbereift
-KORREKT: Der
-KORREKT: Schlepper
+KORREKT: der
+KORREKT: schlepper
 KORREKT: hat
 KORREKT: eine
-FEHLT: Hinterradfußbremse
+FEHLT: hinterradfußbremse
 KORREKT: und
 KORREKT: eine
 FAST KORREKT FEHLEND: feststellbare
-FAST KORREKT FEHLEND: Getriebehandbremse
-KORREKT: Der
-KORREKT: Motor
+FAST KORREKT FEHLEND: getriebehandbremse
+KORREKT: der
+KORREKT: motor
 KORREKT: ist
 KORREKT: ein
-FAST KORREKT FEHLEND: ZweifaktGlühkopfmotor
+FAST KORREKT FEHLEND: zweifaktglühkopfmotor
 KORREKT: mit
 KORREKT: elektrischer
-FEHLT: Anlaßfzündung
-KORREKT: Die
-KORREKT: Ingangsetzung
+FEHLT: anlaßfzündung
+KORREKT: die
+KORREKT: ingangsetzung
 KORREKT: erfolgt
 KORREKT: durch
-FAST KORREKT FEHLEND: anwerfen
+KORREKT: anwerfen
 KORREKT: mittels
-FEHLT: Handrad
+FEHLT: handrad
 KORREKT: das
 FAST KORREKT FEHLEND: abnehmbar
 KORREKT: am
-FEHLT: Lenkstock
+FEHLT: lenkstock
 KORREKT: angeordnet
 KORREKT: ist
-KORREKT: Die
-KORREKT: Kühlung
+KORREKT: die
+KORREKT: kühlung
 KORREKT: des
-KORREKT: Motors
+KORREKT: motors
 FEHLT: geschieht
 KORREKT: durch
-FEHLT: ThermosiphonWasser
-FAST KORREKT FEHLEND: Umlaufkühlung
+FEHLT: thermosiphonwasser
+KORREKT: umlaufkühlung
 KORREKT: und
-FAST KORREKT FEHLEND: Windflügel
-KORREKT: Die
-KORREKT: Kraftübertragung
+FAST KORREKT FEHLEND: windflügel
+KORREKT: die
+KORREKT: kraftübertragung
 KORREKT: erfolgt
 KORREKT: durch
 KORREKT: eine
-FAST KORREKT FEHLEND: Mehrscheibenkupplung
-FEHLT: Das
-KORREKT: Schmierung
+FAST KORREKT FEHLEND: mehrscheibenkupplung
+KORREKT: das
+KORREKT: schmierung
 KORREKT: ist
 KORREKT: eine
-FEHLT: FrischölUmlaufschmierung
-KORREKT: Der
-KORREKT: Schlepper
+FEHLT: frischölumlaufschmierung
+KORREKT: der
+KORREKT: schlepper
 KORREKT: hat
 KORREKT: zum
-KORREKT: Schutz
+KORREKT: schutz
 KORREKT: des
-FAST KORREKT FEHLEND: Fahrers
-FEHLT: Plattform
+FAST KORREKT FEHLEND: fahrers
+FEHLT: plattform
 KORREKT: und
-FAST KORREKT FEHLEND: Seitenbleche
-KORREKT: Er
+FAST KORREKT FEHLEND: seitenbleche
+KORREKT: er
 FEHLT: besitzet
 KORREKT: elektrische
-KORREKT: Beleuchtung
+KORREKT: beleuchtung
 KORREKT: nach
 KORREKT: den
-KORREKT: Bestimmungen
+KORREKT: bestimmungen
 KORREKT: der
-FAST KORREKT FEHLEND: StVZO
-KORREKT: Die
-KORREKT: Lenkung
+FAST KORREKT FEHLEND: stvzo
+KORREKT: die
+KORREKT: lenkung
 KORREKT: erfolgt
 KORREKT: durch
-FAST KORREKT FEHLEND: Achsenschenkellenkung
+FAST KORREKT FEHLEND: achsenschenkellenkung
 KORREKT: 2
-FAST KORREKT FEHLEND: D
+FAST KORREKT FEHLEND: d
 FAST KORREKT FEHLEND: 8506
-KORREKT: B
+KORREKT: b
 KORREKT: mit
-FEHLT: Sechsganggetriebe
+FEHLT: sechsganggetriebe
 KORREKT: jedoch
 KORREKT: drei
-KORREKT: Gänge
+KORREKT: gänge
 KORREKT: gesperrt
-KORREKT: Der
-KORREKT: Schlepper
+KORREKT: der
+KORREKT: schlepper
 KORREKT: wird
 KORREKT: mit
-FEHLT: Einsenreifen
+FEHLT: einsenreifen
 KORREKT: ausgerüstet
 KORREKT: für
-FEHLT: Straßenfahrt
+FEHLT: straßenfahrt
 KORREKT: werden
-KORREKT: Laufringe
+KORREKT: laufringe
 FEHLT: aufgebracht
-KORREKT: Damit
+KORREKT: damit
 KORREKT: er
 KORREKT: nicht
 KORREKT: über
 KORREKT: 3
 KORREKT: km
-KORREKT: Fahrgeschwindigkeit
+KORREKT: fahrgeschwindigkeit
 KORREKT: entwickeln
 KORREKT: kann
 KORREKT: wurden
 KORREKT: oberen
 KORREKT: 3
-KORREKT: Gänge
+KORREKT: gänge
 KORREKT: gesperrt
 KORREKT: wobei
 KORREKT: ein
-FAST KORREKT FEHLEND: Schalthebel
+FAST KORREKT FEHLEND: schalthebel
 KORREKT: entfernt
 KORREKT: und
 KORREKT: die
-FEHLT: Getriebeöffnung
+FEHLT: getriebeöffnung
 KORREKT: durch
-FEHLT: Blindflansch
+FEHLT: blindflansch
 KORREKT: verschlossen
 KORREKT: wird
-KORREKT: Die
-FEHLT: Bremsen
+KORREKT: die
+FEHLT: bremsen
 KORREKT: sind
 KORREKT: die
 KORREKT: gleichen
 KORREKT: wie
 KORREKT: unter
 KORREKT: 1
-KORREKT: Der
-KORREKT: Motor
-KORREKT: die
-KORREKT: Ingangsetzung
-KORREKT: die
-FAST KORREKT FEHLEND: Kupplung
-KORREKT: die
-KORREKT: Kühlung
-KORREKT: das
-KORREKT: Schmierung
 KORREKT: der
-KORREKT: Aufbau
+KORREKT: motor
+KORREKT: die
+KORREKT: ingangsetzung
+KORREKT: die
+FAST KORREKT FEHLEND: kupplung
+KORREKT: die
+KORREKT: kühlung
+KORREKT: das
+KORREKT: schmierung
+KORREKT: der
+KORREKT: aufbau
 KORREKT: die
 KORREKT: elektr
-KORREKT: Beleuchtung
+KORREKT: beleuchtung
 KORREKT: und
-KORREKT: Lenkung
+KORREKT: lenkung
 KORREKT: sind
 KORREKT: ebenfalls
 KORREKT: die
@@ -440,734 +439,722 @@ KORREKT: gleichen
 KORREKT: wie
 KORREKT: unter
 FAST KORREKT FEHLEND: l
-KORREKT: Die
+KORREKT: die
 KORREKT: zwei
-KORREKT: Ausführungen
+KORREKT: ausführungen
 KORREKT: haben
 KORREKT: den
 KORREKT: gleichen
-KORREKT: Aufbau
-KORREKT: Motor
+KORREKT: aufbau
+KORREKT: motor
 KORREKT: und
-KORREKT: Getriebe
+KORREKT: getriebe
 KORREKT: sind
 FEHLT: als
-KORREKT: Blockkonstruktion
+KORREKT: blockkonstruktion
 KORREKT: in
-FAST KORREKT FEHLEND: LanzPerlitguß
+FAST KORREKT FEHLEND: lanzperlitguß
 KORREKT: ausgeführt
-KORREKT: Der
-KORREKT: Motor
+KORREKT: der
+KORREKT: motor
 KORREKT: hat
-FEHLT: Ein
+KORREKT: ein
 KORREKT: und
-KORREKT: Leerlaufregler
+KORREKT: leerlaufregler
 KORREKT: und
-FAST KORREKT FEHLEND: Kupplung
+FAST KORREKT FEHLEND: kupplung
 KORREKT: mit
-FAST KORREKT FEHLEND: Riemenscheibe
+FAST KORREKT FEHLEND: riemenscheibe
 KORREKT: für
-KORREKT: Antrieb
+KORREKT: antrieb
 KORREKT: von
 FAST KORREKT FEHLEND: landwirtschaftlichen
-FEHLT: Maschinen
-KORREKT: Die
-KORREKT: Kraftübertragung
+FEHLT: maschinen
+KORREKT: die
+KORREKT: kraftübertragung
 KORREKT: vom
-KORREKT: Motor
+KORREKT: motor
 FAST KORREKT FEHLEND: auf
 KORREKT: die
-FEHLT: Hinterachse
+FEHLT: hinterachse
 KORREKT: erfolgt
 KORREKT: durch
 FAST KORREKT FEHLEND: gebürstete
-FAST KORREKT FEHLEND: Zahn
-ZUSÄTZLICH: Ausnahme
+FAST KORREKT FEHLEND: zahn
+ZUSÄTZLICH: ausnahme
 FAST KORREKT ZUSÄTZLICH: im
-FAST KORREKT ZUSÄTZLICH: Bulling
-FAST KORREKT ZUSÄTZLICH: Acherschlepper
+FAST KORREKT ZUSÄTZLICH: bulling
+FAST KORREKT ZUSÄTZLICH: acherschlepper
 FAST KORREKT ZUSÄTZLICH: 856
 FAST KORREKT ZUSÄTZLICH: im
-FAST KORREKT ZUSÄTZLICH: Ackerbulling
+FAST KORREKT ZUSÄTZLICH: ackerbulling
 ZUSÄTZLICH: bereitstellt
-FAST KORREKT ZUSÄTZLICH: Normaleusführung
+FAST KORREKT ZUSÄTZLICH: normaleusführung
 FAST KORREKT ZUSÄTZLICH: 856
-ZUSÄTZLICH: Getriebegehage
+ZUSÄTZLICH: getriebegehage
 FAST KORREKT ZUSÄTZLICH: vorwirts
-ZUSÄTZLICH: Lockwerts
-ZUSÄTZLICH: gänge
-FAST KORREKT ZUSÄTZLICH: Schnlthebeln
+ZUSÄTZLICH: lockwerts
+FAST KORREKT ZUSÄTZLICH: schnlthebeln
 FAST KORREKT ZUSÄTZLICH: 13
 FAST KORREKT ZUSÄTZLICH: be
 ZUSÄTZLICH: tritt
-ZUSÄTZLICH: Ninternefern
+ZUSÄTZLICH: ninternefern
 FAST KORREKT ZUSÄTZLICH: luftbereit
-ZUSÄTZLICH: Ninterneifudbräse
+ZUSÄTZLICH: ninterneifudbräse
 FAST KORREKT ZUSÄTZLICH: faststellare
-FAST KORREKT ZUSÄTZLICH: Getriebehandbrense
-FAST KORREKT ZUSÄTZLICH: ZweitaktGlühkopfmotor
-ZUSÄTZLICH: Anladzüllung
-FAST KORREKT ZUSÄTZLICH: Anwerfen
-ZUSÄTZLICH: Anicern
+FAST KORREKT ZUSÄTZLICH: getriebehandbrense
+FAST KORREKT ZUSÄTZLICH: zweitaktglühkopfmotor
+ZUSÄTZLICH: anladzüllung
+ZUSÄTZLICH: anicern
 FAST KORREKT ZUSÄTZLICH: abneisbar
-ZUSÄTZLICH: Leniatsch
+ZUSÄTZLICH: leniatsch
 FAST KORREKT ZUSÄTZLICH: im
 ZUSÄTZLICH: gehliebt
-ZUSÄTZLICH: MercosyphonMaster
-FAST KORREKT ZUSÄTZLICH: umlaufkühlung
-FAST KORREKT ZUSÄTZLICH: Einflügel
-FAST KORREKT ZUSÄTZLICH: Achrscheibenkupplung
-ZUSÄTZLICH: Frisch
-ZUSÄTZLICH: BlUmlaufschmierung
-FAST KORREKT ZUSÄTZLICH: Ferrers
+ZUSÄTZLICH: mercosyphonmaster
+FAST KORREKT ZUSÄTZLICH: einflügel
+FAST KORREKT ZUSÄTZLICH: achrscheibenkupplung
+ZUSÄTZLICH: frisch
+ZUSÄTZLICH: blumlaufschmierung
+FAST KORREKT ZUSÄTZLICH: ferrers
 ZUSÄTZLICH: rinttform
 FAST KORREKT ZUSÄTZLICH: eitenableche
-FAST KORREKT ZUSÄTZLICH: StVGC
-FAST KORREKT ZUSÄTZLICH: Achnschenkellenkung
+FAST KORREKT ZUSÄTZLICH: stvgc
+FAST KORREKT ZUSÄTZLICH: achnschenkellenkung
 FAST KORREKT ZUSÄTZLICH: 856
-ZUSÄTZLICH: Sechsammgetriebe
+ZUSÄTZLICH: sechsammgetriebe
 ZUSÄTZLICH: sechsamm
-ZUSÄTZLICH: Strassen
+ZUSÄTZLICH: strassen
 ZUSÄTZLICH: fahrt
 ZUSÄTZLICH: anreprocht
-FAST KORREKT ZUSÄTZLICH: Schnlthebel
-ZUSÄTZLICH: Bffnung
-ZUSÄTZLICH: Riluiflansch
-ZUSÄTZLICH: Erdrzen
-FAST KORREKT ZUSÄTZLICH: Küpplung
-FAST KORREKT ZUSÄTZLICH: Lanzerlitgut
-FAST KORREKT ZUSÄTZLICH: Küpplung
-FAST KORREKT ZUSÄTZLICH: Riezenscheibe
+FAST KORREKT ZUSÄTZLICH: schnlthebel
+ZUSÄTZLICH: bffnung
+ZUSÄTZLICH: riluiflansch
+ZUSÄTZLICH: erdrzen
+FAST KORREKT ZUSÄTZLICH: küpplung
+FAST KORREKT ZUSÄTZLICH: lanzerlitgut
+FAST KORREKT ZUSÄTZLICH: küpplung
+FAST KORREKT ZUSÄTZLICH: riezenscheibe
 FAST KORREKT ZUSÄTZLICH: lankwirtschaftlichen
-ZUSÄTZLICH: Anschäden
-ZUSÄTZLICH: Kraftübortra
+ZUSÄTZLICH: anschäden
+ZUSÄTZLICH: kraftübortra
 ZUSÄTZLICH: gung
 FAST KORREKT ZUSÄTZLICH: nur
-ZUSÄTZLICH: Ninterne
-ZUSÄTZLICH: se
+ZUSÄTZLICH: ninterne
+FAST KORREKT ZUSÄTZLICH: se
 FAST KORREKT ZUSÄTZLICH: gebrötete
-FAST KORREKT ZUSÄTZLICH: Zaim
+FAST KORREKT ZUSÄTZLICH: zaim
 Durchlauf 8:KORREKT: 18
-KORREKT: Kraftübertragung
+KORREKT: kraftübertragung
 KORREKT: a
-KORREKT: Art
-KORREKT: Motor
-KORREKT: Zweischeibenkupplung
-KORREKT: Zwischenräder
-KORREKT: Sechsganggetriebe
-KORREKT: Hinterachse
+KORREKT: art
+KORREKT: motor
+KORREKT: zweischeibenkupplung
+KORREKT: zwischenräder
+KORREKT: sechsganggetriebe
+KORREKT: hinterachse
 KORREKT: mit
-KORREKT: Kegelradausgleichgetriebe
-KORREKT: Hinterräder
-FAST KORREKT FEHLEND: b
-KORREKT: Übersetzung
-KORREKT: Zwischenräder
+KORREKT: kegelradausgleichgetriebe
+KORREKT: hinterräder
+KORREKT: b
+KORREKT: übersetzung
+KORREKT: zwischenräder
 KORREKT: 0866
-KORREKT: Getriebe
+KORREKT: getriebe
 KORREKT: 1
-KORREKT: Gang
+KORREKT: gang
 KORREKT: 965
 KORREKT: 2
 KORREKT: 724
 KORREKT: 3
 KORREKT: 541
-KORREKT: R1
+KORREKT: r1
 KORREKT: 765
 KORREKT: 4
 KORREKT: 338
-FEHLT: 5
+FAST KORREKT FEHLEND: 5
 KORREKT: 254
 FEHLT: 6
 KORREKT: 191
-KORREKT: R2
+KORREKT: r2
 KORREKT: 268
-KORREKT: Bei
-KORREKT: B
+KORREKT: bei
+KORREKT: b
 KORREKT: gesperrt
-FEHLT: Schalthebel
+FEHLT: schalthebel
 KORREKT: nicht
 KORREKT: vorhanden
-KORREKT: Hinterachse
+KORREKT: hinterachse
 KORREKT: 421
 KORREKT: 19
-KORREKT: Art
+KORREKT: art
 KORREKT: der
-FAST KORREKT FEHLEND: Schalldämpfung
-KORREKT: Kegelige
-KORREKT: Haube
+FAST KORREKT FEHLEND: schalldämpfung
+KORREKT: kegelige
+KORREKT: haube
 KORREKT: mit
 KORREKT: gelochtem
-KORREKT: Prallteller
+KORREKT: prallteller
 KORREKT: und
-KORREKT: Siebeinsatz
-FAST KORREKT FEHLEND: Auslaß
+KORREKT: siebeinsatz
+FAST KORREKT FEHLEND: auslaß
 KORREKT: nach
 KORREKT: oben
 KORREKT: 20
-FAST KORREKT FEHLEND: Fassungsvermögen
+FAST KORREKT FEHLEND: fassungsvermögen
 KORREKT: des
-KORREKT: Kraftstoffbehälters
+KORREKT: kraftstoffbehälters
 KORREKT: 90
 KORREKT: ltr
-FAST KORREKT FEHLEND: Rohöl
+FAST KORREKT FEHLEND: rohöl
 KORREKT: 7
-KORREKT: Ltr
-FEHLT: Benzin
+KORREKT: ltr
+FEHLT: benzin
 KORREKT: 22
-KORREKT: Bemerkungen
-KORREKT: Zu
-KORREKT: Ziffer
+KORREKT: bemerkungen
+KORREKT: zu
+KORREKT: ziffer
 KORREKT: 4
 KORREKT: a
-KORREKT: Eigengewicht
+KORREKT: eigengewicht
 KORREKT: des
-KORREKT: Fahrzeugs
-KORREKT: Das
-KORREKT: Eigengewicht
+KORREKT: fahrzeugs
+KORREKT: das
+KORREKT: eigengewicht
 KORREKT: des
-KORREKT: Fahrzeugs
+KORREKT: fahrzeugs
 KORREKT: erhöht
 KORREKT: sich
 KORREKT: durch
-KORREKT: Anbau
+KORREKT: anbau
 KORREKT: eines
-KORREKT: Fahrersitzdaches
+KORREKT: fahrersitzdaches
 KORREKT: um
 KORREKT: 60
 KORREKT: kg
 KORREKT: einer
-FAST KORREKT FEHLEND: Windschutzscheibe
+FAST KORREKT FEHLEND: windschutzscheibe
 KORREKT: um
 KORREKT: 30
 KORREKT: kg
 KORREKT: von
-KORREKT: Kotflügeln
+KORREKT: kotflügeln
 KORREKT: hinten
 KORREKT: um
 KORREKT: 50
 KORREKT: kg
-FEHLT: Kotflügen
+FEHLT: kotflügen
 FAST KORREKT FEHLEND: vor
 KORREKT: und
 KORREKT: hinten
 KORREKT: 95
 KORREKT: kg
 KORREKT: einer
-FEHLT: Zufuhr
+FEHLT: zufuhr
 KORREKT: 50
 KORREKT: kg
-ZUSÄTZLICH: Schalt
+ZUSÄTZLICH: schalt
 ZUSÄTZLICH: hebel
-FAST KORREKT ZUSÄTZLICH: Schalldempfung
-FAST KORREKT ZUSÄTZLICH: Ausläß
-FAST KORREKT ZUSÄTZLICH: Passungsvormögen
-FAST KORREKT ZUSÄTZLICH: Rohül
-ZUSÄTZLICH: Sonzn
-FAST KORREKT ZUSÄTZLICH: Windsohitzscheibe
+FAST KORREKT ZUSÄTZLICH: schalldempfung
+FAST KORREKT ZUSÄTZLICH: ausläß
+FAST KORREKT ZUSÄTZLICH: passungsvormögen
+FAST KORREKT ZUSÄTZLICH: rohül
+ZUSÄTZLICH: sonzn
+FAST KORREKT ZUSÄTZLICH: windsohitzscheibe
 FAST KORREKT ZUSÄTZLICH: vorn
 FAST KORREKT ZUSÄTZLICH: am
-ZUSÄTZLICH: Zaufmells
-Durchlauf 3:FEHLT: TYPGUTACHTEN
-FAST KORREKT FEHLEND: über
+ZUSÄTZLICH: zaufmells
+Durchlauf 3:FEHLT: typgutachten
+KORREKT: über
 KORREKT: die
-KORREKT: Zugmaschine
-KORREKT: Ackerschlepper
-FAST KORREKT FEHLEND: Haupttyp
+KORREKT: zugmaschine
+KORREKT: ackerschlepper
+FAST KORREKT FEHLEND: haupttyp
 KORREKT: 35
-KORREKT: PS
-KORREKT: Ackerbulldog
+KORREKT: ps
+KORREKT: ackerbulldog
 KORREKT: der
-KORREKT: Firma
-KORREKT: Heinrich
-KORREKT: L
-KORREKT: A
-KORREKT: N
-KORREKT: Z
-KORREKT: AG
-KORREKT: Mannheim
-KORREKT: Die
-KORREKT: Zugmaschine
+KORREKT: firma
+KORREKT: heinrich
+KORREKT: l
+KORREKT: a
+KORREKT: n
+KORREKT: z
+KORREKT: ag
+KORREKT: mannheim
+KORREKT: die
+KORREKT: zugmaschine
 KORREKT: wird
 KORREKT: in
 KORREKT: folgenden
-KORREKT: Ausführungen
+KORREKT: ausführungen
 KORREKT: hergestellt
-KORREKT: D
+KORREKT: d
 KORREKT: 8506
-KORREKT: A
+KORREKT: a
 KORREKT: mit
-KORREKT: Luftbereifung
+KORREKT: luftbereifung
 KORREKT: mit
-KORREKT: Sechsganggetriebe
-KORREKT: B
+KORREKT: sechsganggetriebe
+KORREKT: b
 KORREKT: mit
-KORREKT: Eisenbereifung
-KORREKT: Sechsganggetriebe
+KORREKT: eisenbereifung
+KORREKT: sechsganggetriebe
 KORREKT: 3
-KORREKT: Gänge
+KORREKT: gänge
 KORREKT: arretiert
-KORREKT: Diese
-KORREKT: Ausführungen
+KORREKT: diese
+KORREKT: ausführungen
 KORREKT: können
 KORREKT: mit
 KORREKT: nachstehenden
-FAST KORREKT FEHLEND: Zusatzteilen
+FAST KORREKT FEHLEND: zusatzteilen
 FAST KORREKT FEHLEND: ausgerüstet
 KORREKT: werden
-KORREKT: Fahrersitzdach
-KORREKT: Kotflügel
+KORREKT: fahrersitzdach
+KORREKT: kotflügel
 FAST KORREKT FEHLEND: vorn
 KORREKT: und
 KORREKT: hinten
-KORREKT: Windschutzscheibe
-KORREKT: Zapfwelle
-KORREKT: Kotflügel
+KORREKT: windschutzscheibe
+KORREKT: zapfwelle
+KORREKT: kotflügel
 KORREKT: an
 KORREKT: den
-FAST KORREKT FEHLEND: Hinterrädern
-KORREKT: Für
+FAST KORREKT FEHLEND: hinterrädern
+KORREKT: für
 KORREKT: den
 KORREKT: 35
-KORREKT: PS
-KORREKT: Ackerbulldog
+KORREKT: ps
+KORREKT: ackerbulldog
 KORREKT: gelten
 KORREKT: im
-KORREKT: Übrigen
+KORREKT: übrigen
 FEHLT: folgende
-KORREKT: Merkmale
+KORREKT: merkmale
 KORREKT: 1
-KORREKT: Art
+KORREKT: art
 KORREKT: des
-FAST KORREKT FEHLEND: Fahrzeuges
-KORREKT: Zugmaschine
-KORREKT: Ackerschlepper
+FAST KORREKT FEHLEND: fahrzeuges
+KORREKT: zugmaschine
+KORREKT: ackerschlepper
 KORREKT: 2
-KORREKT: Hersteller
+KORREKT: hersteller
 KORREKT: des
-FAST KORREKT FEHLEND: Fahrzeuges
-KORREKT: Heinrich
-FEHLT: Lan
-FAST KORREKT FEHLEND: z
-KORREKT: A
-KORREKT: G
-KORREKT: Mannheim
+FAST KORREKT FEHLEND: fahrzeuges
+KORREKT: heinrich
+FEHLT: lan
+KORREKT: z
+KORREKT: a
+KORREKT: g
+KORREKT: mannheim
 KORREKT: 3
-KORREKT: Antriebsmaschine
-FAST KORREKT FEHLEND: a
-KORREKT: Art
+KORREKT: antriebsmaschine
+KORREKT: a
+KORREKT: art
 KORREKT: des
-FAST KORREKT FEHLEND: Antriebes
-KORREKT: Verbrennungsmaschine
-KORREKT: Glühkopfmotor
-KORREKT: Zylinder
+FAST KORREKT FEHLEND: antriebes
+KORREKT: verbrennungsmaschine
+KORREKT: glühkopfmotor
+KORREKT: zylinder
 KORREKT: liegend
-FAST KORREKT FEHLEND: b
-KORREKT: Leistung
+KORREKT: b
+KORREKT: leistung
 KORREKT: 35
-KORREKT: PS
+KORREKT: ps
 KORREKT: bei
 KORREKT: 540
-KORREKT: Umin
-FAST KORREKT FEHLEND: c
-KORREKT: Hubraum
+KORREKT: umin
+KORREKT: c
+KORREKT: hubraum
 KORREKT: 10338
 KORREKT: cm3
-KORREKT: Zahl
+KORREKT: zahl
 KORREKT: der
-KORREKT: Zylinder
+KORREKT: zylinder
 KORREKT: 1
-KORREKT: Durchmesser
+KORREKT: durchmesser
 KORREKT: des
-KORREKT: Zylinders
+KORREKT: zylinders
 KORREKT: 225
 KORREKT: mm
-KORREKT: Kolbenhub
+KORREKT: kolbenhub
 KORREKT: 260
 KORREKT: mm
-FAST KORREKT FEHLEND: d
-KORREKT: Hersteller
-KORREKT: Heinrich
-KORREKT: Lanz
-KORREKT: AG
-KORREKT: Mannheim
-FAST KORREKT FEHLEND: e
-KORREKT: Takt
-KORREKT: Zweitakt
-FAST KORREKT ZUSÄTZLICH: T
-FAST KORREKT ZUSÄTZLICH: Y
-FAST KORREKT ZUSÄTZLICH: P
-FAST KORREKT ZUSÄTZLICH: U
-FAST KORREKT ZUSÄTZLICH: T
-ZUSÄTZLICH: C
-ZUSÄTZLICH: H
-FAST KORREKT ZUSÄTZLICH: T
-ZUSÄTZLICH: E
-FAST KORREKT ZUSÄTZLICH: Über
-FAST KORREKT ZUSÄTZLICH: Hsuptyp
-ZUSÄTZLICH: Sechsanggetriebe
-FAST KORREKT ZUSÄTZLICH: Zusatsteilen
+KORREKT: d
+KORREKT: hersteller
+KORREKT: heinrich
+KORREKT: lanz
+KORREKT: ag
+KORREKT: mannheim
+KORREKT: e
+KORREKT: takt
+KORREKT: zweitakt
+ZUSÄTZLICH: t
+ZUSÄTZLICH: y
+ZUSÄTZLICH: p
+ZUSÄTZLICH: u
+ZUSÄTZLICH: t
+ZUSÄTZLICH: h
+ZUSÄTZLICH: t
+FAST KORREKT ZUSÄTZLICH: hsuptyp
+ZUSÄTZLICH: sechsanggetriebe
+FAST KORREKT ZUSÄTZLICH: zusatsteilen
 FAST KORREKT ZUSÄTZLICH: ausgerüst
-FAST KORREKT ZUSÄTZLICH: HinterraJern
+FAST KORREKT ZUSÄTZLICH: hinterrajern
 FAST KORREKT ZUSÄTZLICH: vom
 ZUSÄTZLICH: fol
 ZUSÄTZLICH: ende
-FAST KORREKT ZUSÄTZLICH: Fahrzeugs
-ZUSÄTZLICH: Fahrgestells
-FAST KORREKT ZUSÄTZLICH: Antriebs
-Durchlauf 2:FEHLT: Ausführung
-FAST KORREKT FEHLEND: A
+FAST KORREKT ZUSÄTZLICH: fahrzeugs
+ZUSÄTZLICH: fahrgestells
+FAST KORREKT ZUSÄTZLICH: antriebs
+Durchlauf 2:FEHLT: ausführung
+FAST KORREKT FEHLEND: a
 KORREKT: mit
-FAST KORREKT FEHLEND: Luftreifen
-KORREKT: Die
-FAST KORREKT FEHLEND: Zugmaschine
+FAST KORREKT FEHLEND: luftreifen
+KORREKT: die
+FAST KORREKT FEHLEND: zugmaschine
 KORREKT: ist
 KORREKT: von
 KORREKT: der
-KORREKT: Erfüllung
+KORREKT: erfüllung
 KORREKT: der
-KORREKT: Vorschrift
+KORREKT: vorschrift
 KORREKT: des
 KORREKT: 46
-KORREKT: Abs
+KORREKT: abs
 KORREKT: 2
-KORREKT: StVZO
-FAST KORREKT FEHLEND: über
+KORREKT: stvzo
+KORREKT: über
 KORREKT: die
-FAST KORREKT FEHLEND: Bedienbarkeit
+FAST KORREKT FEHLEND: bedienbarkeit
 KORREKT: der
-KORREKT: Absperrvorrichtung
+KORREKT: absperrvorrichtung
 KORREKT: in
 KORREKT: der
-KORREKT: Kraftstoffleitung
+KORREKT: kraftstoffleitung
 KORREKT: vom
-FEHLT: Führersitz
+FEHLT: führersitz
 KORREKT: aus
 KORREKT: sowie
 KORREKT: von
 KORREKT: der
-KORREKT: Erfüllung
+KORREKT: erfüllung
 KORREKT: des
-KORREKT: Vorschriften
+KORREKT: vorschriften
 KORREKT: des
 KORREKT: 49
-FEHLT: Abs1
+FEHLT: abs1
 KORREKT: und
 KORREKT: 2
-KORREKT: StVZO
-KORREKT: Über
+KORREKT: stvzo
+KORREKT: über
 KORREKT: die
-FEHLT: Höchstzulässige
-FEHLT: Lautstärke
+FEHLT: höchstzulässige
+FEHLT: lautstärke
 KORREKT: des
-KORREKT: Fahrgeräusches
-FAST KORREKT FEHLEND: freigestellt
-FAST KORREKT FEHLEND: Das
-KORREKT: Fahrzeug
+KORREKT: fahrgeräusches
+KORREKT: freigestellt
+FAST KORREKT FEHLEND: das
+KORREKT: fahrzeug
 KORREKT: genügt
 FAST KORREKT FEHLEND: hinsichtlich
 KORREKT: der
-FEHLT: Scheinwerferhöhe
+FEHLT: scheinwerferhöhe
 KORREKT: nur
 KORREKT: den
-FEHLT: Vorschritten
+FEHLT: vorschritten
 KORREKT: für
 KORREKT: die
-FAST KORREKT FEHLEND: Zugmaschinen
+FAST KORREKT FEHLEND: zugmaschinen
 KORREKT: in
-FAST KORREKT FEHLEND: Land
+KORREKT: land
 KORREKT: und
 KORREKT: forstwirtschaftlichen
-KORREKT: Betrieben
-FEHLT: Ausführung
-FAST KORREKT FEHLEND: B
+KORREKT: betrieben
+FEHLT: ausführung
+FAST KORREKT FEHLEND: b
 KORREKT: mit
 KORREKT: eisernen
-KORREKT: Reifen
-KORREKT: Die
-FAST KORREKT FEHLEND: Zugmaschine
+KORREKT: reifen
+KORREKT: die
+FAST KORREKT FEHLEND: zugmaschine
 KORREKT: ist
 KORREKT: von
 KORREKT: der
-KORREKT: Erfüllung
+KORREKT: erfüllung
 KORREKT: der
-KORREKT: Vorschrift
+KORREKT: vorschrift
 KORREKT: des
 KORREKT: 46
-KORREKT: Abs
+KORREKT: abs
 KORREKT: 2
-KORREKT: StVZO
-FEHLT: Uber
+KORREKT: stvzo
+FEHLT: uber
 KORREKT: die
-FAST KORREKT FEHLEND: Bedienbarkeit
+FAST KORREKT FEHLEND: bedienbarkeit
 KORREKT: der
-KORREKT: Absperrvorrichtung
+KORREKT: absperrvorrichtung
 KORREKT: in
 KORREKT: der
-KORREKT: Kraftstoffleitung
+KORREKT: kraftstoffleitung
 KORREKT: vom
-FEHLT: Führersitz
+FEHLT: führersitz
 KORREKT: aus
 KORREKT: sowie
 KORREKT: von
 KORREKT: der
-KORREKT: Erfüllung
+KORREKT: erfüllung
 KORREKT: der
-KORREKT: Vorschrift
+KORREKT: vorschrift
 KORREKT: des
 KORREKT: 49
-FEHLT: Ab
+FEHLT: ab
 KORREKT: 1
 KORREKT: und
 KORREKT: 2
-KORREKT: StVZO
-FAST KORREKT FEHLEND: über
+KORREKT: stvzo
+KORREKT: über
 KORREKT: die
 FEHLT: höchstzulässige
-FEHLT: Lautstärke
+FEHLT: lautstärke
 KORREKT: des
-FEHLT: Fahrzeugeräusches
-FAST KORREKT FEHLEND: freigestellt
-FAST KORREKT FEHLEND: Das
-KORREKT: Fahrzeug
+FEHLT: fahrzeugeräusches
+KORREKT: freigestellt
+FAST KORREKT FEHLEND: das
+KORREKT: fahrzeug
 KORREKT: genügt
 FAST KORREKT FEHLEND: hinsichtlich
 KORREKT: der
 KORREKT: eisernen
-KORREKT: Bereifung
+KORREKT: bereifung
 KORREKT: und
 KORREKT: der
-FEHLT: Scheinwerferhöhe
+FEHLT: scheinwerferhöhe
 KORREKT: nur
 KORREKT: den
-KORREKT: Vorschriften
+KORREKT: vorschriften
 KORREKT: für
-FAST KORREKT FEHLEND: Zugmaschinen
+FAST KORREKT FEHLEND: zugmaschinen
 KORREKT: in
-FAST KORREKT FEHLEND: Land
+KORREKT: land
 KORREKT: und
-FEHLT: Forstwirtschaftlichen
-KORREKT: Betrieben
+KORREKT: forstwirtschaftlichen
+KORREKT: betrieben
 KORREKT: 4
-KORREKT: Im
-FAST KORREKT FEHLEND: Falle
+KORREKT: im
+FAST KORREKT FEHLEND: falle
 KORREKT: einer
-KORREKT: Änderung
+KORREKT: änderung
 KORREKT: des
-FAST KORREKT FEHLEND: Typs
+FAST KORREKT FEHLEND: typs
 KORREKT: ist
 KORREKT: ein
 FEHLT: entsprechen
 KORREKT: der
-FEHLT: Nachtrag
+FEHLT: nachtrag
 KORREKT: zu
 KORREKT: der
 KORREKT: allgemeinen
-FEHLT: Betriebsanleitung
+FEHLT: betriebsanleitung
 KORREKT: zu
 FAST KORREKT FEHLEND: beantragen
-KORREKT: Die
+KORREKT: die
 KORREKT: auf
 KORREKT: der
 KORREKT: allgemeinen
-KORREKT: Betriebserlaubnis
+KORREKT: betriebserlaubnis
 KORREKT: ruhenden
-FEHLT: Befugnisse
+FEHLT: befugnisse
 KORREKT: erlöschen
 KORREKT: mit
-FEHLT: Ablauf
+FEHLT: ablauf
 KORREKT: des
 FEHLT: 19
-KORREKT: November
+KORREKT: november
 KORREKT: 1951
 KORREKT: wenn
 KORREKT: sie
 KORREKT: nicht
 KORREKT: gemäß
 KORREKT: 20
-FEHLT: Abs4
-FEHLT: StVZ0
+FEHLT: abs4
+FEHLT: stvz0
 KORREKT: verlängert
 KORREKT: werden
-ZUSÄTZLICH: Ausfährmg
-FAST KORREKT ZUSÄTZLICH: Auftreifen
-FAST KORREKT ZUSÄTZLICH: Zugnasciine
-FAST KORREKT ZUSÄTZLICH: Bedienbereit
-ZUSÄTZLICH: Prüversitz
+ZUSÄTZLICH: ausfährmg
+FAST KORREKT ZUSÄTZLICH: auftreifen
+FAST KORREKT ZUSÄTZLICH: zugnasciine
+FAST KORREKT ZUSÄTZLICH: bedienbereit
+ZUSÄTZLICH: prüversitz
 ZUSÄTZLICH: höchstauldasige
-ZUSÄTZLICH: Kontestärke
-FAST KORREKT ZUSÄTZLICH: Freigestellt
-FAST KORREKT ZUSÄTZLICH: Der
+ZUSÄTZLICH: kontestärke
 FAST KORREKT ZUSÄTZLICH: hinrichtlich
-ZUSÄTZLICH: Sozialwerferhöhe
-FAST KORREKT ZUSÄTZLICH: Zugnasciinen
-FAST KORREKT ZUSÄTZLICH: land
-ZUSÄTZLICH: Ausfährmg
+ZUSÄTZLICH: sozialwerferhöhe
+FAST KORREKT ZUSÄTZLICH: zugnasciinen
+ZUSÄTZLICH: ausfährmg
 FAST KORREKT ZUSÄTZLICH: 3
-FAST KORREKT ZUSÄTZLICH: Zugnasciine
-FAST KORREKT ZUSÄTZLICH: Bedienbereit
-ZUSÄTZLICH: Prüversitz
+FAST KORREKT ZUSÄTZLICH: zugnasciine
+FAST KORREKT ZUSÄTZLICH: bedienbereit
+ZUSÄTZLICH: prüversitz
 ZUSÄTZLICH: höchstauldasige
-ZUSÄTZLICH: Kontestärke
-FAST KORREKT ZUSÄTZLICH: Freigestellt
-FAST KORREKT ZUSÄTZLICH: Der
+ZUSÄTZLICH: kontestärke
 FAST KORREKT ZUSÄTZLICH: hinrichtlich
-ZUSÄTZLICH: Sozialwerferhöhe
-FAST KORREKT ZUSÄTZLICH: Zugnasciinen
-FAST KORREKT ZUSÄTZLICH: land
-FAST KORREKT ZUSÄTZLICH: Zelle
-FAST KORREKT ZUSÄTZLICH: Tyrs
+ZUSÄTZLICH: sozialwerferhöhe
+FAST KORREKT ZUSÄTZLICH: zugnasciinen
+FAST KORREKT ZUSÄTZLICH: zelle
+FAST KORREKT ZUSÄTZLICH: tyrs
 ZUSÄTZLICH: entsprechender
-ZUSÄTZLICH: Rechtreg
+ZUSÄTZLICH: rechtreg
 FAST KORREKT ZUSÄTZLICH: an
 FAST KORREKT ZUSÄTZLICH: besatragen
-ZUSÄTZLICH: Rechtsses
-ZUSÄTZLICH: Ablenr
+ZUSÄTZLICH: rechtsses
+ZUSÄTZLICH: ablenr
 FAST KORREKT ZUSÄTZLICH: 15
-Durchlauf 4:KORREKT: D
+Durchlauf 4:KORREKT: d
 FAST KORREKT FEHLEND: 8506
-KORREKT: Zu
-KORREKT: Ziffer
+KORREKT: zu
+KORREKT: ziffer
 KORREKT: 7
-KORREKT: Art
+KORREKT: art
 KORREKT: des
-FAST KORREKT FEHLEND: Aufbaus
-FAST KORREKT FEHLEND: Wird
+FAST KORREKT FEHLEND: aufbaus
+KORREKT: wird
 KORREKT: das
-KORREKT: Fahrzeug
+KORREKT: fahrzeug
 KORREKT: mit
 KORREKT: einem
-FAST KORREKT FEHLEND: Fahrersitzdach
+FAST KORREKT FEHLEND: fahrersitzdach
 FEHLT: ausgerüstet
 FAST KORREKT FEHLEND: so
 KORREKT: ändert
 KORREKT: sich
 FAST KORREKT FEHLEND: c
 KORREKT: bei
-KORREKT: Zugmaschinen
+KORREKT: zugmaschinen
 KORREKT: festes
-FAST KORREKT FEHLEND: Wetterdach
+FAST KORREKT FEHLEND: wetterdach
 KORREKT: mit
 KORREKT: abnehmbaren
-FAST KORREKT FEHLEND: Seitenteilen
-FEHLT: Zur
-FAST KORREKT FEHLEND: Ziffer8
-FEHLT: Maße
+FAST KORREKT FEHLEND: seitenteilen
+FEHLT: zur
+FAST KORREKT FEHLEND: ziffer8
+FEHLT: maße
 KORREKT: über
 KORREKT: alles
-KORREKT: Bei
-FEHLT: Ausstattung
+KORREKT: bei
+FEHLT: ausstattung
 KORREKT: mit
-FAST KORREKT FEHLEND: Fahrersitzdach
+FAST KORREKT FEHLEND: fahrersitzdach
 KORREKT: ändern
 KORREKT: sich
 FAST KORREKT FEHLEND: folgenden
-KORREKT: Angaben
-KORREKT: Länge
+KORREKT: angaben
+KORREKT: länge
 KORREKT: 3408
 KORREKT: mm
 KORREKT: 3390
 KORREKT: mm
-KORREKT: Höhe
+KORREKT: höhe
 KORREKT: 2452
 KORREKT: mm
-KORREKT: Durch
-KORREKT: Anbau
+KORREKT: durch
+KORREKT: anbau
 KORREKT: von
-KORREKT: Kotflügeln
+KORREKT: kotflügeln
 FEHLT: änderte
 KORREKT: sich
-KORREKT: Breite
+KORREKT: breite
 KORREKT: unverändert
 FAST KORREKT FEHLEND: 1785
 KORREKT: mm
-KORREKT: Der
-KORREKT: Fahrzeugtyp
+KORREKT: der
+KORREKT: fahrzeugtyp
 FAST KORREKT FEHLEND: entspricht
 KORREKT: in
 FAST KORREKT FEHLEND: folgenden
 KORREKT: nur
 KORREKT: den
-KORREKT: Vorschriften
+KORREKT: vorschriften
 KORREKT: für
-KORREKT: Zugmaschinen
+KORREKT: zugmaschinen
 KORREKT: in
 KORREKT: land
 KORREKT: und
 KORREKT: forstwirtschaftlichen
-KORREKT: Betrieben
-KORREKT: Scheinwerferhöhe
+KORREKT: betrieben
+KORREKT: scheinwerferhöhe
 KORREKT: über
-KORREKT: Fahrbahn
+KORREKT: fahrbahn
 KORREKT: 503
-KORREKT: StVZO
-FEHLT: Eisenbereifung
+KORREKT: stvzo
+FEHLT: eisenbereifung
 KORREKT: 364
-KORREKT: StVZO
-KORREKT: Scheinwerferhöhe
+KORREKT: stvzo
+KORREKT: scheinwerferhöhe
 KORREKT: über
-KORREKT: Fahrbahn
+KORREKT: fahrbahn
 FAST KORREKT FEHLEND: 50
 KORREKT: 3
-KORREKT: StVZO
-KORREKT: Der
-KORREKT: Fahrzeugtyp
+KORREKT: stvzo
+KORREKT: der
+KORREKT: fahrzeugtyp
 FAST KORREKT FEHLEND: entspricht
 FAST KORREKT FEHLEND: vorstehenden
-KORREKT: Angaben
+KORREKT: angaben
 KORREKT: und
 FAST KORREKT FEHLEND: genügt
 KORREKT: den
-KORREKT: Anforderungen
+KORREKT: anforderungen
 KORREKT: der
-FAST KORREKT FEHLEND: StrassenverkehrsZulassungsOrdnung
+FAST KORREKT FEHLEND: strassenverkehrszulassungsordnung
 KORREKT: sowie
 KORREKT: den
 KORREKT: hierzu
 KORREKT: erlassenen
-KORREKT: Anweisungen
+KORREKT: anweisungen
 KORREKT: des
-KORREKT: Reichsverkehrsministers
+KORREKT: reichsverkehrsministers
 KORREKT: mit
 FAST KORREKT FEHLEND: folgenden
-KORREKT: Ausnahmen
+KORREKT: ausnahmen
 KORREKT: 1
-KORREKT: Die
+KORREKT: die
 KORREKT: in
 KORREKT: die
-KORREKT: Kraftstoffleitung
-FAST KORREKT FEHLEND: Rohölleitung
+KORREKT: kraftstoffleitung
+FAST KORREKT FEHLEND: rohölleitung
 KORREKT: eingebaute
-KORREKT: Absperrvorrichtung
+KORREKT: absperrvorrichtung
 KORREKT: ist
 KORREKT: von
-KORREKT: Fahrersitz
+KORREKT: fahrersitz
 KORREKT: aus
 KORREKT: nicht
 FAST KORREKT FEHLEND: bedienbar
 KORREKT: 462
-KORREKT: StVZO
+KORREKT: stvzo
 KORREKT: 2
-KORREKT: Fahrgeräusch
+KORREKT: fahrgeräusch
 KORREKT: und
-FAST KORREKT FEHLEND: Auspuffgeräusche
-FAST KORREKT FEHLEND: überschreiten
+FAST KORREKT FEHLEND: auspuffgeräusche
+KORREKT: überschreiten
 KORREKT: 85
-FAST KORREKT FEHLEND: Phon
+FAST KORREKT FEHLEND: phon
 KORREKT: 491
 KORREKT: u
 KORREKT: 2
-KORREKT: StVZO
+KORREKT: stvzo
 KORREKT: 3
-KORREKT: Bei
+KORREKT: bei
 KORREKT: den
-KORREKT: Fahrzeugen
+KORREKT: fahrzeugen
 KORREKT: ohne
-KORREKT: Kotflügel
+KORREKT: kotflügel
 KORREKT: ist
 KORREKT: der
-KORREKT: Abstand
+KORREKT: abstand
 KORREKT: der
-FAST KORREKT FEHLEND: Schlußlichter
+FAST KORREKT FEHLEND: schlußlichter
 KORREKT: voneinander
 KORREKT: 100
 KORREKT: cm
@@ -1176,322 +1163,316 @@ KORREKT: mindestens
 KORREKT: 110
 KORREKT: cm
 KORREKT: 531
-KORREKT: StVZO
+KORREKT: stvzo
 FAST KORREKT ZUSÄTZLICH: 8906
-FAST KORREKT ZUSÄTZLICH: Aufbous
-FAST KORREKT ZUSÄTZLICH: wird
-FAST KORREKT ZUSÄTZLICH: Fahrersitzdaoh
+FAST KORREKT ZUSÄTZLICH: aufbous
+FAST KORREKT ZUSÄTZLICH: fahrersitzdaoh
 ZUSÄTZLICH: nag
 ZUSÄTZLICH: rnotet
 FAST KORREKT ZUSÄTZLICH: ab
 FAST KORREKT ZUSÄTZLICH: a
-FAST KORREKT ZUSÄTZLICH: Wetterdaoh
-FAST KORREKT ZUSÄTZLICH: Seitezteilen
-FAST KORREKT ZUSÄTZLICH: Ziff8
-ZUSÄTZLICH: Haag
-ZUSÄTZLICH: Ausrustung
-FAST KORREKT ZUSÄTZLICH: Fahrersitzdaoh
+FAST KORREKT ZUSÄTZLICH: wetterdaoh
+FAST KORREKT ZUSÄTZLICH: seitezteilen
+FAST KORREKT ZUSÄTZLICH: ziff8
+ZUSÄTZLICH: haag
+ZUSÄTZLICH: ausrustung
+FAST KORREKT ZUSÄTZLICH: fahrersitzdaoh
 ZUSÄTZLICH: folgen
 FAST KORREKT ZUSÄTZLICH: 1705
 FAST KORREKT ZUSÄTZLICH: entapriöht
 FAST KORREKT ZUSÄTZLICH: folgenaem
-ZUSÄTZLICH: Eisenberei
+ZUSÄTZLICH: eisenberei
 ZUSÄTZLICH: fung
 ZUSÄTZLICH: entapriönt
 FAST KORREKT ZUSÄTZLICH: vorstenenden
 FAST KORREKT ZUSÄTZLICH: geniät
-FAST KORREKT ZUSÄTZLICH: StrassenverkehrsZulasungsCrdnung
+FAST KORREKT ZUSÄTZLICH: strassenverkehrszulasungscrdnung
 ZUSÄTZLICH: fol
 ZUSÄTZLICH: genden
-FAST KORREKT ZUSÄTZLICH: Rohblleitung
+FAST KORREKT ZUSÄTZLICH: rohblleitung
 FAST KORREKT ZUSÄTZLICH: be
 FAST KORREKT ZUSÄTZLICH: dienbar
-FAST KORREKT ZUSÄTZLICH: Auspuffgeräusch
-FAST KORREKT ZUSÄTZLICH: Überschreiten
-FAST KORREKT ZUSÄTZLICH: Pmon
-FAST KORREKT ZUSÄTZLICH: Schluslichter
-Durchlauf 1:KORREKT: Ausfertigung
-KORREKT: Allgemeine
-KORREKT: Betriebserlaubnis
-KORREKT: Nr
+FAST KORREKT ZUSÄTZLICH: auspuffgeräusch
+FAST KORREKT ZUSÄTZLICH: pmon
+FAST KORREKT ZUSÄTZLICH: schluslichter
+Durchlauf 1:KORREKT: ausfertigung
+KORREKT: allgemeine
+KORREKT: betriebserlaubnis
+KORREKT: nr
 KORREKT: 207
-FEHLT: Für
+KORREKT: für
 KORREKT: die
-KORREKT: Zugmaschinen
-KORREKT: Ackerschlepper
-KORREKT: Typ
+KORREKT: zugmaschinen
+KORREKT: ackerschlepper
+KORREKT: typ
 KORREKT: 35
-KORREKT: Ackerbulldog
-KORREKT: D
+KORREKT: ackerbulldog
+KORREKT: d
 KORREKT: 8506
 KORREKT: der
-KORREKT: Firma
-KORREKT: Heinrich
-KORREKT: Lanz
-KORREKT: AG
+KORREKT: firma
+KORREKT: heinrich
+KORREKT: lanz
+KORREKT: ag
 KORREKT: in
-FAST KORREKT FEHLEND: Mannheim
+FAST KORREKT FEHLEND: mannheim
 KORREKT: 1
-KORREKT: Auf
-KORREKT: Grund
+KORREKT: auf
+KORREKT: grund
 KORREKT: des
 KORREKT: anliegenden
-FAST KORREKT FEHLEND: Gutachtens
+FAST KORREKT FEHLEND: gutachtens
 KORREKT: der
-KORREKT: Technischen
-FAST KORREKT FEHLEND: Prüfstelle
+KORREKT: technischen
+FAST KORREKT FEHLEND: prüfstelle
 KORREKT: für
 KORREKT: den
-KORREKT: Kraftfahrzeugverkehr
-FAST KORREKT FEHLEND: TÜ
-FAST KORREKT FEHLEND: Mannheim
+KORREKT: kraftfahrzeugverkehr
+FAST KORREKT FEHLEND: tü
+FAST KORREKT FEHLEND: mannheim
 KORREKT: in
-FAST KORREKT FEHLEND: Mannheim
+FAST KORREKT FEHLEND: mannheim
 KORREKT: vom
 KORREKT: 4
-KORREKT: November
+KORREKT: november
 KORREKT: 1949
 KORREKT: wird
 KORREKT: für
 KORREKT: die
 KORREKT: reihenweise
 KORREKT: gefertigten
-KORREKT: Zugmaschinen
-KORREKT: Ackerschlepper
-KORREKT: Typ
+KORREKT: zugmaschinen
+KORREKT: ackerschlepper
+KORREKT: typ
 KORREKT: 35
-KORREKT: PS
-KORREKT: Ackerbulldog
-KORREKT: D
+KORREKT: ps
+KORREKT: ackerbulldog
+KORREKT: d
 KORREKT: 8506
 KORREKT: der
-KORREKT: Firma
-KORREKT: Heinrich
-KORREKT: Lanz
-KORREKT: AG
+KORREKT: firma
+KORREKT: heinrich
+KORREKT: lanz
+KORREKT: ag
 KORREKT: in
-FAST KORREKT FEHLEND: Mannheim
+FAST KORREKT FEHLEND: mannheim
 KORREKT: widerruflich
 KORREKT: die
 KORREKT: allgemeine
-KORREKT: Betriebserlaubnis
+KORREKT: betriebserlaubnis
 KORREKT: gemäß
 KORREKT: 20
-KORREKT: Abs
+KORREKT: abs
 KORREKT: 1
 KORREKT: der
-KORREKT: Verordnung
+KORREKT: verordnung
 KORREKT: über
 KORREKT: die
-KORREKT: Zulassung
+KORREKT: zulassung
 KORREKT: von
-KORREKT: Personen
+KORREKT: personen
 KORREKT: und
-KORREKT: Fahrzeugen
+KORREKT: fahrzeugen
 KORREKT: zum
-KORREKT: Straßenverkehr
+KORREKT: straßenverkehr
 KORREKT: vom
 KORREKT: 13
-KORREKT: November
+KORREKT: november
 KORREKT: 1937
-KORREKT: StVZO
+KORREKT: stvzo
 KORREKT: erteilt
-KORREKT: Die
-KORREKT: Zugmaschinen
+KORREKT: die
+KORREKT: zugmaschinen
 FAST KORREKT FEHLEND: en
-KORREKT: Typ
+KORREKT: typ
 KORREKT: 35
-KORREKT: PS
-KORREKT: Ackerbulldog
-KORREKT: D
+KORREKT: ps
+KORREKT: ackerbulldog
+KORREKT: d
 KORREKT: 8506
 KORREKT: werden
 KORREKT: in
 KORREKT: folgenden
-FAST KORREKT FEHLEND: Ausführungen
+KORREKT: ausführungen
 KORREKT: hergestellt
-FAST KORREKT FEHLEND: Ausführung
-KORREKT: A
+KORREKT: ausführung
+KORREKT: a
 KORREKT: mit
-KORREKT: Luftbereifung
-FAST KORREKT FEHLEND: Ausführung
-KORREKT: B
+KORREKT: luftbereifung
+KORREKT: ausführung
+KORREKT: b
 KORREKT: mit
-KORREKT: Eisenbereifung
+KORREKT: eisenbereifung
 KORREKT: 2
-KORREKT: Auf
-KORREKT: Grund
+KORREKT: auf
+KORREKT: grund
 KORREKT: des
 KORREKT: 70
-KORREKT: Abs
-FAST KORREKT FEHLEND: I
-KORREKT: StVZO
+KORREKT: abs
+FAST KORREKT FEHLEND: i
+KORREKT: stvzo
 KORREKT: werden
 KORREKT: die
-KORREKT: Zugmaschinen
-KORREKT: Typ
+KORREKT: zugmaschinen
+KORREKT: typ
 KORREKT: 35
-KORREKT: Ackerbulldog
-KORREKT: D
+KORREKT: ackerbulldog
+KORREKT: d
 KORREKT: 8506
 KORREKT: der
-KORREKT: Firma
-KORREKT: Heinrich
-KORREKT: Lanz
-KORREKT: AG
-FAST KORREKT FEHLEND: Mannheim
+KORREKT: firma
+KORREKT: heinrich
+KORREKT: lanz
+KORREKT: ag
+FAST KORREKT FEHLEND: mannheim
 KORREKT: von
 KORREKT: der
-FAST KORREKT FEHLEND: Erfüllung
+FAST KORREKT FEHLEND: erfüllung
 KORREKT: der
-KORREKT: Vorschrift
+KORREKT: vorschrift
 KORREKT: des
 KORREKT: 46
-KORREKT: Abs
+KORREKT: abs
 KORREKT: 2
-FEHLT: StVZ0
+FEHLT: stvz0
 KORREKT: über
 KORREKT: die
-KORREKT: Bedienbarkeit
+KORREKT: bedienbarkeit
 KORREKT: der
-KORREKT: Absperrvorrichtung
+KORREKT: absperrvorrichtung
 KORREKT: in
 KORREKT: der
-KORREKT: Kraftstoffleitung
+KORREKT: kraftstoffleitung
 KORREKT: vom
-KORREKT: Führersitz
+KORREKT: führersitz
 KORREKT: aus
 KORREKT: sowie
 KORREKT: von
 KORREKT: der
-FAST KORREKT FEHLEND: Erfüllung
+FAST KORREKT FEHLEND: erfüllung
 KORREKT: der
-KORREKT: Vorschrift
+KORREKT: vorschrift
 KORREKT: des
 KORREKT: 49
-KORREKT: Abs
+KORREKT: abs
 KORREKT: 1
 KORREKT: und
 KORREKT: 2
-KORREKT: StVZO
+KORREKT: stvzo
 KORREKT: über
 KORREKT: die
 KORREKT: höchstzulässige
-KORREKT: Lautstärke
+KORREKT: lautstärke
 KORREKT: des
-KORREKT: Fahrgeräusches
+KORREKT: fahrgeräusches
 KORREKT: freigestellt
 KORREKT: 3
-KORREKT: Der
-KORREKT: Hersteller
+KORREKT: der
+KORREKT: hersteller
 KORREKT: hat
 KORREKT: für
 KORREKT: jedes
 KORREKT: dem
-KORREKT: Typ
+KORREKT: typ
 KORREKT: entsprechende
-KORREKT: Fahrzeug
+KORREKT: fahrzeug
 KORREKT: einen
-KORREKT: Kraftfahrzeugbrief
+KORREKT: kraftfahrzeugbrief
 KORREKT: auszufüllen
 KORREKT: sowie
 KORREKT: die
-KORREKT: Richtigkeit
+KORREKT: richtigkeit
 KORREKT: der
-KORREKT: Angaben
+KORREKT: angaben
 KORREKT: über
 KORREKT: die
-KORREKT: Beschaffenheit
+KORREKT: beschaffenheit
 KORREKT: des
-FAST KORREKT FEHLEND: Fahrzeuges
+FAST KORREKT FEHLEND: fahrzeuges
 KORREKT: und
 KORREKT: dessen
-KORREKT: Übereinstimmung
+KORREKT: übereinstimmung
 KORREKT: mit
 KORREKT: dem
 KORREKT: genehmigten
-KORREKT: Typ
+KORREKT: typ
 KORREKT: zu
 FAST KORREKT FEHLEND: bescheinigen
-KORREKT: Die
-FAST KORREKT FEHLEND: Vordrucke
+KORREKT: die
+FAST KORREKT FEHLEND: vordrucke
 KORREKT: für
 KORREKT: die
-KORREKT: Briefe
+KORREKT: briefe
 KORREKT: sind
 KORREKT: von
 KORREKT: dem
-KORREKT: StraßenZentralamt
+KORREKT: straßenzentralamt
 KORREKT: der
-KORREKT: Verwaltung
+KORREKT: verwaltung
 KORREKT: für
-KORREKT: Verkehr
+KORREKT: verkehr
 KORREKT: des
 KORREKT: vereinigten
-KORREKT: Wirtschaftsgebietes
-FAST KORREKT FEHLEND: Sammelstelle
+KORREKT: wirtschaftsgebietes
+FAST KORREKT FEHLEND: sammelstelle
 KORREKT: für
-KORREKT: Nachrichten
+KORREKT: nachrichten
 KORREKT: über
-KORREKT: Kraftfahrzeuge
+KORREKT: kraftfahrzeuge
 KORREKT: in
-FEHLT: Bielefeld
-KORREKT: Herforder
-KORREKT: Straße
+FEHLT: bielefeld
+KORREKT: herforder
+KORREKT: straße
 FAST KORREKT FEHLEND: 8
 KORREKT: 10
 KORREKT: zu
 KORREKT: beziehen
-KORREKT: Bei
+KORREKT: bei
 KORREKT: der
-KORREKT: Ausfertigung
+KORREKT: ausfertigung
 KORREKT: von
-KORREKT: Kraftfahrzeugbriefen
+KORREKT: kraftfahrzeugbriefen
 KORREKT: für
 KORREKT: die
-KORREKT: Zugmaschinen
-KORREKT: Typ
+KORREKT: zugmaschinen
+KORREKT: typ
 KORREKT: 35
-KORREKT: PS
-KORREKT: Ackerbulldog
-KORREKT: D
+KORREKT: ps
+KORREKT: ackerbulldog
+KORREKT: d
 KORREKT: 8506
 KORREKT: der
-KORREKT: Firma
-KORREKT: Heinrich
-KORREKT: Lanz
-KORREKT: AG
+KORREKT: firma
+KORREKT: heinrich
+KORREKT: lanz
+KORREKT: ag
 KORREKT: in
-FAST KORREKT FEHLEND: Mannheim
+FAST KORREKT FEHLEND: mannheim
 KORREKT: ist
 KORREKT: unter
-KORREKT: Nr
+KORREKT: nr
 KORREKT: 19
-KORREKT: Bemerkungen
+KORREKT: bemerkungen
 KORREKT: einzutragen
-ZUSÄTZLICH: Acker
+ZUSÄTZLICH: acker
 ZUSÄTZLICH: bulldog
-FAST KORREKT ZUSÄTZLICH: L
-FAST KORREKT ZUSÄTZLICH: a
+FAST KORREKT ZUSÄTZLICH: l
 FAST KORREKT ZUSÄTZLICH: n
 FAST KORREKT ZUSÄTZLICH: z
-ZUSÄTZLICH: Aß
-FAST KORREKT ZUSÄTZLICH: Kanzheim
-FAST KORREKT ZUSÄTZLICH: Gntachtehs
-FAST KORREKT ZUSÄTZLICH: Früfstelle
-ZUSÄTZLICH: TVV
-FAST KORREKT ZUSÄTZLICH: Kanzheim
-FAST KORREKT ZUSÄTZLICH: Kanzheim
-FAST KORREKT ZUSÄTZLICH: Kanzheim
-FAST KORREKT ZUSÄTZLICH: AusfÜhrungen
-FAST KORREKT ZUSÄTZLICH: AusfÜhrung
-FAST KORREKT ZUSÄTZLICH: AusfÜhrung
-FAST KORREKT ZUSÄTZLICH: Kanzheim
-FAST KORREKT ZUSÄTZLICH: Brfüllung
-FAST KORREKT ZUSÄTZLICH: Brfüllung
-FAST KORREKT ZUSÄTZLICH: Fahrzeugs
+FAST KORREKT ZUSÄTZLICH: aß
+FAST KORREKT ZUSÄTZLICH: kanzheim
+FAST KORREKT ZUSÄTZLICH: gntachtehs
+FAST KORREKT ZUSÄTZLICH: früfstelle
+ZUSÄTZLICH: tvv
+FAST KORREKT ZUSÄTZLICH: kanzheim
+FAST KORREKT ZUSÄTZLICH: kanzheim
+FAST KORREKT ZUSÄTZLICH: kanzheim
+FAST KORREKT ZUSÄTZLICH: kanzheim
+FAST KORREKT ZUSÄTZLICH: brfüllung
+FAST KORREKT ZUSÄTZLICH: brfüllung
+FAST KORREKT ZUSÄTZLICH: fahrzeugs
 FAST KORREKT ZUSÄTZLICH: beschaeinigen
-FAST KORREKT ZUSÄTZLICH: Vordrücke
-FAST KORREKT ZUSÄTZLICH: Samuelstelle
-ZUSÄTZLICH: Stelafeld
-FAST KORREKT ZUSÄTZLICH: Kanzheim
+FAST KORREKT ZUSÄTZLICH: vordrücke
+FAST KORREKT ZUSÄTZLICH: samuelstelle
+ZUSÄTZLICH: stelafeld
+FAST KORREKT ZUSÄTZLICH: kanzheim
