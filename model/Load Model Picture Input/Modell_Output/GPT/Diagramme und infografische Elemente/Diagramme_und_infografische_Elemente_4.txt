@@ -1,0 +1,10 @@
+**LOCATION OF LIGHTING DEVICES**  
+Version(s): #####
+
+- Side Reflex Reflector
+- Stop Light / Position Light
+- Registration Plate Light
+- Rear Reflex Reflector
+- Passing and Driving Light / Front Position Light
+- Direction Indicators Front
+- Direction Indicators Rear

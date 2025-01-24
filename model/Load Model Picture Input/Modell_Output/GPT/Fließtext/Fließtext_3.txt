@@ -1,0 +1,25 @@
+Nummer der Genehmigung: e1*2007/46*0734*03  
+Approval No.:
+
+1. Für vollständige Varianten – For complete variants :
+
+Der Fahrzeugtyp erfüllt die technischen Anforderungen aller einschlägigen in Anhang IV der Richtlinie 2007/46/EG vorgeschriebenen Vorschriften.  
+The vehicle type meets the technical requirements of all relevant directives as in Annex IV to Directive 2007/46/EC.
+
+2. Für unvollständige Varianten – For incomplete variants:
+
+Der Fahrzeugtyp ist unvollständig.  
+The vehicle type is incomplete.
+
+Umfasst die Typgenehmigung eine oder mehrere unvollständige Varianten bzv. Versionen, so ist dies im Fahrzeugdatenblatt in der Tabelle aufgeführten Rechtsakte - siehe Anlage.  
+If the type approval covers one or more incomplete types or versions, this is stated in the vehicle data sheet in the table of relevant acts - see annex.
+
+Vollständige/unvollständige Varianten(n) – Complete/incomplete variant(s):
+
+1. Stelle des Varianten-schlüssels: K  
+- digit in code of variants:
+
+z. B. - vorliegend (aktuell) Fahrzeugtyp der Versionsnummer (nur unter Berücksichtigung des Geltungsbereichs der vorliegenden Genehmigung).
+
+List of requirements applying to the approved incomplete vehicle type or variants, addressing the scope and latest amendment to each of the regulatory acts listed.
+

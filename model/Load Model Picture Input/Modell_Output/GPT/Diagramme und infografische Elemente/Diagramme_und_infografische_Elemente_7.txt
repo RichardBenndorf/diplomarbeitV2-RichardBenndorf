@@ -1,0 +1,19 @@
+Kuehlwasser-Ausgang
+Coolant Outlet
+
+Kuehlwasser-Eingang
+Coolant Inlet
+
+AdBlue Outlet
+AdBlue Ausgang
+
+AdBlue Eingang
+AdBlue Inlet
+
+ACM-Box
+
+LU Versorgungseinheit 12/24 V
+LU Supply Unit 12/24 V
+
+Durchfluss bei 2500 U/min 10bar
+Flow Rate At 2500rpm Toward 10bar

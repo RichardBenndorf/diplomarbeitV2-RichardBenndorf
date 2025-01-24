@@ -1,0 +1,29 @@
+**TMAP Sensor**, mounted on the throttle induction module assembly, monitors both manifold air pressure and intake air temperature. The MAP portion of the sensor is used to detect engine load for proper fuel and spark timing. The data provided by the intake air temperature sensor is used in conjunction with the throttle position sensor to determine oxygen content, injector pulse width, and warm-up general operation.
+
+**Throttle Position Sensor (TPS)**:
+
+The throttle position module is fitted with the throttle position sensor (TPS). The sensor is a variable resistor that provides a signal to the engine control module for transient fuel adjustment.
+
+**Crankshaft Position Sensor (CKP Sensor)**:
+
+The CKP sensor is a magnetic pickup device mounted on the crankshaft nose. To calculate engine speed, the sensor generates a sine wave with the presence of 32 teeth attached to the ring gear. When the wave is received by the ECM, the sensor is a 2D Decade Counter for engine speed.
+
+**Engine Coolant Temperature Sensor (ECT Sensor)**:
+
+The ECT sensor monitors the engine coolant temperature and determines when to energize the fuel injector pulse width. The sensor is a thermistor that provides resistance as the coolant temperature rises.
+
+**Oxygen Sensor (O2 Sensor)**:
+
+The oxygen sensors provide feedback to the ECM to adjust the air-fuel mixture. The O2 Sensor is a potentiometer that varied in voltage output as oxygen levels in the exhaust system change.
+
+**Wire Harnesses**:
+
+The EFI wire harness is the only wiring support for electrical components.
+
+**Low Fuel Level Warning Lamp**:
+
+The low fuel level warning lamp is triggered when the fuel tank is at half a gallon. The lamp will light up when the fuel level falls to 1½ gallons and will continue to glow until the fuel level drops to ½ gallon.
+
+**Check Engine Lamp**:
+
+The Check Engine Lamp on the instrument panel indicates the existence of a fault condition.

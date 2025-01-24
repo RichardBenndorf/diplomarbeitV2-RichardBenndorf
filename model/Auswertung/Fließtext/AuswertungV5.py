@@ -225,7 +225,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/Fließtext",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/Molmo/Fließtext",
-    output_directory="Ergebnis_Molmo",
-    excel_path="Ergebnis_Molmo/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/GPT/Fließtext",
+    output_directory="Ergebnis_GPT",
+    excel_path="Ergebnis_GPT/results.xlsx"
 )

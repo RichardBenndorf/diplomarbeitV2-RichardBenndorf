@@ -1,0 +1,471 @@
+Durchlauf 7:KORREKT: kuehlwasserausgang
+KORREKT: coolant
+KORREKT: outlet
+KORREKT: kuehlwassereingang
+KORREKT: coolant
+KORREKT: inlet
+KORREKT: adblue
+KORREKT: ausgang
+KORREKT: adblue
+KORREKT: outlet
+KORREKT: adblue
+KORREKT: eingang
+KORREKT: adblue
+KORREKT: inlet
+KORREKT: acmbox
+FEHLT: dosiereinheit
+FEHLT: dosing
+KORREKT: unit
+KORREKT: lu
+KORREKT: versorgungseinheit
+KORREKT: 1224
+KORREKT: v
+KORREKT: lu
+KORREKT: supply
+KORREKT: unit
+KORREKT: 1224
+KORREKT: v
+FAST KORREKT FEHLEND: durchfluß
+KORREKT: bei
+KORREKT: 2500
+KORREKT: umin
+FEHLT: gegen
+KORREKT: 10bar
+KORREKT: flow
+KORREKT: rate
+KORREKT: at
+KORREKT: 2500rpm
+KORREKT: toward
+KORREKT: 10bar
+FAST KORREKT ZUSÄTZLICH: durchfluss
+Durchlauf 5:KORREKT: note
+KORREKT: steering
+KORREKT: angle
+FEHLT: r
+KORREKT: 46
+KORREKT: l
+KORREKT: 46
+KORREKT: angle
+KORREKT: of
+KORREKT: locked
+KORREKT: steering
+FEHLT: r
+KORREKT: 43
+KORREKT: l
+KORREKT: 43
+KORREKT: stopper
+KORREKT: handle
+KORREKT: lock
+FEHLT: materialsteel
+KORREKT: m6
+KORREKT: bolt
+KORREKT: 2
+KORREKT: pieces
+FEHLT: 646
+KORREKT: lock
+KORREKT: pin
+KORREKT: material
+KORREKT: carbon
+KORREKT: steel
+KORREKT: lock
+FEHLT: body
+KORREKT: material
+KORREKT: zn
+KORREKT: alloy
+KORREKT: steering
+KORREKT: handle
+KORREKT: lock
+KORREKT: stay
+KORREKT: t32
+KORREKT: material
+KORREKT: steel
+KORREKT: lock
+KORREKT: type
+FAST KORREKT FEHLEND: shpo
+KORREKT: steering
+KORREKT: head
+KORREKT: pipe
+FAST KORREKT ZUSÄTZLICH: shd
+Durchlauf 6:KORREKT: mirror
+KORREKT: attachment
+KORREKT: mirror
+KORREKT: spacer
+KORREKT: lock
+KORREKT: washer
+KORREKT: lock
+KORREKT: washer
+FEHLT: turnsignal
+KORREKT: with
+KORREKT: stem
+KORREKT: mirror
+KORREKT: location
+ZUSÄTZLICH: turn
+ZUSÄTZLICH: signal
+Durchlauf 8:FAST KORREKT FEHLEND: front
+FEHLT: master
+FEHLT: cylinder
+FAST KORREKT FEHLEND: ø
+FEHLT: 11mm
+FEHLT: floating
+FEHLT: brake
+FEHLT: disk
+FAST KORREKT FEHLEND: front
+FAST KORREKT FEHLEND: ø
+FEHLT: 300mm
+FAST KORREKT FEHLEND: abs
+FEHLT: modulator
+FEHLT: bosch
+FAST KORREKT FEHLEND: 9mp
+FEHLT: brake
+FEHLT: disk
+FEHLT: rear
+FAST KORREKT FEHLEND: ø
+FEHLT: 240mm
+FEHLT: wheel
+FAST KORREKT FEHLEND: speed
+FEHLT: sensor
+FAST KORREKT FEHLEND: wss
+FEHLT: rear
+FEHLT: rear
+FEHLT: brake
+FEHLT: calliper
+FEHLT: rear
+FEHLT: master
+FEHLT: cylinder
+FAST KORREKT FEHLEND: ø
+FEHLT: 13mm
+FEHLT: braking
+FEHLT: fluid
+FEHLT: reservoir
+FAST KORREKT FEHLEND: front
+FEHLT: brake
+FEHLT: calliper
+FEHLT: wheel
+FAST KORREKT FEHLEND: speed
+FEHLT: sensor
+FAST KORREKT FEHLEND: wss
+FAST KORREKT FEHLEND: front
+FAST KORREKT FEHLEND: front
+FEHLT: master
+FEHLT: cylinder
+FAST KORREKT FEHLEND: ø
+FEHLT: 11mm
+FEHLT: floating
+FEHLT: brake
+FEHLT: disk
+FAST KORREKT FEHLEND: front
+FAST KORREKT FEHLEND: ø
+FEHLT: 300mm
+FAST KORREKT FEHLEND: abs
+FEHLT: modulator
+FEHLT: bosch
+FAST KORREKT FEHLEND: 9mp
+FEHLT: brake
+FEHLT: disk
+FEHLT: rear
+FAST KORREKT FEHLEND: ø
+FEHLT: 240mm
+FEHLT: wheel
+FAST KORREKT FEHLEND: speed
+FEHLT: sensor
+FAST KORREKT FEHLEND: wss
+FEHLT: rear
+FEHLT: rear
+FEHLT: brake
+FEHLT: calliper
+FEHLT: rear
+FEHLT: master
+FEHLT: cylinder
+FAST KORREKT FEHLEND: ø
+FEHLT: 13mm
+FEHLT: braking
+FEHLT: fluid
+FEHLT: reservoir
+FAST KORREKT FEHLEND: front
+FEHLT: brake
+FEHLT: calliper
+FEHLT: wheel
+FAST KORREKT FEHLEND: speed
+FEHLT: sensor
+FAST KORREKT FEHLEND: wss
+FAST KORREKT FEHLEND: front
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: cant
+ZUSÄTZLICH: process
+ZUSÄTZLICH: images
+ZUSÄTZLICH: directly
+ZUSÄTZLICH: but
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: can
+ZUSÄTZLICH: guide
+ZUSÄTZLICH: you
+FAST KORREKT ZUSÄTZLICH: on
+ZUSÄTZLICH: how
+FAST KORREKT ZUSÄTZLICH: to
+ZUSÄTZLICH: extract
+ZUSÄTZLICH: text
+FAST KORREKT ZUSÄTZLICH: from
+ZUSÄTZLICH: images
+ZUSÄTZLICH: you
+ZUSÄTZLICH: can
+FAST KORREKT ZUSÄTZLICH: use
+ZUSÄTZLICH: optical
+ZUSÄTZLICH: character
+ZUSÄTZLICH: recognition
+ZUSÄTZLICH: ocr
+ZUSÄTZLICH: software
+FAST KORREKT ZUSÄTZLICH: or
+ZUSÄTZLICH: online
+ZUSÄTZLICH: ocr
+ZUSÄTZLICH: tools
+ZUSÄTZLICH: just
+ZUSÄTZLICH: upload
+ZUSÄTZLICH: the
+ZUSÄTZLICH: image
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: they
+ZUSÄTZLICH: will
+ZUSÄTZLICH: convert
+ZUSÄTZLICH: the
+ZUSÄTZLICH: text
+ZUSÄTZLICH: into
+ZUSÄTZLICH: editable
+ZUSÄTZLICH: format
+FAST KORREKT ZUSÄTZLICH: if
+ZUSÄTZLICH: you
+FAST KORREKT ZUSÄTZLICH: need
+ZUSÄTZLICH: help
+ZUSÄTZLICH: with
+ZUSÄTZLICH: specific
+ZUSÄTZLICH: ocr
+ZUSÄTZLICH: tools
+FAST KORREKT ZUSÄTZLICH: or
+ZUSÄTZLICH: methods
+ZUSÄTZLICH: let
+FAST KORREKT ZUSÄTZLICH: me
+ZUSÄTZLICH: know
+Durchlauf 3:KORREKT: hand
+KORREKT: controls
+KORREKT: headlights
+KORREKT: high
+KORREKT: low
+KORREKT: beam
+KORREKT: direction
+KORREKT: indicator
+KORREKT: horn
+KORREKT: lefthand
+KORREKT: control
+KORREKT: righthand
+KORREKT: control
+KORREKT: electric
+KORREKT: starter
+KORREKT: ignition
+KORREKT: onoff
+KORREKT: switch
+KORREKT: indicator
+KORREKT: lights
+KORREKT: dual
+KORREKT: scale
+KORREKT: speedometer
+KORREKT: engine
+KORREKT: coolant
+KORREKT: color
+KORREKT: red
+KORREKT: gear
+KORREKT: box
+KORREKT: neutral
+KORREKT: color
+KORREKT: green
+KORREKT: left
+KORREKT: turn
+KORREKT: signal
+KORREKT: color
+KORREKT: green
+KORREKT: engine
+KORREKT: oil
+KORREKT: color
+KORREKT: red
+FEHLT: abs
+KORREKT: fuel
+KORREKT: level
+KORREKT: color
+FEHLT: amber
+KORREKT: headlights
+KORREKT: high
+KORREKT: beam
+KORREKT: color
+FEHLT: blue
+KORREKT: right
+KORREKT: turn
+KORREKT: signal
+KORREKT: color
+KORREKT: green
+KORREKT: check
+KORREKT: engine
+KORREKT: color
+FEHLT: amber
+Durchlauf 2:KORREKT: air
+KORREKT: cleaner
+KORREKT: assembly
+KORREKT: air
+KORREKT: cleaner
+KORREKT: top
+KORREKT: wing
+KORREKT: nut
+KORREKT: air
+KORREKT: filter
+KORREKT: cover
+KORREKT: air
+KORREKT: filter
+KORREKT: gasket
+KORREKT: air
+KORREKT: box
+KORREKT: top
+KORREKT: to
+KORREKT: bottom
+KORREKT: velocity
+KORREKT: stack
+KORREKT: front
+KORREKT: version
+FEHLT: g
+FAST KORREKT FEHLEND: 2943801
+FEHLT: t
+FEHLT: 2946401
+KORREKT: velocity
+KORREKT: stack
+KORREKT: rear
+KORREKT: version
+FEHLT: g
+FAST KORREKT FEHLEND: 2952101
+FEHLT: t
+FEHLT: 2948401
+KORREKT: air
+KORREKT: cleaner
+KORREKT: bottom
+KORREKT: retainer
+KORREKT: clip
+KORREKT: qty7
+KORREKT: plug
+KORREKT: bracket
+KORREKT: bottom
+KORREKT: view
+KORREKT: of
+KORREKT: air
+KORREKT: cleaner
+KORREKT: bottom
+FAST KORREKT ZUSÄTZLICH: 2992101
+FAST KORREKT ZUSÄTZLICH: 2994801
+Durchlauf 4:KORREKT: location
+KORREKT: of
+KORREKT: lighting
+KORREKT: devices
+KORREKT: versions
+FEHLT: t
+KORREKT: side
+KORREKT: reflex
+FEHLT: reflectors
+KORREKT: stop
+KORREKT: light
+KORREKT: position
+KORREKT: light
+KORREKT: registration
+KORREKT: plate
+KORREKT: light
+KORREKT: rear
+KORREKT: reflex
+KORREKT: reflector
+KORREKT: passing
+KORREKT: and
+KORREKT: driving
+KORREKT: light
+KORREKT: front
+KORREKT: position
+KORREKT: light
+KORREKT: direction
+KORREKT: indicators
+KORREKT: rear
+KORREKT: direction
+KORREKT: indicators
+KORREKT: front
+Durchlauf 1:KORREKT: hand
+KORREKT: controls
+KORREKT: headlights
+KORREKT: low
+FEHLT: beam
+FEHLT: headlight
+FEHLT: high
+FEHLT: beam
+KORREKT: horn
+KORREKT: horn
+KORREKT: electric
+KORREKT: starter
+KORREKT: device
+KORREKT: for
+KORREKT: switching
+KORREKT: the
+KORREKT: engine
+KORREKT: on
+KORREKT: or
+KORREKT: off
+KORREKT: off
+KORREKT: shutdown
+KORREKT: engine
+KORREKT: ignition
+FEHLT: operating
+FEHLT: position
+KORREKT: hazard
+KORREKT: warning
+KORREKT: hazard
+KORREKT: warning
+KORREKT: direction
+KORREKT: indicator
+KORREKT: left
+KORREKT: lefthand
+KORREKT: control
+KORREKT: direction
+KORREKT: indicator
+KORREKT: right
+KORREKT: battery
+KORREKT: charge
+KORREKT: low
+KORREKT: fuel
+FEHLT: light
+KORREKT: color
+FEHLT: amber
+KORREKT: fuel
+KORREKT: level
+FEHLT: gauge
+KORREKT: left
+KORREKT: turn
+KORREKT: signal
+KORREKT: color
+KORREKT: green
+KORREKT: right
+KORREKT: turn
+KORREKT: signal
+KORREKT: color
+KORREKT: green
+KORREKT: indicator
+KORREKT: lights
+FEHLT: headlight
+FEHLT: high
+FEHLT: beam
+KORREKT: color
+FEHLT: blue
+KORREKT: gear
+KORREKT: box
+KORREKT: neutral
+KORREKT: color
+KORREKT: green
+KORREKT: engine
+KORREKT: oil
+KORREKT: color
+KORREKT: red
+KORREKT: engine
+KORREKT: coolant
+KORREKT: temperature
+FEHLT: cor
+KORREKT: red
+ZUSÄTZLICH: press
+ZUSÄTZLICH: righthand
+ZUSÄTZLICH: orange

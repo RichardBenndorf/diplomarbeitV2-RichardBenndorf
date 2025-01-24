@@ -1,0 +1,29 @@
+2.12.2.
+des Sattelanhängers oder des Zentralachanhängers:
+of the semi-trailer or center-axle trailer:
+entfällt
+not applicable
+
+2.16.1.
+Bei der Zulassung/im Betrieb vorgesehen zulässige Massen (fakultativ): Wenn diese Massen angegeben, sind sie in diesem Anhang IV der Richtlinie 97/27/EG einzutragen:
+Where applicable, the maximum permissible masses (optional): If these masses are indicated, they must be entered in this Annex IV of Directive 97/27/EC:
+
+2.16.2.
+Bei der Zulassung/im Betrieb vorgesehen zulässige Gesamtmasse (mehrere Angaben für verschiedene technische Konfigurationen möglich):
+Maximum permissible total mass (several entries possible for various technical configurations):
+
+2.16.3.
+Bei der Zulassung/im Betrieb vorgesehen zulässige Achslast je Achse oder Achsgruppe (mehrere Angaben für verschiedene technische Konfigurationen möglich):
+Maximum permissible axle load per axle or axle group (several entries possible for various technical configurations):
+
+2.16.4.
+Bei der Zulassung/im Betrieb vorgesehen zulässige Anhängelast (mehrere Angaben für verschiedene technische Konfigurationen möglich):
+Maximum permissible towing load (several entries possible for various technical configurations):
+
+2.16.5.
+Bei der Zulassung/im Betrieb vorgesehen zulässige maximale technische Konfiguration:
+Maximum permissible technical configuration (several entries possible for various technical configurations): 
+
+2.16.6.
+Siehe 2.11.
+See 2.11.

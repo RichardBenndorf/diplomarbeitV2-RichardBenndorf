@@ -1,0 +1,17 @@
+**Throttle Body (TB) and fuel rail**  
+The Throttle Body (TB), which distributes fuel and air to the engine cylinders, is an aluminum dual runner with separate manifolds. The TB has fuel rail tube and pressure regulator, throttle position sensor, idle air control, and several other components linked to the fuel delivery system.
+
+**Crankshaft Position Sensor (CKP Sensor)**  
+The CKP Sensor is a hall effect sensor mounted on the crankshaft near the harmonic balancer. The engine detects the engine pick up signal from a presence of 24 teeth (tooth wheel) on the crankshaft. The presence of a tooth signifies rotation of the engine, and the signal is sent to the ECM for proper fuel injection timing and spark requests.
+
+**Coolant Temperature Sensor (T Sensor)**  
+The coolant temperature sensor is an input to the engine for engine temperature. The output signal is a variable voltage, corresponding to evaluated temperature, that is interpreted by the IAT (Intake Air Temperature) sensor. The MAP Sensor detects the manifold absolute pressure and senses engine load or throttle position.
+
+**Manifold Air Pressure Sensor (MAP Sensor)**  
+The MAP sensor is an important input to the ECM, which samples the pressure in the intake manifold, allowing it to calculate engine load and requirements.
+
+**Wire Harnesses**  
+There is a wire harness for both the right-hand engine control and a wire harness for the left-hand. Each harness connects various engine components to the ECM.
+
+**Check Engine Lamp**  
+The Check Engine Lamp on the instrument panel indicates the existence of a fault condition. When a fault is present, codes are generated. The electronic control module (ECM) monitors fault conditions. The technician uses the scan tool to read DTCs (Diagnostic Trouble Codes). The Data Link Connector provides for connection to either the Diagnostics Test Lamp or the Scanalyzer.

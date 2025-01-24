@@ -1,0 +1,9 @@
+Prompt: Please extract the text from this this old document.
+1: 5.16
+2: 6.56
+3: 6.42
+4: 5.88
+5: 4.78
+6: 6.68 Prompt: Can you please help me and extract the text from this this old document.
+7: 4.11
+8: 11.00

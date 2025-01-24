@@ -1,0 +1,8 @@
+1: 6.83
+2: 6.99
+3: 7.06
+4: 10.01
+5: 9.55
+6: 5.49
+7: 8.06
+8: 8.49 Prompt: Please extract the text from this this old document.

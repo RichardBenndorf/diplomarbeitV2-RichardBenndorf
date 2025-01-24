@@ -1,0 +1,29 @@
+18.) **Erntelbertragung**
+
+a) **Art**
+- Motor, Zwischenkupplung, Scheibenräder, Hinterachse 1. Getriebe, Hinterräder
+
+b) **Übersetzung**
+- Zwischenräder: 0,866
+- Getriebe:
+  1. Gang ........... 6,29
+  2. Gang ........... 5,24
+  3. Gang ........... 3,76
+  4. Gang ........... 2,23
+  5. Gang ........... 1,00
+- R. ................. 6,78
+- R. .................. 9,63 (gepsperrt, Schulbezüglich nicht vorhanden)
+
+**Hinterachse:**
+- 0,874
+
+19.) **Art der Schnitttiefe:**
+- Kugelige Haube mit gelochten Platten, hinteres Ende verstärkt.
+
+20.) **Bezeichnung des Krantowskiometers:**
+- 90 ltr. (Rohöl) & 7 ltr. (Jönna)
+
+22.) **Bemerkungen:**
+- (Zu Ziffer 4) ***
+- Eigengewicht des Fahrzeugs: ***
+

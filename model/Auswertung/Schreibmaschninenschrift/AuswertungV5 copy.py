@@ -198,7 +198,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
         if file_name.startswith("Goldstandard_") and file_name.endswith(".txt"):
             index = file_name.split("_")[1].split(".")[0]
             goldstandard_path = os.path.join(goldstandard_directory, file_name)
-            extracted_path = os.path.join(extracted_directory, f"schreibmaschinenschrift_{index}_output.txt")
+            extracted_path = os.path.join(extracted_directory, f"schreibmaschinenschrift_{index}.txt")
 
             if os.path.exists(extracted_path):
                 summary, details, metrics = evaluate_extraction(goldstandard_path, extracted_path)
@@ -225,7 +225,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/Schreibmaschinenschrift",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen7b/Schreibmaschinenschrift",
-    output_directory="Ergebnis_Qwen7b",
-    excel_path="Ergebnis_Qwen7b/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/GPT/Schreibmaschinenschrift",
+    output_directory="Ergebnis_GPT",
+    excel_path="Ergebnis_GPT/results.xlsx"
 )
