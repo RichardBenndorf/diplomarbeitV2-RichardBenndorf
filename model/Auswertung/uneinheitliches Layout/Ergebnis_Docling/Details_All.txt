@@ -1,10 +1,9 @@
-Durchlauf 7:
-KORREKT: Statement
+Durchlauf 7:KORREKT: statement
 KORREKT: of
-FAST KORREKT: conformity
-FEHLT: Schlussbescheinigung
-KORREKT: The
-FAST KORREKT: information
+KORREKT: conformity
+FEHLT: schlussbescheinigung
+KORREKT: the
+FAST KORREKT FEHLEND: information
 KORREKT: folder
 KORREKT: as
 KORREKT: mentioned
@@ -14,8 +13,8 @@ KORREKT: 22
 KORREKT: and
 KORREKT: the
 KORREKT: type
-FAST KORREKT: described
-FAST KORREKT: therein
+FAST KORREKT FEHLEND: described
+FAST KORREKT FEHLEND: therein
 KORREKT: are
 KORREKT: in
 KORREKT: compliance
@@ -25,23 +24,23 @@ KORREKT: test
 KORREKT: standard
 KORREKT: mentioned
 KORREKT: above
-KORREKT: Die
+KORREKT: die
 KORREKT: unter
-KORREKT: Nr
+KORREKT: nr
 KORREKT: 22
 KORREKT: angegebene
-KORREKT: Beschreibungsmappe
+KORREKT: beschreibungsmappe
 KORREKT: und
 KORREKT: der
 KORREKT: darin
-FAST KORREKT: beschriebene
-KORREKT: Typ
+FAST KORREKT FEHLEND: beschriebene
+KORREKT: typ
 KORREKT: entsprechen
 KORREKT: der
 KORREKT: oben
-FAST KORREKT: aufgeführten
-FEHLT: Prüfgrundlage
-KORREKT: With
+FAST KORREKT FEHLEND: aufgeführten
+FEHLT: prüfgrundlage
+KORREKT: with
 KORREKT: regard
 KORREKT: to
 KORREKT: the
@@ -63,26 +62,26 @@ KORREKT: type
 KORREKT: to
 KORREKT: be
 KORREKT: approved
-KORREKT: Die
-FAST KORREKT: verwendeten
-FAST KORREKT: Prüfmuster
+KORREKT: die
+FAST KORREKT FEHLEND: verwendeten
+FAST KORREKT FEHLEND: prüfmuster
 KORREKT: waren
 KORREKT: im
-KORREKT: Hinblick
+KORREKT: hinblick
 KORREKT: auf
 KORREKT: das
 FEHLT: erforderliche
-FAST KORREKT: Leistungsniveau
+FAST KORREKT FEHLEND: leistungsniveau
 KORREKT: für
 KORREKT: den
-FAST KORREKT: zu
+KORREKT: zu
 KORREKT: genehmigenden
-KORREKT: Typ
-FAST KORREKT: repräsentativ
-KORREKT: The
+KORREKT: typ
+FAST KORREKT FEHLEND: repräsentativ
+KORREKT: the
 KORREKT: tests
 KORREKT: were
-FAST KORREKT: carried
+KORREKT: carried
 KORREKT: out
 KORREKT: in
 KORREKT: accordance
@@ -92,176 +91,195 @@ KORREKT: relevant
 KORREKT: requirements
 KORREKT: of
 KORREKT: the
-KORREKT: Die
-FAST KORREKT: Durchführung
+KORREKT: die
+FAST KORREKT FEHLEND: durchführung
 KORREKT: der
-FAST KORREKT: Prüfung
+FAST KORREKT FEHLEND: prüfung
 KORREKT: entsprach
 KORREKT: den
 KORREKT: relevanten
-KORREKT: Anforderungen
+KORREKT: anforderungen
 KORREKT: der
-KORREKT: EN
-KORREKT: ISOIEC
+KORREKT: en
+KORREKT: isoiec
 KORREKT: 170252005
-KORREKT: EN
-FEHLT: ISO
+KORREKT: en
+FEHLT: iso
 FEHLT: 101202102
-FAST KORREKT: KraftfahrtBundesamt
-KORREKT: KBA
-KORREKT: National
-KORREKT: Standards
-FAST KORREKT: Rijksdienst
+FAST KORREKT FEHLEND: kraftfahrtbundesamt
+KORREKT: kba
+KORREKT: national
+KORREKT: standards
+FAST KORREKT FEHLEND: rijksdienst
 KORREKT: voor
-FAST KORREKT: het
-KORREKT: Wegverkeer
-KORREKT: RDW
-KORREKT: Federal
-FAST KORREKT: Republic
+FAST KORREKT FEHLEND: het
+KORREKT: wegverkeer
+KORREKT: rdw
+KORREKT: federal
+FAST KORREKT FEHLEND: republic
 KORREKT: of
-FAST KORREKT: Germany
-FAST KORREKT: Authority
+FAST KORREKT FEHLEND: germany
+FAST KORREKT FEHLEND: authority
 KORREKT: of
-KORREKT: Ireland
-KORREKT: NSAI
-KORREKT: The
-FAST KORREKT: Netherlands
-KORREKT: No
-KORREKT: KBA
-KORREKT: P
+KORREKT: ireland
+KORREKT: nsai
+KORREKT: the
+FAST KORREKT FEHLEND: netherlands
+KORREKT: no
+KORREKT: kba
+KORREKT: p
 KORREKT: 00084
 KORREKT: 10
-KORREKT: No
+KORREKT: no
 KORREKT: 101
-KORREKT: No
+KORREKT: no
 KORREKT: 99050064
-FAST KORREKT: 01
-KORREKT: Responsible
+FAST KORREKT FEHLEND: 01
+KORREKT: responsible
 KORREKT: expert
-KORREKT: Signature
-KORREKT: Stefan
+KORREKT: signature
+KORREKT: stefan
 KORREKT: van
-KORREKT: Husen
-KORREKT: Nov
+KORREKT: husen
+KORREKT: nov
 KORREKT: 30
 KORREKT: 2015
-KORREKT: Conformity
+KORREKT: conformity
 KORREKT: check
-KORREKT: Signature
-KORREKT: Michael
-KORREKT: Juschkat
+KORREKT: signature
+KORREKT: michael
+KORREKT: juschkat
+ZUSÄTZLICH: confomit
 ZUSÄTZLICH: schlussbescheiwiqwu
-ZUSÄTZLICH: Thne
-ZUSÄTZLICH: Prüfgnmidlage
+ZUSÄTZLICH: thne
+FAST KORREKT ZUSÄTZLICH: infomation
+FAST KORREKT ZUSÄTZLICH: descrbed
+FAST KORREKT ZUSÄTZLICH: terein
+FAST KORREKT ZUSÄTZLICH: beschniebene
+FAST KORREKT ZUSÄTZLICH: aufgefühiten
+ZUSÄTZLICH: prüfgnmidlage
+FAST KORREKT ZUSÄTZLICH: venwendeten
+FAST KORREKT ZUSÄTZLICH: früfmuster
 ZUSÄTZLICH: enorderiiche
-ZUSÄTZLICH: ISOIIEC
+FAST KORREKT ZUSÄTZLICH: leistungsniveaw
+FAST KORREKT ZUSÄTZLICH: repräsentativ_
+FAST KORREKT ZUSÄTZLICH: durchfuhrung
+FAST KORREKT ZUSÄTZLICH: prüfungen
+ZUSÄTZLICH: isoiiec
 ZUSÄTZLICH: 170202012
-Durchlauf 5:
-KORREKT: 321227
-FAST KORREKT: OnboardDiagnosesystem
-KORREKT: OBDSystem
-FAST KORREKT: janein
-KORREKT: Onboarddiagnostic
-KORREKT: OBD
+FAST KORREKT ZUSÄTZLICH: kraftfahtbundesamt
+FAST KORREKT ZUSÄTZLICH: repudlic
+FAST KORREKT ZUSÄTZLICH: gemany
+FAST KORREKT ZUSÄTZLICH: auhority
+FAST KORREKT ZUSÄTZLICH: rijksdiens
+FAST KORREKT ZUSÄTZLICH: he
+FAST KORREKT ZUSÄTZLICH: nethedands
+FAST KORREKT ZUSÄTZLICH: 00
+Durchlauf 5:KORREKT: 321227
+KORREKT: onboarddiagnosesystem
+KORREKT: obdsystem
+FAST KORREKT FEHLEND: janein
+KORREKT: onboarddiagnostic
+KORREKT: obd
 KORREKT: system
-FAST KORREKT: yesno
+FAST KORREKT FEHLEND: yesno
 KORREKT: ja
-FAST KORREKT: yes
-KORREKT: X
+KORREKT: yes
+KORREKT: x
 KORREKT: 321228
-KORREKT: Andere
-FAST KORREKT: Einrichtung
-FAST KORREKT: Other
+KORREKT: andere
+FAST KORREKT FEHLEND: einrichtung
+FAST KORREKT FEHLEND: other
 KORREKT: system
-FAST KORREKT: entfällt
+FAST KORREKT FEHLEND: entfällt
 KORREKT: not
 KORREKT: applicable
 KORREKT: 321229
-FAST KORREKT: Drehmomentbegrenzer
-FAST KORREKT: janein
-KORREKT: Torque
-FAST KORREKT: limiter
-FAST KORREKT: yesno
-FAST KORREKT: entfällt
+FAST KORREKT FEHLEND: drehmomentbegrenzer
+FAST KORREKT FEHLEND: janein
+KORREKT: torque
+FAST KORREKT FEHLEND: limiter
+FAST KORREKT FEHLEND: yesno
+FAST KORREKT FEHLEND: entfällt
 KORREKT: not
 KORREKT: applicable
 KORREKT: 3212210
-FAST KORREKT: Periodisch
+FAST KORREKT FEHLEND: periodisch
 KORREKT: arbeitendes
-FAST KORREKT: Regenerationssystem
+FAST KORREKT FEHLEND: regenerationssystem
 KORREKT: nachstehende
-KORREKT: Angaben
+KORREKT: angaben
 KORREKT: sind
 KORREKT: für
 KORREKT: jede
-FAST KORREKT: selbstständige
-KORREKT: Einheit
+FAST KORREKT FEHLEND: selbstständige
+KORREKT: einheit
 KORREKT: einzeln
 KORREKT: anzugeben
-FAST KORREKT: Periodically
+FAST KORREKT FEHLEND: periodically
 KORREKT: regenerating
 KORREKT: system
-FAST KORREKT: provide
+FAST KORREKT FEHLEND: provide
 KORREKT: the
 FEHLT: information
 KORREKT: below
-FAST KORREKT: for
+FAST KORREKT FEHLEND: for
 FEHLT: each
 FEHLT: separate
 KORREKT: unit
 KORREKT: 32122101
-KORREKT: Verfahren
+KORREKT: verfahren
 KORREKT: oder
-FAST KORREKT: Einrichtung
-FAST KORREKT: zur
-FAST KORREKT: Regenerierung
-KORREKT: Beschreibung
+FAST KORREKT FEHLEND: einrichtung
+KORREKT: zur
+FAST KORREKT FEHLEND: regenerierung
+KORREKT: beschreibung
 KORREKT: undoder
-KORREKT: Zeichnung
-FAST KORREKT: Method
+KORREKT: zeichnung
+FAST KORREKT FEHLEND: method
 KORREKT: or
 KORREKT: system
 KORREKT: of
-FAST KORREKT: regeneration
-FAST KORREKT: description
-FAST KORREKT: andor
+KORREKT: regeneration
+FAST KORREKT FEHLEND: description
+FAST KORREKT FEHLEND: andor
 KORREKT: drawing
-FAST KORREKT: diskontinuierliche
-KORREKT: Regeneration
-FAST KORREKT: noncontinuous
-FAST KORREKT: regeneration
+FAST KORREKT FEHLEND: diskontinuierliche
+KORREKT: regeneration
+FAST KORREKT FEHLEND: noncontinuous
+KORREKT: regeneration
 KORREKT: 32122111
-FAST KORREKT: Art
+FAST KORREKT FEHLEND: art
 KORREKT: und
-KORREKT: Konzentration
+KORREKT: konzentration
 KORREKT: des
-FAST KORREKT: erforderlichen
-KORREKT: Reagens
-KORREKT: Type
+FAST KORREKT FEHLEND: erforderlichen
+KORREKT: reagens
+KORREKT: type
 KORREKT: and
 KORREKT: concentration
 KORREKT: of
-FAST KORREKT: reagent
+FAST KORREKT FEHLEND: reagent
 KORREKT: needed
-KORREKT: UREA
-KORREKT: Konzentration
-FAST KORREKT: gemäß
-KORREKT: ISO
-FAST KORREKT: 222411
-KORREKT: Aktivierung
-KORREKT: Warnsystem
-FAST KORREKT: außerhalb
-KORREKT: Konzentrationsbereich
+KORREKT: urea
+KORREKT: konzentration
+FAST KORREKT FEHLEND: gemäß
+KORREKT: iso
+FAST KORREKT FEHLEND: 222411
+KORREKT: aktivierung
+KORREKT: warnsystem
+FAST KORREKT FEHLEND: außerhalb
+KORREKT: konzentrationsbereich
 KORREKT: von
 KORREKT: 278
 KORREKT: 46
-KORREKT: Gew
-FAST KORREKT: Harnstoff
-KORREKT: UREA
+KORREKT: gew
+FAST KORREKT FEHLEND: harnstoff
+KORREKT: urea
 KORREKT: concentration
 KORREKT: according
 KORREKT: to
-KORREKT: ISO
+KORREKT: iso
 KORREKT: 22241
 KORREKT: 1
 KORREKT: activation
@@ -273,35 +291,35 @@ KORREKT: range
 KORREKT: from
 KORREKT: 278
 KORREKT: 46
-FAST KORREKT: ww
+FAST KORREKT FEHLEND: ww
 KORREKT: urea
-KORREKT: X
+KORREKT: x
 KORREKT: 32131
-KORREKT: Anbringungsstelle
+KORREKT: anbringungsstelle
 KORREKT: des
-FAST KORREKT: Symbols
+FAST KORREKT FEHLEND: symbols
 KORREKT: für
 KORREKT: den
-FEHLT: Absorptionskoeffizienten
+FEHLT: absorptionskoeffizienten
 KORREKT: nur
 KORREKT: bei
-KORREKT: Selbstzündungsmotoren
-KORREKT: Location
+KORREKT: selbstzündungsmotoren
+KORREKT: location
 KORREKT: of
 KORREKT: the
 FEHLT: absorption
 KORREKT: coefficient
-FAST KORREKT: symbol
+FAST KORREKT FEHLEND: symbol
 KORREKT: compression
 KORREKT: ignition
 KORREKT: engines
-FAST KORREKT: only
-FAST KORREKT: beim
-KORREKT: Fabrikschild
+FAST KORREKT FEHLEND: only
+FAST KORREKT FEHLEND: beim
+KORREKT: fabrikschild
 KORREKT: wahlweise
 KORREKT: auf
-FAST KORREKT: dem
-KORREKT: Fabrikschild
+FAST KORREKT FEHLEND: dem
+KORREKT: fabrikschild
 KORREKT: near
 KORREKT: vehicle
 KORREKT: plate
@@ -310,86 +328,118 @@ KORREKT: on
 KORREKT: the
 KORREKT: vehicle
 KORREKT: plate
-KORREKT: X
-ZUSÄTZLICH: Syqtem
-ZUSÄTZLICH: jJnein
-ZUSÄTZLICH: yeaino
-ZUSÄTZLICH: entfiillt
+KORREKT: x
+FAST KORREKT ZUSÄTZLICH: anein
+FAST KORREKT ZUSÄTZLICH: vesino
+FAST KORREKT ZUSÄTZLICH: einrchiung
+FAST KORREKT ZUSÄTZLICH: oher
+ZUSÄTZLICH: syqtem
+FAST KORREKT ZUSÄTZLICH: entfillt
+FAST KORREKT ZUSÄTZLICH: drehmonentbegtenzer
+FAST KORREKT ZUSÄTZLICH: jjnein
+FAST KORREKT ZUSÄTZLICH: liniter
+FAST KORREKT ZUSÄTZLICH: yeaino
+FAST KORREKT ZUSÄTZLICH: entfiillt
+FAST KORREKT ZUSÄTZLICH: perodically
 ZUSÄTZLICH: systen
+FAST KORREKT ZUSÄTZLICH: frovide
 ZUSÄTZLICH: informziicn
 ZUSÄTZLICH: fcreach
-ZUSÄTZLICH: arste
-ZUSÄTZLICH: Einnchuung
+FAST KORREKT ZUSÄTZLICH: sep
+FAST KORREKT ZUSÄTZLICH: arste
+FAST KORREKT ZUSÄTZLICH: perodisch
+FAST KORREKT ZUSÄTZLICH: regeneratonssystem
+FAST KORREKT ZUSÄTZLICH: salbstständige
+ZUSÄTZLICH: einnchuung
+FAST KORREKT ZUSÄTZLICH: regenererung
+FAST KORREKT ZUSÄTZLICH: meth
+FAST KORREKT ZUSÄTZLICH: d
 ZUSÄTZLICH: systemof
+ZUSÄTZLICH: regeneraton
+FAST KORREKT ZUSÄTZLICH: descripjon
+FAST KORREKT ZUSÄTZLICH: anlor
+FAST KORREKT ZUSÄTZLICH: diskontinuieniche
+FAST KORREKT ZUSÄTZLICH: noncontnvous
 ZUSÄTZLICH: regeneraion
+ZUSÄTZLICH: at
+FAST KORREKT ZUSÄTZLICH: erorderlichen
 ZUSÄTZLICH: concentrajon
+FAST KORREKT ZUSÄTZLICH: reagen
+FAST KORREKT ZUSÄTZLICH: gemàß
 ZUSÄTZLICH: 150
+FAST KORREKT ZUSÄTZLICH: 2224122
+FAST KORREKT ZUSÄTZLICH: auberhalb
+FAST KORREKT ZUSÄTZLICH: hanstoff
 ZUSÄTZLICH: _
-ZUSÄTZLICH: Wlw
-ZUSÄTZLICH: Abeorptionskoeiizienten
+ZUSÄTZLICH: wlw
+FAST KORREKT ZUSÄTZLICH: symbdls
+FAST KORREKT ZUSÄTZLICH: fur
+ZUSÄTZLICH: abeorptionskoeiizienten
 ZUSÄTZLICH: absompicn
-Durchlauf 6:
-KORREKT: Anlage
+FAST KORREKT ZUSÄTZLICH: symbdl
+FAST KORREKT ZUSÄTZLICH: cnly
+FAST KORREKT ZUSÄTZLICH: bein
+Durchlauf 6:KORREKT: anlage
 KORREKT: 2
 KORREKT: zum
-FAST KORREKT: EWGGenehmigungsbogen
-KORREKT: Nr
+FAST KORREKT FEHLEND: ewggenehmigungsbogen
+KORREKT: nr
 KORREKT: e1200746035619
-KORREKT: Enclosure
+KORREKT: enclosure
 KORREKT: 2
 KORREKT: to
-KORREKT: EEC
+KORREKT: eec
 KORREKT: approval
 KORREKT: certificate
-KORREKT: No
-FAST KORREKT: Prüfergebnisse
-KORREKT: VO
-KORREKT: EU
+KORREKT: no
+FAST KORREKT FEHLEND: prüfergebnisse
+KORREKT: vo
+KORREKT: eu
 KORREKT: 20181832
-KORREKT: Anhang
-KORREKT: VIII
-KORREKT: Test
+KORREKT: anhang
+KORREKT: viii
+KORREKT: test
 KORREKT: results
-FEHLT: VOEU
+FEHLT: voeu
 KORREKT: 20181832
-KORREKT: Annex
-KORREKT: VIII
+KORREKT: annex
+KORREKT: viii
 KORREKT: 4
-KORREKT: Ergebnisse
+KORREKT: ergebnisse
 KORREKT: der
-KORREKT: Prüfungen
+KORREKT: prüfungen
 KORREKT: von
-KORREKT: Fahrzeugen
+KORREKT: fahrzeugen
 KORREKT: die
 KORREKT: mit
-KORREKT: Ökoinnovationen
+KORREKT: ökoinnovationen
 KORREKT: ausgestattet
 KORREKT: sind
 KORREKT: 01
-KORREKT: Ökoinnovationen
+KORREKT: ökoinnovationen
 KORREKT: interne
-KORREKT: Bezeichnungen
+KORREKT: bezeichnungen
 KORREKT: 02
-KORREKT: Gesamteinsparung
+KORREKT: gesamteinsparung
 KORREKT: von
-KORREKT: CO2
-KORREKT: Emissionen
+KORREKT: co2
+KORREKT: emissionen
 KORREKT: durch
-KORREKT: NEFZ
+KORREKT: nefz
 KORREKT: gkm
 KORREKT: 03
-KORREKT: Gesamteinsparung
-FEHLT: CO2Emissionen
+KORREKT: gesamteinsparung
+FEHLT: co2emissionen
 KORREKT: durch
-KORREKT: WLTP
+KORREKT: wltp
 KORREKT: g
 KORREKT: km
 KORREKT: 04
-FAST KORREKT: Allgemeiner
-KORREKT: Code
+FAST KORREKT FEHLEND: allgemeiner
+KORREKT: code
 KORREKT: der
-KORREKT: Ökoinnovationen
-KORREKT: Results
+KORREKT: ökoinnovationen
+KORREKT: results
 KORREKT: of
 KORREKT: the
 KORREKT: tests
@@ -399,164 +449,164 @@ KORREKT: fitted
 KORREKT: with
 KORREKT: ecoinnovations
 KORREKT: 01
-KORREKT: Ecoinnovations
+KORREKT: ecoinnovations
 KORREKT: internal
 KORREKT: identifiers
 KORREKT: 02
-KORREKT: Total
-KORREKT: CO2
+KORREKT: total
+KORREKT: co2
 KORREKT: emissions
 KORREKT: savings
 KORREKT: on
-KORREKT: NEDC
+KORREKT: nedc
 KORREKT: gkm
 KORREKT: 03
-KORREKT: Total
-KORREKT: CO2
+KORREKT: total
+KORREKT: co2
 KORREKT: emissions
 FEHLT: saving
 KORREKT: on
-KORREKT: WLTP
+KORREKT: wltp
 KORREKT: gkm
 KORREKT: 04
-KORREKT: General
+KORREKT: general
 KORREKT: code
 KORREKT: of
 KORREKT: the
 KORREKT: ecoinnovations
-FEHLT: VarianteVersion
-FEHLT: VariantVersion
+FEHLT: varianteversion
+FEHLT: variantversion
 KORREKT: 01
 KORREKT: 02
 KORREKT: 03
 KORREKT: 04
-KORREKT: Zyklus
-FEHLT: NEF
-FAST KORREKT: Z
-FAST KORREKT: Gemäß
+KORREKT: zyklus
+FEHLT: nef
+FAST KORREKT FEHLEND: z
+FAST KORREKT FEHLEND: gemäß
 KORREKT: der
-KORREKT: UNECERegelung
-KORREKT: Nr
+KORREKT: uneceregelung
+KORREKT: nr
 KORREKT: 83
 KORREKT: falls
 KORREKT: zutreffend
-KORREKT: Zyklus
-KORREKT: WLTP
-KORREKT: Nach
-KORREKT: Anhang
-KORREKT: XXI
+KORREKT: zyklus
+KORREKT: wltp
+KORREKT: nach
+KORREKT: anhang
+KORREKT: xxi
 KORREKT: der
-KORREKT: Verordnung
+KORREKT: verordnung
 KORREKT: 11512017
 KORREKT: falls
 KORREKT: zutreffend
 KORREKT: 0
-KORREKT: Ökoinnovationen
+KORREKT: ökoinnovationen
 KORREKT: interne
-KORREKT: Bezeichnungen
+KORREKT: bezeichnungen
 KORREKT: 1
-KORREKT: CO2
-KORREKT: Emissionsmenge
+KORREKT: co2
+KORREKT: emissionsmenge
 KORREKT: des
-KORREKT: Vergleichsfahrzeugs
+KORREKT: vergleichsfahrzeugs
 KORREKT: gkm
 KORREKT: 2
-KORREKT: CO2
-KORREKT: Emissionsmenge
+KORREKT: co2
+KORREKT: emissionsmenge
 KORREKT: des
-KORREKT: Ökoinnovationsfahrzeugs
+KORREKT: ökoinnovationsfahrzeugs
 KORREKT: gkm
 KORREKT: 3
-KORREKT: CO2
-KORREKT: Emissionsmenge
+KORREKT: co2
+KORREKT: emissionsmenge
 KORREKT: des
-KORREKT: Vergleichsfahrzeugs
+KORREKT: vergleichsfahrzeugs
 KORREKT: im
-KORREKT: Prüfzyklus
-KORREKT: Typ
+KORREKT: prüfzyklus
+KORREKT: typ
 KORREKT: 1
 KORREKT: gkm
 KORREKT: 4
-KORREKT: CO2
-KORREKT: Emissionsmenge
+KORREKT: co2
+KORREKT: emissionsmenge
 KORREKT: des
-KORREKT: Ökoinnovationsfahrzeugs
+KORREKT: ökoinnovationsfahrzeugs
 KORREKT: im
-KORREKT: Prüfzyklus
-KORREKT: Typ
+KORREKT: prüfzyklus
+KORREKT: typ
 KORREKT: 1
 KORREKT: gkm
 KORREKT: 5
-KORREKT: Nutzungsfaktor
-KORREKT: NF
-FAST KORREKT: dh
-KORREKT: Anteil
+KORREKT: nutzungsfaktor
+KORREKT: nf
+FAST KORREKT FEHLEND: dh
+KORREKT: anteil
 KORREKT: der
-KORREKT: Zeit
+KORREKT: zeit
 KORREKT: während
 KORREKT: der
 KORREKT: die
-KORREKT: Technologie
+KORREKT: technologie
 KORREKT: unter
 KORREKT: normalen
-KORREKT: Betriebsbedingungen
+KORREKT: betriebsbedingungen
 KORREKT: genutzt
 KORREKT: wird
 KORREKT: 6
-KORREKT: Einsparung
+KORREKT: einsparung
 KORREKT: von
-KORREKT: C02
-KORREKT: Emissionen
+KORREKT: c02
+KORREKT: emissionen
 KORREKT: 1
 KORREKT: 2
 KORREKT: 3
 KORREKT: 4
 KORREKT: 5
 KORREKT: 7
-KORREKT: Beschluss
-FAST KORREKT: zur
-KORREKT: Genehmigung
+KORREKT: beschluss
+KORREKT: zur
+KORREKT: genehmigung
 KORREKT: der
-KORREKT: Ökoinnovation
+KORREKT: ökoinnovation
 KORREKT: 8
-KORREKT: Code
+KORREKT: code
 KORREKT: der
-KORREKT: Ökoinnovation
+KORREKT: ökoinnovation
 KORREKT: 9
-KORREKT: Typ
+KORREKT: typ
 KORREKT: 1
-FAST KORREKT: I
-KORREKT: Zyklus
-KORREKT: NEFZWLTP
-KORREKT: NEDC
-KORREKT: According
+FAST KORREKT FEHLEND: i
+KORREKT: zyklus
+KORREKT: nefzwltp
+KORREKT: nedc
+KORREKT: according
 KORREKT: to
-KORREKT: Regulation
+KORREKT: regulation
 KORREKT: 83
 KORREKT: if
 KORREKT: applicable
-KORREKT: WLTP
-KORREKT: According
+KORREKT: wltp
+KORREKT: according
 KORREKT: to
-KORREKT: Annex
-KORREKT: XXI
+KORREKT: annex
+KORREKT: xxi
 KORREKT: of
-KORREKT: Regulation
-KORREKT: EU
+KORREKT: regulation
+KORREKT: eu
 KORREKT: 2
 KORREKT: 1
-FAST KORREKT: 15
+FAST KORREKT FEHLEND: 15
 KORREKT: 1
 KORREKT: 2
 KORREKT: if
 FEHLT: app
 FEHLT: licable
 KORREKT: 0
-KORREKT: Ecoinnovation
+KORREKT: ecoinnovation
 KORREKT: internal
 KORREKT: identifier
 KORREKT: 1
-KORREKT: CO2
+KORREKT: co2
 KORREKT: emissions
 KORREKT: of
 KORREKT: the
@@ -564,41 +614,41 @@ KORREKT: baseline
 KORREKT: vehicle
 KORREKT: gkm
 KORREKT: 2
-KORREKT: CO2
+KORREKT: co2
 KORREKT: emissions
-FAST KORREKT: o
+FAST KORREKT FEHLEND: o
 FEHLT: f
 KORREKT: the
 KORREKT: ecoinnovation
 KORREKT: vehicle
 KORREKT: gkm
 KORREKT: 3
-KORREKT: CO2
+KORREKT: co2
 KORREKT: emissions
 KORREKT: of
 KORREKT: the
 KORREKT: baseline
 KORREKT: vehicle
 KORREKT: under
-KORREKT: Type
+KORREKT: type
 KORREKT: 1
 KORREKT: testcycle
 KORREKT: gkm
 KORREKT: 4
-FEHLT: C
-FEHLT: O
+FEHLT: c
+FAST KORREKT FEHLEND: o
 KORREKT: 2
-FAST KORREKT: em
+FAST KORREKT FEHLEND: em
 FEHLT: issions
 KORREKT: of
 FEHLT: t
 FEHLT: he
-FEHLT: eco
+FAST KORREKT FEHLEND: eco
 FEHLT: inno
 FEHLT: vation
 KORREKT: vehicle
 KORREKT: under
-FEHLT: Ty
+FEHLT: ty
 FEHLT: pe
 KORREKT: 1
 FEHLT: tes
@@ -606,9 +656,9 @@ FEHLT: t
 FEHLT: cycleg
 KORREKT: km
 KORREKT: 5
-KORREKT: Usage
+KORREKT: usage
 KORREKT: factor
-KORREKT: UF
+KORREKT: uf
 KORREKT: ie
 KORREKT: temporal
 KORREKT: share
@@ -620,7 +670,7 @@ KORREKT: normal
 KORREKT: operation
 KORREKT: conditions
 KORREKT: 6
-KORREKT: CO2
+KORREKT: co2
 KORREKT: emissions
 KORREKT: savings
 KORREKT: 1
@@ -628,21 +678,21 @@ FEHLT: 23
 KORREKT: 4
 KORREKT: 5
 KORREKT: 7
-KORREKT: Decision
+KORREKT: decision
 KORREKT: approving
 KORREKT: the
 KORREKT: ecoinnovation
 KORREKT: 8
-KORREKT: Code
+KORREKT: code
 KORREKT: of
 KORREKT: the
 KORREKT: ecoinnovation
 KORREKT: 9
-KORREKT: Type
+KORREKT: type
 KORREKT: 1
-FAST KORREKT: I
+FAST KORREKT FEHLEND: i
 KORREKT: cycle
-FAST KORREKT: NEDCWLTP
+FAST KORREKT FEHLEND: nedcwltp
 KORREKT: 0
 KORREKT: 1
 KORREKT: 2
@@ -653,207 +703,222 @@ KORREKT: 6
 KORREKT: 7
 KORREKT: 8
 KORREKT: 9
+FAST KORREKT ZUSÄTZLICH: ewvggenehmigungsbogen
+FAST KORREKT ZUSÄTZLICH: prüferqebnisse
+FAST KORREKT ZUSÄTZLICH: qkm
+FAST KORREKT ZUSÄTZLICH: allqemeiner
 ZUSÄTZLICH: dler
-ZUSÄTZLICH: Variante
-ZUSÄTZLICH: Version
-ZUSÄTZLICH: Variant
-ZUSÄTZLICH: Version
-ZUSÄTZLICH: Ökoinnovationsfalrzeugs
-ZUSÄTZLICH: 1C02
-ZUSÄTZLICH: 3CO2
-ZUSÄTZLICH: Accordling
-ZUSÄTZLICH: Requlation
+FAST KORREKT ZUSÄTZLICH: qkm
+ZUSÄTZLICH: variante
+ZUSÄTZLICH: version
+ZUSÄTZLICH: variant
+ZUSÄTZLICH: version
+FAST KORREKT ZUSÄTZLICH: gemaß
+ZUSÄTZLICH: ökoinnovationsfalrzeugs
+ZUSÄTZLICH: 1c02
+FAST KORREKT ZUSÄTZLICH: 3co2
+FAST KORREKT ZUSÄTZLICH: d
+FAST KORREKT ZUSÄTZLICH: h
+FAST KORREKT ZUSÄTZLICH: qkm
+FAST KORREKT ZUSÄTZLICH: _4
+ZUSÄTZLICH: accordling
+ZUSÄTZLICH: requlation
 ZUSÄTZLICH: 20171151
-ZUSÄTZLICH: 1CO2
+ZUSÄTZLICH: 1co2
 ZUSÄTZLICH: emnissions
-ZUSÄTZLICH: 4CO2
-Durchlauf 8:
-KORREKT: FHZIDENTIFIZIERUNGSNUMMER
-KORREKT: VEHICLE
-KORREKT: IDENTIFICATION
-KORREKT: NUMBER
-KORREKT: BEISPIEL
-KORREKT: EXAMPLE
-KORREKT: WDB9630031L479935
-FAST KORREKT: Schrifthöhe
+FAST KORREKT ZUSÄTZLICH: qkm
+ZUSÄTZLICH: 4co2
+FAST KORREKT ZUSÄTZLICH: q
+FAST KORREKT ZUSÄTZLICH: 1l
+FAST KORREKT ZUSÄTZLICH: nedciwltp
+Durchlauf 8:KORREKT: fhzidentifizierungsnummer
+KORREKT: vehicle
+KORREKT: identification
+KORREKT: number
+KORREKT: beispiel
+KORREKT: example
+KORREKT: wdb9630031l479935
+FAST KORREKT FEHLEND: schrifthöhe
 KORREKT: letter
 KORREKT: hight
 KORREKT: 7mm
-KORREKT: AUFBAU
-KORREKT: DER
-KORREKT: NUMMER
-KORREKT: STRUCTURE
-KORREKT: OF
-KORREKT: NUMBER
-FEHLT: WDB
+KORREKT: aufbau
+KORREKT: der
+KORREKT: nummer
+KORREKT: structure
+KORREKT: of
+KORREKT: number
+FEHLT: wdb
 FEHLT: 963003
-FAST KORREKT: 1
-FAST KORREKT: L
+FAST KORREKT FEHLEND: 1
+FAST KORREKT FEHLEND: l
 FEHLT: 479935
 FEHLT: 6stellige
-FEHLT: Zählnummer
+FEHLT: zählnummer
 FEHLT: 6digit
 FEHLT: counter
-FEHLT: Fertigungsstätte
-FEHLT: Plant
-FEHLT: Lenkung
-FEHLT: Steering
+FEHLT: fertigungsstätte
+FEHLT: plant
+FEHLT: lenkung
+FEHLT: steering
 FEHLT: system
-FEHLT: Baumuster
-FEHLT: Welthersteller
-FEHLT: World
+FEHLT: baumuster
+FEHLT: welthersteller
+FEHLT: world
 FEHLT: manufacturer
 FEHLT: identifier
-FEHLT: WDB
-FEHLT: Daimler
-FEHLT: AG
-FEHLT: WDF
-FEHLT: Diamler
-FEHLT: AG
-Durchlauf 3:
-KORREKT: Manufacturers
+FEHLT: wdb
+FEHLT: daimler
+FEHLT: ag
+FEHLT: wdf
+FEHLT: diamler
+FEHLT: ag
+FAST KORREKT ZUSÄTZLICH: i
+FAST KORREKT ZUSÄTZLICH: schrifthohe
+FAST KORREKT ZUSÄTZLICH: 2
+Durchlauf 3:KORREKT: manufacturers
 KORREKT: statement
 KORREKT: on
 KORREKT: endurance
 KORREKT: testing
-KORREKT: Annex
-KORREKT: V
+KORREKT: annex
+KORREKT: v
 KORREKT: to
-FAST KORREKT: Commission
-KORREKT: Delegated
-KORREKT: Regulation
-KORREKT: EU
-KORREKT: No
+FAST KORREKT FEHLEND: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
 KORREKT: 32014
-KORREKT: The
+KORREKT: the
 KORREKT: undersigned
-FAST KORREKT: Erich
-KORREKT: Kern
-FEHLT: Teamleader
+FAST KORREKT FEHLEND: erich
+KORREKT: kern
+FEHLT: teamleader
 FEHLT: homologation
-FAST KORREKT: Company
+FAST KORREKT FEHLEND: company
 KORREKT: name
 KORREKT: and
 KORREKT: address
 KORREKT: of
-FAST KORREKT: manufacturer
-KORREKT: KTM
-FAST KORREKT: AG
-FEHLT: Stallhofnerstraße
-FAST KORREKT: 3
-FAST KORREKT: A5230
-FEHLT: Mattighofen
-KORREKT: Name
+FAST KORREKT FEHLEND: manufacturer
+KORREKT: ktm
+KORREKT: ag
+FEHLT: stallhofnerstraße
+FAST KORREKT FEHLEND: 3
+FAST KORREKT FEHLEND: a5230
+FEHLT: mattighofen
+KORREKT: name
 KORREKT: and
 KORREKT: address
 KORREKT: of
 KORREKT: the
-FAST KORREKT: manufacturers
-FAST KORREKT: representative
-FAST KORREKT: if
-FAST KORREKT: any
-FAST KORREKT: na
-KORREKT: Hereby
-FAST KORREKT: states
+KORREKT: manufacturers
+FAST KORREKT FEHLEND: representative
+KORREKT: if
+FAST KORREKT FEHLEND: any
+FAST KORREKT FEHLEND: na
+KORREKT: hereby
+FAST KORREKT FEHLEND: states
 KORREKT: that
 KORREKT: the
 KORREKT: vehicles
-FAST KORREKT: 01
-FAST KORREKT: Make
-FEHLT: trade
+FAST KORREKT FEHLEND: 01
+FAST KORREKT FEHLEND: make
+FAST KORREKT FEHLEND: trade
 KORREKT: name
 KORREKT: of
 KORREKT: the
-FAST KORREKT: manu
+FAST KORREKT FEHLEND: manu
 FEHLT: facturer
-FEHLT: Husqvarna
+FEHLT: husqvarna
 KORREKT: 02
-FAST KORREKT: Type
-FEHLT: Husqvarna
+FAST KORREKT FEHLEND: type
+FEHLT: husqvarna
 KORREKT: 701
 KORREKT: 021
-FAST KORREKT: Variants
-FEHLT: ABC
-FAST KORREKT: 0
-FAST KORREKT: 22
-FAST KORREKT: Versions
-FAST KORREKT: na
+FAST KORREKT FEHLEND: variants
+FAST KORREKT FEHLEND: abc
+FAST KORREKT FEHLEND: 0
+FAST KORREKT FEHLEND: 22
+FAST KORREKT FEHLEND: versions
+FAST KORREKT FEHLEND: na
 KORREKT: 023
-KORREKT: Commercial
+KORREKT: commercial
 KORREKT: names
-FAST KORREKT: if
-FAST KORREKT: available
-FEHLT: Husqvarna
+KORREKT: if
+FAST KORREKT FEHLEND: available
+FEHLT: husqvarna
 KORREKT: 701
-FAST KORREKT: Supermoto
-FAST KORREKT: Enduro
-KORREKT: LR
+FAST KORREKT FEHLEND: supermoto
+FAST KORREKT FEHLEND: enduro
+KORREKT: lr
 KORREKT: 03
-FAST KORREKT: Category
-FAST KORREKT: subcategory
+FAST KORREKT FEHLEND: category
+FAST KORREKT FEHLEND: subcategory
 KORREKT: and
-FAST KORREKT: subsubcategory
+FAST KORREKT FEHLEND: subsubcategory
 KORREKT: of
-FAST KORREKT: vehicle
-FEHLT: L3eA2
-KORREKT: For
-FAST KORREKT: which
-FAST KORREKT: typeapproval
+FAST KORREKT FEHLEND: vehicle
+FEHLT: l3ea2
+KORREKT: for
+FAST KORREKT FEHLEND: which
+FAST KORREKT FEHLEND: typeapproval
 KORREKT: is
-FAST KORREKT: sought
+FAST KORREKT FEHLEND: sought
 KORREKT: shall
-FAST KORREKT: withstand
-FAST KORREKT: normal
+FAST KORREKT FEHLEND: withstand
+FAST KORREKT FEHLEND: normal
 KORREKT: use
 KORREKT: as
-FAST KORREKT: intended
+FAST KORREKT FEHLEND: intended
 KORREKT: for
 KORREKT: at
 KORREKT: least
-FAST KORREKT: 52500
-FAST KORREKT: km
+FAST KORREKT FEHLEND: 52500
+FAST KORREKT FEHLEND: km
 KORREKT: travelled
-FAST KORREKT: within
+FAST KORREKT FEHLEND: within
 KORREKT: five
 KORREKT: years
 KORREKT: of
 KORREKT: first
 FEHLT: registration
-FAST KORREKT: taking
-FAST KORREKT: into
+FAST KORREKT FEHLEND: taking
+KORREKT: into
 KORREKT: account
-FAST KORREKT: regular
+FAST KORREKT FEHLEND: regular
 KORREKT: and
 KORREKT: scheduled
 FEHLT: maintenance
 KORREKT: and
-FAST KORREKT: specific
+FAST KORREKT FEHLEND: specific
 KORREKT: equipment
 KORREKT: adjustments
 KORREKT: as
-FAST KORREKT: described
-FAST KORREKT: clearly
+FAST KORREKT FEHLEND: described
+FAST KORREKT FEHLEND: clearly
 KORREKT: and
 FEHLT: unambiguously
-FAST KORREKT: in
+KORREKT: in
 KORREKT: the
-FAST KORREKT: instructions
+FAST KORREKT FEHLEND: instructions
 KORREKT: manual
-FAST KORREKT: delivered
-FAST KORREKT: with
+FAST KORREKT FEHLEND: delivered
+FAST KORREKT FEHLEND: with
 KORREKT: the
 KORREKT: vehicles
-KORREKT: The
+KORREKT: the
 KORREKT: undersigned
-FAST KORREKT: furthermore
+FAST KORREKT FEHLEND: furthermore
 KORREKT: confirms
 KORREKT: that
 KORREKT: the
 KORREKT: endurance
 KORREKT: of
 KORREKT: the
-FAST KORREKT: systems
-FAST KORREKT: parts
+FAST KORREKT FEHLEND: systems
+KORREKT: parts
 KORREKT: and
 KORREKT: equipment
 FEHLT: critical
@@ -863,99 +928,146 @@ KORREKT: safety
 KORREKT: is
 KORREKT: ensured
 KORREKT: through
-FEHLT: appropriate
+FAST KORREKT FEHLEND: appropriate
 KORREKT: testing
 KORREKT: and
 KORREKT: the
 KORREKT: use
 KORREKT: of
-FAST KORREKT: good
-FAST KORREKT: engineering
+KORREKT: good
+KORREKT: engineering
 KORREKT: practice
-KORREKT: This
+KORREKT: this
 KORREKT: declaration
-FAST KORREKT: has
+FAST KORREKT FEHLEND: has
 KORREKT: no
 KORREKT: bearing
 KORREKT: on
-FAST KORREKT: any
-FAST KORREKT: vehicle
+FAST KORREKT FEHLEND: any
+FAST KORREKT FEHLEND: vehicle
 KORREKT: warranty
-FAST KORREKT: Place
-FEHLT: Mattighofen
-KORREKT: Date
+FAST KORREKT FEHLEND: place
+FEHLT: mattighofen
+KORREKT: date
 FEHLT: 02122019
-FEHLT: Signature
-KORREKT: Name
-FAST KORREKT: Erich
-KORREKT: Kern
-FEHLT: Position
-FAST KORREKT: in
+FEHLT: signature
+KORREKT: name
+FAST KORREKT FEHLEND: erich
+KORREKT: kern
+FEHLT: position
+KORREKT: in
 KORREKT: the
-FEHLT: company
-FEHLT: Teamleader
+FAST KORREKT FEHLEND: company
+FEHLT: teamleader
 FEHLT: homologation
+FAST KORREKT ZUSÄTZLICH: commisslon
 ZUSÄTZLICH: undersene
+FAST KORREKT ZUSÄTZLICH: compzny
+FAST KORREKT ZUSÄTZLICH: manufacturzr
+ZUSÄTZLICH: manufacturer5
+FAST KORREKT ZUSÄTZLICH: representadve
+FAST KORREKT ZUSÄTZLICH: anvl
+FAST KORREKT ZUSÄTZLICH: 5tatss
 ZUSÄTZLICH: thazthe
 ZUSÄTZLICH: vehides
+FAST KORREKT ZUSÄTZLICH: 1
+FAST KORREKT ZUSÄTZLICH: hake
 ZUSÄTZLICH: adename
-ZUSÄTZLICH: Mznuiacarer
-ZUSÄTZLICH: Nusqvond
-ZUSÄTZLICH: Husyvun2
-ZUSÄTZLICH: Husqvrrau
+FAST KORREKT ZUSÄTZLICH: j2
+ZUSÄTZLICH: mznuiacarer
+ZUSÄTZLICH: nusqvond
+FAST KORREKT ZUSÄTZLICH: tyde
+ZUSÄTZLICH: husyvun2
+FAST KORREKT ZUSÄTZLICH: 022
+FAST KORREKT ZUSÄTZLICH: verslons
+FAST KORREKT ZUSÄTZLICH: lí
+FAST KORREKT ZUSÄTZLICH: avzlable
+ZUSÄTZLICH: husqvrrau
+FAST KORREKT ZUSÄTZLICH: superoto
+FAST KORREKT ZUSÄTZLICH: rduro
+FAST KORREKT ZUSÄTZLICH: catsgory
+FAST KORREKT ZUSÄTZLICH: subcatecory
+FAST KORREKT ZUSÄTZLICH: subsubcatecory
+FAST KORREKT ZUSÄTZLICH: vzhicle
+FAST KORREKT ZUSÄTZLICH: de
+FAST KORREKT ZUSÄTZLICH: 42
+FAST KORREKT ZUSÄTZLICH: whch
+FAST KORREKT ZUSÄTZLICH: type2pproval
+FAST KORREKT ZUSÄTZLICH: scucht
+FAST KORREKT ZUSÄTZLICH: wihstand
+FAST KORREKT ZUSÄTZLICH: normel
+FAST KORREKT ZUSÄTZLICH: inzended
+FAST KORREKT ZUSÄTZLICH: 52500km
+FAST KORREKT ZUSÄTZLICH: wlthln
 ZUSÄTZLICH: reg
 ZUSÄTZLICH: stradon
+FAST KORREKT ZUSÄTZLICH: taklne
+FAST KORREKT ZUSÄTZLICH: recular
+FAST KORREKT ZUSÄTZLICH: ma
 ZUSÄTZLICH: nvenance
+FAST KORREKT ZUSÄTZLICH: specifiz
+FAST KORREKT ZUSÄTZLICH: j5
+FAST KORREKT ZUSÄTZLICH: descrbed
+FAST KORREKT ZUSÄTZLICH: dearly
 ZUSÄTZLICH: unamb
 ZUSÄTZLICH: guously
-ZUSÄTZLICH: In
+FAST KORREKT ZUSÄTZLICH: instructlons
+FAST KORREKT ZUSÄTZLICH: dellvered
+FAST KORREKT ZUSÄTZLICH: wlth
+FAST KORREKT ZUSÄTZLICH: urthermore
 ZUSÄTZLICH: cf
-ZUSÄTZLICH: te
+FAST KORREKT ZUSÄTZLICH: te
+FAST KORREKT ZUSÄTZLICH: spatems
 ZUSÄTZLICH: eqviprent
 ZUSÄTZLICH: crifiedl
-ZUSÄTZLICH: Poropriate
+FAST KORREKT ZUSÄTZLICH: poropriate
 ZUSÄTZLICH: w1e
-ZUSÄTZLICH: D3e
+ZUSÄTZLICH: d3e
 ZUSÄTZLICH: d
-ZUSÄTZLICH: 0n1
-ZUSÄTZLICH: J7lY
-ZUSÄTZLICH: væhicle
-ZUSÄTZLICH: Mgxighofen
-ZUSÄTZLICH: Mgxighofen
-ZUSÄTZLICH: O212Z1s
-ZUSÄTZLICH: Seratlre
-ZUSÄTZLICH: Nune
+FAST KORREKT ZUSÄTZLICH: hus
+FAST KORREKT ZUSÄTZLICH: 0n1
+ZUSÄTZLICH: j7ly
+FAST KORREKT ZUSÄTZLICH: væhicle
+FAST KORREKT ZUSÄTZLICH: pluce
+ZUSÄTZLICH: mgxighofen
+FAST KORREKT ZUSÄTZLICH: pluce
+ZUSÄTZLICH: mgxighofen
+ZUSÄTZLICH: o212z1s
+ZUSÄTZLICH: seratlre
+ZUSÄTZLICH: nune
+FAST KORREKT ZUSÄTZLICH: erdh
 ZUSÄTZLICH: image
-ZUSÄTZLICH: Kenn
-ZUSÄTZLICH: Teurlecder
+FAST KORREKT ZUSÄTZLICH: variantos
+FAST KORREKT ZUSÄTZLICH: erdh
+ZUSÄTZLICH: kenn
+ZUSÄTZLICH: teurlecder
 ZUSÄTZLICH: hornviogution
-ZUSÄTZLICH: aG
-ZUSÄTZLICH: Stolitghncrstrole
-ZUSÄTZLICH: J
-ZUSÄTZLICH: Mohphofen
-ZUSÄTZLICH: FLAL
-ZUSÄTZLICH: vc
+ZUSÄTZLICH: stolitghncrstrole
+ZUSÄTZLICH: j
+FAST KORREKT ZUSÄTZLICH: a52j0
+ZUSÄTZLICH: mohphofen
+ZUSÄTZLICH: flal
+FAST KORREKT ZUSÄTZLICH: vc
 ZUSÄTZLICH: 05
-Durchlauf 2:
-FAST KORREKT: Prüfbericht
-KORREKT: Test
+Durchlauf 2:FAST KORREKT FEHLEND: prüfbericht
+KORREKT: test
 KORREKT: report
-KORREKT: Übereinstimmungs
+KORREKT: übereinstimmungs
 KORREKT: und
-KORREKT: Anbauprüfungen
+KORREKT: anbauprüfungen
 KORREKT: gemäß
-KORREKT: Artikel
+KORREKT: artikel
 KORREKT: 44
-KORREKT: Compliance
+KORREKT: compliance
 KORREKT: and
 KORREKT: mounting
 KORREKT: tests
 KORREKT: referred
 KORREKT: to
 KORREKT: in
-KORREKT: Article
+KORREKT: article
 KORREKT: 44
-KORREKT: VOEU
+KORREKT: voeu
 KORREKT: 2018858
 KORREKT: zuletzt
 KORREKT: geändert
@@ -963,120 +1075,137 @@ KORREKT: durch
 KORREKT: last
 KORREKT: amended
 KORREKT: by
-FAST KORREKT: Genehmigungsgegenstand
-KORREKT: Subject
+FAST KORREKT FEHLEND: genehmigungsgegenstand
+KORREKT: subject
 KORREKT: of
 KORREKT: approval
-FAST KORREKT: EUFahrzeugEinzelgenehmigung
-KORREKT: EU
+FAST KORREKT FEHLEND: eufahrzeugeinzelgenehmigung
+KORREKT: eu
 KORREKT: individual
-FAST KORREKT: vehicle
+FAST KORREKT FEHLEND: vehicle
 KORREKT: approval
-FAST KORREKT: Prüffundlage
-KORREKT: Test
+FAST KORREKT FEHLEND: prüffundlage
+KORREKT: test
 KORREKT: basis
-KORREKT: Anhang
-KORREKT: II
-KORREKT: Teil
-KORREKT: I
-KORREKT: Anlage
+KORREKT: anhang
+KORREKT: ii
+KORREKT: teil
+KORREKT: i
+KORREKT: anlage
 KORREKT: 2
-FAST KORREKT: Appendix
+FAST KORREKT FEHLEND: appendix
 KORREKT: 2
 KORREKT: to
-FAST KORREKT: Part
-KORREKT: I
+FAST KORREKT FEHLEND: part
+KORREKT: i
 KORREKT: of
-FAST KORREKT: Annex
-KORREKT: II
-KORREKT: Name
+FAST KORREKT FEHLEND: annex
+KORREKT: ii
+KORREKT: name
 KORREKT: und
-KORREKT: Anschrift
+KORREKT: anschrift
 KORREKT: des
-KORREKT: Auftraggebers
-KORREKT: Name
+KORREKT: auftraggebers
+KORREKT: name
 KORREKT: and
 KORREKT: address
 KORREKT: of
 KORREKT: the
 KORREKT: client
-FEHLT: INDIMO
-KORREKT: Automotive
-FAST KORREKT: GmbH
-FAST KORREKT: Bruchwiesenstr
+FEHLT: indimo
+KORREKT: automotive
+FAST KORREKT FEHLEND: gmbh
+FAST KORREKT FEHLEND: bruchwiesenstr
 KORREKT: 30
 KORREKT: 66849
-FAST KORREKT: Landstuhl
-KORREKT: Name
+FAST KORREKT FEHLEND: landstuhl
+KORREKT: name
 KORREKT: und
-KORREKT: Anschrift
+KORREKT: anschrift
 KORREKT: des
-KORREKT: Herstellers
-KORREKT: Name
+KORREKT: herstellers
+KORREKT: name
 KORREKT: and
 KORREKT: address
 KORREKT: of
 KORREKT: the
 KORREKT: manufacturer
-FAST KORREKT: DFSK
-FAST KORREKT: MOTOR
-FAST KORREKT: CO
-FAST KORREKT: LTD
-KORREKT: No1
-FAST KORREKT: Donghuan
-KORREKT: Road
-KORREKT: Shiyan
-KORREKT: City
-FAST KORREKT: Hubei
-KORREKT: Province
-KORREKT: China
-KORREKT: Typ
-KORREKT: Type
-FEHLT: FENGON500MT
-KORREKT: Fertigungsstand
-KORREKT: Production
+FAST KORREKT FEHLEND: dfsk
+FAST KORREKT FEHLEND: motor
+KORREKT: co
+FAST KORREKT FEHLEND: ltd
+KORREKT: no1
+FAST KORREKT FEHLEND: donghuan
+KORREKT: road
+KORREKT: shiyan
+KORREKT: city
+FAST KORREKT FEHLEND: hubei
+KORREKT: province
+KORREKT: china
+KORREKT: typ
+KORREKT: type
+FEHLT: fengon500mt
+KORREKT: fertigungsstand
+KORREKT: production
 KORREKT: status
 FEHLT: vollständiges
-FAST KORREKT: Fahrzeug
-FAST KORREKT: Complete
-KORREKT: Stufe
-KORREKT: Stage
-ZUSÄTZLICH: Nane
-ZUSÄTZLICH: IlDN
-ZUSÄTZLICH: Nane
-ZUSÄTZLICH: Co
-ZUSÄTZLICH: FENCONSOOHI
+FAST KORREKT FEHLEND: fahrzeug
+FAST KORREKT FEHLEND: complete
+KORREKT: stufe
+KORREKT: stage
+FAST KORREKT ZUSÄTZLICH: priifbericht
+FAST KORREKT ZUSÄTZLICH: genehnigungsgegenstand
+FAST KORREKT ZUSÄTZLICH: eufahrzeugbinzelgenehigung
+FAST KORREKT ZUSÄTZLICH: tehicle
+FAST KORREKT ZUSÄTZLICH: prüfgrundlage
+FAST KORREKT ZUSÄTZLICH: aperdix
+FAST KORREKT ZUSÄTZLICH: fart
+ZUSÄTZLICH: cf
+FAST KORREKT ZUSÄTZLICH: znzex
+ZUSÄTZLICH: nane
+ZUSÄTZLICH: ildn
+FAST KORREKT ZUSÄTZLICH: gobh
+FAST KORREKT ZUSÄTZLICH: bruchwiegenatr
+FAST KORREKT ZUSÄTZLICH: landsthl
+ZUSÄTZLICH: nane
+FAST KORREKT ZUSÄTZLICH: desk
+FAST KORREKT ZUSÄTZLICH: koior
+FAST KORREKT ZUSÄTZLICH: lid
+FAST KORREKT ZUSÄTZLICH: dongbuan
+FAST KORREKT ZUSÄTZLICH: elbei
+ZUSÄTZLICH: fenconsoohi
 ZUSÄTZLICH: vollstindijeg
-Durchlauf 4:
-KORREKT: Anlage
+FAST KORREKT ZUSÄTZLICH: falrzeug
+FAST KORREKT ZUSÄTZLICH: coxlete
+Durchlauf 4:KORREKT: anlage
 KORREKT: 1
-KORREKT: Enclosure
+KORREKT: enclosure
 KORREKT: 1
-KORREKT: Zum
-FAST KORREKT: EGTypgenehmigungsbogen
-KORREKT: Nr
-FAST KORREKT: e1200746035619
-KORREKT: To
-FEHLT: EC
-FAST KORREKT: type
+KORREKT: zum
+FAST KORREKT FEHLEND: egtypgenehmigungsbogen
+KORREKT: nr
+FAST KORREKT FEHLEND: e1200746035619
+KORREKT: to
+FEHLT: ec
+FAST KORREKT FEHLEND: type
 KORREKT: approval
 KORREKT: certificate
-KORREKT: No
-KORREKT: Inhaltsverzeichnis
+KORREKT: no
+KORREKT: inhaltsverzeichnis
 KORREKT: zu
 KORREKT: den
-KORREKT: Beschreibungsunterlagen
-KORREKT: Index
+KORREKT: beschreibungsunterlagen
+KORREKT: index
 KORREKT: to
 KORREKT: the
-FAST KORREKT: information
+KORREKT: information
 KORREKT: package
-KORREKT: Ausgabedatum
+KORREKT: ausgabedatum
 KORREKT: 04032010
 KORREKT: letztes
-KORREKT: Änderungsdatum
+KORREKT: änderungsdatum
 KORREKT: 07012020
-KORREKT: Date
+KORREKT: date
 KORREKT: of
 KORREKT: issue
 KORREKT: last
@@ -1084,51 +1213,51 @@ KORREKT: date
 KORREKT: of
 KORREKT: amendment
 KORREKT: 1
-KORREKT: Nebenbestimmungen
+KORREKT: nebenbestimmungen
 KORREKT: und
-KORREKT: Rechtsbehelfsbelehrung
-KORREKT: Collateral
+KORREKT: rechtsbehelfsbelehrung
+KORREKT: collateral
 KORREKT: clauses
 KORREKT: and
-FAST KORREKT: instruction
+FAST KORREKT FEHLEND: instruction
 KORREKT: on
-FAST KORREKT: right
+FAST KORREKT FEHLEND: right
 KORREKT: to
 KORREKT: appeal
 KORREKT: 2
-FAST KORREKT: Beschreibungsbogen
-KORREKT: Nr
-FAST KORREKT: Datum
-KORREKT: Information
+FAST KORREKT FEHLEND: beschreibungsbogen
+KORREKT: nr
+FAST KORREKT FEHLEND: datum
+KORREKT: information
 KORREKT: document
-KORREKT: No
-KORREKT: Date
+KORREKT: no
+KORREKT: date
 KORREKT: 099
-KORREKT: 2H
+KORREKT: 2h
 KORREKT: 11012010
 KORREKT: letztes
-KORREKT: Änderungsdatum
+KORREKT: änderungsdatum
 KORREKT: 29112019
 KORREKT: last
 KORREKT: date
 KORREKT: of
-FEHLT: Amendment
-FAST KORREKT: Gültige
-KORREKT: Seiten
-KORREKT: Valid
+KORREKT: amendment
+FAST KORREKT FEHLEND: gültige
+KORREKT: seiten
+KORREKT: valid
 KORREKT: pages
-FAST KORREKT: Datum
-KORREKT: Date
+FAST KORREKT FEHLEND: datum
+KORREKT: date
 KORREKT: 152
 KORREKT: 29112019
 KORREKT: 3
-KORREKT: Prüfbericht
+KORREKT: prüfbericht
 KORREKT: e
-KORREKT: Nr
-KORREKT: Test
+KORREKT: nr
+KORREKT: test
 KORREKT: report
 KORREKT: s
-KORREKT: No
+KORREKT: no
 KORREKT: 8106334607
 KORREKT: 19022010
 KORREKT: 8106705343
@@ -1175,141 +1304,157 @@ KORREKT: 8116302339
 KORREKT: 09072019
 KORREKT: 8116302432
 KORREKT: 20122019
-ZUSÄTZLICH: Datun
-ZUSÄTZLICH: Datun
-Durchlauf 1:
-KORREKT: KraftfahrtBundesamt
-KORREKT: DE24932
-KORREKT: Flensburg
-KORREKT: EUFAHRZEUGEINZELGENEHMIGUNGSBOGEN
-KORREKT: EU
-KORREKT: INDIVIDUAL
-KORREKT: VEHICLE
-KORREKT: APPROVAL
-KORREKT: CERTIFICATE
+FAST KORREKT ZUSÄTZLICH: egtypgenehmiqungsbogen
+FAST KORREKT ZUSÄTZLICH: nre1200746035619
+FAST KORREKT ZUSÄTZLICH: ectype
+ZUSÄTZLICH: infornation
+FAST KORREKT ZUSÄTZLICH: instuction
+FAST KORREKT ZUSÄTZLICH: rght
+FAST KORREKT ZUSÄTZLICH: beschreibungshogen
+FAST KORREKT ZUSÄTZLICH: datuni
+FAST KORREKT ZUSÄTZLICH: gultige
+FAST KORREKT ZUSÄTZLICH: datun
+FAST KORREKT ZUSÄTZLICH: datun
+Durchlauf 1:KORREKT: kraftfahrtbundesamt
+KORREKT: de24932
+KORREKT: flensburg
+KORREKT: eufahrzeugeinzelgenehmigungsbogen
+KORREKT: eu
+KORREKT: individual
+KORREKT: vehicle
+KORREKT: approval
+KORREKT: certificate
 KORREKT: e1
-FEHLT: KraftfährtBundesamt
-KORREKT: KBA
-KORREKT: DE24932
-KORREKT: Flensburg
-KORREKT: Telefon
-KORREKT: Phone
+FEHLT: kraftfährtbundesamt
+KORREKT: kba
+KORREKT: de24932
+KORREKT: flensburg
+KORREKT: telefon
+KORREKT: phone
 FEHLT: 49
-FAST KORREKT: 461
-FAST KORREKT: 316
+FAST KORREKT FEHLEND: 461
+FAST KORREKT FEHLEND: 316
 FEHLT: 0
-KORREKT: EMail
-KORREKT: Email
-KORREKT: EUFEGkbade
-KORREKT: Mitteilung
+KORREKT: email
+KORREKT: email
+KORREKT: eufegkbade
+KORREKT: mitteilung
 KORREKT: über
 KORREKT: die
-KORREKT: Erteilung
+KORREKT: erteilung
 KORREKT: einer
-FAST KORREKT: EUFahrzeugEinzelgenehmigung
+FAST KORREKT FEHLEND: eufahrzeugeinzelgenehmigung
 KORREKT: nach
-KORREKT: Artikel
+KORREKT: artikel
 KORREKT: 44
 KORREKT: der
-KORREKT: Verordnung
-KORREKT: EU
+KORREKT: verordnung
+KORREKT: eu
 KORREKT: 2018858
-KORREKT: Communication
-FAST KORREKT: concerning
+KORREKT: communication
+FAST KORREKT FEHLEND: concerning
 KORREKT: granting
 KORREKT: of
 KORREKT: of
-KORREKT: EU
+KORREKT: eu
 KORREKT: individual
 KORREKT: vehicle
 KORREKT: approval
 KORREKT: in
 KORREKT: accordance
 KORREKT: with
-KORREKT: Article
+KORREKT: article
 KORREKT: 44
 KORREKT: of
-KORREKT: Regulation
-KORREKT: EU
+KORREKT: regulation
+KORREKT: eu
 KORREKT: 2018858
-KORREKT: Nummer
+KORREKT: nummer
 KORREKT: des
-FAST KORREKT: EUFahrzeugEinzelgenehmigungsbogens
-FEHLT: e1IV18858DE0435
-KORREKT: Number
+FAST KORREKT FEHLEND: eufahrzeugeinzelgenehmigungsbogens
+FAST KORREKT FEHLEND: e1iv18858de0435
+KORREKT: number
 KORREKT: of
 KORREKT: the
-KORREKT: EU
+KORREKT: eu
 KORREKT: individual
 KORREKT: vehicle
 KORREKT: approval
 KORREKT: certificate
-KORREKT: Grund
+KORREKT: grund
 KORREKT: für
 KORREKT: die
-FEHLT: VersagungRücknahme
-KORREKT: Reason
+FEHLT: versagungrücknahme
+KORREKT: reason
 KORREKT: for
 FEHLT: refusalwithdrawal
-KORREKT: Entfällt
-KORREKT: Not
+KORREKT: entfällt
+KORREKT: not
 KORREKT: applicable
-KORREKT: ABSCHNITT
-FEHLT: I
-KORREKT: SECTION
-FEHLT: I
-KORREKT: Der
-KORREKT: Unterzeichnete
-KORREKT: Herr
-KORREKT: Lorenzen
-FAST KORREKT: bestätigt
+KORREKT: abschnitt
+FEHLT: i
+KORREKT: section
+FEHLT: i
+KORREKT: der
+KORREKT: unterzeichnete
+KORREKT: herr
+KORREKT: lorenzen
+FAST KORREKT FEHLEND: bestätigt
 KORREKT: hiermit
 KORREKT: dass
 KORREKT: das
-FAST KORREKT: Fahrzeug
-KORREKT: The
+FAST KORREKT FEHLEND: fahrzeug
+KORREKT: the
 KORREKT: undersigned
-KORREKT: Mr
-KORREKT: Lorenzen
+KORREKT: mr
+KORREKT: lorenzen
 KORREKT: hereby
 KORREKT: certifies
 KORREKT: that
 KORREKT: the
 KORREKT: vehicle
 KORREKT: 01
-KORREKT: Fabrikmarke
-FAST KORREKT: Firmenname
+KORREKT: fabrikmarke
+FAST KORREKT FEHLEND: firmenname
 KORREKT: des
-KORREKT: Herstellers
-KORREKT: Make
+KORREKT: herstellers
+KORREKT: make
 KORREKT: trade
 KORREKT: name
 KORREKT: of
-FAST KORREKT: manufacturer
-KORREKT: DFSK
+KORREKT: manufacturer
+KORREKT: dfsk
 KORREKT: 02
-KORREKT: Typ
-KORREKT: Type
-FEHLT: FENGON500MT
-KORREKT: Variante
-KORREKT: Variant
-FEHLT: DXK7150KDH
-KORREKT: Version
-KORREKT: Version
-KORREKT: Entfällt
-KORREKT: Not
+KORREKT: typ
+KORREKT: type
+FEHLT: fengon500mt
+KORREKT: variante
+KORREKT: variant
+FEHLT: dxk7150kdh
+KORREKT: version
+KORREKT: version
+KORREKT: entfällt
+KORREKT: not
 KORREKT: applicable
 KORREKT: 021
-KORREKT: Handelsbezeichnungen
-KORREKT: Commercial
+KORREKT: handelsbezeichnungen
+KORREKT: commercial
 KORREKT: names
-KORREKT: FENGON
+KORREKT: fengon
 KORREKT: 500
-ZUSÄTZLICH: e11v18858DEO435
-ZUSÄTZLICH: Versagung
-ZUSÄTZLICH: Rucknahme
+FAST KORREKT ZUSÄTZLICH: 49461
+FAST KORREKT ZUSÄTZLICH: 3160
+FAST KORREKT ZUSÄTZLICH: eufahizeugeinzelgenehmigung
+FAST KORREKT ZUSÄTZLICH: conceming
+FAST KORREKT ZUSÄTZLICH: eufahzeugeinzelgenehmigungsbogens
+FAST KORREKT ZUSÄTZLICH: e11v18858deo435
+ZUSÄTZLICH: versagung
+ZUSÄTZLICH: rucknahme
 ZUSÄTZLICH: refusal
 ZUSÄTZLICH: withdrawal
-ZUSÄTZLICH: FENGONSOOMT
-ZUSÄTZLICH: FENGONSOOMT
-ZUSÄTZLICH: DXKTISOKDH
+FAST KORREKT ZUSÄTZLICH: beststigt
+FAST KORREKT ZUSÄTZLICH: fahizeug
+FAST KORREKT ZUSÄTZLICH: firnenname
+ZUSÄTZLICH: fengonsoomt
+ZUSÄTZLICH: fengonsoomt
+ZUSÄTZLICH: dxktisokdh
