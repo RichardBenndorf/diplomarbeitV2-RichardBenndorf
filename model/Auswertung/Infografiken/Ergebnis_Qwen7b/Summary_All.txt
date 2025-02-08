@@ -2,43 +2,43 @@ Durchlauf 7:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 299
-- Korrekte Zeichen: 275
-- Fehlende Zeichen: 24
-- Zusätzliche Zeichen: 1
-- Character Error Rate (CER): 0.0836
+- Gesamtzeichen: 277
+- Korrekte Zeichen: 272
+- Fehlende Zeichen: 5
+- Zusätzliche Zeichen: 4
+- Character Error Rate (CER): 0.0325
 
 Wortbasierte Metriken:
-- Gesamtwörter: 41
-- Korrekt erkannte Wörter: 36
-- Fehlende Wörter: 5
+- Gesamtwörter: 39
+- Korrekt erkannte Wörter: 37
+- Fehlende Wörter: 2
 - Zusätzliche Wörter: 6
-- Fast korrekt fehlend: 3
-- Fast korrekt zusätzlich: 5
-- WER: 0.2683
-- Erweiterter WER: 0.0732
+- Fast korrekt fehlend: 2
+- Fast korrekt zusätzlich: 2
+- WER: 0.2051
+- Erweiterter WER: 0.1026
 
 Semantische Metriken:
-- Cosine Similarity: 0.8111
+- Cosine Similarity: 0.8918
 - BLEU Score: 0.7477
 
 Weitere Metriken:
-- Precision: 0.8571
-- Precision erweitert: 0.9730
-- Recall: 0.8780
-- Recall erweitert: 0.9474
-- F1-Score: 0.8675
-- F1-Score erweitert: 0.9600
+- Precision: 0.8605
+- Precision erweitert: 0.9024
+- Recall: 0.9487
+- Recall erweitert: 1.0000
+- F1-Score: 0.9024
+- F1-Score erweitert: 0.9487
 
 Durchlauf 5:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 269
-- Korrekte Zeichen: 266
+- Gesamtzeichen: 257
+- Korrekte Zeichen: 254
 - Fehlende Zeichen: 3
-- Zusätzliche Zeichen: 16
-- Character Error Rate (CER): 0.0706
+- Zusätzliche Zeichen: 3
+- Character Error Rate (CER): 0.0233
 
 Wortbasierte Metriken:
 - Gesamtwörter: 47
@@ -66,11 +66,11 @@ Durchlauf 6:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 98
-- Korrekte Zeichen: 97
+- Gesamtzeichen: 92
+- Korrekte Zeichen: 91
 - Fehlende Zeichen: 1
 - Zusätzliche Zeichen: 0
-- Character Error Rate (CER): 0.0102
+- Character Error Rate (CER): 0.0109
 
 Wortbasierte Metriken:
 - Gesamtwörter: 13
@@ -98,11 +98,11 @@ Durchlauf 8:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 542
-- Korrekte Zeichen: 510
-- Fehlende Zeichen: 32
-- Zusätzliche Zeichen: 33
-- Character Error Rate (CER): 0.1199
+- Gesamtzeichen: 521
+- Korrekte Zeichen: 504
+- Fehlende Zeichen: 17
+- Zusätzliche Zeichen: 34
+- Character Error Rate (CER): 0.0979
 
 Wortbasierte Metriken:
 - Gesamtwörter: 88
@@ -130,11 +130,11 @@ Durchlauf 3:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 414
-- Korrekte Zeichen: 392
-- Fehlende Zeichen: 22
+- Gesamtzeichen: 395
+- Korrekte Zeichen: 372
+- Fehlende Zeichen: 23
 - Zusätzliche Zeichen: 0
-- Character Error Rate (CER): 0.0531
+- Character Error Rate (CER): 0.0582
 
 Wortbasierte Metriken:
 - Gesamtwörter: 60
@@ -162,11 +162,11 @@ Durchlauf 2:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 300
-- Korrekte Zeichen: 253
-- Fehlende Zeichen: 47
+- Gesamtzeichen: 284
+- Korrekte Zeichen: 236
+- Fehlende Zeichen: 48
 - Zusätzliche Zeichen: 0
-- Character Error Rate (CER): 0.1567
+- Character Error Rate (CER): 0.1690
 
 Wortbasierte Metriken:
 - Gesamtwörter: 49
@@ -194,11 +194,11 @@ Durchlauf 4:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 252
-- Korrekte Zeichen: 229
-- Fehlende Zeichen: 23
+- Gesamtzeichen: 235
+- Korrekte Zeichen: 227
+- Fehlende Zeichen: 8
 - Zusätzliche Zeichen: 0
-- Character Error Rate (CER): 0.0913
+- Character Error Rate (CER): 0.0340
 
 Wortbasierte Metriken:
 - Gesamtwörter: 32
@@ -226,11 +226,11 @@ Durchlauf 1:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 547
-- Korrekte Zeichen: 546
+- Gesamtzeichen: 519
+- Korrekte Zeichen: 518
 - Fehlende Zeichen: 1
-- Zusätzliche Zeichen: 141
-- Character Error Rate (CER): 0.2596
+- Zusätzliche Zeichen: 124
+- Character Error Rate (CER): 0.2408
 
 Wortbasierte Metriken:
 - Gesamtwörter: 79

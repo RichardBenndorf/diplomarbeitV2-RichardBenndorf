@@ -1,7 +1,7 @@
 Durchlauf 7:KORREKT: kuehlwasserausgang
 FEHLT: coolant
 FEHLT: outlet
-FAST KORREKT FEHLEND: kuehlwanereingang
+KORREKT: kuehlwassereingang
 FEHLT: coolant
 FEHLT: inlet
 FEHLT: adblue
@@ -30,16 +30,13 @@ FEHLT: bei
 FEHLT: 2500
 FEHLT: umin
 FEHLT: gegen
-FEHLT: 10
-FEHLT: bar
+FEHLT: 10bar
 FEHLT: flow
 FEHLT: rate
 FEHLT: at
 FEHLT: 2500rpm
 FEHLT: toward
-FEHLT: 10
-FEHLT: bar
-FAST KORREKT ZUSÄTZLICH: kuehlwassereingang
+FEHLT: 10bar
 ZUSÄTZLICH: coolantoutlet
 ZUSÄTZLICH: coolantinlet
 ZUSÄTZLICH: adblueausgang

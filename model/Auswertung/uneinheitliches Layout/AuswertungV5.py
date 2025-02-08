@@ -8,8 +8,10 @@ from nltk.metrics import edit_distance
 from nltk.translate.bleu_score import sentence_bleu
 
 def clean_text(text):
-    """Bereinigt den Text und wandelt ihn in Kleinbuchstaben um."""
-    return re.sub(r'[^\w\s]', '', text).lower()
+    """Bereinigt den Text, entfernt Sonderzeichen und korrigiert Leerzeichen."""
+    text = re.sub(r'[^\w\s]', '', text).lower()  # Entfernt Sonderzeichen
+    return " ".join(text.split()).strip()  # Entfernt doppelte Leerzeichen & Trim
+
 
 def cosine_similarity(text1, text2):
     """Berechnet die Cosine Similarity zwischen zwei Texten."""
@@ -225,7 +227,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/uneinheitliches Layout",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/Llama/uneinheitliches Layout",
-    output_directory="Ergebnis_Llama",
-    excel_path="Ergebnis_Llama/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen7b/uneinheitliches Layout",
+    output_directory="Ergebnis_Qwen7b",
+    excel_path="Ergebnis_Qwen7b/results.xlsx"
 )

@@ -1,0 +1,20 @@
+
+**Statement of conformity / Schlussbescheinigung:**
+
+The information folder as mentioned under No. 2.2 and the type described therein are in accordance with the requirements of the standard mentioned under Nr. 2.2 angegebene Beschreibung des Typs entsprechen der oben aufgeführten Prüfgrundlage.
+
+Die unter Nr. 2.2 angegebene Beschreibung des Typs entspricht den relevanten Anforderungen der Prüfgrundlage.
+
+The tests were carried out in accordance to the relevant requirements of the [ISO/IEC 17025:2005] and [ISO/IEC 17020:2012].
+
+No. KBA - P 00084 - 10
+
+No. 99050064
+
+---
+
+**Stefan van Husen**  
+Nov 30, 2015
+
+**Conformity check**  
+Michael Juschkat

@@ -1,0 +1,25 @@
+
+3.2.12.7.2
+On-Board-Diagnosetests (OBD-System) (Anbindung)
+On-board diagnostic (OBD) system (yes/no):
+ja
+x
+3.2.12.7.2
+Andere Einrichtung:
+ja/nein
+Torque limiter: yes/no
+enthalt
+3.2.12.8
+Angaben über das regenerative System: (machende Angaben sind für jede selbständige Einheit einzufügen)
+enthalt
+3.2.12.9
+Andere Einrichtung zur Regenerierung, Beschreibung:
+discontinuous regeneration
+Not und Konzentration des regenerativen Systems:
+3.2.12.11.1
+UREA: Konzentration gemäß ISO 22241-1
+(Aktivierung Warnsystem außerhalb Konzentrationsbereich 2,5 – 46 Gew.-% Harnstoff)
+(Abweichung Warnsystem außerhalb Konzentrationsbereich range from 2.5% to 46% urea)
+3.2.12.11.2
+Einstellen des Systems für den Absorptionskoeffizienten (nur bei Selbsttändigkeit):
+Landung of the absorption coefficient symbol (compliance with the vehicle plate opt. on the vehicle plate)

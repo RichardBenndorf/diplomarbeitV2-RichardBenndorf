@@ -1,7 +1,7 @@
 Durchlauf 7:FEHLT: kuehlwasserausgang
 KORREKT: coolant
 KORREKT: outlet
-FEHLT: kuehlwanereingang
+FEHLT: kuehlwassereingang
 KORREKT: coolant
 KORREKT: inlet
 KORREKT: adblue
@@ -30,21 +30,19 @@ KORREKT: bei
 KORREKT: 2500
 FAST KORREKT FEHLEND: umin
 FEHLT: gegen
-FAST KORREKT FEHLEND: 10
-KORREKT: bar
+KORREKT: 10bar
 KORREKT: flow
 KORREKT: rate
 KORREKT: at
 FEHLT: 2500rpm
 KORREKT: toward
-FAST KORREKT FEHLEND: 10
-KORREKT: bar
+KORREKT: 10bar
 ZUSÄTZLICH: vorsorgeeinheit
 FAST KORREKT ZUSÄTZLICH: durchfluss
 FAST KORREKT ZUSÄTZLICH: mlmin
-FAST KORREKT ZUSÄTZLICH: 1
+ZUSÄTZLICH: 1
+ZUSÄTZLICH: bar
 ZUSÄTZLICH: rpm
-ZUSÄTZLICH: 10bar
 Durchlauf 5:KORREKT: note
 KORREKT: steering
 KORREKT: angle

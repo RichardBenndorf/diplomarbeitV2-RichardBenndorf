@@ -2,11 +2,11 @@ Durchlauf 7:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 1074
-- Korrekte Zeichen: 1034
-- Fehlende Zeichen: 40
-- Zusätzliche Zeichen: 16
-- Character Error Rate (CER): 0.0521
+- Gesamtzeichen: 1040
+- Korrekte Zeichen: 1018
+- Fehlende Zeichen: 22
+- Zusätzliche Zeichen: 10
+- Character Error Rate (CER): 0.0308
 
 Wortbasierte Metriken:
 - Gesamtwörter: 151
@@ -34,11 +34,11 @@ Durchlauf 5:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 1275
-- Korrekte Zeichen: 1272
+- Gesamtzeichen: 1259
+- Korrekte Zeichen: 1256
 - Fehlende Zeichen: 3
-- Zusätzliche Zeichen: 85
-- Character Error Rate (CER): 0.0690
+- Zusätzliche Zeichen: 82
+- Character Error Rate (CER): 0.0675
 
 Wortbasierte Metriken:
 - Gesamtwörter: 154
@@ -66,11 +66,11 @@ Durchlauf 6:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 2048
-- Korrekte Zeichen: 778
-- Fehlende Zeichen: 1270
+- Gesamtzeichen: 2004
+- Korrekte Zeichen: 752
+- Fehlende Zeichen: 1252
 - Zusätzliche Zeichen: 0
-- Character Error Rate (CER): 0.6201
+- Character Error Rate (CER): 0.6248
 
 Wortbasierte Metriken:
 - Gesamtwörter: 324
@@ -98,11 +98,11 @@ Durchlauf 8:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 357
-- Korrekte Zeichen: 302
+- Gesamtzeichen: 347
+- Korrekte Zeichen: 292
 - Fehlende Zeichen: 55
-- Zusätzliche Zeichen: 5
-- Character Error Rate (CER): 0.1681
+- Zusätzliche Zeichen: 0
+- Character Error Rate (CER): 0.1585
 
 Wortbasierte Metriken:
 - Gesamtwörter: 42
@@ -130,11 +130,11 @@ Durchlauf 3:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 1369
-- Korrekte Zeichen: 1161
-- Fehlende Zeichen: 208
-- Zusätzliche Zeichen: 18
-- Character Error Rate (CER): 0.1651
+- Gesamtzeichen: 1256
+- Korrekte Zeichen: 1149
+- Fehlende Zeichen: 107
+- Zusätzliche Zeichen: 0
+- Character Error Rate (CER): 0.0852
 
 Wortbasierte Metriken:
 - Gesamtwörter: 184
@@ -162,11 +162,11 @@ Durchlauf 2:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 755
-- Korrekte Zeichen: 749
-- Fehlende Zeichen: 6
-- Zusätzliche Zeichen: 22
-- Character Error Rate (CER): 0.0371
+- Gesamtzeichen: 734
+- Korrekte Zeichen: 730
+- Fehlende Zeichen: 4
+- Zusätzliche Zeichen: 5
+- Character Error Rate (CER): 0.0123
 
 Wortbasierte Metriken:
 - Gesamtwörter: 104
@@ -194,11 +194,11 @@ Durchlauf 4:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 1135
-- Korrekte Zeichen: 794
-- Fehlende Zeichen: 341
-- Zusätzliche Zeichen: 49
-- Character Error Rate (CER): 0.3436
+- Gesamtzeichen: 1052
+- Korrekte Zeichen: 786
+- Fehlende Zeichen: 266
+- Zusätzliche Zeichen: 6
+- Character Error Rate (CER): 0.2586
 
 Wortbasierte Metriken:
 - Gesamtwörter: 127
@@ -226,11 +226,11 @@ Durchlauf 1:
 Zusammenfassung der Metriken:
 --------------------------------
 Zeichenbasierte Metriken:
-- Gesamtzeichen: 1071
-- Korrekte Zeichen: 987
-- Fehlende Zeichen: 84
-- Zusätzliche Zeichen: 24
-- Character Error Rate (CER): 0.1008
+- Gesamtzeichen: 1023
+- Korrekte Zeichen: 977
+- Fehlende Zeichen: 46
+- Zusätzliche Zeichen: 0
+- Character Error Rate (CER): 0.0450
 
 Wortbasierte Metriken:
 - Gesamtwörter: 127
