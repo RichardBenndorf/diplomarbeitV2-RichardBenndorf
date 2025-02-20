@@ -137,7 +137,7 @@ KORREKT: beschreibung
 KORREKT: der
 FEHLT: zugmaschine
 KORREKT: 35
-FAST KORREKT FEHLEND: ps
+FEHLT: ps
 FEHLT: bulldog
 FEHLT: ackerschlepper
 FEHLT: ausführung
@@ -147,22 +147,22 @@ KORREKT: und
 KORREKT: b
 KORREKT: der
 KORREKT: 35
-FAST KORREKT FEHLEND: ps
+FEHLT: ps
 FEHLT: ackerbulldog
 KORREKT: wird
 KORREKT: in
 FEHLT: zwei
 FEHLT: ausführungen
 FEHLT: hergestellt
-FAST KORREKT FEHLEND: 1
+FEHLT: 1
 FEHLT: normalausführung
-FAST KORREKT FEHLEND: d
+FEHLT: d
 FAST KORREKT FEHLEND: 8506
 KORREKT: a
 KORREKT: der
 KORREKT: schlepper
 FEHLT: besitzt
-FAST KORREKT FEHLEND: 6
+FEHLT: 6
 FEHLT: getriebsgänge
 FEHLT: vorwärts
 KORREKT: und
@@ -171,15 +171,15 @@ FEHLT: rückwärtsgänge
 KORREKT: mit
 KORREKT: 2
 FEHLT: schalthebeln
-FAST KORREKT FEHLEND: da
-FAST KORREKT FEHLEND: die
+FEHLT: da
+FEHLT: die
 FEHLT: fahrgeschwindigkeit
-FAST KORREKT FEHLEND: 18
-FAST KORREKT FEHLEND: km
+FEHLT: 18
+FEHLT: km
 FEHLT: beträgt
-FAST KORREKT FEHLEND: ist
-FAST KORREKT FEHLEND: eran
-FAST KORREKT FEHLEND: den
+FEHLT: ist
+FEHLT: eran
+FEHLT: den
 FEHLT: vorder
 KORREKT: und
 FEHLT: hinterräder
@@ -195,13 +195,13 @@ FEHLT: feststellbare
 FEHLT: getriebehandbremse
 KORREKT: der
 FEHLT: motor
-FAST KORREKT FEHLEND: ist
+FEHLT: ist
 FEHLT: ein
 FEHLT: zweifaktglühkopfmotor
 KORREKT: mit
 FEHLT: elektrischer
 FEHLT: anlaßfzündung
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: ingangsetzung
 FEHLT: erfolgt
 FEHLT: durch
@@ -210,13 +210,13 @@ FEHLT: mittels
 FEHLT: handrad
 FEHLT: das
 FEHLT: abnehmbar
-FAST KORREKT FEHLEND: am
+FEHLT: am
 FEHLT: lenkstock
 FEHLT: angeordnet
-FAST KORREKT FEHLEND: ist
-FAST KORREKT FEHLEND: die
+FEHLT: ist
+FEHLT: die
 FEHLT: kühlung
-FAST KORREKT FEHLEND: des
+FEHLT: des
 FEHLT: motors
 FEHLT: geschieht
 FEHLT: durch
@@ -224,7 +224,7 @@ FEHLT: thermosiphonwasser
 FEHLT: umlaufkühlung
 KORREKT: und
 FEHLT: windflügel
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: kraftübertragung
 FEHLT: erfolgt
 FEHLT: durch
@@ -232,7 +232,7 @@ FAST KORREKT FEHLEND: eine
 FEHLT: mehrscheibenkupplung
 FEHLT: das
 FEHLT: schmierung
-FAST KORREKT FEHLEND: ist
+FEHLT: ist
 FAST KORREKT FEHLEND: eine
 FEHLT: frischölumlaufschmierung
 KORREKT: der
@@ -240,27 +240,27 @@ KORREKT: schlepper
 FEHLT: hat
 FEHLT: zum
 FEHLT: schutz
-FAST KORREKT FEHLEND: des
+FEHLT: des
 FEHLT: fahrers
 FEHLT: plattform
 KORREKT: und
 FEHLT: seitenbleche
-FAST KORREKT FEHLEND: er
+FEHLT: er
 FEHLT: besitzet
 FEHLT: elektrische
 FEHLT: beleuchtung
 FEHLT: nach
-FAST KORREKT FEHLEND: den
+FEHLT: den
 FEHLT: bestimmungen
 KORREKT: der
 FEHLT: stvzo
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: lenkung
 FEHLT: erfolgt
 FEHLT: durch
 FEHLT: achsenschenkellenkung
 KORREKT: 2
-FAST KORREKT FEHLEND: d
+FEHLT: d
 FAST KORREKT FEHLEND: 8506
 KORREKT: b
 KORREKT: mit
@@ -281,14 +281,14 @@ FEHLT: werden
 FEHLT: laufringe
 FEHLT: aufgebracht
 FEHLT: damit
-FAST KORREKT FEHLEND: er
+FEHLT: er
 FEHLT: nicht
 FEHLT: über
 FEHLT: 3
-FAST KORREKT FEHLEND: km
+FEHLT: km
 FEHLT: fahrgeschwindigkeit
 FEHLT: entwickeln
-FAST KORREKT FEHLEND: kann
+FEHLT: kann
 FEHLT: wurden
 FEHLT: oberen
 FEHLT: 3
@@ -299,49 +299,49 @@ FEHLT: ein
 FEHLT: schalthebel
 FEHLT: entfernt
 KORREKT: und
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: getriebeöffnung
 FEHLT: durch
 FEHLT: blindflansch
 FEHLT: verschlossen
 KORREKT: wird
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: bremsen
 FEHLT: sind
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: gleichen
 FEHLT: wie
 FEHLT: unter
-FAST KORREKT FEHLEND: 1
+FEHLT: 1
 KORREKT: der
 FEHLT: motor
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: ingangsetzung
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: kupplung
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: kühlung
 FEHLT: das
 FEHLT: schmierung
 KORREKT: der
 FEHLT: aufbau
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: elektr
 FEHLT: beleuchtung
 KORREKT: und
 FEHLT: lenkung
 FEHLT: sind
 FEHLT: ebenfalls
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: gleichen
 FEHLT: wie
 FEHLT: unter
 FEHLT: l
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: zwei
 FEHLT: ausführungen
 FEHLT: haben
-FAST KORREKT FEHLEND: den
+FEHLT: den
 FEHLT: gleichen
 FEHLT: aufbau
 FEHLT: motor
@@ -368,57 +368,17 @@ FEHLT: antrieb
 FEHLT: von
 FEHLT: landwirtschaftlichen
 FEHLT: maschinen
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: kraftübertragung
-FAST KORREKT FEHLEND: vom
+FEHLT: vom
 FEHLT: motor
 FEHLT: auf
-FAST KORREKT FEHLEND: die
+FEHLT: die
 FEHLT: hinterachse
 FEHLT: erfolgt
 FEHLT: durch
 FEHLT: gebürstete
 FEHLT: zahn
-FAST KORREKT ZUSÄTZLICH: i
-ZUSÄTZLICH: understand
-FAST KORREKT ZUSÄTZLICH: ill
-ZUSÄTZLICH: carefully
-ZUSÄTZLICH: extract
-FAST KORREKT ZUSÄTZLICH: the
-ZUSÄTZLICH: text
-FAST KORREKT ZUSÄTZLICH: from
-FAST KORREKT ZUSÄTZLICH: the
-ZUSÄTZLICH: document
-ZUSÄTZLICH: making
-ZUSÄTZLICH: sure
-FAST KORREKT ZUSÄTZLICH: to
-ZUSÄTZLICH: preserve
-FAST KORREKT ZUSÄTZLICH: the
-ZUSÄTZLICH: exact
-ZUSÄTZLICH: wording
-FAST KORREKT ZUSÄTZLICH: and
-ZUSÄTZLICH: formatting
-FAST KORREKT ZUSÄTZLICH: the
-ZUSÄTZLICH: text
-ZUSÄTZLICH: appears
-FAST KORREKT ZUSÄTZLICH: to
-FAST KORREKT ZUSÄTZLICH: be
-FAST KORREKT ZUSÄTZLICH: german
-FAST KORREKT ZUSÄTZLICH: and
-FAST KORREKT ZUSÄTZLICH: ill
-FAST KORREKT ZUSÄTZLICH: do
-FAST KORREKT ZUSÄTZLICH: my
-FAST KORREKT ZUSÄTZLICH: best
-FAST KORREKT ZUSÄTZLICH: to
-ZUSÄTZLICH: transcribe
-FAST KORREKT ZUSÄTZLICH: it
-ZUSÄTZLICH: accurately
-ZUSÄTZLICH: heres
-FAST KORREKT ZUSÄTZLICH: the
-ZUSÄTZLICH: text
-FAST KORREKT ZUSÄTZLICH: i
-FAST KORREKT ZUSÄTZLICH: can
-FAST KORREKT ZUSÄTZLICH: see
 ZUSÄTZLICH: anpassungen
 ZUSÄTZLICH: 40erlepter
 ZUSÄTZLICH: ausrang
@@ -616,7 +576,7 @@ KORREKT: kg
 KORREKT: einer
 FEHLT: windschutzscheibe
 KORREKT: um
-FAST KORREKT FEHLEND: 30
+FEHLT: 30
 KORREKT: kg
 KORREKT: von
 FEHLT: kotflügeln
@@ -634,17 +594,6 @@ KORREKT: einer
 FEHLT: zufuhr
 KORREKT: 50
 KORREKT: kg
-ZUSÄTZLICH: here
-FAST KORREKT ZUSÄTZLICH: is
-ZUSÄTZLICH: the
-ZUSÄTZLICH: text
-ZUSÄTZLICH: from
-ZUSÄTZLICH: the
-ZUSÄTZLICH: document
-ZUSÄTZLICH: exactly
-FAST KORREKT ZUSÄTZLICH: as
-FAST KORREKT ZUSÄTZLICH: it
-ZUSÄTZLICH: appears
 ZUSÄTZLICH: kraftubertretung
 ZUSÄTZLICH: zwischenrads
 FAST KORREKT ZUSÄTZLICH: 0966
@@ -1009,11 +958,6 @@ FEHLT: abs4
 FEHLT: stvz0
 FEHLT: verlängert
 FEHLT: werden
-FAST KORREKT ZUSÄTZLICH: the
-ZUSÄTZLICH: text
-FAST KORREKT ZUSÄTZLICH: the
-ZUSÄTZLICH: document
-FAST KORREKT ZUSÄTZLICH: is
 ZUSÄTZLICH: ausweitung
 ZUSÄTZLICH: empirie
 ZUSÄTZLICH: twangosgesellschaft
@@ -1638,17 +1582,6 @@ KORREKT: nr
 FAST KORREKT FEHLEND: 19
 FEHLT: bemerkungen
 FEHLT: einzutragen
-ZUSÄTZLICH: here
-FAST KORREKT ZUSÄTZLICH: is
-FAST KORREKT ZUSÄTZLICH: the
-ZUSÄTZLICH: text
-FAST KORREKT ZUSÄTZLICH: from
-FAST KORREKT ZUSÄTZLICH: the
-ZUSÄTZLICH: document
-ZUSÄTZLICH: exactly
-FAST KORREKT ZUSÄTZLICH: as
-FAST KORREKT ZUSÄTZLICH: it
-ZUSÄTZLICH: appears
 ZUSÄTZLICH: betriebsebudesbeschriften
 ZUSÄTZLICH: bulldog
 FAST KORREKT ZUSÄTZLICH: helrich

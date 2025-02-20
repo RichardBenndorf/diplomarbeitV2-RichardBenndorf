@@ -1,4 +1,4 @@
-![TÜV AUTOMOTIVE GmbH](LINK_SLOT)
+![TÜV AUTOMOTIVE GmbH]
 
 TÜV AUTOMOTIVE GMBH
 Unterehmensgruppe
@@ -10,7 +10,7 @@ D-85748 Garching
 Telefon 0 89 / 329 50 - 653
 Telefax 0 89 / 329 50 - 650
 
-![AUTOMOTIVE](LINK_SLOT)
+![AUTOMOTIVE]
 
 Technical Report No.
 Manufacturer:

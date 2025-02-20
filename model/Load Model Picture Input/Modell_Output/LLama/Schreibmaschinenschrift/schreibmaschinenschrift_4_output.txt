@@ -1,0 +1,47 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Sure, here is the text from the document:
+
+**Zu Ziffer 7) Art des Aufbaus:**
+
+Wird das Führzeug mit einem Fahrersitzdach ausgestattet, so ist dies:
+
+c) bei Zugmaschinen:
+
+festes Wetterschutzdach mit abnehmbaren Seitenteilen
+
+**Zu Ziff.8) Habe über alles:**
+
+Bei Ausstattung mit Fahrersitzdach undern sich folgende Angaben:
+
+Länge: 3408 mm
+
+Bjhe: 2452 mm
+
+Durch Anbau von Kotflügeln sind:
+
+Breite: 1705 mm
+
+**Der Fahrzeugtyp entspricht in folgendem nur den Vorschriften für Zugmaschinen in land-wirtschaftlichen Betrieben:**
+
+Scheinwerferhöhe über Fahrgestell:
+
+( 50,3 StVZO )
+
+Eisenbereal-Zung:
+
+( 36,4 StVZO )
+
+Scheinwerferhöhe über Fahrgestell:
+
+( 50,3 StVZO )
+
+**Der Fahrzeugtyp entspricht vorstehenden Angaben und genügt den Anforderungen der Straßenverkehrs-Zulassungs-Verordnung sowie den hierzu erlassenen Anweisungen des Reichsverkehrsministers mit folgenden Ausnahmen:**
+
+1.) Die in die Kraftstoffleitung ( Rohölleitung) eingebaute Absperrvorrichtung ist von Fahrersitz aus nicht bedienbar ( 46,2 StVZO )
+
+2.) Fahrzeug und Auspuffgasrüscht überschreiten 35 Ton ( 49,1 u. 2 StVZO )
+
+3.) Bei den Fahrzeugen ohne Kotflügel ist der Abstand der Schleiflichter von der vorderen 100 cm statt mindestens 110 cm ( 53,1 StVZO )

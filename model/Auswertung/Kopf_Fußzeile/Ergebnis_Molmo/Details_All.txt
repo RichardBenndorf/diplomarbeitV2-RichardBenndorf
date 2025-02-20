@@ -1,0 +1,870 @@
+Durchlauf 7:KORREKT: tüv
+KORREKT: automotive
+KORREKT: gmbh
+FAST KORREKT FEHLEND: unterehmensgruppe
+KORREKT: tüv
+KORREKT: süddeutschland
+KORREKT: daimlerstraße
+KORREKT: 11
+KORREKT: d85748
+KORREKT: garching
+KORREKT: telefon
+FEHLT: 0
+FEHLT: 89
+FEHLT: 329
+FEHLT: 50
+FAST KORREKT FEHLEND: 653
+KORREKT: telefax
+FEHLT: 0
+FEHLT: 89
+FEHLT: 329
+FEHLT: 50
+FAST KORREKT FEHLEND: 650
+KORREKT: tüv
+KORREKT: automotive
+KORREKT: 9261eec
+KORREKT: technical
+KORREKT: report
+KORREKT: no
+KORREKT: 350020202ita
+KORREKT: manufacturer
+FEHLT: apriliaspa
+KORREKT: noale
+KORREKT: italy
+KORREKT: type
+KORREKT: sp
+KORREKT: page
+KORREKT: 8
+FAST KORREKT ZUSÄTZLICH: unternehmensgruppe
+ZUSÄTZLICH: 089329
+FAST KORREKT ZUSÄTZLICH: 50653
+ZUSÄTZLICH: 089329
+FAST KORREKT ZUSÄTZLICH: 50650
+ZUSÄTZLICH: aprilia
+ZUSÄTZLICH: spa
+Durchlauf 5:KORREKT: 1
+KORREKT: the
+KORREKT: eastgate
+KORREKT: office
+KORREKT: centre
+KORREKT: eastgate
+KORREKT: road
+KORREKT: bristol
+KORREKT: bs5
+KORREKT: 6xx
+KORREKT: united
+KORREKT: kingdom
+KORREKT: switchboard
+KORREKT: 44
+KORREKT: 0
+KORREKT: 117
+KORREKT: 9515151
+KORREKT: main
+KORREKT: fax
+FEHLT: 440
+KORREKT: 117
+KORREKT: 9524103
+KORREKT: email
+KORREKT: generalvcagovuk
+KORREKT: web
+KORREKT: site
+KORREKT: wwwvcagovuk
+KORREKT: vca
+KORREKT: vehicle
+KORREKT: certification
+KORREKT: agency
+KORREKT: eec
+KORREKT: type
+KORREKT: approval
+KORREKT: certificate
+KORREKT: of
+KORREKT: a
+KORREKT: type
+KORREKT: of
+KORREKT: vehicle
+KORREKT: with
+KORREKT: regard
+KORREKT: to
+KORREKT: directive
+FAST KORREKT FEHLEND: 9261eec
+KORREKT: as
+KORREKT: last
+KORREKT: amended
+KORREKT: by
+KORREKT: 20007ec
+FAST KORREKT ZUSÄTZLICH: 9261ec
+Durchlauf 6:FEHLT: daimler
+FAST KORREKT FEHLEND: ag
+FEHLT: stuttgart
+KORREKT: germany
+FEHLT: vorstandboard
+KORREKT: of
+KORREKT: management
+FEHLT: dieter
+FEHLT: zetsche
+FEHLT: vorsitzenderchairman
+FEHLT: wolfgang
+FEHLT: bernhard
+FAST KORREKT FEHLEND: christine
+FEHLT: hohmanndennhardt
+FEHLT: wilfried
+FEHLT: porth
+FEHLT: andreas
+FEHLT: renschler
+FEHLT: hubertus
+FEHLT: troska
+FEHLT: bodo
+FEHLT: uebber
+FEHLT: thomas
+FEHLT: weber
+FEHLT: daimier
+FAST KORREKT FEHLEND: ag
+FEHLT: sitz
+FEHLT: und
+FEHLT: registergerichtdomicile
+KORREKT: and
+FEHLT: court
+KORREKT: of
+FEHLT: registry
+FEHLT: stuttgart
+FEHLT: hrbnrcommercial
+KORREKT: register
+FAST KORREKT FEHLEND: no
+FEHLT: 19360
+FEHLT: vorsitzende
+FEHLT: des
+FEHLT: aufsichtsratschairmen
+KORREKT: of
+FEHLT: the
+FEHLT: supervisory
+KORREKT: board
+FEHLT: manfred
+FEHLT: bischoff
+FAST KORREKT ZUSÄTZLICH: dr
+ZUSÄTZLICH: ralf
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: worldwide
+ZUSÄTZLICH: deutscher
+ZUSÄTZLICH: wirtschaftsdienst
+ZUSÄTZLICH: düsseldorf
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: education
+ZUSÄTZLICH: eacbee
+FAST KORREKT ZUSÄTZLICH: christian
+ZUSÄTZLICH: albers
+ZUSÄTZLICH: universität
+ZUSÄTZLICH: würzburg
+ZUSÄTZLICH: european
+ZUSÄTZLICH: council
+ZUSÄTZLICH: education
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: ecmef
+ZUSÄTZLICH: european
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: assurance
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: business
+ZUSÄTZLICH: economics
+ZUSÄTZLICH: eqar
+ZUSÄTZLICH: european
+ZUSÄTZLICH: accreditation
+ZUSÄTZLICH: committee
+Durchlauf 8:FEHLT: grandduché
+KORREKT: de
+KORREKT: luxembourg
+FAST KORREKT FEHLEND: ministère
+KORREKT: du
+FEHLT: développement
+KORREKT: durable
+KORREKT: et
+KORREKT: des
+KORREKT: infrastructures
+FAST KORREKT FEHLEND: département
+KORREKT: des
+KORREKT: transports
+FAST KORREKT FEHLEND: l2938
+KORREKT: luxembourg
+FAST KORREKT FEHLEND: société
+KORREKT: nationale
+KORREKT: de
+KORREKT: certification
+KORREKT: et
+KORREKT: dhomologation
+FEHLT: sárl
+FAST KORREKT FEHLEND: registre
+KORREKT: de
+KORREKT: commerce
+FEHLT: b
+FAST KORREKT FEHLEND: 27180
+FAST KORREKT FEHLEND: l5201
+KORREKT: sandweiler
+KORREKT: référence
+FEHLT: e13200224058500
+KORREKT: annexes
+KORREKT: rapport
+KORREKT: technique
+KORREKT: fiche
+KORREKT: de
+KORREKT: renseignements
+KORREKT: du
+KORREKT: constructeur
+KORREKT: sandweiler
+KORREKT: 09
+KORREKT: juillet
+KORREKT: 2012
+ZUSÄTZLICH: grand
+ZUSÄTZLICH: duché
+FAST KORREKT ZUSÄTZLICH: ministre
+ZUSÄTZLICH: development
+FAST KORREKT ZUSÄTZLICH: department
+FAST KORREKT ZUSÄTZLICH: l2383
+ZUSÄTZLICH: e13
+ZUSÄTZLICH: 2002240585000
+FAST KORREKT ZUSÄTZLICH: societe
+FAST KORREKT ZUSÄTZLICH: register
+FAST KORREKT ZUSÄTZLICH: b27180
+FAST KORREKT ZUSÄTZLICH: ls201
+ZUSÄTZLICH: sandweller
+ZUSÄTZLICH: snch
+Durchlauf 3:KORREKT: tüv
+KORREKT: süd
+KORREKT: automotive
+KORREKT: gmbh
+KORREKT: westendstraße
+KORREKT: 199
+KORREKT: d80686
+KORREKT: münchen
+KORREKT: automotive
+FEHLT: prüfberichtnr
+FEHLT: test
+KORREKT: reportno
+FAST KORREKT FEHLEND: 1100470ccbwg03
+KORREKT: hersteller
+KORREKT: manufacturer
+KORREKT: daimler
+KORREKT: ag
+KORREKT: 70546
+KORREKT: stuttgart
+KORREKT: deutschland
+FEHLT: typ
+FEHLT: type
+KORREKT: 9634c
+FEHLT: seite
+FEHLT: page
+KORREKT: 5
+KORREKT: von
+FEHLT: of
+KORREKT: 8
+ZUSÄTZLICH: prüfberichtnrtest
+FAST KORREKT ZUSÄTZLICH: 11004070ccbwg03
+ZUSÄTZLICH: typtype
+ZUSÄTZLICH: seitepage
+Durchlauf 2:KORREKT: vca
+KORREKT: vca
+KORREKT: headquarters
+KORREKT: 1
+KORREKT: the
+KORREKT: eastgate
+KORREKT: office
+KORREKT: centre
+KORREKT: eastgate
+KORREKT: road
+KORREKT: bristol
+KORREKT: bs5
+KORREKT: 6xx
+KORREKT: united
+KORREKT: kingdom
+KORREKT: switchboard
+KORREKT: 44
+KORREKT: 0
+KORREKT: 117
+KORREKT: 951
+KORREKT: 5151
+KORREKT: main
+KORREKT: fax
+FEHLT: 440117
+KORREKT: 952
+KORREKT: 4103
+KORREKT: email
+KORREKT: enquiriesvcagovuk
+FEHLT: web
+FEHLT: wwwvcagovuk
+KORREKT: the
+KORREKT: united
+KORREKT: kingdom
+KORREKT: vehicle
+KORREKT: approval
+KORREKT: authority
+KORREKT: 28
+KORREKT: october
+KORREKT: 2011
+Durchlauf 4:KORREKT: mercedesbenz
+KORREKT: beschreibungsbogen
+KORREKT: nr
+FEHLT: 2007485008
+KORREKT: information
+KORREKT: document
+KORREKT: no
+KORREKT: 2007465008
+KORREKT: 200746eg
+KORREKT: 200746ec
+KORREKT: änderung
+KORREKT: vom
+KORREKT: 19072013
+KORREKT: 03
+KORREKT: amendment
+KORREKT: from
+KORREKT: 19072013
+KORREKT: 03
+KORREKT: erstausgabedatum
+KORREKT: date
+KORREKT: of
+KORREKT: first
+KORREKT: issue
+KORREKT: 30092011
+KORREKT: blpa
+KORREKT: 20
+FAST KORREKT FEHLEND: vonof
+KORREKT: 102
+FAST KORREKT FEHLEND: tpeva
+FAST KORREKT ZUSÄTZLICH: von
+FAST KORREKT ZUSÄTZLICH: tfeva
+Durchlauf 1:FAST KORREKT FEHLEND: gtü
+FEHLT: gesellschaft
+FAST KORREKT FEHLEND: für
+FEHLT: technische
+FEHLT: überwachung
+FAST KORREKT FEHLEND: mbh
+FAST KORREKT FEHLEND: vor
+FAST KORREKT FEHLEND: dem
+FEHLT: lauch
+FAST KORREKT FEHLEND: 25
+FEHLT: d70567
+FEHLT: stuttgart
+FEHLT: prüflaboratorium
+FAST KORREKT FEHLEND: test
+FEHLT: laboratory
+FAST KORREKT FEHLEND: din
+FAST KORREKT FEHLEND: en
+FEHLT: isoiec
+FEHLT: 17025
+FAST KORREKT FEHLEND: und
+KORREKT: and
+FAST KORREKT FEHLEND: din
+FAST KORREKT FEHLEND: en
+FEHLT: isoiec
+FEHLT: 17020
+FEHLT: registriernr
+FEHLT: registration
+FEHLT: number
+FEHLT: kbap
+FEHLT: 0007709
+FEHLT: dokument
+KORREKT: document
+FEHLT: rev
+FAST KORREKT FEHLEND: 04
+FAST KORREKT FEHLEND: seite
+FAST KORREKT FEHLEND: page
+FAST KORREKT FEHLEND: 4
+FAST KORREKT FEHLEND: von
+KORREKT: of
+FAST KORREKT FEHLEND: 5
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: apologize
+ZUSÄTZLICH: but
+FAST KORREKT ZUSÄTZLICH: im
+FAST KORREKT ZUSÄTZLICH: not
+ZUSÄTZLICH: able
+FAST KORREKT ZUSÄTZLICH: to
+ZUSÄTZLICH: copy
+ZUSÄTZLICH: the
+FAST KORREKT ZUSÄTZLICH: text
+ZUSÄTZLICH: from
+ZUSÄTZLICH: this
+FAST KORREKT ZUSÄTZLICH: image
+ZUSÄTZLICH: the
+FAST KORREKT ZUSÄTZLICH: image
+ZUSÄTZLICH: appears
+FAST KORREKT ZUSÄTZLICH: to
+FAST KORREKT ZUSÄTZLICH: be
+FAST KORREKT ZUSÄTZLICH: a
+ZUSÄTZLICH: small
+ZUSÄTZLICH: blurry
+ZUSÄTZLICH: screenshot
+FAST KORREKT ZUSÄTZLICH: a
+ZUSÄTZLICH: with
+FAST KORREKT ZUSÄTZLICH: text
+FAST KORREKT ZUSÄTZLICH: in
+ZUSÄTZLICH: german
+FAST KORREKT ZUSÄTZLICH: due
+FAST KORREKT ZUSÄTZLICH: to
+ZUSÄTZLICH: the
+ZUSÄTZLICH: poor
+ZUSÄTZLICH: quality
+ZUSÄTZLICH: small
+FAST KORREKT ZUSÄTZLICH: size
+ZUSÄTZLICH: the
+FAST KORREKT ZUSÄTZLICH: image
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: cant
+ZUSÄTZLICH: make
+ZUSÄTZLICH: out
+ZUSÄTZLICH: the
+ZUSÄTZLICH: specific
+ZUSÄTZLICH: words
+FAST KORREKT ZUSÄTZLICH: or
+ZUSÄTZLICH: phrases
+FAST KORREKT ZUSÄTZLICH: if
+FAST KORREKT ZUSÄTZLICH: you
+ZUSÄTZLICH: need
+ZUSÄTZLICH: the
+FAST KORREKT ZUSÄTZLICH: text
+FAST KORREKT ZUSÄTZLICH: id
+ZUSÄTZLICH: recommend
+ZUSÄTZLICH: trying
+FAST KORREKT ZUSÄTZLICH: to
+ZUSÄTZLICH: download
+FAST KORREKT ZUSÄTZLICH: or
+ZUSÄTZLICH: save
+ZUSÄTZLICH: the
+ZUSÄTZLICH: original
+FAST KORREKT ZUSÄTZLICH: if
+ZUSÄTZLICH: possible
+FAST KORREKT ZUSÄTZLICH: or
+ZUSÄTZLICH: providing
+FAST KORREKT ZUSÄTZLICH: a
+ZUSÄTZLICH: clearer
+ZUSÄTZLICH: larger
+ZUSÄTZLICH: version
+ZUSÄTZLICH: the
+FAST KORREKT ZUSÄTZLICH: image
+FAST KORREKT ZUSÄTZLICH: if
+ZUSÄTZLICH: its
+ZUSÄTZLICH: available

@@ -1,6 +1,3 @@
-Here is the extracted text from your image:
-
-```
 TÜV AUTOMOTIVE GMBH
 Unternehmensgruppe
 TÜV Süddeutschland
@@ -24,4 +21,3 @@ Type:
 SP
 
 Page 8
-```

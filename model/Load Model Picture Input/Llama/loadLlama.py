@@ -18,8 +18,8 @@ model = MllamaForConditionalGeneration.from_pretrained(
 processor = AutoProcessor.from_pretrained(model_id)
 
 # Verzeichnispfade
-image_folder = "../Bilder/Fließtext"  # Ordner mit Bildern
-output_folder = "../Modell_Output/LLama/Fließtext"  # Ordner für die Ausgaben
+image_folder = "../Bilder/Schreibmaschinenschrift"  # Ordner mit Bildern
+output_folder = "../Modell_Output/LLama/Schreibmaschinenschrift2"  # Ordner für die Ausgaben
 durations_path = os.path.join(output_folder, "durations.txt")  # Pfad für die Zeitmessungsdatei
 os.makedirs(output_folder, exist_ok=True)
 
@@ -69,12 +69,13 @@ for filename in sorted(os.listdir(image_folder)):
                 "role": "user",
                 "content": [
                     {"type": "image"},
-                    {"type": "text", "text": "Please extract the text from the image. Pay attention to the correct use of line breaks. Dont't add any additional characters, words or numbersand dont change the Layout."},
+                    {"type": "text", "text": "I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks."},
                 ],
             }
         ]
         #I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.
        # Please extract the text from the image. Make sure to maintain the table layout and maintain the correct text order. Please do not add any additional words.
+       #Please extract the text from the image. Pay attention to the correct use of line breaks. Dont't add any additional characters, words or numbersand dont change the Layout.
         # Bereite die Texteingaben vor
         input_text = processor.apply_chat_template(messages, add_generation_prompt=True)
 
@@ -90,7 +91,7 @@ for filename in sorted(os.listdir(image_folder)):
         with torch.no_grad():
             output = model.generate(
                 **inputs, 
-                max_new_tokens=1024
+                max_new_tokens=2048
             )
 
         # Bereinige die generierte Ausgabe

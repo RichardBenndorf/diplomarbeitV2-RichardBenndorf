@@ -1,43 +1,9 @@
-|<table>
-<thead>
-<tr>
-<th>
 Switchboard:
-</th>
-<th>
 +44 (0) 117 9515151
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
 Main Fax:
-</td>
-<td>
 +44 (0) 117 9524103
-</td>
-</tr>
-<tr>
-<td>
-E-mail:
-</td>
-<td>
-<a href="LINK_SOLT">
-general@vca.gov.uk
-</a>
-</td>
-</tr>
-<tr>
-<td>
-Web Site:
-</td>
-<td>
-www.vca.gov.uk
-</td>
-</tr>
-</tbody>
-</table>
+E-mail:general@vca.gov.uk
+Web Site: www.vca.gov.uk
 
 1 The Eastgate Office Centre
 

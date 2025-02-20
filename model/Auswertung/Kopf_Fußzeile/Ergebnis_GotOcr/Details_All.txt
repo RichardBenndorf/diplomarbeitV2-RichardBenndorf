@@ -1,0 +1,408 @@
+Durchlauf 7:FAST KORREKT FEHLEND: tüv
+KORREKT: automotive
+KORREKT: gmbh
+FEHLT: unterehmensgruppe
+FAST KORREKT FEHLEND: tüv
+KORREKT: süddeutschland
+KORREKT: daimlerstraße
+KORREKT: 11
+FAST KORREKT FEHLEND: d85748
+KORREKT: garching
+KORREKT: telefon
+FAST KORREKT FEHLEND: 0
+FAST KORREKT FEHLEND: 89
+FEHLT: 329
+FAST KORREKT FEHLEND: 50
+FEHLT: 653
+FAST KORREKT FEHLEND: telefax
+FAST KORREKT FEHLEND: 0
+FAST KORREKT FEHLEND: 89
+FEHLT: 329
+FAST KORREKT FEHLEND: 50
+FEHLT: 650
+FAST KORREKT FEHLEND: tüv
+KORREKT: automotive
+FEHLT: 9261eec
+KORREKT: technical
+KORREKT: report
+KORREKT: no
+FEHLT: 350020202ita
+KORREKT: manufacturer
+FEHLT: apriliaspa
+FAST KORREKT FEHLEND: noale
+KORREKT: italy
+KORREKT: type
+KORREKT: sp
+KORREKT: page
+KORREKT: 8
+FAST KORREKT ZUSÄTZLICH: tuv
+ZUSÄTZLICH: 08932950653
+FAST KORREKT ZUSÄTZLICH: tuv
+FAST KORREKT ZUSÄTZLICH: u
+ZUSÄTZLICH: nter
+ZUSÄTZLICH: neh
+ZUSÄTZLICH: mens
+ZUSÄTZLICH: gruppe
+FAST KORREKT ZUSÄTZLICH: d
+FAST KORREKT ZUSÄTZLICH: 85748
+FAST KORREKT ZUSÄTZLICH: telef
+FAST KORREKT ZUSÄTZLICH: ex
+ZUSÄTZLICH: 08932950650
+FAST KORREKT ZUSÄTZLICH: t
+FAST KORREKT ZUSÄTZLICH: uv
+ZUSÄTZLICH: 350020202
+FAST KORREKT ZUSÄTZLICH: it
+FAST KORREKT ZUSÄTZLICH: a
+ZUSÄTZLICH: 9261
+ZUSÄTZLICH: eec
+ZUSÄTZLICH: april
+ZUSÄTZLICH: las
+ZUSÄTZLICH: p
+FAST KORREKT ZUSÄTZLICH: a
+FAST KORREKT ZUSÄTZLICH: ale
+Durchlauf 5:KORREKT: 1
+KORREKT: the
+FEHLT: eastgate
+KORREKT: office
+KORREKT: centre
+FEHLT: eastgate
+KORREKT: road
+KORREKT: bristol
+FAST KORREKT FEHLEND: bs5
+FAST KORREKT FEHLEND: 6xx
+KORREKT: united
+KORREKT: kingdom
+KORREKT: switchboard
+FAST KORREKT FEHLEND: 44
+FAST KORREKT FEHLEND: 0
+FEHLT: 117
+FEHLT: 9515151
+KORREKT: main
+KORREKT: fax
+FEHLT: 440
+FEHLT: 117
+FEHLT: 9524103
+FAST KORREKT FEHLEND: email
+FEHLT: generalvcagovuk
+FAST KORREKT FEHLEND: web
+FAST KORREKT FEHLEND: site
+FEHLT: wwwvcagovuk
+KORREKT: vca
+KORREKT: vehicle
+KORREKT: certification
+KORREKT: agency
+KORREKT: eec
+KORREKT: type
+KORREKT: approval
+KORREKT: certificate
+KORREKT: of
+KORREKT: a
+KORREKT: type
+KORREKT: of
+KORREKT: vehicle
+KORREKT: with
+KORREKT: regard
+KORREKT: to
+KORREKT: directive
+FEHLT: 9261eec
+KORREKT: as
+KORREKT: last
+KORREKT: amended
+KORREKT: by
+FAST KORREKT FEHLEND: 20007ec
+FAST KORREKT ZUSÄTZLICH: va
+ZUSÄTZLICH: east
+FAST KORREKT ZUSÄTZLICH: gate
+ZUSÄTZLICH: 4401179515151
+ZUSÄTZLICH: east
+FAST KORREKT ZUSÄTZLICH: gate
+ZUSÄTZLICH: 4401179524103
+FAST KORREKT ZUSÄTZLICH: bs
+FAST KORREKT ZUSÄTZLICH: 56
+FAST KORREKT ZUSÄTZLICH: xx
+FAST KORREKT ZUSÄTZLICH: e
+FAST KORREKT ZUSÄTZLICH: mail
+ZUSÄTZLICH: general
+ZUSÄTZLICH: rca
+ZUSÄTZLICH: gov
+ZUSÄTZLICH: uk
+ZUSÄTZLICH: website
+ZUSÄTZLICH: www
+ZUSÄTZLICH: gov
+ZUSÄTZLICH: uk
+ZUSÄTZLICH: 9261
+FAST KORREKT ZUSÄTZLICH: 20007
+ZUSÄTZLICH: ec
+Durchlauf 6:FAST KORREKT FEHLEND: daimler
+FEHLT: ag
+FEHLT: stuttgart
+FEHLT: germany
+FEHLT: vorstandboard
+FEHLT: of
+FEHLT: management
+FEHLT: dieter
+FEHLT: zetsche
+FEHLT: vorsitzenderchairman
+FEHLT: wolfgang
+FEHLT: bernhard
+FEHLT: christine
+FEHLT: hohmanndennhardt
+FEHLT: wilfried
+FEHLT: porth
+FEHLT: andreas
+FEHLT: renschler
+FEHLT: hubertus
+FEHLT: troska
+FEHLT: bodo
+FEHLT: uebber
+FEHLT: thomas
+FEHLT: weber
+FEHLT: daimier
+FEHLT: ag
+FEHLT: sitz
+FEHLT: und
+FEHLT: registergerichtdomicile
+FEHLT: and
+FEHLT: court
+FEHLT: of
+FEHLT: registry
+FEHLT: stuttgart
+FEHLT: hrbnrcommercial
+FEHLT: register
+FEHLT: no
+FEHLT: 19360
+FEHLT: vorsitzende
+FEHLT: des
+FEHLT: aufsichtsratschairmen
+FEHLT: of
+FEHLT: the
+FEHLT: supervisory
+FEHLT: board
+FEHLT: manfred
+FEHLT: bischoff
+FAST KORREKT ZUSÄTZLICH: daimlerag
+ZUSÄTZLICH: sitzundregistergerichtdomicileand
+ZUSÄTZLICH: daimleragstuttgartgermany
+ZUSÄTZLICH: courtofregistrystuttgart
+ZUSÄTZLICH: vorstandboardofmanagementdieterzetschevorsitzenderchairman
+ZUSÄTZLICH: hrbnircommercialregisterno19360
+ZUSÄTZLICH: vorositzenderdesaufsichtsralschairmen
+ZUSÄTZLICH: hubertustroskabodouebberthomasweber
+ZUSÄTZLICH: ofthesupervisoryboardmanfredbischoff
+Durchlauf 8:FEHLT: grandduché
+KORREKT: de
+FEHLT: luxembourg
+FEHLT: ministère
+KORREKT: du
+FEHLT: développement
+FEHLT: durable
+FEHLT: et
+FEHLT: des
+FEHLT: infrastructures
+FEHLT: département
+FEHLT: des
+FEHLT: transports
+FEHLT: l2938
+FEHLT: luxembourg
+FEHLT: société
+FEHLT: nationale
+KORREKT: de
+FEHLT: certification
+FEHLT: et
+FEHLT: dhomologation
+FEHLT: sárl
+FEHLT: registre
+KORREKT: de
+FEHLT: commerce
+FEHLT: b
+FEHLT: 27180
+FEHLT: l5201
+FEHLT: sandweiler
+FAST KORREKT FEHLEND: référence
+KORREKT: e13200224058500
+KORREKT: annexes
+KORREKT: rapport
+KORREKT: technique
+KORREKT: fiche
+KORREKT: de
+FEHLT: renseignements
+KORREKT: du
+KORREKT: constructeur
+FEHLT: sandweiler
+FEHLT: 09
+FEHLT: juillet
+FEHLT: 2012
+FAST KORREKT ZUSÄTZLICH: réference
+ZUSÄTZLICH: rencièglements
+Durchlauf 3:FAST KORREKT FEHLEND: tüv
+FAST KORREKT FEHLEND: süd
+KORREKT: automotive
+KORREKT: gmbh
+FEHLT: westendstraße
+KORREKT: 199
+FAST KORREKT FEHLEND: d80686
+FAST KORREKT FEHLEND: münchen
+KORREKT: automotive
+FEHLT: prüfberichtnr
+KORREKT: test
+FAST KORREKT FEHLEND: reportno
+FEHLT: 1100470ccbwg03
+FEHLT: hersteller
+KORREKT: manufacturer
+KORREKT: daimler
+KORREKT: ag
+KORREKT: 70546
+KORREKT: stuttgart
+KORREKT: deutschland
+FAST KORREKT FEHLEND: typ
+KORREKT: type
+FAST KORREKT FEHLEND: 9634c
+FAST KORREKT FEHLEND: seite
+KORREKT: page
+KORREKT: 5
+KORREKT: von
+KORREKT: of
+KORREKT: 8
+FAST KORREKT ZUSÄTZLICH: tuv
+FAST KORREKT ZUSÄTZLICH: sud
+ZUSÄTZLICH: west
+ZUSÄTZLICH: end
+ZUSÄTZLICH: strabe
+FAST KORREKT ZUSÄTZLICH: t
+ZUSÄTZLICH: uv
+ZUSÄTZLICH: d
+FAST KORREKT ZUSÄTZLICH: 80686
+FAST KORREKT ZUSÄTZLICH: munchen
+ZUSÄTZLICH: 300
+ZUSÄTZLICH: pr
+ZUSÄTZLICH: if
+ZUSÄTZLICH: be
+ZUSÄTZLICH: rich
+FAST KORREKT ZUSÄTZLICH: t
+ZUSÄTZLICH: nr
+FAST KORREKT ZUSÄTZLICH: report
+ZUSÄTZLICH: no
+ZUSÄTZLICH: 1100470
+ZUSÄTZLICH: cc
+ZUSÄTZLICH: b
+ZUSÄTZLICH: wg
+ZUSÄTZLICH: 03
+ZUSÄTZLICH: her
+ZUSÄTZLICH: steller
+ZUSÄTZLICH: ty
+ZUSÄTZLICH: p
+FAST KORREKT ZUSÄTZLICH: 9634
+ZUSÄTZLICH: c
+FAST KORREKT ZUSÄTZLICH: sei
+ZUSÄTZLICH: te
+Durchlauf 2:FEHLT: vca
+FEHLT: vca
+FEHLT: headquarters
+FEHLT: 1
+FEHLT: the
+FEHLT: eastgate
+FEHLT: office
+FEHLT: centre
+FEHLT: eastgate
+FEHLT: road
+FEHLT: bristol
+FEHLT: bs5
+FEHLT: 6xx
+FEHLT: united
+FEHLT: kingdom
+FEHLT: switchboard
+FEHLT: 44
+FEHLT: 0
+FEHLT: 117
+FEHLT: 951
+FEHLT: 5151
+FEHLT: main
+FEHLT: fax
+FEHLT: 440117
+FEHLT: 952
+FEHLT: 4103
+FEHLT: email
+FEHLT: enquiriesvcagovuk
+FEHLT: web
+FEHLT: wwwvcagovuk
+FEHLT: the
+FEHLT: united
+FEHLT: kingdom
+FEHLT: vehicle
+FEHLT: approval
+FEHLT: authority
+KORREKT: 28
+KORREKT: october
+KORREKT: 2011
+Durchlauf 4:KORREKT: mercedesbenz
+KORREKT: beschreibungsbogen
+KORREKT: nr
+KORREKT: 2007485008
+KORREKT: information
+KORREKT: document
+KORREKT: no
+KORREKT: 2007465008
+FAST KORREKT FEHLEND: 200746eg
+FEHLT: 200746ec
+KORREKT: änderung
+KORREKT: vom
+KORREKT: 19072013
+KORREKT: 03
+KORREKT: amendment
+KORREKT: from
+KORREKT: 19072013
+KORREKT: 03
+KORREKT: erstausgabedatum
+KORREKT: date
+KORREKT: of
+KORREKT: first
+KORREKT: issue
+KORREKT: 30092011
+KORREKT: blpa
+KORREKT: 20
+KORREKT: vonof
+KORREKT: 102
+KORREKT: tpeva
+FAST KORREKT ZUSÄTZLICH: 200748eg
+Durchlauf 1:FEHLT: gtü
+FEHLT: gesellschaft
+FEHLT: für
+FEHLT: technische
+FEHLT: überwachung
+FEHLT: mbh
+FEHLT: vor
+FEHLT: dem
+FEHLT: lauch
+FEHLT: 25
+FEHLT: d70567
+FEHLT: stuttgart
+FAST KORREKT FEHLEND: prüflaboratorium
+KORREKT: test
+KORREKT: laboratory
+KORREKT: din
+KORREKT: en
+KORREKT: isoiec
+KORREKT: 17025
+KORREKT: und
+KORREKT: and
+KORREKT: din
+KORREKT: en
+KORREKT: isoiec
+KORREKT: 17020
+FEHLT: registriernr
+KORREKT: registration
+KORREKT: number
+KORREKT: kbap
+KORREKT: 0007709
+FEHLT: dokument
+FEHLT: document
+FEHLT: rev
+FEHLT: 04
+FEHLT: seite
+FEHLT: page
+FEHLT: 4
+FEHLT: von
+FEHLT: of
+FEHLT: 5
+FAST KORREKT ZUSÄTZLICH: proflaboratorium
+ZUSÄTZLICH: reglettrlernr

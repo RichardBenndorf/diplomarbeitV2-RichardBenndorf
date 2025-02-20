@@ -8,8 +8,9 @@ from nltk.metrics import edit_distance
 from nltk.translate.bleu_score import sentence_bleu
 
 def clean_text(text):
-    """Bereinigt den Text und wandelt ihn in Kleinbuchstaben um."""
-    return re.sub(r'[^\w\s]', '', text).lower()
+    """Bereinigt den Text, entfernt Sonderzeichen und korrigiert Leerzeichen."""
+    text = re.sub(r'[^\w\s]', '', text).lower()  # Entfernt Sonderzeichen
+    return " ".join(text.split()).strip()  # Entfernt doppelte Leerzeichen & Trim
 
 def cosine_similarity(text1, text2):
     """Berechnet die Cosine Similarity zwischen zwei Texten."""
@@ -198,7 +199,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
         if file_name.startswith("Goldstandard_") and file_name.endswith(".txt"):
             index = file_name.split("_")[1].split(".")[0]
             goldstandard_path = os.path.join(goldstandard_directory, file_name)
-            extracted_path = os.path.join(extracted_directory, f"Fließtext_{index}.txt")
+            extracted_path = os.path.join(extracted_directory, f"Fließtext_{index}_output.txt")
 
             if os.path.exists(extracted_path):
                 summary, details, metrics = evaluate_extraction(goldstandard_path, extracted_path)
@@ -225,7 +226,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/Fließtext",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/GPT/Fließtext",
-    output_directory="Ergebnis_GPT",
-    excel_path="Ergebnis_GPT/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen/Fließtext",
+    output_directory="Ergebnis_Qwen",
+    excel_path="Ergebnis_Qwen/results.xlsx"
 )

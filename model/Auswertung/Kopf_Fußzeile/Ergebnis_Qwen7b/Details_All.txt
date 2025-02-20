@@ -1,0 +1,345 @@
+Durchlauf 7:KORREKT: tüv
+KORREKT: automotive
+KORREKT: gmbh
+FAST KORREKT FEHLEND: unterehmensgruppe
+KORREKT: tüv
+KORREKT: süddeutschland
+KORREKT: daimlerstraße
+KORREKT: 11
+KORREKT: d85748
+KORREKT: garching
+KORREKT: telefon
+KORREKT: 0
+KORREKT: 89
+KORREKT: 329
+KORREKT: 50
+KORREKT: 653
+KORREKT: telefax
+KORREKT: 0
+KORREKT: 89
+KORREKT: 329
+KORREKT: 50
+FEHLT: 650
+KORREKT: tüv
+KORREKT: automotive
+KORREKT: 9261eec
+KORREKT: technical
+KORREKT: report
+KORREKT: no
+KORREKT: 350020202ita
+KORREKT: manufacturer
+FEHLT: apriliaspa
+KORREKT: noale
+KORREKT: italy
+KORREKT: type
+KORREKT: sp
+KORREKT: page
+KORREKT: 8
+FAST KORREKT ZUSÄTZLICH: unternehmensgruppe
+ZUSÄTZLICH: 08932
+ZUSÄTZLICH: 950650
+ZUSÄTZLICH: automotiv
+ZUSÄTZLICH: aprilia
+ZUSÄTZLICH: spa
+Durchlauf 5:KORREKT: 1
+KORREKT: the
+KORREKT: eastgate
+KORREKT: office
+KORREKT: centre
+KORREKT: eastgate
+KORREKT: road
+KORREKT: bristol
+KORREKT: bs5
+KORREKT: 6xx
+KORREKT: united
+KORREKT: kingdom
+KORREKT: switchboard
+KORREKT: 44
+KORREKT: 0
+KORREKT: 117
+FAST KORREKT FEHLEND: 9515151
+KORREKT: main
+KORREKT: fax
+FAST KORREKT FEHLEND: 440
+KORREKT: 117
+FAST KORREKT FEHLEND: 9524103
+KORREKT: email
+KORREKT: generalvcagovuk
+KORREKT: web
+KORREKT: site
+FAST KORREKT FEHLEND: wwwvcagovuk
+FEHLT: vca
+KORREKT: vehicle
+FEHLT: certification
+FEHLT: agency
+KORREKT: eec
+KORREKT: type
+KORREKT: approval
+KORREKT: certificate
+KORREKT: of
+KORREKT: a
+KORREKT: type
+KORREKT: of
+KORREKT: vehicle
+KORREKT: with
+KORREKT: regard
+KORREKT: to
+KORREKT: directive
+KORREKT: 9261eec
+KORREKT: as
+KORREKT: last
+KORREKT: amended
+KORREKT: by
+KORREKT: 20007ec
+FAST KORREKT ZUSÄTZLICH: 9515181
+FAST KORREKT ZUSÄTZLICH: 44011
+FAST KORREKT ZUSÄTZLICH: 79524103
+FAST KORREKT ZUSÄTZLICH: wwwvcagovu
+Durchlauf 6:KORREKT: daimler
+KORREKT: ag
+KORREKT: stuttgart
+KORREKT: germany
+KORREKT: vorstandboard
+KORREKT: of
+KORREKT: management
+KORREKT: dieter
+KORREKT: zetsche
+KORREKT: vorsitzenderchairman
+KORREKT: wolfgang
+KORREKT: bernhard
+KORREKT: christine
+FAST KORREKT FEHLEND: hohmanndennhardt
+KORREKT: wilfried
+KORREKT: porth
+KORREKT: andreas
+KORREKT: renschler
+KORREKT: hubertus
+KORREKT: troska
+KORREKT: bodo
+KORREKT: uebber
+KORREKT: thomas
+KORREKT: weber
+KORREKT: daimier
+KORREKT: ag
+KORREKT: sitz
+KORREKT: und
+KORREKT: registergerichtdomicile
+KORREKT: and
+KORREKT: court
+KORREKT: of
+KORREKT: registry
+KORREKT: stuttgart
+KORREKT: hrbnrcommercial
+KORREKT: register
+KORREKT: no
+KORREKT: 19360
+KORREKT: vorsitzende
+KORREKT: des
+KORREKT: aufsichtsratschairmen
+KORREKT: of
+KORREKT: the
+KORREKT: supervisory
+KORREKT: board
+KORREKT: manfred
+KORREKT: bischoff
+FAST KORREKT ZUSÄTZLICH: holmahndennhardt
+Durchlauf 8:KORREKT: grandduché
+KORREKT: de
+KORREKT: luxembourg
+KORREKT: ministère
+KORREKT: du
+KORREKT: développement
+KORREKT: durable
+KORREKT: et
+KORREKT: des
+KORREKT: infrastructures
+KORREKT: département
+KORREKT: des
+KORREKT: transports
+KORREKT: l2938
+KORREKT: luxembourg
+KORREKT: société
+KORREKT: nationale
+KORREKT: de
+KORREKT: certification
+KORREKT: et
+KORREKT: dhomologation
+FAST KORREKT FEHLEND: sárl
+KORREKT: registre
+KORREKT: de
+KORREKT: commerce
+KORREKT: b
+KORREKT: 27180
+KORREKT: l5201
+KORREKT: sandweiler
+FEHLT: référence
+KORREKT: e13200224058500
+FEHLT: annexes
+KORREKT: rapport
+KORREKT: technique
+KORREKT: fiche
+KORREKT: de
+KORREKT: renseignements
+KORREKT: du
+KORREKT: constructeur
+KORREKT: sandweiler
+KORREKT: 09
+KORREKT: juillet
+FAST KORREKT FEHLEND: 2012
+FAST KORREKT ZUSÄTZLICH: ssrl
+ZUSÄTZLICH: sandweiller
+FAST KORREKT ZUSÄTZLICH: 20
+Durchlauf 3:FAST KORREKT FEHLEND: tüv
+KORREKT: süd
+KORREKT: automotive
+KORREKT: gmbh
+KORREKT: westendstraße
+KORREKT: 199
+KORREKT: d80686
+KORREKT: münchen
+KORREKT: automotive
+KORREKT: prüfberichtnr
+KORREKT: test
+KORREKT: reportno
+KORREKT: 1100470ccbwg03
+KORREKT: hersteller
+KORREKT: manufacturer
+KORREKT: daimler
+KORREKT: ag
+KORREKT: 70546
+KORREKT: stuttgart
+KORREKT: deutschland
+KORREKT: typ
+KORREKT: type
+KORREKT: 9634c
+KORREKT: seite
+KORREKT: page
+KORREKT: 5
+KORREKT: von
+FAST KORREKT FEHLEND: of
+KORREKT: 8
+FAST KORREKT ZUSÄTZLICH: tu
+FAST KORREKT ZUSÄTZLICH: v
+Durchlauf 2:KORREKT: vca
+KORREKT: vca
+KORREKT: headquarters
+KORREKT: 1
+KORREKT: the
+KORREKT: eastgate
+KORREKT: office
+KORREKT: centre
+KORREKT: eastgate
+KORREKT: road
+KORREKT: bristol
+KORREKT: bs5
+KORREKT: 6xx
+KORREKT: united
+KORREKT: kingdom
+KORREKT: switchboard
+KORREKT: 44
+KORREKT: 0
+KORREKT: 117
+KORREKT: 951
+KORREKT: 5151
+KORREKT: main
+KORREKT: fax
+FAST KORREKT FEHLEND: 440117
+FAST KORREKT FEHLEND: 952
+KORREKT: 4103
+KORREKT: email
+KORREKT: enquiriesvcagovuk
+KORREKT: web
+FAST KORREKT FEHLEND: wwwvcagovuk
+KORREKT: the
+KORREKT: united
+KORREKT: kingdom
+KORREKT: vehicle
+KORREKT: approval
+KORREKT: authority
+KORREKT: 28
+KORREKT: october
+KORREKT: 2011
+FAST KORREKT ZUSÄTZLICH: 44011
+FAST KORREKT ZUSÄTZLICH: 7952
+FAST KORREKT ZUSÄTZLICH: wwwvcagov
+ZUSÄTZLICH: uk
+Durchlauf 4:FEHLT: mercedesbenz
+KORREKT: beschreibungsbogen
+KORREKT: nr
+KORREKT: 2007485008
+KORREKT: information
+KORREKT: document
+KORREKT: no
+FEHLT: 2007465008
+FAST KORREKT FEHLEND: 200746eg
+FEHLT: 200746ec
+FEHLT: änderung
+FEHLT: vom
+FEHLT: 19072013
+FAST KORREKT FEHLEND: 03
+FEHLT: amendment
+FEHLT: from
+FEHLT: 19072013
+FAST KORREKT FEHLEND: 03
+FEHLT: erstausgabedatum
+FEHLT: date
+FEHLT: of
+FEHLT: first
+FEHLT: issue
+FEHLT: 30092011
+KORREKT: blpa
+FEHLT: 20
+FEHLT: vonof
+FEHLT: 102
+KORREKT: tpeva
+ZUSÄTZLICH: 25075508
+ZUSÄTZLICH: 230911
+FAST KORREKT ZUSÄTZLICH: 210748eg
+ZUSÄTZLICH: 220714ec
+ZUSÄTZLICH: 240720eg
+FAST KORREKT ZUSÄTZLICH: 29
+ZUSÄTZLICH: von010
+Durchlauf 1:FEHLT: gtü
+KORREKT: gesellschaft
+KORREKT: für
+KORREKT: technische
+KORREKT: überwachung
+KORREKT: mbh
+KORREKT: vor
+KORREKT: dem
+KORREKT: lauch
+KORREKT: 25
+KORREKT: d70567
+KORREKT: stuttgart
+KORREKT: prüflaboratorium
+KORREKT: test
+KORREKT: laboratory
+KORREKT: din
+KORREKT: en
+KORREKT: isoiec
+KORREKT: 17025
+KORREKT: und
+FEHLT: and
+KORREKT: din
+KORREKT: en
+KORREKT: isoiec
+FEHLT: 17020
+FEHLT: registriernr
+FEHLT: registration
+KORREKT: number
+KORREKT: kbap
+KORREKT: 0007709
+FEHLT: dokument
+KORREKT: document
+FEHLT: rev
+KORREKT: 04
+KORREKT: seite
+KORREKT: page
+KORREKT: 4
+KORREKT: von
+FEHLT: of
+KORREKT: 5
+ZUSÄTZLICH: iso
+ZUSÄTZLICH: 10012
+ZUSÄTZLICH: registriernummer
+ZUSÄTZLICH: revision

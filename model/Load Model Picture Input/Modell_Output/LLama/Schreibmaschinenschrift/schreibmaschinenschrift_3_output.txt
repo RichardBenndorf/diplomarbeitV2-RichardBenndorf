@@ -1,0 +1,69 @@
+user
+
+I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.assistant
+
+Sure, here is the text from the document:
+
+TYPGUTACHTS
+
+über die Zugmaschine (Ackerschlepper)
+
+Haupttyp " 35 PS Ackerbulldog "
+
+der Firma Heinrich Lanz A.G., Mannheim
+
+Die Zugmaschine wird in folgenden Ausführungen hergestellt:
+
+D 8506
+
+A: mit Luftbereifung,
+
+mit Sechszanggetriebe
+
+B: mit Eisenbereifung, Sechszanggetriebe,
+
+3 Gänge arretiert
+
+Diese Ausführungen können mit nachstehenden Zusatzteilen ausgestattet werden:
+
+Fahrersitzdach
+
+Kotflügel vorn und hinten
+
+Windschutzscheibe
+
+Zapfwelle
+
+Kotflügel an den Hinterzämm
+
+Für den 35 PS Ackerbulldog gelten im übrigen folgende Merkmale:
+
+1.) Art des Fahrzeuges:
+
+Zugmaschine (Ackerschlepper)
+
+2.) Hersteller des Fahrzeuges:
+
+Heinrich Lanz A.-G., Mannheim
+
+3.) Antriebsmaschine:
+
+a) Art des Antriebs:
+
+Verbrempungsmaschine (Gliühkopf-motor, Zylinder liegend)
+
+b) Leistung:
+
+35 PS bei 540 U/min
+
+c) Hubraum:
+
+10338 cm³
+
+d) Hersteller:
+
+Heinrich Lanz A.G., Mannheim
+
+e) Takt:
+
+Zweitakt

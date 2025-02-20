@@ -1,0 +1,11 @@
+1: 3.85
+2: 3.68
+3: 3.32
+4: 3.90
+5: 4.03
+6: 3.81
+7: 5.00
+8: 5.28
+
+
+Please extract the text from the Image. Please make sure to extract the exact text. Do not add or change any words.
