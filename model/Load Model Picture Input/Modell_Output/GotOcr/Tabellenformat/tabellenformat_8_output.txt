@@ -1,1 +1,143 @@
-component/ system monitoring strategy malfunction criteria secondary parameters fault code Exhaust air injection circuit continuity,  lower threshold, short to ground P 0412 valve signal range check upper threshold P 044 F Purge control valve circuit continuity,  lower threshold, short to ground P 0443 signal range check upper threshold P 0459 circuit continuity,  lower threshold, short to ground similar range check Side stand position switch( sensor)  single check receiving of P 1590 signal check malfunction signal signal check signal frequency is abnormal A period of the circuit malfunction is≥  X CACAN CAN line disconnection or short- circuit≥  communication 4 sec CAN communication check Communication with a dashboard P 1690 unre ceivable or an unusual value≥ 10 sec Others Communication with M CU is un re ceivable≥  3 sec VS P information is unre ceivable≥ 1 sec immobilize r system check immobilize r check after ignition on was not P 1650 successful Oil temperature communication check oil temperature reading via CAN is malfunction P 0196 sensor Reading value and writing value in EEPROM EEPROM EE PROM check data are different.  Bank A and bank B in EEPROM data are P 0603 different CC Cancel signal plausibility check comparison APS signal 1 vs. APS signal 2 P 056 C Clutch pressure circuit continuity,  lower threshold, short to ground P 1662 sensor signal range check upper threshold P 1661 Shift shaft sensor circuit continuity,  lower threshold, short to ground P 1702 signal range check upper threshold P 1703 Crank sensor circuit continuity lower threshold P 0335
+Nr. 
+No. 
+Genehmigungsgegenstand 
+Rechtsakt/ 
+Vorschrift 
+Regulatory act/ 
+requirement 
+Geändert durch/ 
+alternative 
+Anforderungen 
+Modified by/ 
+alternative 
+requirements 
+Nachweis1) 
+Certification 
+1A 
+Geräuschpegel 
+Sound level 
+VO(EU)540/2014 
+VO(EU)2019/839 
+X 
+2A 
+Emissionen leichter Pkw und Nutzfahrzeuge (Euro 5 und 6) / 
+Zugang zu Informationen 
+Emissions (Euro 5 and 6) light duty vehicles / access to 
+information 
+VO(EU)715/2007 
+VO(EU)2018/1832 
+3A 
+Verhütung von Brandgefahren (Behälter für flüssigen 
+Kraftstoff) 
+UN-R34 
+ÄS 03 
+X 
+Prevention of fire risks (liquid fuel tanks) 
+3B 
+Einrichtungen für den hinteren Unterfahrschutz und ihr 
+Anbau; hinterer Unterfahrschutz 
+Rear underrun protective devices (RUPDs) and their 
+installation; rear underrum protection (RUP) 
+UN-R58 
+ÄS 03 
+X 
+4A 
+Anbringungsstelle und Anbringung, hinteres Kennzeichen 
+Space for mounting and fixing rear registration plates 
+VO(EU)1003/2010 
+gem. Teil I Anl.2* 
+B 
+5A 
+Lenkanlagen 
+Steering equipment 
+UN-R79 
+ÄS 03 
+X 
+6B 
+Türverschlüsse und Türaufhängungen 
+Door latches and door retention components 
+UN-R11 
+ÄS 04 
+X 
+7A 
+Vorrichtungen für Schallzeichen/Schaltzeichen 
+Audible warning devices and signals 
+UN-R28 
+ÄS 00 
+X 
+8A 
+Einrichtungen für indirekte Sicht und ihre Anbringung 
+Devices for indirect vision and their installation 
+UN-R46 
+ÄS 04 
+X 
+9B 
+Bremsen (PKW) 
+Braking of passenger cars 
+UN-R13H 
+ÄS 01 
+B 
+10A 
+Elektromagnetische Verträglichkeit 
+Electromagnetic compatibility 
+UN-R10 
+ÄS 06 
+B 
+12A 
+Innenausstattung 
+Interior fittings 
+UN-R21 
+ÄS 01 
+X 
+13B 
+Schutz von Kraftfahrzeugen gegen unbefugte Benutzung 
+Protection of motor vehicles against unauthorised use 
+UN-R116 
+ÄS 00 
+B 
+14A 
+Schutz des Fahrzeugführers vor der Lenkanlage bei 
+Unfallstößen 
+Protection of the driver against the steering mechanism in 
+the event of impact 
+UN-R12 
+ÄS 04 
+B 
+15A 
+Sitze, ihre Verankerungen und Kopfstützen 
+Seats, their anchorages and any head restraints 
+UN-R17 
+ÄS 09 
+X 
+16A 
+Vorstehende Außenkanten 
+External projections 
+UN-R26 
+ÄS 03 
+X 
+17A 
+Einstieg ins Fahrzeug und Manövrieriegenschaften 
+Vehicle access and manoeuvrability 
+VO(EU)130/2012 
+X 
+17B 
+Geschwindigkeitsmesseinrichtung einschließlich ihres Einbaus 
+Speedometer equipment including its installation 
+UN-R39 
+ÄS 01 
+X 
+18A 
+Gesetzlich vorgeschriebenes Fabriskchild und 
+Fahrzeug-Identifizierungsnummer 
+Manufacturer's statutory plate and vehicle identification 
+number 
+VO(EU)19/2011 
+gem. Teil I Anl.2* 
+B 
+19A 
+Sicherheitsgurtverankerungen, ISOFIX-Verankerungssysteme 
+und Verankerungen für den oberen ISOFIX-Haltegurt 
+Safely-belt anchorages, Isofix anchorages systems and 
+UN-R14 
+ÄS 09 
+X

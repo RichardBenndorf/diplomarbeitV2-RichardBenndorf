@@ -1,72 +1,88 @@
-3A
-Verhütung von Brandgefahren
-(Behälter für flüssigen Kraftstoff)
-Prevention of fire risks (liquid fuel tanks)
-E3 34Rl-02 0244 Ext. 04
-27.02.2015
-C19?????????B?
-C19?????????A?
-E37?AA2?????????
-E37?OA2?????????
-E45?AA?????????
-E45?OA2?????????
-E49?AA?????????
-E49?OA2?????????
-E37?????????
-E45?????????
-E49?????????
-E45?????????
-E45?A2?????????
-E49?AA?????????
-E49?OA2????????
-E45?A2?????????
-E45?A2?????????
-E45?A2?????????
-3B
-Hinterer Unterfahrschutz
-Rear undurun protection
-E4 51R-02 1501 Ext. 04
-04.07.2014
-C19?????????3A?
-E37?AA2?????????
-E45?AA?????????
-E45?OA2????????
-E49?AA?????????
-E49?OA2?????????
-E45?A2?????????
-E45?A2???
-E45?A2?????????
-E45?A2?????????
-13.06.2014
-C19?????????B?
-E52?MA?????????
-E58?MA?????????
-E73?MA?????????
-E52?OA?????????
-E58?OA?????????
-E73?OA?????????
-E73?OA?????????
-E52?OA?????????
-E58?OA?????????
-Fur Aufbau „Abfallsammefahrzeug“ (mit Schüttung am Heck) / For Bodywork “Refuse Collection Vehicle” 
-(with lifting and tipping device at the rear): Zur Erfüllung der Funktion der Schüttung am Heck des Fahrzeugs 
-(besondere Zweckbestimmung als Abfallsammelfahrzeug) ist ein hinterer Unterfahrschutz nicht mit dem 
-Venwendungszweck des zu genehmigenden Fahrzeugs vereinbar. / 
-To fulfill the function of the lifting and tipping device at the rear of the vehicle (special purpose as refuse collection 
-vehicle) a rear undurun protection is not compatible with the intended use of the vehicle to be approved.
-Base vehicle:
-E4 58R-02 0272 Ext. 02
-25.11.2014
-C19?????????9
-?????????????
-Base vehicle:
-E4 58R-02 0329 Ext. 01
-19.03.2014
-C19??????????
-?????????????
-Nur für Aufbau „Kehrmaschine“ mit Sauganlage am Heck / Only for bodywork “Street Sweeper” with vacuum 
-device at the rear: Zur Erfüllung der Funktion der Sauganlage am Heck des Fahrzeugs (besondere 
-Zweckbestimmung als Kehrmaschine) ist ein hinterer Unterfahrschutz nicht mit dem Verwendungszweck des zu 
-genehmigenden Fahrzeugs vereinbar. / 
-To fulfill the function of the vacuum device at the rear of the vehicle (special purpose as street sweeper) a rear 
-undurun protection is not compatible with the intended use of the vehicle to be approved.
+# Classification criteria description 
+1. Vehicle 
+1.1. category; 
+1.2. sub-category; 
+1.3. the inertia of a vehicle variant(s) or version(s) within two 
+inertia categories above or below the nominal inertia category; 
+1.4. overall gear ratios (+/- 8 %); 
+2. Propulsion family characteristics 
+2.1. number of engines or electric motors; 
+2.2. hybrid operation mode(s) (parallel / sequential / other); 
+2.3. number of cylinders of the combustion engine; 
+2.4. engine capacity (+/- 2 %) ( 1 ) of the combustion engine; 
+2.5. number and control (variable cam phasing or lift) of 
+combustion engine valves; 
+2.6. monofuel / bifuel / flex fuel H 2 NG / multifuel; 
+2.7. fuel system (carburettor / scavenging port / port fuel injection 
+/direct fuel injection / common rail / pump-injector / other); 
+2.8. fuel storage ( 2 ); 
+2.9. type of cooling system of combustion engine; 
+2.10. combustion cycle (PI / CI / two-stroke / four-stroke / other); 
+2.11. intake air system (naturally aspirated / charged 
+(turbocharger /super-charger) / intercooler / boost control) and 
+air induction 
+2.12. control (mechanical throttle / electronic throttle control / no 
+throttle); 
+3. Pollution control system characteristics 
+3.1. propulsion exhaust (not) equipped with catalytic converter(s); 
+3.1. catalytic converter(s) type; 
+3.1.1. number and elements of catalytic converters; 
+3.1.2. size of catalytic converters (volume of monolith(s) +/- 15 
+%); 
+3.1.3. operation principle of catalytic activity (oxidising, three-
+way, heated, SCR, other.); 
+3.1.4. precious metal load (identical or higher); 
+3.1.4.1 precious metal ratio (+/- 15 %); 
+3.1.5. substrate (structure and material); 
+3.1.6. cell density; 
+3.1.7. type of casing for the catalytic converter(s); 
+3.2. propulsion exhaust (not) equipped with particulate filter (PF); 
+310 
+0% 
+1 
+N/A 
+2 
+2/in, 2/out 
+Mono fuel 
+Port fuel injection 
+13.1 
+Liquid 
+Four-stroke 
+Naturally 
+aspirated 
+Mechanical 
+310 
+Three way 
+40 g/ft3 
+1:0:1 
+BASF REX-1281 
+300 CPSI 
+<x 
+<x 
+<x 
+<x 
+<x 
+<x 
+<x 
+<x 
+<x 
+<x 
+< 
+< 
+< 
+< 
+< 
+< 
+< 
+< 
+< 
+< 
+<x 
+<x 
+<x 
+<x 
+<x 
+<x 
+<x 
+<x 
+<x

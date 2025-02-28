@@ -8,8 +8,8 @@ model = AutoModel.from_pretrained('ucaslcl/GOT-OCR2_0', trust_remote_code=True, 
 model = model.eval().cuda()
 
 # Pfad zum Verzeichnis mit den Testbildern
-input_folder = '../Bilder/uneinheitliches Layout'
-output_folder = '../Modell_Output/GotOcr/uneinheitliches Layout'
+input_folder = '../Bilder/Tabellenformat'
+output_folder = '../Modell_Output/GotOcr/Tabellenformat'
 os.makedirs(output_folder, exist_ok=True)
 
 # Datei für Durchlaufzeiten vorbereiten

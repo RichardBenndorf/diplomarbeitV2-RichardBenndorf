@@ -1,10 +1,10 @@
 Modell Ladezeit, Durchlaufzeit (Sekunden)
-Modell Ladezeit, 1.57 Sekunden
-tabellenformat_2.png, 5.57
-tabellenformat_4.png, 15.33
-tabellenformat_3.png, 11.00
-tabellenformat_7.png, 16.48
-tabellenformat_5.png, 6.91
-tabellenformat_8.png, 7.21
-tabellenformat_1.png, 5.45
-tabellenformat_6.png, 26.10
+Modell Ladezeit, 1.72 Sekunden
+tabellenformat_2.png, 5.58
+tabellenformat_4.png, 15.20
+tabellenformat_3.png, 10.88
+tabellenformat_7.png, 13.13
+tabellenformat_5.png, 6.84
+tabellenformat_8.png, 18.66
+tabellenformat_1.png, 5.37
+tabellenformat_6.png, 4.94
