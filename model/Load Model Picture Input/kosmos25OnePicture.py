@@ -16,9 +16,9 @@ model.to(device)
 processor = AutoProcessor.from_pretrained(repo)
 
 # Datei- und Ausgabepfade
-image_path = "Bilder/Kopf_Fußzeilen/Kopf_Fußzeilen_7.png"  # Pfad zum Bild
-output_folder = "Modell_Output/Kosmos/Kopf_Fußzeilen"  # Zielverzeichnis
-output_file = os.path.join(output_folder, "Kopf_Fußzeilen_7_output.txt")  # Ziel-Datei für die Textausgabe
+image_path = "Bilder/Tabellenformat/tabellenformat_8.png"  # Pfad zum Bild
+output_folder = "Modell_Output/Kosmos/Tabellenformat"  # Zielverzeichnis
+output_file = os.path.join(output_folder, "tabellenformat_8_output.txt")  # Ziel-Datei für die Textausgabe
 durations_path = os.path.join(output_folder, "durations2.txt")  # Datei für Durchlaufzeit
 
 # Sicherstellen, dass das Zielverzeichnis existiert
@@ -48,7 +48,7 @@ inputs["flattened_patches"] = inputs["flattened_patches"].to(dtype)
 with torch.no_grad():
     generated_ids = model.generate(
         **inputs,
-        max_new_tokens=1024  # Maximale Anzahl der Tokens erhöhen für lange Textausgabe
+        max_new_tokens=2048  # Maximale Anzahl der Tokens erhöhen für lange Textausgabe
     )
 
 # Berechne die Durchlaufzeit

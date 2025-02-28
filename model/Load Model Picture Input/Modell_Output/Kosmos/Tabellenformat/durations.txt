@@ -4,6 +4,6 @@ tabellenformat_2.png, 10.52
 tabellenformat_3.png, 7.88
 tabellenformat_4.png, 13.75
 tabellenformat_5.png, 8.45
-tabellenformat_6.png, 14.40
-tabellenformat_7.png, 14.52
-tabellenformat_8.png, 8.43
+tabellenformat_6.png, 9.69
+tabellenformat_7.png, 18.87
+tabellenformat_8.png, 26.98

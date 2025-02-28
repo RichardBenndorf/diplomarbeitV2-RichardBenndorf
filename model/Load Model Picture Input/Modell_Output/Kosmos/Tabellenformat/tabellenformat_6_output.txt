@@ -1,58 +1,217 @@
-| Nr. No. | Benennung
-&gt;
-&gt; Designation | Datum
-&gt;
-&gt; Date |
-<p>
-|-------------------|---------------------------------------------------------------------------|------------|
-<br/>
-| | Liste der Genehmigungen List of approval | 19.07.2013 |
-<br/>
-| LE10-75288 | Lage des Schildes und der FIN (963-964) Location of the plate and the VIN (963-964) | 01.07.2013 |
-</p>
+|<table>
+<thead>
+<tr>
+<th>
+<strong>
+VERSION(S)
+</strong>
+</th>
+<th>
+<strong>
+####P#
+</strong>
+</th>
+<th>
+<strong>
+####T#
+</strong>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>
+<strong>
+Intake Valve Opens
+</strong>
+</td>
+<td>
+<strong>
+0.5° BTDC
+</strong>
+</td>
+<td>
+<strong>
+1.0° BTDC
+</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Intake Valve Closes
+</strong>
+</td>
+<td>
+<strong>
+33° ABDC
+</strong>
+</td>
+<td>
+<strong>
+40.5° ABDC
+</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Intake Valve Duration
+</strong>
+</td>
+<td>
+<strong>
+214° Crank
+</strong>
+</td>
+<td>
+<strong>
+221.5° Crank
+</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Intake Cam Maximum Lift (mm)
+</strong>
+</td>
+<td>
+<strong>
+8.067
+</strong>
+</td>
+<td>
+<strong>
+9.8
+</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Exhaust Valve Opens
+</strong>
+</td>
+<td>
+<strong>
+33.5° BBDC
+</strong>
+</td>
+<td>
+<strong>
+46.0° BBDC
+</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Exhaust Valve Closes
+</strong>
+</td>
+<td>
+<strong>
+4° ATDC
+</strong>
+</td>
+<td>
+<strong>
+2.0° ATDC
+</strong>
+</td>
+</tr>
+<tr>
+<td>
+<strong>
+Exhaust Valve Duration
+</strong>
+</td>
+<td>
+<strong>
+217.5°
+</strong>
+</td>
+<td>
+<strong>
+228°
+</strong>
+</td>
+</tr>
+</tbody>
+</table>
 
-| LE11-75154 | Dauerbremse SFTP nach ADR
-&gt;
-&gt; Endurance brake SFTP pursuant ADR | 15.04.2013 |
-<p>
-| LE11-75175 | Vorschalldaempfer SV 6002 (963-964) Front silencer SV 6002 (963-964) | 11.04.2011 |
-</p>
+| **Exhaust Cam Maximum Lift **
 
-| LE11-75260 | Fabrikschild (963-964)
-&gt;
-&gt; Manufacturers Statutory Plate (963-964) | 19.06.2013 |
+**(mm) ** | **8 ** | **9.20 ** |
 <p>
-| LE11-75261 | FIN Beschreibung (963-964) VIN discription (963-964) | 07.02.2012 |
+|
+<strong>
+Valve Overlap
+</strong>
+|
+<strong>
+4.5°
+</strong>
+|
+<strong>
+3°
+</strong>
+|
 <br/>
-| LE11-75272 [K7A] | AO Auspuff Actros 4 K7A OM936 AO exhaust Actros 4 K7A OM936 | 08.05.2012 |
+|
+<strong>
+Rocker Arm Ratio
+</strong>
+|
+<strong>
+1.14
+</strong>
+|
+<strong>
+1.14
+</strong>
+|
 <br/>
-| LE11-75273 [K7I] | AO Auspuff Actros 4 K7I OM936 AO exhaust Actros 4 K7I OM936 | 08.05.2012 |
+|
+<strong>
+Valve Lifter Type
+</strong>
+|
+<strong>
+Solid
+</strong>
+|
+<strong>
+Solid
+</strong>
+|
 <br/>
-| LE11-75274 [K7A] | AO Auspuff Actros 4 K7A OM470, OM471, OM 473 AO exhaust Actros 4 K7A OM470, OM471, OM 473 | 08.05.2012 |
+|
+<strong>
+Valve Lash Dim. (Cold) (mm)
+</strong>
+|
+<strong>
+0.15 – 0.20
+</strong>
+|
+<strong>
+0.15 – 0.20
+</strong>
+|
 <br/>
-| LE11-75275 [K7B] | AO Auspuff Actros 4 K7B OM470, OM471, OM 473 AO exhaust Actros 4 K7B OM470, OM471, OM 473 | 08.05.2012 |
-<br/>
-| LE11-75276 [K7C] | AO Auspuff Actros 4 K7C OM470, OM471, OM 473 AO exhaust Actros 4 K7C OM470, OM471, OM 473 | 25.03.2013 |
-<br/>
-| LE11-75277 [K7D] | AO Auspuff Actros 4 K7D OM470, OM471, OM 473 AO exhaust Actros 4 K7D OM470, OM471, OM 473 | 08.05.2012 |
-<br/>
-| LE11-75278 [K7Q] | AO Auspuff Actros 4 K7Q OM470, OM471, OM 473 AO exhaust Actros 4 K7Q OM470, OM471, OM 473 | 08.11.2011 |
-<br/>
-| LE12-75010 [K7E] | AO Auspuff Actros 4 K7E OM470, OM471, OM 473 AO exhaust Actros 4 K7E OM470, OM471, OM 473 | 20.04.2012 |
-<br/>
-| LE12-75014 [K7N] | AO Auspuff Actros 4 K7N OM470, OM471, OM 473 AO exhaust Actros 4 K7N OM470, OM471, OM 473 | 20.04.2012 |
-<br/>
-| LE12-75015 [K7E] | AO Auspuff Actros 4 K7E OM936 AO exhaust Actros 4 K7E OM936 | 24.04.2012 |
-<br/>
-| LE12-75029 | Zeichnung Baureihe 963-964 Drawing Model series 963-964 | 23.01.2012 |
-<br/>
-| T0557 | Dosiereinheit AdBlue DE 2001 Dosing Unit AdBlue | 08.03.2012 |
-<br/>
-| T0558 | Versorgungseinheit AdBlue Supply Unit AdBlue | 08.03.2012 |
-<br/>
-| T0567 | HC Dosiereinheit DE 2002 HC Metering Unit | 03.03.2011 |
-<br/>
-| T0568 | Nox-Sensor NOx-sensor | 18.05.2012 |
-<br/>
-| T0579 | Funktionsschema Abgasgüte OM 471 EURO 5 Function diagram emission performance | 03.03.2011 |
+|
+<strong>
+Variable Valve Timing
+</strong>
+|
+<strong>
+N/A
+</strong>
+|
+<strong>
+N/A
+</strong>
+|
 </p>
