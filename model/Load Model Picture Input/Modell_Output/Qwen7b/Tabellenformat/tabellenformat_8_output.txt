@@ -1,16 +1,5 @@
-
-| Component/System | Monitoring Strategy | Malfunction Criteria | Secondary Parameters | Fault Code |
-|---|--- | --- | ---| ---|
-| Exhaust air injection valve | Circuit continuity, signal range check | Lower threshold, short to ground | Upper threshold | P0412, P004F |
-| Purge control valve | | Lower | Upper | P443, P459 |
-| Side stand position switch (sensor) | | Signal check | Receiving of malfunction signal | P1590 |
-| CAN communication | Communication check | A period of the circuit malfunction is ≥ XCA CAN | CAN line disconnection or short-circuit ≥ 4sec, Communication with a dashboard unreceivable or an unusual value ≥ 10sec, | P690, P169 |
-|| | Communication with MCU is unreceivab | | |
-| Immobilizer | System check | Immobiliser check after ignition on was not succesfull | P | P |
-| Oil temperature sensor | Communication Check | Oil temperatur reading via CAN is malfunction | P2196 | P300 |
-|| EEPROM check | Reading value and writing value in EEPROM data are different | P503 | P702, |
-| CC Cancel signal | Plausibility check | Comparison APS signal 1 vs. APS signal | | P806C |
-| Clutch pressure sensor | Circuit Continuity, Signal Range Check | Lower, short | Upper, short, ground | P901, P911 |
-| Shift shaft sensor | | | Upper |
-| Crank sensor | Lower |
-| | |
+| Nr. | Genehmigungsgegenstand | Rechtsakt/ Vorschrift | Geändert durch/ alternative Anforderungen | Nachweis1 Certification |
+| --- | --- | ---- | ---- ---- | --- |
+| 1A | Geräuschpegel | VO(EU)540/2014 | VO( EU)20 19/839 | X |
+| A | Emissionen leichter Pkw und Nutzfahrzeuge (Euro 5 und 6) / Zugang zu Informationen | VO (EG)715/2 007 | VO EU) 2020/1832 | B |
+| B | Verhütung von Brandgefahren (Behälter für flüssigen Kraftstoff) | UN-R34 | AS 03 | B |

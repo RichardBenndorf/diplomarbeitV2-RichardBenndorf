@@ -14,8 +14,8 @@ model = Qwen2VLForConditionalGeneration.from_pretrained(repo, torch_dtype="auto"
 processor = AutoProcessor.from_pretrained(repo)
 
 # Verzeichnispfade
-image_path = "../../Bilder/Kopf_Fußzeilen/Kopf_Fußzeilen_7.png"  # Pfad zum Bild
-output_folder = "../../Modell_Output/Qwen7b/Kopf_Fußzeilen"  # Ordner für die Ausgaben
+image_path = "../../Bilder/Tabellenformat/tabellenformat_3.png"  # Pfad zum Bild
+output_folder = "../../Modell_Output/Qwen7b/Tabellenformat"  # Ordner für die Ausgaben
 os.makedirs(output_folder, exist_ok=True)
 
 # Bild laden und in RGB konvertieren
@@ -27,7 +27,7 @@ messages = [
         "role": "user",
         "content": [
             {"type": "image", "image": image},
-            {"type": "text", "text": "Please extract the text from the provided document, image document."},
+            {"type": "text", "text": "Please extract the text from the document provided. It contains a table, please adopt the layout and make sure that the value pairs are correct."},
         ],
     }
 ]

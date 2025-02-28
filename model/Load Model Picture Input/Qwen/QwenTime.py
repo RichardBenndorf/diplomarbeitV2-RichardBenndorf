@@ -14,8 +14,8 @@ model = Qwen2VLForConditionalGeneration.from_pretrained(repo, torch_dtype="auto"
 processor = AutoProcessor.from_pretrained(repo)
 
 # Verzeichnispfade
-image_folder = "../Bilder/uneinheitliches Layout"
-output_folder = "../Modell_Output/Qwen/uneinheitliches Layout"
+image_folder = "../Bilder/Tabellenformat"
+output_folder = "../Modell_Output/Qwen/Tabellenformat"
 durations_path = os.path.join(output_folder, "durations.txt")  # Pfad für die Zeitmessungsdatei
 os.makedirs(output_folder, exist_ok=True)
 
@@ -58,7 +58,7 @@ for filename in sorted(os.listdir(image_folder)):
                 "role": "user",
                 "content": [
                     {"type": "image", "image": image},
-                    {"type": "text", "text": "Please extract all text elements for me from the image provided. "},
+                    {"type": "text", "text": "Please extract the text from the document provided. It contains a table, please adopt the layout and make sure that the value pairs are correct."},
                 ],
             }
         ]

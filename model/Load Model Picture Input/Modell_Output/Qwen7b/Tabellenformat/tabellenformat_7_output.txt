@@ -1,5 +1,341 @@
+<ref table="table1">
+<caption>Table 1. Classification criteria and description of the XG1E1, XG750 and XG 75OA</caption>
+<row>
+<cell>1. Vehicle</cell>
+<colgroup>
+<column>
+<val>XG1</val>
+</column>
+</colgroup><cell>2. Propulsion family characteristics</cell><cell><colgroup> <column>1</column> <row> <cell>number of engines or electric motors;</cell> <val>1 </val> </row> </colgroup></cell><row>
+</row><cell>
+</cell></row><row><colwidth="100%" colspan="1" rowspan="1">
+</colwidth="%"></row><column>
+<table>
+<thead>
+<tr>
+<th>Classification criteria description</th>
+<th>XGIE1</th><th>XG7E2</th> <th>XGG75A</th></tr>
+</thead>
+<tbody>
+<tr><td>1.</td><td>Vehicle</td><val>XGG1</va><val> XGG1E2 </val><val><ref> XG </ref></val></tr><tr><td><ref>L3e</ref></td><colspan="3"><val> A3 </val></colspan></tr> <tr><val></val><td></td></tr></tbody></table>
+</td></column><cell></cell></column></row>
+<tr> <td>2.</td> <colgroup width="150"> <column width="50"></column> </column>  <column></column>   <column><val>A3</val></column>
+<td>propulsion family characteristic</td>
+<td><col>
+<table width="200">
+<thead>
+</thead>
+<tbody><tr>
+<td>
+<table border="1"> <thead>
+<tr align="center">
+<th>1.
+</th>
 
-| E4 51R-02 1501 Ext. 04 | 03.07.2014 | C19??????????3A? | E37?AA2????????? E3?OA2??????? E45?AA???????? E4?OA???????? | E49?AA???????? E4??OA??????? |
-| E3 34RI-03 0244 Ext.04| 27.02.25 | C9??????9B? C1????????3A?? C1??6B?? | E52?MA????????????E58?MA?? E73?MA ?????????????| E5?OA?? ??????????E5?O???????????E7?OA? ????????????|
-| E1 58R-10 0027 Ext.10 | 25.11.21 | C????????9B?? C??????6A?? | ???????????1???? | ???????2??????|
-| Base vehicle: E4 ????-01 01 | 19.03.? | C?9???????9B???? | ???? ?????????9?? | ? ?????????2?????|
+<th>2.
+</
+th>
+
+</tr>
+<tr>
+
+<td>number
+of
+engines
+or
+electric
+motors;</td>
+
+<td>
+<ref>1
+</ref>
+</
+td>
+
+</
+tr>
+<tr>
+
+<td><ref>
+hybrid
+operation
+mode(s)
+</ref> (parallel/sequential/other)</td>
+
+<ref>
+N/A
+</
+ref>
+
+</td>
+
+<tr>
+
+</thead>
+
+</tbody>
+</table>
+<table>
+
+<thead>
+<caption>
+</caption>
+
+</the
+thead>
+
+<tbody>
+
+</table>
+
+</body>
+
+</html>
+
+</ref>
+
+<row>
+
+</row>
+
+<col>
+
+</col>
+
+<column>
+
+</column>
+
+<cell>
+
+</cell>
+
+<val>
+
+</val>
+
+<caption>
+
+<figure>
+
+</figure>
+
+<figcaption>
+
+</figcaption>
+
+<tfoot>
+
+</tfoot>
+
+<thead>
+
+<tr align="left">
+
+</tr>
+
+</head>
+
+</caption></td>
+
+<table>
+
+<tbody><tbody>
+
+</ tbody>
+
+</ table>
+
+</ col>
+
+</ column>
+
+< cell>
+
+</ cell>
+
+< val>
+
+</ val>
+
+< caption>
+
+</ caption>
+
+< figure>
+
+</ figure>
+
+< figcaption>
+
+<table border=1>
+
+<thead>
+
+<tr align=center>
+
+<th>
+
+</th
+
+>
+
+</ tr>
+
+<tr>
+</tr></thead>
+
+<thead></thead></tbody>
+
+<thead><tbody></tbody><tbody><thead></thead><thead><tbody>
+<tr></tr>
+
+<tr></
+tr>
+
+< tr>
+
+</
+
+tr>
+
+<thead align=center></thead>
+</tbody>
+
+< tbody>
+
+< table>
+
+<thead> <thead>
+
+<tr><tr>
+
+<th><ref>
+
+number
+
+of
+
+engines
+
+or
+
+electric
+
+motors</ref>;
+
+</th>;
+
+<ref>
+
+1</ref>;
+</tr><
+
+tr><ref><ref></ref></
+ref></tr>;
+
+< ref>
+
+hybrid
+
+operation
+
+mode(s)
+
+</ref>(parallel/ sequential/ other);
+
+<ref>N/A</ref>; </ref>
+
+<tr> </tr>
+
+<tbody></tbody>
+<thead></tbody> </thead>
+
+<table>
+</ table>
+</ tbody>
+</ thead>
+
+</ the
+thead>
+<thead>
+
+</<thead>
+
+<thead>;
+
+<thead>
+
+< thead align=center>;
+
+<thead align="right"> </thead>
+< the
+</thead></table>
+
+<thead>;
+<thead>
+
+<table align=center>
+<thead align=right>
+
+<tr>;
+
+<thead>
+<thead>;
+
+< the
+
+thead align=center>;
+<thead align='right'> </thead></
+thead></tr>;
+<thead></
+tbody>
+
+<tbody>
+<thead> </tbody>
+
+<table></table></tbody>;
+
+<thead></
+
+thead>
+
+thead>
+
+tbody>
+
+thead></
+
+tbody>
+
+tbody></thead>;
+
+<thead>;
+
+</thead>;
+
+</tbody></
+
+table>
+
+<table> </table>
+
+<tbody></
+table>
+
+<tbody> </
+tbody>
+< tbody></tbody>;
+<thead>;</thead>
+
+<td>
+
+</ td>
+
+</ row>
+
+</ body>
+
+</ html>
+
+</ ref

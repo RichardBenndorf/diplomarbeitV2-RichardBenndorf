@@ -1,5 +1,13 @@
-
 | Item | Subject | Regulatory act reference | As amended by | Applicable to version |
-|------|---------|-------------------------|---------------|-----------------------|
-| 8.   | Installation of lighting and light-signalling devices, including automatic switching of lighting | Commission Delegated Regulation (EU) No 3/2014 Annex IX | N/A | All |
-| 9.   Rea | Rearward visibility | Commission | N/ | N | All |
+| --- | --- | ---- | ----| ---- |
+| 8. | Installation of lighting and light-signalling devices, including automatic switching of lighting | Commission Delegated Regulation (EU) No 3/2014 Annex IX | N/A | All |
+| Rearward visibility | Commission  | N/ | N | N |
+| Rollover protective structure (ROPS) | Commission | N /A | N| N |
+< | Safety-belt anchorages and safety-belt pretensioners | Commission Delegate | N A | N N | A |
+| Seating positions (saddles and seats) |  |  N A  | All | All  |
+| Steer-ability, cornering properties and turn-ability | Commission Regulation (EC) No | N  | A | All A |
+<  | Installation  | Commission (EU | N (EU  | No  | XV |
+| Vehicle maximum speed limitation plate and its location on the vehicle | Commission delegated | N( | A  A | XV | All XV |
+<| Vehicle occupant protection, including interior fittings and vehicle doors | Commission deleg | N(A | A XV | XVII | All XVI |
+< < | Maximum continuous total power and/or maximum vehicle speed limitation by design | Commission delegate | N XVIII | A A | A XVI | All XIX |
+<< | Requirements on vehicle structure integrity | Commission delegation | N XIX | A XIX A | XIX All |

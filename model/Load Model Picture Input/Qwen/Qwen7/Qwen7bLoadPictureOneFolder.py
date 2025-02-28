@@ -14,8 +14,8 @@ model = Qwen2VLForConditionalGeneration.from_pretrained(repo, torch_dtype="auto"
 processor = AutoProcessor.from_pretrained(repo)
 
 # Verzeichnispfade
-image_folder = "../../Bilder/uneinheitliches Layout"  # Ordner mit Bildern
-output_folder = "../../Modell_Output/Qwen7b/uneinheitliches Layout"  # Ordner für die Ausgaben
+image_folder = "../../Bilder/Tabellenformat"  # Ordner mit Bildern
+output_folder = "../../Modell_Output/Qwen7b/Tabellenformat"  # Ordner für die Ausgaben
 durations_path = os.path.join(output_folder, "durations.txt")  # Pfad für die Zeitmessungsdatei
 os.makedirs(output_folder, exist_ok=True)
 
@@ -59,7 +59,7 @@ for filename in sorted(os.listdir(image_folder)):
                 "role": "user",
                 "content": [
                     {"type": "image", "image": image},
-                    {"type": "text", "text": "I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks."},
+                    {"type": "text", "text": "Please extract the text from the document provided. It contains a table, please adopt the layout and make sure that the value pairs are correct."},
                 ],
             }
         ]
@@ -70,6 +70,9 @@ for filename in sorted(os.listdir(image_folder)):
         #mehrspaltiges Layout
         #I have this old document. I need the text it contains for my work. Can you please give me the text contained in it in a tabular form. I need exactly the text that is in the picture. 
         #I have this old document. I need the text it contains for my work. Can you please give me the text contained in it in a tabular form. I need exactly the text that is in the picture. Please view the entire table.
+        
+        #uneinheitliches Layout
+        #I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.
 
         #Tabelle
         # Please extract the content of the provided table. für 4 und 5 gut
