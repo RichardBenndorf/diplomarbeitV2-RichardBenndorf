@@ -1,27 +1,29 @@
 user
 
-Please extract the text from the image. Make sure to maintain the table layout and maintain the correct text order. Please do not add any additional words.assistant
+Please extract the text from the document provided. It contains a table, please adopt the layout and make sure that the value pairs are correct.assistant
 
-| component/system | monitoring strategy | malfunction criteria | secondary parameters | fault code |
-| --- | --- | --- | --- | --- |
-| Exhaust air injection valve | circuit contiunity, signal range check | lower threshhold, short to ground |  | P0412 |
-|  |  | upper threshhold |  | P044F |
-| Purge control valve | circuit contiunity, signal range check | lower threshhold, short to ground |  | P0443 |
-|  |  | upper threshhold |  | P0459 |
-| Side stand position switch (sensor) | signal check | receiving of malfunction signal |  | P1590 |
-|  |  |  |  |  |
-| signal check | signal frequency is abnormal |  |  |  |
-| CAN communication | communication check | A period of the circuit malfunction is ≥ XCACAN |  | P1690 |
-|  |  | • CAN line disconnection or short-circuit ≥ 4sec |  |  |
-|  |  | • Communication with a dashboard unreceivable or an unusual value ≥ 10sec |  |  |
-|  |  | • Communication with MCU is unreceivable ≥ 3sec |  |  |
-|  |  | • VSP information is unreceivable ≥ 1sec |  |  |
-| Immobilizer | system check | immobilizer check after ignition on was not successfull |  | P1650 |
-| Oil temperature sensor | communication check | oil temperator reading via CAN is malfunction |  | P0196 |
-| EEPROM | EEPROM check | Reading value and writing value in EEPROM data are different. |  | P0603 |
-| CC Cancel signal | plausibility check | comparison APS signal 1 vs. APS signal 2 |  | P056C |
-| Clutch pressure sensor | circuit contiunity, signal range check | lower threshhold, short to ground |  | P1662 |
-|  |  | upper threshhold |  |  |
-| Shift shaft sensor | circuit contiunity, signal range check | lower threshhold, short to ground |  | P1702 |
-|  |  | upper threshhold |  | P1703 |
-| Crank sensor | circuit contiunity | lower threshhold |  | P0335 |
+The image contains a table with the following columns: Nr., Object of approval, Rechtsakt/Forschritt, Gesandert durch/alternative Anforderungen, Nachweis, and Certification. The rows of the table contain the following data:
+
+| Nr. | Object of approval | Rechtsakt/Forschritt | Gesandert durch/alternative Anforderungen | Nachweis | Certification |
+| --- | --- | --- | --- | --- | --- |
+| 1A | Geräuschpegel Sound level | VO(EU)540/2014 | VO(EU)2018/1832 | X |  |
+| 2A | Emissionen leichten Pkw und Nutzfahrzeuge (Euro 5 and 6) / Zugang zu Informationen Emissions (Euro 5 and 6) light duty vehicles / access to information | VO(EG)715/2007 | VO(EU)2018/1832 | B |  |
+| 3A | Verhütung von Brandgefahren (Behälter für flüssigen Kraftstoff) Prevention of fire risks (liquid fuel tanks) | UN-R34 | AS 03 | X |  |
+| 3B | Einrichtungen für den hinteren Unterflanschutz und ihr Anbau; hinterer Unterflanschutz Rear underun protective devices (RUPDs) and their installation; rear underun protection (RUP) | UN-R58 | AS 03 | X |  |
+| 4A | Anbringungsstelle und Anbringung, hinzufügende Kennzeichen Space for mounting and fixing rear registration plates | UN-R79 | gem. Teil 1 Anl.2* | B |  |
+| 5A | Lenkrollagen Steering equipment | UN-R11 | AS 04 | X |  |
+| 6B | Türverschlüsse und Türaufhängungen Door latches and door retention components | UN-R28 | AS 00 | X |  |
+| 7A | Warnrungen für Schalzeichen/Schallzeichen Audible warning devices and signals | UN-R46 | AS 04 | X |  |
+| 8A | Rücksichtungen für indirekte Sicht und ihre Anbringung Devices for indirect vision and their installation | UN-R13H | AS 01 | B |  |
+| 9B | Bremssen (PKW) Braking of passenger cars | UN-R10 | AS 06 | B |  |
+| 10A | Elektromagnetische Verträglichkeit Electromagnetic compatibility | UN-R21 | AS 01 | X |  |
+| 11B | Innenausspritzung Interior tittings | UN-R116 | AS 00 | B |  |
+| 12A | Schutz von Kraftfahrzeugen gegen unbefugte Benutzung Protection of motor vehicles against unauthorized use | UN-R12 | AS 04 | B |  |
+| 13A | Schutz des Fahrzeugführers vor der Lenkanlage bei Infallstößen Protection of the driver against the steering mechanism in the event of impact | UN-R17 | AS 09 | X |  |
+| 14A | Seize, their Verankerungen und Kopfstützen Seats, their anchorage and any head restraints | UN-R26 | AS 03 | X |  |
+| 15A | Vorstehende Aussenkanter External projections | VO(EU)130/2012 | X |  |
+| 16A | Einstieg ins Fahrzeug und Manövriererförschaffen Vehicle access and maneuverability | UN-R39 | AS 01 | X |  |
+| 17B | Geschwindigkeitsmesser/Inrichtung einschlieBlich ihre Einbaus Speedometer equipment including its installation | UN-R19/2011 | gem. Teil 1 Anl.2* | B |  |
+| 18A | Gasstätsch vorgeschrlebenes Fabrikchild und Fahrzeugs-Serienidentifizierungsnummer Manufacturer's statutory plate and vehicle identification number | UN-R14 | AS 09 | X |  |
+
+| 19A | Sicherheitsgurtverankerungen, ISOFIX-Verankerungssysteme und Verankerungen für den obern ISOFIX-Haltegurt Safety-belt anchorage systems and anchorage systems for the upper ISOFIX restraint system | UN-R14 | AS 09 | X |  |

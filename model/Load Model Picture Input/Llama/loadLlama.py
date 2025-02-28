@@ -18,8 +18,8 @@ model = MllamaForConditionalGeneration.from_pretrained(
 processor = AutoProcessor.from_pretrained(model_id)
 
 # Verzeichnispfade
-image_folder = "../Bilder/Schreibmaschinenschrift"  # Ordner mit Bildern
-output_folder = "../Modell_Output/LLama/Schreibmaschinenschrift2"  # Ordner für die Ausgaben
+image_folder = "../Bilder/Tabellenformat"  # Ordner mit Bildern
+output_folder = "../Modell_Output/Llama/Tabellenformat"  # Ordner für die Ausgaben
 durations_path = os.path.join(output_folder, "durations.txt")  # Pfad für die Zeitmessungsdatei
 os.makedirs(output_folder, exist_ok=True)
 
@@ -69,11 +69,12 @@ for filename in sorted(os.listdir(image_folder)):
                 "role": "user",
                 "content": [
                     {"type": "image"},
-                    {"type": "text", "text": "I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks."},
+                    {"type": "text", "text": "Please extract the text from the document provided. It contains a table, please adopt the layout and make sure that the value pairs are correct."},
                 ],
             }
         ]
         #I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document. Pay attention to the formatting and the correct use of line breaks.
+       #Please extract the text from the image. Please note that some table rows have a line break, please always display this correctly. Please display the specified format correctly. 
        # Please extract the text from the image. Make sure to maintain the table layout and maintain the correct text order. Please do not add any additional words.
        #Please extract the text from the image. Pay attention to the correct use of line breaks. Dont't add any additional characters, words or numbersand dont change the Layout.
         # Bereite die Texteingaben vor

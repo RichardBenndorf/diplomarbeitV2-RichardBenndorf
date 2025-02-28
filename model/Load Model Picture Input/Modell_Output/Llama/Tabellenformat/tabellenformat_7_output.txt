@@ -1,24 +1,41 @@
 user
 
-Please extract the text from the image. Make sure to maintain the table layout and maintain the correct text order. Please do not add any additional words.assistant
+Please extract the text from the document provided. It contains a table, please adopt the layout and make sure that the value pairs are correct.assistant
 
-**Table 3A**
+The table provided contains the following information:
 
-| **E4 51R-02 1501 Ext. 04** | **04.07.2014** | **C19????????????3A?** | **E37?A2????????** | **E3770A2????????** | **E457AA2????????** | **E4590A2????????** | **E497AA2????????** | **E4970A2????????** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| **E4 51R-02 1502 Ext. 04** | **04.07.2014** | **C19????????????3A?** | **E37????????????** | **E457????????????** | **E497????????????** | **E497????????????** | **E5270A2????????** | **E5870A2????????** |
-| **E4 51R-02 1617 Ext. 03** | **13.06.2014** | **C19????????????6B?** | **E527MA????????** | **E587MA????????** | **E737MA????????** | **E737MA????????** | **E5270A2????????** | **E5870A2????????** |
-| **E4 51R-02 1618 Ext. 03** | **13.06.2014** | **C19????????????6B?** | **C19????????????9B?** | **C19????????????3A?** | **C19????????????6B?** | **Alle / all** | **C19????????????** | **????????????** |
+|  | XG1E1 | XG1E2 |
+| --- | --- | --- |
+| # Classification criteria description | XG750 | XG750A |
+| 1. Vehicle | XG1 | XG750 |
+| 1.1. category; | 13e |  |
+| 1.2. sub-category; | A3 |  |
+| 1.3. the inertia of a vehicle (varian(s) or version(s)) within two inertia categories above or below the nominal inertia category; | 310 |  |
+| 1.4. overall gear ratios (+/− 8 %); | 0% |  |
+| 2. Propulsion family characteristics |  |  |
+| 2.1. number of engines or electric motors; | 1 |  |
+| 2.2. hybrid operation mode(s) (parallel / sequential / other); | N/A |  |
+| 2.3. number of cylinders of the combustion engine; | 2750 |  |
+| 2.4. engine capacity (+/− 2 %) ( 1) of the combustion engine; | 2/In, 2/out |  |
+| 2.5. number and control (variable cam phasing or lift) of combustion engine valves; |  |  |
+| 2.6. monofuel / bifuel / flex fuel H 2 NG / multifuel; | Mono fuel |  |
+| 2.7. fuel system (carburettor / scavening port / port fuel injection / direct fuel injection / common rail / pump-injector / other); | Port fuel injection |  |
+| 2.8. fuel storage ( 2 ); | 13.1 |  |
+| 2.9. type of cooling system of combustion engine; | Liquid |  |
+| 2.10. combustion cycle (PI / CI / two-stroke / four-stroke / other); | Four-stroke |  |
+| 2.11. intake air system (naturally aspirated / charged (turbocharger / super-charger) / intercooler / boost control) and air induction | Naturally aspirated |  |
+| 2.12. control (mechanical throttle / electronic throttle control / no throttle); | Mechanical |  |
+| 3. Pollution control system characteristics |  |  |
+| 3.1. propulsion exhaust (not) equipped with catalytic converter(s); | Catalytic converter(s) |  |
+| 3.1.1. catalytic converter(s) type; |  |  |
+| 3.1.1.1. number and elements of catalytic converters; | 1 |  |
+| 3.1.1.2. size of catalytic converters (volume of monolith(s) +/- 15 %); | 398 |  |
+| 3.1.3. operation principle of catalytic activity (oxidising, three-way, heated, SCR, other.); | Three way |  |
+| 3.1.4. precious metal load (identical or higher); | 40 g/ft3 |  |
+| 3.1.4.1. precious metal ratio (+/− 15 %); | 1:0:1 |  |
+| 3.1.5. substrate (structure and material); | BASF REX-1281 |  |
+| 3.1.6. Cell density; | 300 CPSI |  |
+| 3.1.7. type of casing for the catalytic converter(s); |  |  |
+| 3.2. propulsion exhaust (not) equipped with particulate filter (PF); |  |  |
 
-**Table 3B**
-
-| **Hinterer Unterfahrschutz** | **Base vehicle:** | **E4 58R-02 0272 Ext. 02** | **25.11.2014** | **C19????????????79** | **????????????1???** | **????????????** | **????????????** |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Rear underrun protection** | **Base vehicle:** | **E4 58R-02 0329 Ext. 01** | **19.03.2014** | **C19????????????79** | **????????????** | **????????????** | **????????????** |
-
-**Note:**
-
-*   The text in the image is in German.
-*   The tables appear to be related to vehicle safety features and their compatibility with specific base vehicles.
-*   The tables include dates, part numbers, and technical specifications.
-*   The text is organized into two tables, with Table 3A focusing on "Prevention of fire risks (liquid fuel tanks)" and Table 3B focusing on "Rear underrun protection."
+The table provides a detailed description of the classification criteria for various vehicles, including their propulsion systems, fuel systems, and pollution control systems. It includes information on the number of engines, hybrid operation mode, number of cylinders, engine capacity, and type of cooling system. The table also describes the fuel system, including the type of fuel, fuel storage, and fuel injection. Additionally, it provides information on the propulsion exhaust, including the type of catalytic converter, precious metal load, and cell density.
