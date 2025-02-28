@@ -9,8 +9,8 @@ processor = AutoProcessor.from_pretrained('allenai/Molmo-7B-D-0924', trust_remot
 model = AutoModelForCausalLM.from_pretrained('allenai/Molmo-7B-D-0924', trust_remote_code=True, torch_dtype='auto', device_map='auto')
 
 # Pfade für Eingabe und Ausgabe
-images_directory = '../Bilder/Tabellenformat'
-output_directory = '../Modell_Output/Molmo/Tabellenformat'
+images_directory = '../Bilder/Fließtext'
+output_directory = '../Modell_Output/Molmo/Fließtext'
 durations_file_path = os.path.join(output_directory, "durations.txt")
 os.makedirs(output_directory, exist_ok=True)
 
@@ -27,13 +27,15 @@ for image_filename in sorted(os.listdir(images_directory)):
         start_time = time.time()  # Startzeit messen
 
         # Bildverarbeitung und Textgenerierung
-        inputs = processor.process(images=[image], text="Please extract the text from the document provided. It contains a table, please adopt the layout and make sure that the value pairs are correct.")
+        inputs = processor.process(images=[image], text="Please extract the text from the document provided. Please note that the text must be retained correctly and the formatting and layout must also be adopted.")
         inputs = {k: v.to(model.device).unsqueeze(0) for k, v in inputs.items()}
         output = model.generate_from_batch(
             inputs,
-            GenerationConfig(max_new_tokens=1000, stop_strings="<|endoftext|>"),
+            GenerationConfig(max_new_tokens=1024, stop_strings="<|endoftext|>"),
             tokenizer=processor.tokenizer
         )
+
+        #Please extract the text from the document provided. It contains a table, please adopt the layout and make sure that the value pairs are correct.
 
         generated_tokens = output[0, inputs['input_ids'].size(1):]
         generated_text = processor.tokenizer.decode(generated_tokens, skip_special_tokens=True)
