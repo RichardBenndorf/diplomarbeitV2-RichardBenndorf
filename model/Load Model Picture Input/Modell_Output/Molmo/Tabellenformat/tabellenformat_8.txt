@@ -1,41 +1,18 @@
- Component/system monitoring strategy malfunction criteria secondary parameters fault code
+ Here's the extracted text from the document, formatted as a table with value pairs:
 
-ignition #1 ignition coil signal range check short to ground P0351
-
-ignition #2 ignition coil signal range check short to ground P0352
-
-ignition #3 ignition coil signal range check short to ground P0353
-
-ignition #4 ignition coil signal range check short to ground P0354
-
-exhaust air injection valve circuit continuity, signal range check lower threshold, short to ground P0412
-
-exhaust air injection valve circuit continuity, signal range check upper threshold P044F
-
-purge control valve circuit continuity, signal range check lower threshold, short to ground P0443
-
-purge control valve circuit continuity, signal range check upper threshold P0459
-
-side stand position switch (sensor) signal check receiving of malfunction signal P1590
-
-side stand position switch (sensor) signal check signal frequency is not normal, a period of the circuit malfunction is 2 XCAN 4sec
-
-CAN communication communication check CAN disconnection or short circuit, communication or a dashboard unreceivable or with an unusual value 210sec, communication with MCU is unreceivable 2sec, communication with MCU is successful 3sec P1690
-
-immobilizer system check VSP information after ignition was not successful P1650
-
-oil temperature sensor communication check oil temperature reading via CAN malfunction P0196
-
-EEPROM EEPROM check bank A and bank B EEPROM data are different P0603
-
-CC cancel signal plausibility check comparison APS signal 1 vs. APS signal 2 P056C
-
-clutch pressure sensor circuit continuity, signal range check lower threshold, short to ground P1662
-
-clutch pressure sensor circuit continuity, signal range check upper threshold P1661
-
-shift shaft sensor circuit continuity, signal range check lower threshold, short to ground P1702
-
-shift shaft sensor circuit continuity, signal range check upper threshold P1703
-
-crank sensor circuit continuity, lower threshold P0335
+| NR | Genehmigungsgegenstand | Rechtsakt/Regelung | Geändert durch | Nachweiss |
+|----|------------------------|---------------------|-----------------|----------|
+| 1a | Emissionen leichter PKW und Nutzfahrzeuge (Euro 5 und 6) / Access to information on emissions for light vehicles (Euro 5 and 6) | EU (540/2014) | VO (2018/1323) | B |
+| 1b | Emissionen schwerer PKW und Nutzfahrzeuge (Euro 5 und 6) / Access to information on emissions for heavy vehicles (Euro 5 and 6) | EU (715/2007) | VO (2018/1323) | B |
+| 2a | Verhinderung von Brandfehlern (Behälter für flüssige Substanz) / Prevention of fire risks (liquid fuel tanks) and their protection, including protective devices (RUPs) and their installation in the space for mounting rear registration plates | EU (1003/2010) | GEM. TELL. I. ANL. 2a | B |
+| 2b | Staurausrüstung (Steering equipment) / Storage equipment (steering wheel) | UN-R97 | AS 03 | X |
+| 3a | Tormentur- und Verschleißprüfungen für Schraubendreher- und Schraubendreher-Teile (AS 4) / Torque and wear tests for screwdrivers and screwdriver components (AS 4) | UN-R98 | AS 03 | X |
+| 3b | Tormentur- und Verschleißprüfungen für Schraubendreher- und Schraubendreher-Teile (AS 4) / Torque and wear tests for screwdrivers and screwdriver components (AS 4) | UN-R99 | AS 03 | X |
+| 4a | Einführung und Abwicklung der elektronischen Prüfungsverfahren und der hinterlegte Kenzian- und Anhang der amtlichen Registrierplatten (AS 1) / Introduction and implementation of electronic testing procedures and the annex to the official registration documents (AS 1) | EU (103/2010) | GEM. TELL. I. ANL. 2a | B |
+| 5a | Steuerlager (AS 3) / Taxation (AS 3) | UN-R79 | AS 03 | X |
+| 5b | Tormentur- und Verschleißprüfungen für Schraubendreher- und Schraubendreher-Teile (AS 4) / Torque and wear tests for screwdrivers and screwdriver components (AS 4) | UN-R81 | AS 04 | X |
+| 6a | Tormentur- und Verschleißprüfungen für Schraubendreher- und Schraubendreher-Teile (AS 4) / Torque and wear tests for screwdrivers and screwdriver components (AS 4) | UN-R82 | AS 04 | X |
+| 7a | Tormentur- und Verschleißprüfungen für Schraubendreher- und Schraubendreher-Teile (AS 4) / Torque and wear tests for screwdrivers and screwdriver components (AS 4) | UN-R83 | AS 04 | X |
+| 7b | Tormentur- und Verschleißprüfungen für Schraubendreher- und Schraubendreher-Teile (AS 4) / Torque and wear tests for screwdrivers and screwdriver components (AS 4) | UN-R84 | AS 04 | X |
+| 8a | Anpassung an die Neuerung des EU-Regelungsblattes 103/2012 | EU (103/2012) | GEM. TELL. I. ANL. 2a | B |
+| 8b | Anpassung an die Neuerung des EU-Regelungsblattes 103/2012 | EU (103/2012) | GEM. TELL. I. ANL. 2a | B

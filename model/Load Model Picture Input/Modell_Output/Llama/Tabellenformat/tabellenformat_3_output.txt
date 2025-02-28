@@ -1,7 +1,3 @@
-user
-
-Please extract the text from the image. Make sure to maintain the table layout and maintain the correct text order. Please do not add any additional words.assistant
-
 | Item | Subject | Regulatory act reference | As amended by | Applicable to version |
 | --- | --- | --- | --- | --- |
 | 8. | Installation of lighting and light-signalling devices, including automatic switching of lighting | Commission Delegated Regulation (EU) No 3/2014 Annex IV | N/A | All |

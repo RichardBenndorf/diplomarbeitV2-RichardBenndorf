@@ -1,55 +1,11 @@
- E4 51R-02-1501 Ext. 04
-04.07.2014
-C19?????????SA?
+ Here's the extracted text from the document, formatted as a table with value pairs:
 
+| Vehicle | Subcategory | Inertia | Overall Gear Ratios | Engine Family Characteristics | Pollution Control System Characteristics |
+|---------|-------------|---------|---------------------|-------------------------------------|----------------------------------------|
+| XG1     | A3          | 310     | 0%                   | 1, Number of Engines/Electric Motors | Catalytic converters |
+| XG1E    | A3E         | 310     | 0%                   | 1, Number of Engines/Electric Motors | Catalytic converters |
+| XG1E    | A3E         | 310     | 0%                   | 1, Number of Engines/Electric Motors | Catalytic converters |
+| XG750   | A3           | 310     | 0%                   | 1, Number of Engines/Electric Motors | Catalytic converters |
+| XG750A  | A3           | 310     | 0%                   | 1, Number of Engines/Electric Motors | Catalytic converters |
 
-E4 51R-02-1502 Ext. 04
-04.07.2014
-C19?????????SA?
-
-
-E4 51R-02-1617 Ext. 03
-13.06.2014
-C19?????????5B?
-
-
-E4 51R-02-1618 Ext. 03
-13.06.2014
-C19?????????5B?
-
-
-E3 431R-02-0244 Ext. 04
-27.02.2015
-C19?????????5B?
-
-
-Für Bauwerk_Abfallsammelungszug "Mit Schutthäck am Heck" / For Bodywork Refuse Collection Vehicle "With lifting and tipping device at the rear"
-
-
-Base vehicle
-E4 58R-02-0277 Ext. 02
-25.11.2014
-C19?????????9
-
-
-E4 58R-02-0329 Ext. 01
-19.03.2014
-C19?????????5B?
-
-
-Nur mit Aufbau_Abfallsammelungszug "Mit Schutthäck am Heck" / Only for Bodywork Refuse Collection Vehicle "With lifting and tipping device at the rear"
-
-
-Durch Aufbau_Abfallsammelungszug "Mit Schutthäck am Heck" wird die Funktionalität der Saugmaschine der Fahrzeugkraftzug beschränkt. / The function of the vacuum device at the rear of the vehicle is limited by the installation of the lifting and tipping device at the rear.
-
-
-Zur Erfüllung der Funktionsbedingungen der Aufbau_Abfallsammelungszug ist ein hinterer Unterfahrenschutz nicht mit Verwendungszeugdewerksdokumentation zu genehmigen. / To fulfill the functional requirements of the refuse collection vehicle, a rear under run protection is not compatible with the intended use of the vehicle to be approved.
-
-
-Nur mit Aufbau_Abfallsammelungszug "Mit Schutthäck am Heck" / Only for Bodywork Refuse Collection Vehicle "With lifting and tipping device at the rear"
-
-
-Durch Aufbau_Abfallsammelungszug "Mit Schutthäck am Heck" wird die Funktionalität der Kermaschine der Fahrzeugkraftzug beschränkt. / The function of the vacuum device at the rear of the vehicle is limited by the installation of the lifting and tipping device at the rear.
-
-
-Zur Erfüllung der Funktionsbedingungen der Aufbau_Abfallsammelungszug ist ein hinterer Unterfahrenschutz nicht mit Verwendungszeugdewerksdokumentation zu genehmigen. / To fulfill the functional requirements of the refuse collection vehicle, a rear under run protection is not compatible with the intended use of the vehicle to be approved.
+This table summarizes the key specifications for different vehicle models, including their inertia values, overall gear ratios, engine family characteristics, and pollution control system details.

@@ -1,9 +1,3 @@
-user
-
-Please extract the text from the document provided. It contains a table, please adopt the layout and make sure that the value pairs are correct.assistant
-
-The table provided contains the following information:
-
 |  | XG1E1 | XG1E2 |
 | --- | --- | --- |
 | # Classification criteria description | XG750 | XG750A |
@@ -38,4 +32,3 @@ The table provided contains the following information:
 | 3.1.7. type of casing for the catalytic converter(s); |  |  |
 | 3.2. propulsion exhaust (not) equipped with particulate filter (PF); |  |  |
 
-The table provides a detailed description of the classification criteria for various vehicles, including their propulsion systems, fuel systems, and pollution control systems. It includes information on the number of engines, hybrid operation mode, number of cylinders, engine capacity, and type of cooling system. The table also describes the fuel system, including the type of fuel, fuel storage, and fuel injection. Additionally, it provides information on the propulsion exhaust, including the type of catalytic converter, precious metal load, and cell density.

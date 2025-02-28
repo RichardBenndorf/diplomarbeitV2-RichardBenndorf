@@ -1,101 +1,18 @@
- LE1-75288
-Liste der genehmigten Bestandteile (903-964)
-LE1-75154
-Lage des Schildes und der VIN (903-964)
-LE1-75175
-Endurausbruch SFTP nach ADR
-LE1-75260
-Vorne silencer SV 6002 (903-994)
-LE1-75261
-Fabrikstandort (903-964)
-LE1-75262
-FIN Beschreibung (903-964)
-LE1-75263
-AO Aufschlüsse 4 KTA36
-LE1-75264
-AO Aufschlüsse 4 KTA38
-LE1-75265
-AO Aufschlüsse 4 KTB36
-LE1-75266
-AO Aufschlüsse 4 KTB38
-LE1-75267
-AO Aufschlüsse 4 KTB47
-LE1-75268
-AO Aufschlüsse 4 KTB49
-LE1-75269
-AO Aufschlüsse 4 KTB51
-LE1-75270
-AO Aufschlüsse 4 KTB53
-LE1-75271
-AO Aufschlüsse 4 KTB55
-LE1-75272
-AO Aufschlüsse 4 KTB57
-LE1-75273
-AO Aufschlüsse 4 KTB59
-LE1-75274
-AO Aufschlüsse 4 KTB61
-LE1-75275
-AO Aufschlüsse 4 KTB63
-LE1-75276
-AO Aufschlüsse 4 KTB65
-LE1-75277
-AO Aufschlüsse 4 KTB67
-LE1-75278
-AO Aufschlüsse 4 KTB69
-LE1-75279
-AO Aufschlüsse 4 KTB71
-LE1-75280
-AO Aufschlüsse 4 KTB73
-LE1-75281
-AO Aufschlüsse 4 KTB75
-LE1-75282
-AO Aufschlüsse 4 KTB77
-LE1-75283
-AO Aufschlüsse 4 KTB79
-LE1-75284
-AO Aufschlüsse 4 KTB81
-LE1-75285
-AO Aufschlüsse 4 KTB83
-LE1-75286
-AO Aufschlüsse 4 KTB85
-LE1-75287
-AO Aufschlüsse 4 KTB87
-LE1-75288
-AO Aufschlüsse 4 KTB89
-LE1-75289
-AO Aufschlüsse 4 KTB91
-LE1-75290
-AO Aufschlüsse 4 KTB93
-LE1-75291
-AO Aufschlüsse 4 KTB95
-LE1-75292
-AO Aufschlüsse 4 KTB97
-LE1-75293
-AO Aufschlüsse 4 KTB99
-LE1-75294
-AO Aufschlüsse 4 KTB101
-LE1-75295
-AO Aufschlüsse 4 KTB103
-LE1-75296
-AO Aufschlüsse 4 KTB105
-LE1-75297
-AO Aufschlüsse 4 KTB107
-LE1-75298
-AO Aufschlüsse 4 KTB109
-LE1-75299
-AO Aufschlüsse 4 KTB111
-LE1-75300
-AO Aufschlüsse 4 KTB113
-LE1-75301
-AO Aufschlüsse 4 KTB115
-LE1-75302
-AO Aufschlüsse 4 KTB117
-LE1-75303
-AO Aufschlüsse 4 KTB119
-LE1-75304
-AO Aufschlüsse 4 KTB121
-LE1-75305
-AO Aufschlüsse 4 KTB123
-LE1-75306
-AO Aufschlüsse 4 KTB125
-LE1-
+ Here's the text from the document, formatted as a table with the correct value pairs:
+
+VERSION(S) #1 #2
+Intake Valve Opens 0.5° BTDC 1.0° BTDC
+Intake Valve Closes 33° ABDC 40.5° ABDC
+Intake Valve Duration 214° Crank 221.5° Crank
+Intake Cam Maximum Lift (mm) 8.067 9.8
+Exhaust Valve Opens 33.5° BBDC 46.0° BBDC
+Exhaust Valve Closes 4° ATDC 2.0° ATDC
+Exhaust Valve Duration 217.5° 228°
+Exhaust Cam Maximum Lift (mm) 8.0 9.20
+Valve Overlap 4.5° 3°
+Rocker Arm Ratio 1.14 1.14
+Valve Lifter Type Solid Solid
+Valve Lash Dim. (Cold) (mm) 0.15 - 0.20 0.15 - 0.20
+Variable Valve Timing N/A N/A
+
+This table provides a detailed comparison of valve train specifications for two different engine versions, showing various parameters such as intake and exhaust valve timing, cam lift, and rocker arm ratios.

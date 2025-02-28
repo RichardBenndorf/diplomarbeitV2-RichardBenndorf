@@ -1,0 +1,18 @@
+| In the event of failure of a direction indicator, the other must continue to flash or remain lit.	| Yes / No 	|
+| Visibility of red lights towards the front 								| Yes / No 	| 
+| Visibility of white lights towards the rear 								| Yes / No 	|  
+| The front lights move in line with the steering angle 						| Yes / No 	|  
+| Vertical inclination of the dipped beam headlamp 							| Pass / Fail	|  
+
+
+
+| Minimum geometric visibility angles	| Vertical [°] 		| Horizontal [°] 			|  		|
+| Main-beam headlamp(s) 		| Up/Down: 5 		| Left/Right: 5 			| Pass / Fail 	|
+| Dipped-beam headlamp(s) 		| Up: 15 Down: 10 	| Left/Right: 45 Outward: 45 Inward: 10 | Pass / Fail |
+| Front position lamp(s) 		| Up/Down: 15 		| Left/Right: 80 Outward: 80 Inward: 45 | Pass / Fail |
+| Direction indicator lamps, Front 	| Up/Down: 15 		| Outward: 80 Inward: 20 		| Pass / Fail |
+| Direction indicator lamps, Rear 	| Up/Down: 15 		| Outward: 80 Inward: 20 		| Pass / Fail |
+| Rear position lamp(s) 		| Up/Down: 15 		| Left/Right: 80 Outward: 80 Inward: 45 | Pass / Fail |
+| Stop lamp(s) 				| Up/Down: 15 		| Left/Right: 45 			| Pass / Fail |
+| Rear retro-reflector 			| Up/Down: 15 		| Left/Right: 30 			| Pass / Fail |
+| Side retro-reflector 			| Up: 15 Down: 5 	| Front/Rear: 30 			| Pass / Fail not applicable |

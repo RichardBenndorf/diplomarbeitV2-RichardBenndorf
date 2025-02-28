@@ -1,0 +1,12 @@
+| Item	| Subject 												| Regulatory act reference 					| As amended by	| Applicable to version |
+| 8.	| Installation of lighting and light-signalling devices, including automatic switching of lighting	| Commission Delegated Regulation (EU) No 3/2014 Annex IV 	| N/A 		| All |
+| 9.	| Rearward visibility 											| Commission Delegated Regulation (EU) No 3/2014 Annex X 	| N/A 		| All |
+| 10.	| Rollover protective structure (ROPS) 									| Commission Delegated Regulation (EU) No 3/2014 Annex XI 	| N/A 		| N/A |
+| 11.	| Safety-belt anchorages and safety-belts 								| Commission Delegated Regulation (EU) No 3/2014 Annex XII 	| N/A 		| N/A |
+| 12.	| Seating positions (saddles and seats) 								| Commission Delegated Regulation (EU) No 3/2014 Annex XIII 	| N/A 		| All |
+| 13.	| Steer-ability, cornering properties and turn-ability 							| Commission Delegated Regulation (EU) No 3/2014 Annex XIV 	| N/A 		| All |
+| 14.	| Installation of tyres 										| Commission Delegated Regulation (EU) No 3/2014 Annex XV 	| N/A 		| All |
+| 15.	| Vehicle maximum speed limitation plate and its location on the vehicle 				| Commission Delegated Regulation (EU) No 3/2014 Annex XVI 	| N/A 		| N/A |
+| 16.	| Vehicle occupant protection, including interior fittings and vehicle doors 				| Commission Delegated Regulation (EU) No 3/2014 Annex XVII 	| N/A 		| N/A |
+| 17.	| Maximum continuous total power and/or maximum vehicle speed limitation by design 			| Commission Delegated Regulation (EU) No 3/2014 Annex XVIII 	| N/A 		| N/A |
+| 18.	| Requirements on vehicle structure integrity 								| Commission Delegated Regulation (EU) No 3/2014 Annex XIX 	| N/A 		| All |

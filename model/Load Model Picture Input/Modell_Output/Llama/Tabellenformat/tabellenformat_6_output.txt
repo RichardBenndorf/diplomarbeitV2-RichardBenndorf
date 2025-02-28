@@ -1,9 +1,3 @@
-user
-
-Please extract the text from the document provided. It contains a table, please adopt the layout and make sure that the value pairs are correct.assistant
-
-**Table of Engine Specifications**
-
 | VERSION(S) | ####P# | ####T# |
 | --- | --- | --- |
 | Intake Valve Opens | 0.5° BTDC | 1.0° BTDC |
@@ -19,5 +13,3 @@ Please extract the text from the document provided. It contains a table, please 
 | Valve Lifter Type | Solid | Solid |
 | Valve Lash Dim. (Cold) (mm) | 0.15 – 0.20 | 0.15 – 0.20 |
 | Variable Valve Timing | N/A | N/A |
-
-**Note:** The table has been extracted and reformatted to maintain the original layout and value pairs.

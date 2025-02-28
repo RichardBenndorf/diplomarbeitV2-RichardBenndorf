@@ -1,0 +1,14 @@
+| VERSION(S) 			| ####P# 	| ####T# |
+| Intake Valve Opens 		| 0.5° BTDC 	| 1.0° BTDC |
+| Intake Valve Closes 		| 33° ABDC 	| 40.5° ABDC |
+| Intake Valve Duration 	| 214° Crank 	| 221.5° Crank |
+| Intake Cam Maximum Lift (mm) 	| 8.067 	| 9.8 |
+| Exhaust Valve Opens 		| 33.5° BBDC 	| 46.0° BBDC |
+| Exhaust Valve Closes 		| 4° ATDC 	| 2.0° ATDC |
+| Exhaust Valve Duration 	| 217.5° 	| 228° |
+| Exhaust Cam Maximum Lift (mm) | 8 		| 9.20 |
+| Valve Overlap 		| 4.5° 		| 3° |
+| Rocker Arm Ratio 		| 1.14 		| 1.14 |
+| Valve Lifter Type 		| Solid 	| Solid |
+| Valve Lash Dim. (Cold) (mm) 	| 0.15 – 0.20 	| 0.15 – 0.20 |
+| Variable Valve Timing 	| N/A 		| N/A |

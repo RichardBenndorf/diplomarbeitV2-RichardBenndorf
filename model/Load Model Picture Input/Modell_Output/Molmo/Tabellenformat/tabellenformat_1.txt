@@ -1,25 +1,19 @@
- Heading No. Separate Directive No. Subject Approval No. Extension date Variants and versions covered
-18 95/95/EC Maximum net power and maximum power of engine
-19 97/24/EC Anti-tampering measures for mopeds and motorcycles
-20 97/25/EC Fuel tank
-21 95/96/EC Maximum design speed of vehicle
-22 97/26/EC Trailer coupling devices
-23 97/27/EC Mass and dimensions
-24 97/28/EC Anti-air pollution measures
-25 97/29/EC Tyres
-26 97/30/EC Braking system
-27 97/31/EC Installation of lighting and light-signaling devices on the vehicle
-28 97/32/EC Lighting and light-signaling devices
-29 97/33/EC Audio warning device
-30 97/34/EC Positioning of the electoral plate
-31 97/35/EC Electromagnetic compatibility
-32 97/36/EC Sound level and exhaust system
-33 97/37/EC External mirrors
-34 97/38/EC Stand (except in the case of vehicles having three or more vehicles)
-35 97/39/EC Devices to prevent unauthorised access to the vehicle
-36 97/40/EC Windows, windscreen wipers, windscreen washers, and so on
-37 97/41/EC Passenger hand-hold for two-wheel vehicles
-38 97/42/EC Anchorage points and safety belts
-39 97/43/EC Speedometer
-40 97/44/EC Identification of controls, dials, and indicators
-41 97/45/EC Statutory inscriptions
+ Here's the extracted text from the document, formatted in the requested layout:
+
+| Heading No. | Separate Directive No. | Subject | Approval No. | Extension Date | Variants and Versions Covered |
+|-------------|------------------------|---------|--------------|-----------------------------|--------------------------------|
+| 18          | 95/EC                  | Maximum torque and maximum net power of engine |           |                |                                |
+| 19          | 97/24A/EC(7)        | Anti-tampering measures for mopeds and motorcycles |           |                |                                |
+| 20          | 97/24A/EC(6)        | Fuel tank |           |                |                                |
+| 25          | 95/EC                  | Maximum design speed of motorcycles |           |                |                                |
+| 26          | 93/93/EC               | Masses and dimensions |           |                |                                |
+| 27          | 97/24A/EC(10)        | Trailer coupling devices |           |                |                                |
+| 28          | 97/24A/EC(5)        | Anti-air pollution measures |           |                |                                |
+| 29          | 97/24A/EC(11)       | Braking system |           |                |                                |
+| 31          | 93/14/EC               | Lighting and light-signalling devices on vehicle |           |                |                                |
+| 32          | 93/92/EC               | Installation of lighting and light-signalling devices on vehicle |           |                |                                |
+| 33          | 97/24A/EC(2)        | Lighting and light-signalling devices |           |                |                                |
+| 34          | 93/30/EC               | Audible warning device |           |                |                                |
+| 35          | 93/94/EC               | Position for the mounting of rear registration plate |           |                |                                |
+
+This table contains information about various directives, their approval numbers, subjects, and relevant details such as extension dates and variants covered.

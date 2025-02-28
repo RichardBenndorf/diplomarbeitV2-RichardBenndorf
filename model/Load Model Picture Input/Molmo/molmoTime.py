@@ -9,8 +9,8 @@ processor = AutoProcessor.from_pretrained('allenai/Molmo-7B-D-0924', trust_remot
 model = AutoModelForCausalLM.from_pretrained('allenai/Molmo-7B-D-0924', trust_remote_code=True, torch_dtype='auto', device_map='auto')
 
 # Pfade für Eingabe und Ausgabe
-images_directory = '../Bilder/uneinheitliches Layout'
-output_directory = '../Modell_Output/Molmo/uneinheitliches Layout'
+images_directory = '../Bilder/Tabellenformat'
+output_directory = '../Modell_Output/Molmo/Tabellenformat'
 durations_file_path = os.path.join(output_directory, "durations.txt")
 os.makedirs(output_directory, exist_ok=True)
 
@@ -27,7 +27,7 @@ for image_filename in sorted(os.listdir(images_directory)):
         start_time = time.time()  # Startzeit messen
 
         # Bildverarbeitung und Textgenerierung
-        inputs = processor.process(images=[image], text="I have this old document. I need the text it contains for my work. Can you please extract the text for me, but please don't add any words. I need the text exactly as it is in the document.")
+        inputs = processor.process(images=[image], text="Please extract the text from the document provided. It contains a table, please adopt the layout and make sure that the value pairs are correct.")
         inputs = {k: v.to(model.device).unsqueeze(0) for k, v in inputs.items()}
         output = model.generate_from_batch(
             inputs,

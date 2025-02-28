@@ -1,12 +1,15 @@
- Item Subject Regulatory act reference As amended by Applicable to version
-8 Installation of lighting and lighting automatic switching of lighting systems EU (2014) No 2014/65/EU N/A All
-9 Roll-over protective structure (ROPS) EU (2014) No 2014/65/EU N/A All
-10 Safety belt anchorages and safety belts EU (2014) No 2014/65/EU N/A All
-11 Seating positions (saddles and seats) EU (2014) No 2014/65/EU N/A All
-12 Steerability, cornering properties and maximum speed limit EU (2014) No 2014/65/EU N/A All
-13 Installation of tyres EU (2014) No 2014/65/EU N/A All
-14 Vehicle maximum speed limit at the location where the vehicle is used including door fittings and vehicle lights EU (2014) No 2014/65/EU N/A All
-15 Maximum continuous total power output in design of vehicle structure EU (2014) No 2014/65/EU N/A All
-16 Integrity EU (2014) No 2014/65/EU N/A All
-17 Vehicle construction and general type-approval requirements EU (2014) No 2014/65/EU N/A All
-18 Type-approval measures (anti-rolling devices) EU (2014) No 2014/65/EU N/A All
+ Here's the text from the document, formatted as a table with value pairs:
+
+| Item | Subject | Regulatory Act Reference | As Amended By | Applicable To Version |
+|------|---------|------------------------|----------------|------------------------|
+| 8 | Installation of lighting and lighting devices, including rearward visibility | Commission Delegated Regulation (EU) 2014/85 | N/A | All |
+| 9 | Rearview mirrors | Commission Delegated Regulation (EU) 2014/85 | N/A | All |
+| 10 | Rollover protective structure (ROPS) | Commission Delegated Regulation (EU) 2014/85 | N/A | All |
+| 11 | Seat belt anchorages and safety harnesses | Commission Delegated Regulation (EU) 2014/85 | N/A | N/A |
+| 12 | Seating positions (saddles and seats) | Commission Delegated Regulation (EU) 2014/85 | N/A | N/A |
+| 13 | Steering ability, cornering properties and vehicle stability | Commission Delegated Regulation (EU) 2014/85 | N/A | All |
+| 14 | Tread wear and tyre performance | Commission Delegated Regulation (EU) 2014/85 | N/A | All |
+| 15 | Vehicle maximum speed limitation and vehicle weight | Commission Delegated Regulation (EU) 2014/85 | N/A | All |
+| 16 | Vehicle occupants protection, including doors | Commission Delegated Regulation (EU) 2014/85 | N/A | All |
+| 17 | Maximum total power and common vehicle speed limitation in design | Commission Delegated Regulation (EU) 2014/85 | N/A | All |
+| 18 | Requirements on vehicle structure integrity | Commission Delegated Regulation (EU) 2014/85 | N/A | All |

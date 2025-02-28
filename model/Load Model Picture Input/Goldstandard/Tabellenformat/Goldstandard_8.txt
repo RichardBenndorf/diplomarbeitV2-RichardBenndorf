@@ -1,0 +1,21 @@
+| Nr. No. 	| Genehmigungsgegenstand	Object of approval 																	| Rechtsakt/Vorschritt	Regulatory act/ requirement	| Geändert durch/alternative Anforderungen	Modified by/alternative requirements 	| Nachweis	Certification |
+| 1A		| Geräuschpegel Sound level 																				| VO(EU)540/2014 					| VO(EU)2018/832 									| X |  |
+| 2A 		| Emissionen leichten Pkw und Nutzfahrzeuge (Euro 5 and 6) / Zugang zu Informationen Emissions (Euro 5 and 6) light duty vehicles / access to information 				| VO(EG)715/2007 					| VO(EU)2018/1832 									| B |  |
+| 3A 		| Verhütung von Brandgefahren (Behälter für flüssigen Kraftstoff) Prevention of fire risks (liquid fuel tanks) 										| UN-R34 						| AS 03 										| X |  |
+| 3B 		| Einrichtungen für den hinteren Unterfahrschutz und ihr Anbau; hinterer Unterfahrschutz Rear underrun protective devices (RUPDs) and their installation; rear underrun protection (RUP)| UN-R58 						| AS 03 										| X |  |
+| 4A 		| Anbringungsstelle und Anbringung, hinters Kennzeichen Space for mounting and fixing rear registration plates 										| VO(EU)1003/2010					| gem. Teil 1 Anl.2* 									| B |  |
+| 5A 		| Lenkanlage Steering equipment 																			| UN-R79 						| AS 03 										| X |  |
+| 6B 		| Türverschlüsse und Türaufhängungen Door latches and door retention components 													| UN-R11 						| AS 04 										| X |  |
+| 7A 		| Vorrichtungen für Schallzeichen/Schallzeichen Audible warning devices and signals 													| UN-R28 						| AS 00 										| X |  |
+| 8A 		| Einrichtungen für indirekte Sicht und ihre Anbringung Devices for indirect vision and their installation 										| UN-R46 						| AS 04 										| X |  |
+| 9B 		| Bremsen (PKW) Braking of passenger cars 																		| UN-R13H 						| AS 01 										| B |  |
+| 10A 		| Elektromagnetische Verträglichkeit Electromagnetic compatibility 															| UN-R10 						| AS 06 										| B |  |
+| 11B 		| Innenausstattung Interior fittings 																			| UN-R21 						| AS 01 										| X |  |
+| 12A 		| Schutz von Kraftfahrzeugen gegen unbefugte Benutzung Protection of motor vehicles against unauthorized use 										| UN-R116 						| AS 00 										| B |  |
+| 13A 		| Schutz des Fahrzeugführers vor der Lenkanlage bei Unfallstößen Protection of the driver against the steering mechanism in the event of impact 					| UN-R12 						| AS 04											| B |  |
+| 14A 		| Sitze, ihre Verankerungen und Kopfstützen Seats, their anchorages and any head restraints 												| UN-R17 						| AS 09 										| X |  |
+| 15A 		| Vorstehende Außenkanten External projections 																		| UN-R26	 					| AS 03 										| X |
+| 16A 		| Einstieg ins Fahrzeug und Manövriereigenschaffen Vehicle access and manoeuvrability 													| VO(EU)19/2012 					| 											| X |  |
+| 17B 		| Geschwindigkeitsmesseinnrichtung einschließlich ihre Einbaus Speedometer equipment including its installation 									| UN-R39						| AS 01											| X |  |
+| 18A 		| Gesetzlich vorgeschriebenes Fabrikschild und Fahrzeug-Serienidentifizierungsnummer Manufacturer's statutory plate and vehicle identification number 					| VO(EU)19/2011						| gem. Teil 1 Anl.2* 									| B |  |
+| 19A 		| Sicherheitsgurtverankerungen, ISOFIX-Verankerungssysteme und Verankerungen für den oberen ISOFIX-Haltegurt Safety-belt anchorage Systems, Isofix anchorages Systems and		| UN-R14 						| AS 09 										| X |  |
