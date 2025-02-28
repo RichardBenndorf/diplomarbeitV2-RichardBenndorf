@@ -1,5 +1,3 @@
- Here's the extracted text from the document, formatted in the requested layout:
-
 | Heading No. | Separate Directive No. | Subject | Approval No. | Extension Date | Variants and Versions Covered |
 |-------------|------------------------|---------|--------------|-----------------------------|--------------------------------|
 | 18          | 95/EC                  | Maximum torque and maximum net power of engine |           |                |                                |
@@ -15,5 +13,3 @@
 | 33          | 97/24A/EC(2)        | Lighting and light-signalling devices |           |                |                                |
 | 34          | 93/30/EC               | Audible warning device |           |                |                                |
 | 35          | 93/94/EC               | Position for the mounting of rear registration plate |           |                |                                |
-
-This table contains information about various directives, their approval numbers, subjects, and relevant details such as extension dates and variants covered.

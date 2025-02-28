@@ -1,5 +1,3 @@
- Here's the extracted text from the document, formatted as a table with value pairs:
-
 | Vehicle | Subcategory | Inertia | Overall Gear Ratios | Engine Family Characteristics | Pollution Control System Characteristics |
 |---------|-------------|---------|---------------------|-------------------------------------|----------------------------------------|
 | XG1     | A3          | 310     | 0%                   | 1, Number of Engines/Electric Motors | Catalytic converters |
@@ -7,5 +5,3 @@
 | XG1E    | A3E         | 310     | 0%                   | 1, Number of Engines/Electric Motors | Catalytic converters |
 | XG750   | A3           | 310     | 0%                   | 1, Number of Engines/Electric Motors | Catalytic converters |
 | XG750A  | A3           | 310     | 0%                   | 1, Number of Engines/Electric Motors | Catalytic converters |
-
-This table summarizes the key specifications for different vehicle models, including their inertia values, overall gear ratios, engine family characteristics, and pollution control system details.

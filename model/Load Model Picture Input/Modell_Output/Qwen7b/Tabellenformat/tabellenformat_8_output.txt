@@ -1,5 +1,5 @@
 | Nr. | Genehmigungsgegenstand | Rechtsakt/ Vorschrift | Geändert durch/ alternative Anforderungen | Nachweis1 Certification |
-| --- | --- | ---- | ---- ---- | --- |
-| 1A | Geräuschpegel | VO(EU)540/2014 | VO( EU)20 19/839 | X |
-| A | Emissionen leichter Pkw und Nutzfahrzeuge (Euro 5 und 6) / Zugang zu Informationen | VO (EG)715/2 007 | VO EU) 2020/1832 | B |
-| B | Verhütung von Brandgefahren (Behälter für flüssigen Kraftstoff) | UN-R34 | AS 03 | B |
+| --- | --- | ------------------- | -------------------------------------- | ---------------------- |
+| 1A | Geräuschpegel | VO(EU)540/2014 | VO(UE)2020/839 | X |
+| A | Emissionen leichter Pkw und Nutzfahrzeuge (Euro 5 und 6) / Zugang zu Informationen | VO((EG)715/2 | VO(U)220018/1832 | B |
+| B | Verhütung von Brandgefahren (Behälter für flüssigen Kraftstoff) | Prevention of fire risks (liquid fuel tanks) | UN-R34 | AS 03 | B |

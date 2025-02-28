@@ -15,6 +15,11 @@ def clean_text(text):
     text = re.sub(r'\s+', ' ', text).strip()  # Ersetzt mehrere Whitespaces (inkl. Tabs/Zeilenumbrüche) durch ein Leerzeichen
     return text.lower()
 
+# def clean_text(text):
+#     """Bereinigt den Text, entfernt Sonderzeichen und korrigiert Leerzeichen."""
+#     text = re.sub(r'[^\w\s]', '', text).lower()  # Entfernt Sonderzeichen
+#     return " ".join(text.split()).strip()  # Entfernt doppelte Leerzeichen & Trim
+
 
 def cosine_similarity(text1, text2):
     """Berechnet die Cosine Similarity zwischen zwei Texten."""
@@ -203,7 +208,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
         if file_name.startswith("Goldstandard_") and file_name.endswith(".txt"):
             index = file_name.split("_")[1].split(".")[0]
             goldstandard_path = os.path.join(goldstandard_directory, file_name)
-            extracted_path = os.path.join(extracted_directory, f"tabellenformat_{index}.txt")
+            extracted_path = os.path.join(extracted_directory, f"tabellenformat_{index}_output.txt")
 
             if os.path.exists(extracted_path):
                 summary, details, metrics = evaluate_extraction(goldstandard_path, extracted_path)
@@ -230,7 +235,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/Tabellenformat",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/Docling/Tabellenformat",
-    output_directory="Ergebnis_Docling",
-    excel_path="Ergebnis_Docling/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen7b/Tabellenformat",
+    output_directory="Ergebnis_Qwen7b",
+    excel_path="Ergebnis_Qwen7b/results.xlsx"
 )

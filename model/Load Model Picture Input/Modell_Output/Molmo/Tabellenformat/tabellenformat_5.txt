@@ -1,5 +1,3 @@
- Here's the extracted text from the document, formatted as a table with correct value pairs:
-
 | Category | Vertical | Horizontal |
 |----------|----------|------------|
 | Main-beam headlamps | Up/Down: 5° | Left/Right: 5° |
@@ -11,5 +9,3 @@
 | Stop lamps | Up/Down: 15° | Left/Right: 45° |
 | Rear retroreflector | Up/Down: 15° | Left/Right: 30° |
 | Side retroreflector | Not applicable |
-
-This table presents the minimum geometric visibility angles for various vehicle lighting components, including their vertical and horizontal angles of incidence.

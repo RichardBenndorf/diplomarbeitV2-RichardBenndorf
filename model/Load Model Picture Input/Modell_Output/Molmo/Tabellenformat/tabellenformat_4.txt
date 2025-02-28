@@ -1,6 +1,4 @@
- Here's the extracted text from the document, formatted as a table with value pairs:
-
-| Component | Fault Code | Monitoring Strategy | Fault Detection Criteria | MI Activation Criteria | Secondary Parameters | Preconditioning | Demonstration Test |
+ | Component | Fault Code | Monitoring Strategy | Fault Detection Criteria | MI Activation Criteria | Secondary Parameters | Preconditioning | Demonstration Test |
 |-----------|------------|---------------------|------------------------|------------------------|------------------------|---------------------|---------------------|
 | VSS Failed Low | P0502 | Continuous | Vehicle speed sensor input is low for > 3.97 seconds while engine is operating at a moderate speed and load | Fault Detected | 2500 > Engine Speed > 4000 | Ignition Cycle | Idle Cycle |
 | VSS Failed High | P0503 | Continuous | Vehicle speed sensor input is high for > 3.97 seconds while engine is operating at a moderate speed and load | Fault Detected | 2500 > Engine Speed > 4000 | Ignition Cycle | Idle Cycle |
@@ -17,5 +15,3 @@
 | ETC Limited Performance Mode | P1510 | Continuous | This DTC is set to indicate the vehicle is operating in Limited Performance Mode | Fault Detected | Ignition Cycle | Idle Cycle |
 | ETC Power Management Mode | P1511 | Continuous | This DTC is set to indicate the vehicle is operating in Power Management Mode | Fault Detected | Ignition Cycle | Idle Cycle |
 | ETC Forced Idle Mode | P1512 | Continuous | This DTC is set to indicate the vehicle is operating in Forced Idle Mode | Fault Detected | Ignition Cycle | Idle Cycle |
-
-This table provides a comprehensive overview of various fault codes, their corresponding monitoring strategies, fault detection criteria, and other relevant information for vehicle diagnostic systems.

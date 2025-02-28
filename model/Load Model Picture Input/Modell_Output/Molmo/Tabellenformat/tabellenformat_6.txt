@@ -1,5 +1,3 @@
- Here's the text from the document, formatted as a table with the correct value pairs:
-
 VERSION(S) #1 #2
 Intake Valve Opens 0.5° BTDC 1.0° BTDC
 Intake Valve Closes 33° ABDC 40.5° ABDC
@@ -14,5 +12,3 @@ Rocker Arm Ratio 1.14 1.14
 Valve Lifter Type Solid Solid
 Valve Lash Dim. (Cold) (mm) 0.15 - 0.20 0.15 - 0.20
 Variable Valve Timing N/A N/A
-
-This table provides a detailed comparison of valve train specifications for two different engine versions, showing various parameters such as intake and exhaust valve timing, cam lift, and rocker arm ratios.

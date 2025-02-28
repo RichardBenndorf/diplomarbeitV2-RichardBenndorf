@@ -6,8 +6,8 @@
 | Crank |
 | Cam Maximum Lift (mm) | 8.067 | 9.8 |
 | Exhaust Valve Opens 33.5º BBDC | Exhaust Valve Closes 4º ATDC | ATDC |
-<ref>Exhaust Valve Duration 228º</ref> | 46.0º BB DC | 3.0 ATDC
-<ref>Ventil Overlap 4.5</ref>
-<ref>Rocker Arm Ratio 114</ref>| 1:14 |  14 |
-< ref>Valve Lifter Type Solid</ref><ref>Valv Lash Dim. (Cold) (mm)</ref> 015 - 020 |  N/A |  - 20 |
+ Exhaust Valve Duration 228º  | 46.0º BB DC | 3.0 ATDC
+ Ventil Overlap 4.5 
+ Rocker Arm Ratio 114 | 1:14 |  14 |
+ Valve Lifter Type Solid  Valv Lash Dim. (Cold) (mm)  015 - 020 |  N/A |  - 20 |
 < |  Variable Valve Timing N/A N/A

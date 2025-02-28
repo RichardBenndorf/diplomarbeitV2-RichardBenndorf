@@ -1,5 +1,3 @@
- Here's the text from the document, formatted as a table with value pairs:
-
 | Item | Subject | Regulatory Act Reference | As Amended By | Applicable To Version |
 |------|---------|------------------------|----------------|------------------------|
 | 8 | Installation of lighting and lighting devices, including rearward visibility | Commission Delegated Regulation (EU) 2014/85 | N/A | All |

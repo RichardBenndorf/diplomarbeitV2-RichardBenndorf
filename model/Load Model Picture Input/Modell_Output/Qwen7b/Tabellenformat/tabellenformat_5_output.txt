@@ -1,14 +1,14 @@
 | In the event of failure of a direction indicator, the other must continue to flash or remain lit. | Yes / No |
 | Visibility of red lights towards the front | Yes/ No |
-<ref>Visibility of white lights towards</ref> the rear | Yes/<ref> No</ref>
-<ref>The front lights move in line with the steering angle</ref><ref>Pass / Fail</ref>
+ Visibility of white lights towards  the rear | Yes/  No 
+ The front lights move in line with the steering angle  Pass / Fail 
 
 | Minimum geometric visibility angles | Vertical [°] | Horizontal [°]| Pass / Fail |
 | Main-beam headlamp(s) | Up/Down: 5 | Left/Right:  5| Pass /Fail |
 | Dipped-beam  headlamp (s) |Up: 15 Down: 0 | Left /Right:45 Outward: 45 Inward:10 | Pass / fail |
 | Front position lamp(s) Up/ Down:15 |Left/Right :80 Outward :89 Inward :45 | Pass/ Fail |
-<|ref>Direction indicator lamps, Front</ref>| Up/  Down: Up/15| Outward 80 Inward 20 |Pass /Fail|
-<ref>Dire</ref>tion indicator lamps , Rear | Up / Down:Up/10| Out ward:80 inward:20| Pass/ fail |
-< ref>Rear position lamp (s)</ref> | Up Down:0 |Left /Right : 89 Outward89 inward:40 |  Pass /fail |
-< |ref>Stop lamp ( s)</ref>|Up/Down :15  | Left Right:4 5  Pass/  Fail |
- | Rear retro-reflector | Up:  Down :10  | Front /Rear :30 | <ref> Pass /  Fail</ ref> not applicable |
+Direction indicator lamps, Front | Up/  Down: Up/15| Outward 80 Inward 20 |Pass /Fail|
+ Dire tion indicator lamps , Rear | Up / Down:Up/10| Out ward:80 inward:20| Pass/ fail |
+Rear position lamp (s)  | Up Down:0 |Left /Right : 89 Outward89 inward:40 |  Pass /fail |
+Stop lamp ( s) |Up/Down :15  | Left Right:4 5  Pass/  Fail |
+ | Rear retro-reflector | Up:  Down :10  | Front /Rear :30 |   Pass /  Fail not applicable |
