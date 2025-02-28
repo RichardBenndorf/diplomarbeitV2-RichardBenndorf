@@ -1,25 +1,15 @@
-| Nr-                   | Benennung                                                                                | Datum                 |
-|-----------------------|------------------------------------------------------------------------------------------|-----------------------|
-| No\_                   | Designation                                                                              | Date                  |
-|                       | Liste der Genehmigungen Zistofapproval                                                   | 10.07.2013            |
-| LE10-75222            | Lage de: Schildes Urd der FIN (2e?-004) Locatior of the plare and IeVINe@3-204           | 01.07.2013            |
-| LET1-75154            | Daverbrense SFTP nach 4DR Eoduranc? brake SFTF PursvadreDR                               | 15.04.,2013           |
-| LET1-75175 LET1-75200 | VorschalkaempferSv 0002 (232-084) Fror: sileDce SV00o2(eb3-034) Fabrikschild (083-084}   | 11.04.2011 10.06.2013 |
-|                       | Marufacturer Staturory Plate (203-004) FIR@eschreibung (003-004)                         | 07.02.2012            |
-| LET1-75261            | VIN discription (033-064}                                                                |                       |
-| LE11-75272 [K7A]      | AO Auspuff Actros 4 KTA Ohp3e AO exhaust Actros 4 K7A OMp?6                              | 08.05.2012            |
-| LE11-75273 [K7I]      | AO Ausfuff Actros4 KTTome?e 40 exhavst Actcs K7IoMp?e                                    | 08.05.2012            |
-| LET1-75274 [K7A]      | AOAusfuff Rcto; 4 KJA OM470, OM47t.OM1 473 AO exhaust Actros 4 K7A OM47o, OM471 OM473    | 08.06.2012            |
-| LE11-75275 [K7B]      | AO Auspuff Actos 4 K7B OM47D, OM471 OM 473 40 exhavst Actcs K7B OM47o, cmetiOM473        | 08.05.2012            |
-| LE11-75270 [K7C]      | AO Auspuff Actos 4 KTC OM47d. Om47i, ON 473 AO exhavst Actros 4 K7C OM470, OM471, OM 473 | 25.03.2013            |
-| LE11-75277 [K7D]      | AO Auspuff Actros 4 K7DOm47o, Om471,OM 473 AO exhavst Actos 4 K7doM47d, OM47i,OM473      | 08.05.2012            |
-| LE11-75272 [Kro]      | AO Auspuff Actos 4 Kto OM47o, Om471,OM 473 4oexhavst BcVos KaoMa7 Oua71 ow472            | 08.112011             |
-| LE12-75010 [K7E]      | AO Auspuff Actros 4 KTE OM470, OM471.OM 473 4 exhavst Actcs KEoM47C, Omyti OM 473        | 20.04.2012            |
-| LE12-75014 [KTN]      | AO Auspuff Actros 4 KTN OM470. Om4ti, ON 473 4oexhavst Bcuo54 KJN OVa7d OVa7lOM473       | 20.042012             |
-| LE12-75015 [K7E]      | AO Auspuff Actos4 KTEOw03e 4oexnaust ECuos KEOM036                                       | 24.04.2012            |
-| LE12-75020            | Zeichrung Baureihe 063-084 Prwing Model :erie; 003-964                                   | 23,012012             |
-| Toss7                 | Dosiereinheft AdBlue DE 2001 Dosing Uoimt EdBlue                                         | 08.03.2012            |
-| To55B                 | Versorgurgseinheit AdBlve Supply Ucit Edele                                              | 08.03.2012            |
-| Tose7                 | HC Dosiereinheit DE 2002 HC Weterng Unit                                                 | 03.03.2011            |
-| To56B                 | Nox-Sensor Nox-ersor                                                                     | 18.05.2012            |
-| To572                 | Funktionsschema Abjasqute OM471 EURo 5 Eunstion digam emisior Beformacce                 | 03.03.2011            |
+| VERSION[S}                    | ####P#     | ####T#       |
+|-------------------------------|------------|--------------|
+| Intake Valve Opens            | 0.5" BTDC  | 1.0' BTDC    |
+| Intake Valve Closes           | 33' ABDC   | 405 ABDC     |
+| Intake Valve Duration         | 214' Crank | 221.5' Crank |
+| Intake Cam Maximum Lift {mm}  | 8.067      | 9.8          |
+| Exhaust Valve Opens           | 33.5' BBDC | 46.0 BBDC    |
+| Exhaust ValveCloses           | 4 ATDC     | 20' ATDC     |
+| Exhaust Valve Duration        | 217.5'     | 228'         |
+| Exhaust Cam Maximum Lift (mm) |            | 9.20         |
+| Valve Overlap                 | 4.5'       |              |
+| Rocker Arm Ratio              | 1.14       | 114          |
+| Valve Lifter Type             | Solid      | Solid        |
+| Valve Lash Dim. (Cold} (mm)   | 0.15-0.20  | 0.15 ~ 0.20  |
+| Variable Valve Timing         | N/A        | NA           |

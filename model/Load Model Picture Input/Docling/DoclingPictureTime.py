@@ -3,8 +3,8 @@ import time
 from docling.document_converter import DocumentConverter
 
 # Verzeichnisse definieren
-input_directory = "../Bilder/uneinheitliches Layout"
-output_directory = "../Modell_Output/Docling/uneinheitliches Layout"
+input_directory = "../Bilder/Tabellenformat"
+output_directory = "../Modell_Output/Docling/Tabellenformat"
 durations_path = os.path.join(output_directory, "durations.txt")  # Pfad für die Zeitmessungsdatei
 
 # Sicherstellen, dass das Output-Verzeichnis existiert

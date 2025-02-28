@@ -1,10 +1,10 @@
-Modell Ladezeit, 4.71 Sekunden
+Modell Ladezeit, 4.66 Sekunden
 Dateiname, Durchlaufzeit (Sekunden)
-tabellenformat_2.png, 2.58
-tabellenformat_4.png, 6.08
-tabellenformat_3.png, 2.39
-tabellenformat_7.png, 3.66
-tabellenformat_5.png, 3.59
-tabellenformat_8.png, 3.85
-tabellenformat_1.png, 1.96
-tabellenformat_6.png, 3.43
+tabellenformat_2.png, 2.55
+tabellenformat_4.png, 6.06
+tabellenformat_3.png, 2.40
+tabellenformat_7.png, 3.25
+tabellenformat_5.png, 3.55
+tabellenformat_8.png, 3.84
+tabellenformat_1.png, 1.98
+tabellenformat_6.png, 2.02
