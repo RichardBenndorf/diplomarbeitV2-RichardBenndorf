@@ -1,0 +1,10 @@
+1. Front master cylinder Ø 11mm
+2. Floating brake disc front Ø 300mm
+3. Brake disk rear Ø 240mm
+4. Rear master cylinder Ø 13mm
+5. Brake fluid reservoir
+6. Wheel speed sensor (WSS) rear
+7. Rear brake calliper
+8. Wheel speed sensor (WSS) front
+9. Front brake calliper
+10. ABS modulator Bosch 9MP

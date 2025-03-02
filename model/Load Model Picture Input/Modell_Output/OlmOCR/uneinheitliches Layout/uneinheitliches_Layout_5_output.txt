@@ -1,0 +1,47 @@
+3.2.12.2.7
+On-Board-Diagnosesystem (OBD-System) (ja/nein):
+On-board-diagnostic (OBD) system (yes/no):
+
+ja
+yes
+
+3.2.12.2.8
+Andere Einrichtung:
+Other system:
+
+entfällt
+not applicable
+
+3.2.12.2.9
+Drehmomentbegrenzer: ja/nein
+Torque limiter: yes/no
+
+entfällt
+not applicable
+
+3.2.12.2.10
+Periodisch arbeitendes Regenerationssystem: (nachstehende Angaben sind für jede selbstständige Einheit einzeln anzugeben)
+Periodically regenerating system: (provide the information below for each separate unit)
+
+3.2.12.2.10.1
+Verfahren oder Einrichtung zur Regenerierung, Beschreibung und/oder Zeichnung:
+Method or system of regeneration, description and/or drawing:
+
+diskontinuierliche Regeneration
+non-continuous regeneration
+
+3.2.12.2.11.1
+Art und Konzentration des erforderlichen Reagens:
+Type and concentration of reagent needed:
+
+UREA, Konzentration gemäß ISO 22241-1
+(Aktivierung Warnsystem außerhalb Konzentrationsbereich von 27,8 – 46 Gew.-% Harnstoff)
+UREA, concentration according to ISO 22241-1
+(activation inducement system outside concentration range from 27.8 – 46 % w/w urea)
+
+3.2.13.1
+Anbringungsstelle des Symbols für den Absorptionskoeffizienten (nur bei Selbstzündungsmotoren):
+Location of the absorption coefficient symbol (compression ignition engines only):
+
+beim Fabrikschild wahlweise auf dem Fabrikschild
+near vehicle plate opt. on the vehicle plate"}

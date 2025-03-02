@@ -1,0 +1,12 @@
+| Item | Subject                                         | Regulatory act reference                           | As amended by          | Applicable to version |
+|------|-------------------------------------------------|---------------------------------------------------|------------------------|-----------------------|
+| 8    | Installation of lighting and light-signalling devices, including automatic switching of lighting | Commission Delegated Regulation (EU) No 2014/  Amex IX    | N/A                    |                       |
+| 9    | Roadside protective structure (ROPS)           | Commission Delegated Regulation (EU) No 2014/ Amex X     | N/A                    |                       |
+| 10   | Safety-belt anchorages and safety-belt         | Commission Delegated Regulation (EU) No 2014/ Amex XI    | N/A                    |                       |
+| 11   | Steering ability, cornering properties and stability | Commission Delegated Regulation (EU) No 2014/ Amex XII   | N/A                    |                       |
+| 12   | Speed-reduction systems                         | Commission Delegated Regulation (EU) No 2014/ Amex XIII  | N/A                    |                       |
+| 13   | Maximum continuous speed limitation plate and its location on the vehicle | Commission Delegated Regulation (EU) No 2014/ Amex XIV   | N/A                    |                       |
+| 14   | Maximum continuous total power limitation       | Commission Delegated Regulation (EU) No 2014/ Amex XV    | N/A                    |                       |
+| 15   | Acceleration                                  | Commission Delegated Regulation (EU) No 2014/ Amex XVI   | N/A                    |                       |
+| 16   | Requirements on vehicle structure limitation by design | Commission Delegated Regulation (EU) No 2014/ Amex XVII  | N/A                    |                       |
+| 17   | Identification of the vehicle type            | Commission Delegated

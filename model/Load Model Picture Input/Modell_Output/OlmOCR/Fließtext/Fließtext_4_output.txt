@@ -1,0 +1,25 @@
+The TMAP Sensor, mounted on the throttle induction module assembly, monitors both manifold air pressure and intake air temperature. The MAP portion of the sensor is used to detect engine load for proper fuel and spark timing. The data provided by the intake air temperature sensor is used in conjunction with the data from the MAP sensor to determine oxygen content (air density) for adjustment to fuel delivery during cold start, warm up and general operation.
+
+**Throttle Position Sensor (TPS)**
+
+The throttle induction module is fitted with one throttle position sensors (TPS). The sensor is a single slope contacting potentiometer. The throttle position sensors provide information about throttle angle for transient fuel and spark timing.
+
+**Crankshaft Position Sensor (CKP Sensor)**
+
+The CKP Sensor is a magnetic pickup device mounted on the left hand primary cover near the top. To calculate engine speed for the ECM, the sensor picks up signals from the presence of 32 teeth machined into the left flywheel cheek. A gap, created by the removal of two teeth, establishes a Top Dead Center (TDC) reference.
+
+**Engine Coolant Temperature Sensor (ECT Sensor)** - The ECT Sensor monitors coolant temperature in the thermostat housing area between the front and rear cylinder. This information is used by the ECM during engine warm-up periods for the purpose of idle speed adjustment to determine injector pulse width or fueling requirements and spark advance during elevated temperatures.
+
+**Throttle Position Sensor (TP Sensor)** - The TP Sensor is a potentiometer mounted on the side of the Induction Module and attached to the end of the throttle shaft. It provides the ECM with information about throttle angle for transient fuel and spark timing.
+
+**Oxygen Sensor (O2) Sensor** - Two heated O2 Sensors are used, one in each exhaust pipe located downstream of the exhaust ports. The O2 Sensor measures oxygen in the exhaust system. The ECM uses input from the O2 Sensor to keep the air fuel mixture balanced.
+
+**OTHER FEATURES:**
+
+**Wire Harnesses** - The EFI wire harness is the only wire harness on the vehicle.
+
+**Low Level Fuel Warning Lamp** - A fuel gauge and a low fuel level warning lamp have been provided. The lamp is activated when the fuel level reaches about 1/2 to 1 gallon and stays lit until the engine is turned off or fuel is added. The lamp is designed so that it will not blink when movement of the vehicle causes the fuel to slosh inside the tank.
+
+**Fuses and Relays** - One electrical relay is provided, which powers the fuel pump, ignition coil and injectors. To provide circuit protection, the appropriate fuses are supplied in a sealed fuse holder. Another holder at the same location contains spare fuses.
+
+**Check Engine Lamp** - The Check Engine Lamp on the instrument panel indicates the existence of a fault condition.

@@ -1,0 +1,15 @@
+Allgemeine Beschreibung der Zugmaschine 35 t Bullig
+
+(Achserlepper) Ausführung / 35.6 A und B
+
+Der 35 t Achserlepper wird in zwei Ausführungen hergestellt:
+
+1. Normalausführung / 35.6 A
+
+Der Schlepper besitzt 6 Getriebegänge vorwärts und 2 Rückwärtsgänge mit 2 Schalthebeln. Da die Fahrgeschwindigkeit 13 km beträgt, ist er an den Vorder- und Hinteraxlen luftbereift. Der Schlepper hat eine Hinterachsführung und eine feststehende Getriebenebene. Der Motor ist ein Zweizylinder-Gleichstrommotor mit elektrischer Anlaßzündung. Die Ingangsetzung erfolgt durch Anwerfen mittels Handrad, das abnehmbar am Lenkstock angeordnet ist. Die Kühlung des Motors geschieht durch Kerosinphon-Kühler umlaufkühlung und Kühlfächer. Die Kraftübertragung erfolgt durch eine Zahnradkupplung. Die Schmierung ist eine Frischöl-Umlaufschmierung. Der Schlepper hat zum Schutz des Fahrers Plattform und Seitenbleche. Er besitzt elektrische Beleuchtung nach den Bestimmungen der St.Vo. Die Lenkung erfolgt durch Achsenkennlenkung.
+
+2. / 35.6 B mit Sechszylindertriebe, jedoch drei Gänge ausgestattet
+
+Der Schlepper wird mit Eisenbahn ausgerüstet, für Straßenfahrten werden Laufringe angebracht. Damit er nicht über 3 km Fahrgeschwindigkeit entwickeln kann, wurden die Oberen Gänge gesperrt, wobei ein Schalthebel entfernt und die Getriebenebene durch Flügelflansch verschlossen wird. Die Bremsen sind die gleichen wie unter 1. Der Motor, die Ingangsetzung, die Kupplung, die Kühlung, die Schmierung, der Aufbau, die elektrische Beleuchtung und Lenkung sind ebenfalls die gleichen wie unter 1.
+
+Die zwei Ausführungen haben den gleichen Aufbau, Motor und Getriebe sind als Blockkonstruktion in Lenz-erlitig ausgeführt. Der Motor mit Ein- und Zweizylinderkupplung mit Kugelscheibe für Antrieb von landwirtschaftlichen Maschinen. Die Kraftübertragung vom Motor auf die Hinterachse erfolgt durch gehärtete Zahn-"}

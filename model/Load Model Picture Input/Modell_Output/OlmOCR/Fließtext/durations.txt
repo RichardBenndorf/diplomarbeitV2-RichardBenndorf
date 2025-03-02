@@ -1,0 +1,9 @@
+Modell Ladezeit: 6.09 Sekunden
+Fließtext_1.png, 17.97 Sekunden
+Fließtext_2.png, 26.96 Sekunden
+Fließtext_3.png, 18.67 Sekunden
+Fließtext_4.png, 24.43 Sekunden
+Fließtext_5.png, 28.55 Sekunden
+Fließtext_6.png, 16.51 Sekunden
+Fließtext_7.png, 18.67 Sekunden
+Fließtext_8.png, 38.13 Sekunden

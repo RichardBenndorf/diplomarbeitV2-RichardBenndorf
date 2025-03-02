@@ -1,0 +1,9 @@
+Modell Ladezeit: 6.01 Sekunden
+mehrspaltiges_Layout_1.png, 17.74 Sekunden
+mehrspaltiges_Layout_2.png, 13.25 Sekunden
+mehrspaltiges_Layout_3.png, 26.76 Sekunden
+mehrspaltiges_Layout_4.png, 24.57 Sekunden
+mehrspaltiges_Layout_5.png, 20.58 Sekunden
+mehrspaltiges_Layout_6.png, 13.56 Sekunden
+mehrspaltiges_Layout_7.png, 20.57 Sekunden
+mehrspaltiges_Layout_8.png, 16.03 Sekunden

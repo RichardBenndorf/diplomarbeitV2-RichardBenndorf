@@ -1,0 +1,32 @@
+18.) Kraftübertragung:
+   a) Art:
+      Motor, Zweischienenkupplung, Zwillingsräder, Sechsganggetriebe, Hinterscheibe mit Kegelradausgleichsgetriebe, Hinterachse
+
+   b) Übersetzung:
+      Zwischenräder 0,966
+
+      Getriebe:
+      1. Gang ............... 9,65
+      2. \" .................. 7,24
+      3. \" .................. 5,41
+      R.1 \" .................. 7,65
+      4. \" .................. 3,38
+      5. \" .................. 2,54 \\{ Bei B gesperrt, Schalthebel nicht vorhanden
+      6. \" .................. 1,91
+      R.2 \" .................. 2,68
+
+      Hinterscheibe: 4,21
+
+19.) Art der Schalldämpfung:
+      Kegelige Haube mit gelochtem Prallteiler und Siebeinsatz, Auslaß nach oben
+
+20.) Fassungsvermögen des Kraftstoffbehälters 90 ltr (Benzin) + 7 Ltr (Sohöl)
+
+22.) Bemerkungen:
+   Zu Ziffer 4) a) Eigengewicht des Fahrzeugs:
+      Das Eigengewicht des Fahrzeugs erhöht sich durch Anbau
+      eines Fahrersitzdaches um 60 kg
+      einer Windschutzscheibe um 30 kg
+      von Kotflügeln hinten um 50 kg
+      von Kotflügeln vorn und hinten um 95 kg
+      einer Zapfwelle um 50 kg"}

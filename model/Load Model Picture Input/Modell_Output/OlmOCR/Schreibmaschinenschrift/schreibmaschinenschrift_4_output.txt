@@ -1,0 +1,30 @@
+Zu Ziffer 7) Art des Aufbaus:
+
+Wird das Fahrzeug mit einem Fahrersitzdach ausgerüstet, so ändert sich:
+
+o) bei Zugmaschinen: festes Wetterdach mit abnehmbaren Seitenteilen
+
+Zu Ziff. 8) Hase über alles:
+
+Bei Ausrüstung mit Fahrersitzdach ändern sich folgende Angaben:
+
+| Länge: | 3408 mm | 3390 mm |
+| Höhe: | 2452 mm |
+
+Durch Anbau von Kotflügeln ändert sich:
+
+| Breite: | unverändert | 1705 mm |
+
+Der Fahrzeugtyp entspricht in folgenden nur den Vorschriften für Zugmaschinen in land- und forstwirtschaftlichen Betrieben:
+
+| Scheinwerferhöhe über Fahrh. (§ 50,3 StVZO) | Eisenbahn (§ 56,4 StVZO) |
+| --- | --- |
+| Scheinwerferhöhe über Fahrh. (§ 50,3 StVZO) |
+
+Der Fahrzeugtyp entspricht vorstehenden Angaben und genügt den Anforderungen der Straßenverkehrs-Zulassungs-Ordnung sowie den hierzu erlassenen Anweisungen des Reichsverkehrsministers mit folgenden Ausnahmen:
+
+1.) Die in die Kraftstoffleitung (Rohrleitung) eingebaute Absperrvorrichtung ist von Fahrersitz aus nicht be- dienbar (§ 46,2 StVZO)
+
+2.) Fahrgeräusch und Auspuffgeräusch überschreiten 95 Phon (§ 49,1 u. 2 StVZO)
+
+3.) Bei den Fahrzeugen ohne Kotflügel ist der Abstand der Schlußlichter voneinander 100 cm statt mindestens 110 cm (§ 53,1 StVZO)"}

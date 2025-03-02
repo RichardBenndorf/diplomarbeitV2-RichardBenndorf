@@ -1,0 +1,7 @@
+- Kühlwasser-Ausgang: Coolant Outlet
+- Kühlwasser-Eingang: Coolant Inlet
+- AdBlue Ausgang: AdBlue Outlet
+- AdBlue Eingang: AdBlue Inlet
+- ACM-Box: Dosing Unit
+- LU Versorgungseinheit 12/24 V: LU Supply Unit 12/24 V
+- Durchfluß bei 2500 U/min gegen 10bar: Flow Rate At 2500rpm Toward 10bar

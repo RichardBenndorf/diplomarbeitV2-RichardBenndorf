@@ -1,0 +1,15 @@
+| Visibility geometric minimum geometric angles | Vertical [°]     | Horizontal [°]      | Pass / Fail |
+|-----------------------------------------------|------------------|----------------------|-------------|
+| Main-beam headlamp(s)                        | Up/Down: 5       | Left/Right: 5        | Pass / Fail |
+|                                               |                  | Outward: 80          |             |
+|                                               |                  | Inward: 20           |             |
+| Front position lamps                         | Up/Down: 15      | Left/Right: 15       | Pass / Fail |
+|                                               |                  | Outward: 80          |             |
+|                                               |                  | Inward: 20           |             |
+| Direction indicator lamps                     | Up/Down: 15      | Left/Right: 15       | Pass / Fail |
+|                                               |                  | Outward: 80          |             |
+|                                               |                  | Inward: 20           |             |
+| Stop lamp                                    | Up/Down: 15      | Left/Right: 5        | Pass / Fail |
+|                                               |                  | Outward: 80          |             |
+|                                               |                  | Inward: 20           |             |
+| Side retro-reflector                         | Up/Down: 5       | Front/Rear: 30       | Not applicable |

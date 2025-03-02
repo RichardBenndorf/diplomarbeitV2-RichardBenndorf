@@ -1,0 +1,12 @@
+| Heading No | Separate Directive | Subject                                      | Approval No | Extension date | Variants and versions covered |
+|------------|--------------------|----------------------------------------------|-------------|----------------|-------------------------------|
+| 18         | 95/1/EC            | Maximum torque and net power of engine      |             |                |                               |
+| 19         | 97/24/EC (C7)      | Anti-tampering measures for mopeds and motorcycles |         |                |                               |
+| 20         | 97/24/EC (C1)      | Fuel tank                                    |             |                |                               |
+| 21         | 92/61/EEC          | Maximum design speed of vehicle              |             |                |                               |
+| 26         | 97/27/EEC (C10)    | Trailer coupling devices                      |             |                |                               |
+| 27         | 97/24/EC (C1)      | Tyres                                        |             |                |                               |
+| 32         | 93/31/EEC          | Braking system                               |             |                |                               |
+| 33         | 93/92/EEC (C2)     | Lighting and light-signalling devices on the vehicle |       |                |                               |
+| 34         | 93/93/EEC          | Audible warning device                        |             |                |                               |
+| 36         | 93/37/EEC (C2)     | Position for the mounting of rear coupling devices |         |                |                               |

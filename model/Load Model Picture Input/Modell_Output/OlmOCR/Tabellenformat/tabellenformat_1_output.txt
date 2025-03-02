@@ -1,0 +1,15 @@
+| Heading No | Separate Directive No | Subject | Approval No (1) | Extension date | Variants and versions covered |
+|------------|-----------------------|---------|-----------------|---------------|-------------------------------|
+| 18         | 95/1/EC               | Maximum torque and maximum net power of engine |                |               |                               |
+| 19         | 97/24/EC (C7)         | Anti-tampering measures for mopeds and motorcycles |                |               |                               |
+| 20         | 97/24/EC (C6)         | Fuel tank |                |               |                               |
+| 25         | 95/1/EC               | Maximum design speed of vehicle |                |               |                               |
+| 26         | 93/93/EEC             | Masses and dimensions |                |               |                               |
+| 27         | 97/24/EC (C10)        | Trailer coupling devices |                |               |                               |
+| 28         | 97/24/EC (C5)         | Anti-air pollution measures |                |               |                               |
+| 29         | 97/24/EC (C1)         | Tyres |                |               |                               |
+| 31         | 93/14/EEC             | Braking system |                |               |                               |
+| 32         | 93/92/EEC             | Installation of lighting and light-signalling devices on the vehicle |                |               |                               |
+| 33         | 97/24/EC (C2)         | Lighting and light-signalling devices |                |               |                               |
+| 34         | 93/30/EEC             | Audible warning device |                |               |                               |
+| 35         | 93/94/EC              | Position for the mounting of rear registration plate |                |               |                               |

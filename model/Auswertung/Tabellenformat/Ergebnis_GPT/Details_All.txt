@@ -1,0 +1,1932 @@
+Durchlauf 7:KORREKT: classification
+KORREKT: criteria
+KORREKT: description
+FAST KORREKT FEHLEND: xg1e1
+FAST KORREKT FEHLEND: xg1e2
+KORREKT: xg750
+KORREKT: xg750a
+KORREKT: 1
+KORREKT: vehicle
+FEHLT: xg1
+KORREKT: 11
+FEHLT: category
+FEHLT: l3e
+KORREKT: 12
+KORREKT: subcategory
+FAST KORREKT FEHLEND: a3
+KORREKT: 13
+KORREKT: the
+FEHLT: inertia
+KORREKT: of
+KORREKT: a
+KORREKT: vehicle
+FAST KORREKT FEHLEND: varians
+KORREKT: or
+FEHLT: versions
+FEHLT: within
+FEHLT: two
+FEHLT: inertia
+FEHLT: categories
+FEHLT: above
+KORREKT: or
+FEHLT: below
+KORREKT: the
+FEHLT: nominal
+FEHLT: inertia
+FEHLT: category
+FAST KORREKT FEHLEND: 310
+KORREKT: 14
+FEHLT: overall
+FEHLT: gear
+FEHLT: ratios
+KORREKT: 8
+FAST KORREKT FEHLEND: 0
+KORREKT: 2
+KORREKT: propulsion
+KORREKT: family
+KORREKT: characteristics
+FAST KORREKT FEHLEND: 21
+KORREKT: number
+KORREKT: of
+FEHLT: engines
+KORREKT: or
+FEHLT: electric
+FEHLT: motors
+KORREKT: 1
+FAST KORREKT FEHLEND: 22
+FEHLT: hybrid
+FAST KORREKT FEHLEND: operation
+KORREKT: modes
+KORREKT: parallel
+KORREKT: sequential
+KORREKT: other
+KORREKT: na
+FAST KORREKT FEHLEND: 23
+KORREKT: number
+KORREKT: of
+FEHLT: cylinders
+KORREKT: of
+KORREKT: the
+KORREKT: combustion
+KORREKT: engine
+KORREKT: 2
+FAST KORREKT FEHLEND: 24
+KORREKT: engine
+FEHLT: capacity
+KORREKT: 2
+KORREKT: 1
+KORREKT: of
+KORREKT: the
+KORREKT: combustion
+KORREKT: engine
+FAST KORREKT FEHLEND: 750
+FAST KORREKT FEHLEND: 25
+KORREKT: number
+FEHLT: and
+KORREKT: control
+FEHLT: variable
+FEHLT: cam
+FEHLT: phasing
+KORREKT: or
+FEHLT: lift
+KORREKT: of
+KORREKT: combustion
+KORREKT: engine
+FEHLT: valves
+FEHLT: 2in
+FEHLT: 2out
+FEHLT: 26
+FEHLT: monofuel
+FEHLT: bifuel
+FEHLT: flex
+KORREKT: fuel
+FEHLT: h
+KORREKT: 2
+FEHLT: ng
+FEHLT: multifuel
+FEHLT: mono
+KORREKT: fuel
+FEHLT: 27
+KORREKT: fuel
+KORREKT: system
+FAST KORREKT FEHLEND: carburettor
+FEHLT: scavening
+FEHLT: port
+FEHLT: port
+KORREKT: fuel
+KORREKT: injection
+FEHLT: direct
+KORREKT: fuel
+KORREKT: injection
+FEHLT: common
+FEHLT: rail
+FEHLT: pumpinjector
+KORREKT: other
+FEHLT: port
+KORREKT: fuel
+KORREKT: injection
+FEHLT: 28
+KORREKT: fuel
+FEHLT: storage
+KORREKT: 2
+FEHLT: 131
+FEHLT: 29
+KORREKT: type
+KORREKT: of
+FEHLT: cooling
+KORREKT: system
+KORREKT: of
+KORREKT: combustion
+KORREKT: engine
+FEHLT: liquid
+FAST KORREKT FEHLEND: 210
+KORREKT: combustion
+FEHLT: cycle
+FEHLT: pi
+FEHLT: ci
+FEHLT: twostroke
+FEHLT: fourstroke
+KORREKT: other
+FEHLT: fourstroke
+FEHLT: 211
+FEHLT: intake
+FEHLT: air
+KORREKT: system
+FEHLT: naturally
+FEHLT: aspirated
+FEHLT: charged
+FEHLT: turbocharger
+FEHLT: supercharger
+FEHLT: intercooler
+FEHLT: boost
+KORREKT: control
+FEHLT: and
+FEHLT: air
+FEHLT: induction
+FEHLT: naturally
+FEHLT: aspirated
+FEHLT: 212
+KORREKT: control
+KORREKT: mechanical
+KORREKT: throttle
+KORREKT: electronic
+KORREKT: throttle
+KORREKT: control
+FEHLT: no
+KORREKT: throttle
+KORREKT: mechanical
+KORREKT: 3
+KORREKT: pollution
+KORREKT: control
+KORREKT: system
+KORREKT: characteristics
+FEHLT: 31
+KORREKT: propulsion
+KORREKT: exhaust
+KORREKT: not
+KORREKT: equipped
+KORREKT: with
+KORREKT: catalytic
+FAST KORREKT FEHLEND: converters
+KORREKT: catalytic
+FAST KORREKT FEHLEND: converters
+FEHLT: 31
+KORREKT: catalytic
+FAST KORREKT FEHLEND: converters
+KORREKT: type
+FEHLT: 311
+KORREKT: number
+FEHLT: and
+FEHLT: elements
+KORREKT: of
+KORREKT: catalytic
+FAST KORREKT FEHLEND: converters
+KORREKT: 1
+FEHLT: 312
+FAST KORREKT FEHLEND: size
+KORREKT: of
+KORREKT: catalytic
+FAST KORREKT FEHLEND: converters
+FEHLT: volume
+KORREKT: of
+FEHLT: monoliths
+KORREKT: 15
+KORREKT: 398
+FEHLT: 313
+FAST KORREKT FEHLEND: operation
+FEHLT: principle
+KORREKT: of
+KORREKT: catalytic
+FEHLT: activity
+FEHLT: oxidising
+FEHLT: threeway
+FEHLT: heated
+FAST KORREKT FEHLEND: scr
+KORREKT: other
+FEHLT: three
+FEHLT: way
+FEHLT: 314
+FEHLT: precious
+FEHLT: metal
+FEHLT: load
+KORREKT: identical
+KORREKT: or
+KORREKT: higher
+FEHLT: 40
+FEHLT: gft3
+FEHLT: 3141
+FEHLT: precious
+FEHLT: metal
+FEHLT: ratio
+KORREKT: 15
+FEHLT: 101
+FEHLT: 315
+FEHLT: substrate
+FEHLT: structure
+FEHLT: and
+FEHLT: material
+FAST KORREKT FEHLEND: basf
+KORREKT: rex1281
+FEHLT: 316
+FEHLT: cell
+FEHLT: density
+KORREKT: 300
+KORREKT: cpsi
+FEHLT: 317
+KORREKT: type
+KORREKT: of
+FEHLT: casing
+FAST KORREKT FEHLEND: for
+KORREKT: the
+KORREKT: catalytic
+FAST KORREKT FEHLEND: converters
+FEHLT: 32
+KORREKT: propulsion
+KORREKT: exhaust
+KORREKT: not
+KORREKT: equipped
+KORREKT: with
+FEHLT: particulate
+FEHLT: filter
+FEHLT: pf
+FAST KORREKT ZUSÄTZLICH: sure
+ZUSÄTZLICH: heres
+ZUSÄTZLICH: extracted
+ZUSÄTZLICH: text
+FAST KORREKT ZUSÄTZLICH: from
+ZUSÄTZLICH: document
+FAST KORREKT ZUSÄTZLICH: in
+ZUSÄTZLICH: table
+ZUSÄTZLICH: format
+FAST KORREKT ZUSÄTZLICH: xge1
+FAST KORREKT ZUSÄTZLICH: xge1e
+FAST KORREKT ZUSÄTZLICH: variantss
+FAST KORREKT ZUSÄTZLICH: operational
+FAST KORREKT ZUSÄTZLICH: 4
+ZUSÄTZLICH: different
+ZUSÄTZLICH: fuels
+FAST KORREKT ZUSÄTZLICH: 5
+FAST KORREKT ZUSÄTZLICH: carburetor
+FAST KORREKT ZUSÄTZLICH: 6
+ZUSÄTZLICH: internal
+FAST KORREKT ZUSÄTZLICH: 7
+FAST KORREKT ZUSÄTZLICH: sub
+FAST KORREKT ZUSÄTZLICH: 9
+FAST KORREKT ZUSÄTZLICH: 10
+FAST KORREKT ZUSÄTZLICH: converter
+FAST KORREKT ZUSÄTZLICH: converter
+FAST KORREKT ZUSÄTZLICH: converter
+FAST KORREKT ZUSÄTZLICH: converter
+FAST KORREKT ZUSÄTZLICH: 4
+ZUSÄTZLICH: discharge
+ZUSÄTZLICH: pressure
+FAST KORREKT ZUSÄTZLICH: 400
+FAST KORREKT ZUSÄTZLICH: 5
+ZUSÄTZLICH: catalysts
+FAST KORREKT ZUSÄTZLICH: baff
+Durchlauf 5:FEHLT: in
+FEHLT: the
+FEHLT: event
+FEHLT: of
+FEHLT: failure
+FEHLT: of
+FEHLT: a
+KORREKT: direction
+KORREKT: indicator
+FEHLT: the
+FEHLT: other
+FEHLT: must
+FEHLT: continue
+FEHLT: to
+FEHLT: flash
+FEHLT: or
+FEHLT: remain
+FEHLT: lit
+FEHLT: yes
+FEHLT: no
+KORREKT: visibility
+FEHLT: of
+FEHLT: red
+FEHLT: lights
+FEHLT: towards
+FEHLT: the
+KORREKT: front
+FEHLT: yes
+FEHLT: no
+KORREKT: visibility
+FEHLT: of
+FEHLT: white
+FEHLT: lights
+FEHLT: towards
+FEHLT: the
+FEHLT: rear
+FEHLT: yes
+FEHLT: no
+FEHLT: the
+KORREKT: front
+FEHLT: lights
+FEHLT: move
+FEHLT: in
+FEHLT: line
+FEHLT: with
+FEHLT: the
+FEHLT: steering
+FEHLT: angle
+FEHLT: yes
+FEHLT: no
+KORREKT: vertical
+FEHLT: inclination
+FEHLT: of
+FEHLT: the
+FEHLT: dipped
+FEHLT: beam
+FEHLT: headlamp
+KORREKT: pass
+KORREKT: fail
+KORREKT: minimum
+KORREKT: geometric
+KORREKT: visibility
+KORREKT: angles
+KORREKT: vertical
+KORREKT: horizontal
+KORREKT: mainbeam
+KORREKT: headlamps
+KORREKT: updown
+KORREKT: 5
+KORREKT: leftright
+KORREKT: 5
+KORREKT: pass
+KORREKT: fail
+FEHLT: dippedbeam
+KORREKT: headlamps
+FEHLT: up
+KORREKT: 15
+FEHLT: down
+FEHLT: 10
+KORREKT: leftright
+FEHLT: 45
+KORREKT: outward
+FEHLT: 45
+KORREKT: inward
+FEHLT: 10
+KORREKT: pass
+KORREKT: fail
+KORREKT: front
+KORREKT: position
+KORREKT: lamps
+KORREKT: updown
+KORREKT: 15
+KORREKT: leftright
+KORREKT: 80
+KORREKT: outward
+KORREKT: 80
+KORREKT: inward
+FEHLT: 45
+KORREKT: pass
+KORREKT: fail
+KORREKT: direction
+KORREKT: indicator
+KORREKT: lamps
+KORREKT: front
+KORREKT: updown
+KORREKT: 15
+KORREKT: outward
+KORREKT: 80
+KORREKT: inward
+KORREKT: 20
+KORREKT: pass
+KORREKT: fail
+KORREKT: direction
+KORREKT: indicator
+KORREKT: lamps
+FEHLT: rear
+KORREKT: updown
+KORREKT: 15
+KORREKT: outward
+KORREKT: 80
+KORREKT: inward
+KORREKT: 20
+KORREKT: pass
+KORREKT: fail
+FEHLT: rear
+KORREKT: position
+KORREKT: lamps
+KORREKT: updown
+KORREKT: 15
+KORREKT: leftright
+KORREKT: 80
+KORREKT: outward
+KORREKT: 80
+KORREKT: inward
+FEHLT: 45
+KORREKT: pass
+KORREKT: fail
+KORREKT: stop
+KORREKT: lamps
+KORREKT: updown
+KORREKT: 15
+KORREKT: leftright
+FEHLT: 45
+KORREKT: pass
+KORREKT: fail
+FEHLT: rear
+KORREKT: retroreflector
+KORREKT: updown
+KORREKT: 15
+KORREKT: leftright
+KORREKT: 30
+KORREKT: pass
+KORREKT: fail
+KORREKT: side
+KORREKT: retroreflector
+FEHLT: up
+KORREKT: 15
+FEHLT: down
+KORREKT: 5
+KORREKT: frontrear
+KORREKT: 30
+KORREKT: pass
+KORREKT: fail
+KORREKT: not
+KORREKT: applicable
+ZUSÄTZLICH: lamp
+Durchlauf 6:KORREKT: versions
+KORREKT: p
+KORREKT: t
+KORREKT: intake
+KORREKT: valve
+KORREKT: opens
+KORREKT: 05
+KORREKT: btdc
+KORREKT: 10
+KORREKT: btdc
+KORREKT: intake
+KORREKT: valve
+KORREKT: closes
+FAST KORREKT FEHLEND: 33
+KORREKT: abdc
+FAST KORREKT FEHLEND: 405
+KORREKT: abdc
+KORREKT: intake
+KORREKT: valve
+FEHLT: duration
+KORREKT: 214
+KORREKT: crank
+KORREKT: 2215
+KORREKT: crank
+KORREKT: intake
+KORREKT: cam
+KORREKT: maximum
+KORREKT: lift
+KORREKT: mm
+FEHLT: 8067
+FAST KORREKT FEHLEND: 98
+KORREKT: exhaust
+KORREKT: valve
+KORREKT: opens
+KORREKT: 335
+KORREKT: bbdc
+FAST KORREKT FEHLEND: 460
+KORREKT: bbdc
+KORREKT: exhaust
+KORREKT: valve
+KORREKT: closes
+FAST KORREKT FEHLEND: 4
+FEHLT: atdc
+FEHLT: 20
+FEHLT: atdc
+KORREKT: exhaust
+KORREKT: valve
+FEHLT: duration
+KORREKT: 2175
+KORREKT: 228
+KORREKT: exhaust
+KORREKT: cam
+KORREKT: maximum
+KORREKT: lift
+KORREKT: mm
+KORREKT: 8
+FEHLT: 920
+KORREKT: valve
+KORREKT: overlap
+KORREKT: 45
+FEHLT: 3
+KORREKT: rocker
+KORREKT: arm
+KORREKT: ratio
+KORREKT: 114
+KORREKT: 114
+KORREKT: valve
+KORREKT: lifter
+KORREKT: type
+KORREKT: solid
+KORREKT: solid
+KORREKT: valve
+FEHLT: lash
+FEHLT: dim
+FEHLT: cold
+KORREKT: mm
+FEHLT: 015
+FEHLT: 020
+FEHLT: 015
+FEHLT: 020
+KORREKT: variable
+KORREKT: valve
+KORREKT: timing
+KORREKT: na
+KORREKT: na
+FAST KORREKT ZUSÄTZLICH: 134
+ZUSÄTZLICH: cval
+FAST KORREKT ZUSÄTZLICH: 34
+FAST KORREKT ZUSÄTZLICH: 426
+ZUSÄTZLICH: cval
+ZUSÄTZLICH: cval
+FAST KORREKT ZUSÄTZLICH: 9
+FAST KORREKT ZUSÄTZLICH: 50
+ZUSÄTZLICH: 144
+Durchlauf 8:FAST KORREKT FEHLEND: nr
+FAST KORREKT FEHLEND: no
+FEHLT: genehmigungsgegenstand
+FEHLT: object
+FAST KORREKT FEHLEND: of
+FEHLT: approval
+FEHLT: rechtsaktvorschritt
+FEHLT: regulatory
+FAST KORREKT FEHLEND: act
+FEHLT: requirement
+FEHLT: geändert
+FEHLT: durchalternative
+FEHLT: anforderungen
+FEHLT: modified
+FEHLT: byalternative
+FEHLT: requirements
+FEHLT: nachweis
+FEHLT: certification
+FAST KORREKT FEHLEND: 1a
+FEHLT: geräuschpegel
+FEHLT: sound
+FEHLT: level
+FEHLT: voeu5402014
+FEHLT: voeu2018832
+FAST KORREKT FEHLEND: x
+FAST KORREKT FEHLEND: 2a
+FEHLT: emissionen
+FEHLT: leichten
+FEHLT: pkw
+FEHLT: und
+FEHLT: nutzfahrzeuge
+FEHLT: euro
+FEHLT: 5
+FEHLT: and
+FEHLT: 6
+FEHLT: zugang
+FAST KORREKT FEHLEND: zu
+FEHLT: informationen
+FEHLT: emissions
+FEHLT: euro
+FEHLT: 5
+FEHLT: and
+FEHLT: 6
+FEHLT: light
+FEHLT: duty
+FEHLT: vehicles
+KORREKT: access
+KORREKT: to
+KORREKT: information
+FEHLT: voeg7152007
+FEHLT: voeu20181832
+FEHLT: b
+FEHLT: 3a
+FEHLT: verhütung
+FAST KORREKT FEHLEND: von
+FEHLT: brandgefahren
+FEHLT: behälter
+FEHLT: für
+FEHLT: flüssigen
+FEHLT: kraftstoff
+FEHLT: prevention
+FAST KORREKT FEHLEND: of
+FEHLT: fire
+FEHLT: risks
+FEHLT: liquid
+FEHLT: fuel
+FEHLT: tanks
+FEHLT: unr34
+FEHLT: as
+FEHLT: 03
+FAST KORREKT FEHLEND: x
+FEHLT: 3b
+FEHLT: einrichtungen
+FEHLT: für
+FEHLT: den
+FEHLT: hinteren
+FEHLT: unterfahrschutz
+FEHLT: und
+FEHLT: ihr
+FEHLT: anbau
+FEHLT: hinterer
+FEHLT: unterfahrschutz
+FEHLT: rear
+FEHLT: underrun
+FEHLT: protective
+FEHLT: devices
+FEHLT: rupds
+FEHLT: and
+FEHLT: their
+FEHLT: installation
+FEHLT: rear
+FEHLT: underrun
+FEHLT: protection
+FEHLT: rup
+FEHLT: unr58
+FEHLT: as
+FEHLT: 03
+FAST KORREKT FEHLEND: x
+FEHLT: 4a
+FEHLT: anbringungsstelle
+FEHLT: und
+FEHLT: anbringung
+FEHLT: hinters
+FEHLT: kennzeichen
+FEHLT: space
+FAST KORREKT FEHLEND: for
+FEHLT: mounting
+FEHLT: and
+FEHLT: fixing
+FEHLT: rear
+FEHLT: registration
+FEHLT: plates
+FEHLT: voeu10032010
+FEHLT: gem
+FAST KORREKT FEHLEND: teil
+FEHLT: 1
+FEHLT: anl2
+FEHLT: b
+FEHLT: 5a
+FEHLT: lenkanlage
+FEHLT: steering
+FEHLT: equipment
+FEHLT: unr79
+FEHLT: as
+FEHLT: 03
+FAST KORREKT FEHLEND: x
+FEHLT: 6b
+FEHLT: türverschlüsse
+FEHLT: und
+FEHLT: türaufhängungen
+FEHLT: door
+FEHLT: latches
+FEHLT: and
+FEHLT: door
+FEHLT: retention
+FEHLT: components
+FEHLT: unr11
+FEHLT: as
+FEHLT: 04
+FAST KORREKT FEHLEND: x
+FEHLT: 7a
+FEHLT: vorrichtungen
+FEHLT: für
+FEHLT: schallzeichenschallzeichen
+FEHLT: audible
+FEHLT: warning
+FEHLT: devices
+FEHLT: and
+FEHLT: signals
+FEHLT: unr28
+FEHLT: as
+FEHLT: 00
+FAST KORREKT FEHLEND: x
+FEHLT: 8a
+FEHLT: einrichtungen
+FEHLT: für
+FEHLT: indirekte
+FEHLT: sicht
+FEHLT: und
+FEHLT: ihre
+FEHLT: anbringung
+FEHLT: devices
+FAST KORREKT FEHLEND: for
+FEHLT: indirect
+FEHLT: vision
+FEHLT: and
+FEHLT: their
+FEHLT: installation
+FEHLT: unr46
+FEHLT: as
+FEHLT: 04
+FAST KORREKT FEHLEND: x
+FEHLT: 9b
+FEHLT: bremsen
+FEHLT: pkw
+FEHLT: braking
+FAST KORREKT FEHLEND: of
+FEHLT: passenger
+FEHLT: cars
+FEHLT: unr13h
+FEHLT: as
+FEHLT: 01
+FEHLT: b
+FEHLT: 10a
+FEHLT: elektromagnetische
+FEHLT: verträglichkeit
+FEHLT: electromagnetic
+FEHLT: compatibility
+FEHLT: unr10
+FEHLT: as
+FEHLT: 06
+FEHLT: b
+FEHLT: 11b
+FEHLT: innenausstattung
+FEHLT: interior
+FEHLT: fittings
+FEHLT: unr21
+FEHLT: as
+FEHLT: 01
+FAST KORREKT FEHLEND: x
+FEHLT: 12a
+FEHLT: schutz
+FAST KORREKT FEHLEND: von
+FEHLT: kraftfahrzeugen
+FEHLT: gegen
+FEHLT: unbefugte
+FEHLT: benutzung
+FEHLT: protection
+FAST KORREKT FEHLEND: of
+FEHLT: motor
+FEHLT: vehicles
+FEHLT: against
+FEHLT: unauthorized
+FEHLT: use
+FEHLT: unr116
+FEHLT: as
+FEHLT: 00
+FEHLT: b
+FEHLT: 13a
+FEHLT: schutz
+FEHLT: des
+FEHLT: fahrzeugführers
+FEHLT: vor
+FEHLT: der
+FEHLT: lenkanlage
+FEHLT: bei
+FEHLT: unfallstößen
+FEHLT: protection
+FAST KORREKT FEHLEND: of
+KORREKT: the
+FEHLT: driver
+FEHLT: against
+KORREKT: the
+FEHLT: steering
+FEHLT: mechanism
+FEHLT: in
+KORREKT: the
+FEHLT: event
+FAST KORREKT FEHLEND: of
+FEHLT: impact
+FEHLT: unr12
+FEHLT: as
+FEHLT: 04
+FEHLT: b
+FEHLT: 14a
+FEHLT: sitze
+FEHLT: ihre
+FEHLT: verankerungen
+FEHLT: und
+FEHLT: kopfstützen
+FEHLT: seats
+FEHLT: their
+FEHLT: anchorages
+FEHLT: and
+FEHLT: any
+FAST KORREKT FEHLEND: head
+FEHLT: restraints
+FEHLT: unr17
+FEHLT: as
+FEHLT: 09
+FAST KORREKT FEHLEND: x
+FEHLT: 15a
+FEHLT: vorstehende
+FEHLT: außenkanten
+FEHLT: external
+FEHLT: projections
+FEHLT: unr26
+FEHLT: as
+FEHLT: 03
+FAST KORREKT FEHLEND: x
+FEHLT: 16a
+FEHLT: einstieg
+FEHLT: ins
+FEHLT: fahrzeug
+FEHLT: und
+FEHLT: manövriereigenschaffen
+FEHLT: vehicle
+KORREKT: access
+FEHLT: and
+FEHLT: manoeuvrability
+FEHLT: voeu192012
+FAST KORREKT FEHLEND: x
+FEHLT: 17b
+FEHLT: geschwindigkeitsmesseinnrichtung
+FEHLT: einschließlich
+FEHLT: ihre
+FEHLT: einbaus
+FEHLT: speedometer
+FEHLT: equipment
+FEHLT: including
+FAST KORREKT FEHLEND: its
+FEHLT: installation
+FEHLT: unr39
+FEHLT: as
+FEHLT: 01
+FAST KORREKT FEHLEND: x
+FEHLT: 18a
+FEHLT: gesetzlich
+FEHLT: vorgeschriebenes
+FEHLT: fabrikschild
+FEHLT: und
+FEHLT: fahrzeugserienidentifizierungsnummer
+FEHLT: manufacturers
+FEHLT: statutory
+FEHLT: plate
+FEHLT: and
+FEHLT: vehicle
+FEHLT: identification
+FEHLT: number
+FEHLT: voeu192011
+FEHLT: gem
+FAST KORREKT FEHLEND: teil
+FEHLT: 1
+FEHLT: anl2
+FEHLT: b
+FEHLT: 19a
+FEHLT: sicherheitsgurtverankerungen
+FEHLT: isofixverankerungssysteme
+FEHLT: und
+FEHLT: verankerungen
+FEHLT: für
+FEHLT: den
+FEHLT: oberen
+FEHLT: isofixhaltegurt
+FEHLT: safetybelt
+FEHLT: anchorage
+FEHLT: systems
+FEHLT: isofix
+FEHLT: anchorages
+FEHLT: systems
+FEHLT: and
+FEHLT: unr14
+FEHLT: as
+FEHLT: 09
+FAST KORREKT FEHLEND: x
+FAST KORREKT ZUSÄTZLICH: im
+ZUSÄTZLICH: unable
+FAST KORREKT ZUSÄTZLICH: or
+ZUSÄTZLICH: extract
+FAST KORREKT ZUSÄTZLICH: from
+ZUSÄTZLICH: images
+ZUSÄTZLICH: directly
+FAST KORREKT ZUSÄTZLICH: if
+FAST KORREKT ZUSÄTZLICH: you
+FAST KORREKT ZUSÄTZLICH: can
+ZUSÄTZLICH: provide
+FAST KORREKT ZUSÄTZLICH: text
+FAST KORREKT ZUSÄTZLICH: from
+ZUSÄTZLICH: table
+FAST KORREKT ZUSÄTZLICH: id
+FAST KORREKT ZUSÄTZLICH: be
+ZUSÄTZLICH: happy
+FAST KORREKT ZUSÄTZLICH: help
+FAST KORREKT ZUSÄTZLICH: you
+FAST KORREKT ZUSÄTZLICH: with
+FAST KORREKT ZUSÄTZLICH: it
+Durchlauf 3:KORREKT: item
+KORREKT: subject
+KORREKT: regulatory
+KORREKT: act
+KORREKT: reference
+KORREKT: as
+KORREKT: amended
+KORREKT: by
+KORREKT: applicable
+KORREKT: to
+KORREKT: version
+KORREKT: 8
+KORREKT: installation
+KORREKT: of
+KORREKT: lighting
+KORREKT: and
+KORREKT: lightsignalling
+KORREKT: devices
+KORREKT: including
+KORREKT: automatic
+KORREKT: switching
+KORREKT: of
+KORREKT: lighting
+KORREKT: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
+FAST KORREKT FEHLEND: 32014
+FAST KORREKT FEHLEND: annex
+FAST KORREKT FEHLEND: iv
+KORREKT: na
+FEHLT: all
+KORREKT: 9
+FEHLT: rearward
+FEHLT: visibility
+KORREKT: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
+FAST KORREKT FEHLEND: 32014
+FAST KORREKT FEHLEND: annex
+KORREKT: x
+KORREKT: na
+FEHLT: all
+KORREKT: 10
+FEHLT: rollover
+KORREKT: protective
+KORREKT: structure
+KORREKT: rops
+KORREKT: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
+FAST KORREKT FEHLEND: 32014
+FAST KORREKT FEHLEND: annex
+KORREKT: xi
+KORREKT: na
+KORREKT: na
+KORREKT: 11
+KORREKT: safetybelt
+KORREKT: anchorages
+KORREKT: and
+FEHLT: safetybelts
+KORREKT: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
+FAST KORREKT FEHLEND: 32014
+FAST KORREKT FEHLEND: annex
+KORREKT: xii
+KORREKT: na
+KORREKT: na
+KORREKT: 12
+FEHLT: seating
+FEHLT: positions
+FEHLT: saddles
+KORREKT: and
+FEHLT: seats
+KORREKT: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
+FAST KORREKT FEHLEND: 32014
+FAST KORREKT FEHLEND: annex
+KORREKT: xiii
+KORREKT: na
+FEHLT: all
+KORREKT: 13
+FEHLT: steerability
+KORREKT: cornering
+KORREKT: properties
+KORREKT: and
+FEHLT: turnability
+KORREKT: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
+FAST KORREKT FEHLEND: 32014
+FAST KORREKT FEHLEND: annex
+KORREKT: xiv
+KORREKT: na
+FEHLT: all
+KORREKT: 14
+KORREKT: installation
+KORREKT: of
+FAST KORREKT FEHLEND: tyres
+KORREKT: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
+FAST KORREKT FEHLEND: 32014
+FAST KORREKT FEHLEND: annex
+KORREKT: xv
+KORREKT: na
+FEHLT: all
+KORREKT: 15
+KORREKT: vehicle
+KORREKT: maximum
+KORREKT: speed
+KORREKT: limitation
+KORREKT: plate
+KORREKT: and
+KORREKT: its
+KORREKT: location
+KORREKT: on
+KORREKT: the
+KORREKT: vehicle
+KORREKT: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
+FAST KORREKT FEHLEND: 32014
+FAST KORREKT FEHLEND: annex
+KORREKT: xvi
+KORREKT: na
+KORREKT: na
+KORREKT: 16
+KORREKT: vehicle
+FEHLT: occupant
+FEHLT: protection
+KORREKT: including
+FEHLT: interior
+FEHLT: fittings
+KORREKT: and
+KORREKT: vehicle
+FEHLT: doors
+KORREKT: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
+FAST KORREKT FEHLEND: 32014
+FAST KORREKT FEHLEND: annex
+KORREKT: xvii
+KORREKT: na
+KORREKT: na
+KORREKT: 17
+KORREKT: maximum
+KORREKT: continuous
+KORREKT: total
+KORREKT: power
+FEHLT: andor
+KORREKT: maximum
+KORREKT: vehicle
+KORREKT: speed
+KORREKT: limitation
+KORREKT: by
+KORREKT: design
+KORREKT: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
+FAST KORREKT FEHLEND: 32014
+FAST KORREKT FEHLEND: annex
+FEHLT: xviii
+KORREKT: na
+KORREKT: na
+FEHLT: 18
+KORREKT: requirements
+KORREKT: on
+KORREKT: vehicle
+KORREKT: structure
+FEHLT: integrity
+KORREKT: commission
+KORREKT: delegated
+KORREKT: regulation
+KORREKT: eu
+KORREKT: no
+FAST KORREKT FEHLEND: 32014
+FAST KORREKT FEHLEND: annex
+FEHLT: xix
+KORREKT: na
+FEHLT: all
+FAST KORREKT ZUSÄTZLICH: 2014
+FAST KORREKT ZUSÄTZLICH: amex
+FAST KORREKT ZUSÄTZLICH: ix
+ZUSÄTZLICH: roadside
+FAST KORREKT ZUSÄTZLICH: 2014
+FAST KORREKT ZUSÄTZLICH: amex
+FAST KORREKT ZUSÄTZLICH: 2014
+FAST KORREKT ZUSÄTZLICH: amex
+ZUSÄTZLICH: steering
+ZUSÄTZLICH: ability
+ZUSÄTZLICH: stability
+FAST KORREKT ZUSÄTZLICH: 2014
+FAST KORREKT ZUSÄTZLICH: amex
+ZUSÄTZLICH: speedreduction
+ZUSÄTZLICH: systems
+FAST KORREKT ZUSÄTZLICH: 2014
+FAST KORREKT ZUSÄTZLICH: amex
+FAST KORREKT ZUSÄTZLICH: 2014
+FAST KORREKT ZUSÄTZLICH: amex
+FAST KORREKT ZUSÄTZLICH: 2014
+FAST KORREKT ZUSÄTZLICH: amex
+ZUSÄTZLICH: acceleration
+FAST KORREKT ZUSÄTZLICH: 2014
+FAST KORREKT ZUSÄTZLICH: amex
+FAST KORREKT ZUSÄTZLICH: 2014
+FAST KORREKT ZUSÄTZLICH: amex
+ZUSÄTZLICH: identification
+FAST KORREKT ZUSÄTZLICH: type
+Durchlauf 2:KORREKT: 321
+KORREKT: pf
+KORREKT: types
+KORREKT: na
+KORREKT: 322
+KORREKT: number
+KORREKT: and
+KORREKT: elements
+KORREKT: of
+KORREKT: pf
+KORREKT: na
+KORREKT: 323
+KORREKT: size
+KORREKT: of
+KORREKT: pf
+KORREKT: volume
+KORREKT: of
+KORREKT: filter
+KORREKT: element
+KORREKT: 10
+KORREKT: na
+KORREKT: 324
+KORREKT: operation
+KORREKT: principle
+KORREKT: of
+KORREKT: pf
+KORREKT: partial
+FEHLT: wallflow
+KORREKT: other
+KORREKT: na
+KORREKT: 325
+KORREKT: active
+KORREKT: surface
+KORREKT: of
+KORREKT: pf
+KORREKT: na
+KORREKT: 33
+KORREKT: propulsion
+KORREKT: not
+KORREKT: equipped
+KORREKT: with
+KORREKT: periodically
+KORREKT: regenerating
+KORREKT: system
+KORREKT: 331
+KORREKT: periodically
+KORREKT: regenerating
+KORREKT: system
+KORREKT: type
+KORREKT: na
+KORREKT: 332
+KORREKT: operation
+KORREKT: principle
+KORREKT: of
+KORREKT: periodically
+KORREKT: regenerating
+KORREKT: system
+KORREKT: na
+KORREKT: 34
+KORREKT: propulsion
+KORREKT: not
+KORREKT: equipped
+KORREKT: with
+KORREKT: selective
+KORREKT: catalytic
+KORREKT: converter
+KORREKT: reduction
+KORREKT: scr
+KORREKT: system
+KORREKT: 341
+KORREKT: scr
+KORREKT: system
+KORREKT: type
+KORREKT: na
+KORREKT: 342
+KORREKT: operation
+KORREKT: principle
+KORREKT: of
+KORREKT: periodically
+KORREKT: regenerating
+KORREKT: system
+KORREKT: na
+KORREKT: 35
+KORREKT: propulsion
+KORREKT: not
+KORREKT: equipped
+KORREKT: with
+KORREKT: no
+KORREKT: x
+KORREKT: trap
+KORREKT: absorber
+FAST KORREKT FEHLEND: 351
+KORREKT: lean
+KORREKT: no
+KORREKT: x
+KORREKT: trap
+KORREKT: absorber
+KORREKT: type
+KORREKT: na
+FEHLT: 352
+KORREKT: operation
+KORREKT: principle
+KORREKT: of
+KORREKT: lean
+KORREKT: no
+KORREKT: x
+KORREKT: trap
+KORREKT: absorber
+KORREKT: na
+KORREKT: 36
+KORREKT: propulsion
+KORREKT: not
+KORREKT: equipped
+KORREKT: with
+KORREKT: a
+KORREKT: coldstart
+KORREKT: device
+KORREKT: or
+KORREKT: starting
+KORREKT: aid
+KORREKT: devices
+FEHLT: 361
+KORREKT: coldstart
+KORREKT: or
+KORREKT: starting
+KORREKT: aid
+KORREKT: device
+KORREKT: type
+FEHLT: automatic
+FEHLT: 362
+KORREKT: operation
+KORREKT: principle
+KORREKT: of
+KORREKT: cold
+KORREKT: start
+KORREKT: or
+KORREKT: starting
+KORREKT: aid
+KORREKT: devices
+KORREKT: fuel
+KORREKT: enrichment
+ZUSÄTZLICH: section
+ZUSÄTZLICH: value
+ZUSÄTZLICH: wall
+FAST KORREKT ZUSÄTZLICH: 333
+Durchlauf 4:KORREKT: component
+KORREKT: fault
+KORREKT: code
+KORREKT: monitoring
+KORREKT: strategy
+KORREKT: fault
+KORREKT: detection
+KORREKT: criteria
+FAST KORREKT FEHLEND: mi
+KORREKT: activation
+KORREKT: criteria
+KORREKT: secondary
+KORREKT: parameters
+KORREKT: preconditioning
+KORREKT: demonstration
+KORREKT: test
+FAST KORREKT FEHLEND: vss
+FEHLT: failed
+KORREKT: low
+KORREKT: p0502
+KORREKT: continuous
+KORREKT: vehicle
+KORREKT: speed
+KORREKT: sensor
+KORREKT: input
+KORREKT: is
+KORREKT: low
+KORREKT: for
+FAST KORREKT FEHLEND: 397
+KORREKT: seconds
+KORREKT: while
+KORREKT: engine
+KORREKT: is
+KORREKT: operating
+KORREKT: at
+KORREKT: a
+KORREKT: moderate
+KORREKT: speed
+KORREKT: and
+KORREKT: load
+KORREKT: fault
+KORREKT: detected
+FEHLT: 2500
+KORREKT: engine
+KORREKT: speed
+FEHLT: 4000
+FEHLT: map_load
+FAST KORREKT FEHLEND: 601
+FEHLT: kpa
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+FAST KORREKT FEHLEND: vss
+FEHLT: failed
+KORREKT: high
+FAST KORREKT FEHLEND: p0503
+KORREKT: continuous
+KORREKT: a
+KORREKT: vehicle
+KORREKT: speed
+KORREKT: sensor
+KORREKT: input
+KORREKT: is
+KORREKT: high
+KORREKT: for
+FAST KORREKT FEHLEND: 397
+KORREKT: seconds
+KORREKT: while
+KORREKT: engine
+KORREKT: is
+KORREKT: operating
+KORREKT: at
+KORREKT: a
+KORREKT: moderate
+KORREKT: speed
+KORREKT: and
+KORREKT: load
+FAST KORREKT FEHLEND: b
+KORREKT: no
+FEHLT: pulses
+KORREKT: detected
+FEHLT: from
+KORREKT: vehicle
+KORREKT: speed
+KORREKT: sensor
+KORREKT: for
+FAST KORREKT FEHLEND: 64
+FAST KORREKT FEHLEND: ms
+KORREKT: while
+KORREKT: vehicle
+KORREKT: speed
+FEHLT: exceeds
+FAST KORREKT FEHLEND: 50
+FEHLT: kph
+KORREKT: fault
+KORREKT: detected
+KORREKT: a
+FEHLT: 2500
+KORREKT: engine
+KORREKT: speed
+FEHLT: 4000
+FEHLT: map_load
+FAST KORREKT FEHLEND: 601
+FEHLT: kpa
+FAST KORREKT FEHLEND: b
+FEHLT: brake
+FEHLT: not
+KORREKT: pressed
+KORREKT: engine
+KORREKT: speed
+FEHLT: not
+FEHLT: near
+KORREKT: idle
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+KORREKT: idle
+KORREKT: speed
+FEHLT: control
+FEHLT: unstable
+FAST KORREKT FEHLEND: p0505
+KORREKT: continuous
+FEHLT: sum
+KORREKT: of
+FEHLT: difference
+KORREKT: between
+FEHLT: max
+KORREKT: and
+FEHLT: min
+FEHLT: map
+KORREKT: values
+FAST KORREKT FEHLEND: over
+FEHLT: 3
+FEHLT: second
+FEHLT: periods
+FEHLT: exceeds
+FEHLT: threshold
+KORREKT: fault
+KORREKT: detected
+FAST KORREKT FEHLEND: tgs
+FEHLT: 09
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+KORREKT: ecm
+FEHLT: eeprom
+FEHLT: memory
+KORREKT: error
+FEHLT: p0603
+KORREKT: continuous
+KORREKT: ecm
+FEHLT: detects
+FEHLT: an
+KORREKT: internal
+KORREKT: error
+KORREKT: when
+FEHLT: writing
+FEHLT: nonvolatile
+FEHLT: memory
+KORREKT: fault
+KORREKT: detected
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+KORREKT: ecm
+FEHLT: flash
+FEHLT: memory
+KORREKT: error
+FEHLT: p0605
+KORREKT: continuous
+KORREKT: ecm
+FEHLT: detects
+FEHLT: an
+KORREKT: internal
+FEHLT: memory
+KORREKT: error
+KORREKT: fault
+KORREKT: detected
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+FEHLT: 5
+FEHLT: volt
+FEHLT: reference
+KORREKT: out
+KORREKT: of
+KORREKT: range
+FEHLT: p0641
+KORREKT: continuous
+FEHLT: analog
+FEHLT: supply
+FEHLT: 1
+KORREKT: voltage
+FEHLT: 472
+FEHLT: volts
+FEHLT: or
+FEHLT: analog
+FEHLT: supply
+FEHLT: 1
+KORREKT: voltage
+FEHLT: 526
+FEHLT: volts
+FEHLT: continuously
+KORREKT: for
+FEHLT: 16
+FAST KORREKT FEHLEND: ms
+KORREKT: fault
+KORREKT: detected
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+FEHLT: 5
+FEHLT: volt
+FEHLT: reference
+FEHLT: 2
+KORREKT: out
+KORREKT: of
+KORREKT: range
+FEHLT: p0651
+KORREKT: continuous
+FEHLT: analog
+FEHLT: supply
+FEHLT: 2
+KORREKT: voltage
+FEHLT: 472
+FEHLT: volts
+FEHLT: or
+FEHLT: analog
+FEHLT: supply
+FEHLT: 2
+KORREKT: voltage
+FEHLT: 526
+FEHLT: volts
+FEHLT: continuously
+KORREKT: for
+FEHLT: 16
+FAST KORREKT FEHLEND: ms
+KORREKT: fault
+KORREKT: detected
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+FEHLT: ect
+FEHLT: difference
+KORREKT: high
+FEHLT: temp
+FEHLT: p1019
+KORREKT: continuous
+KORREKT: engine
+FEHLT: temperature
+KORREKT: is
+FEHLT: more
+KORREKT: than
+FEHLT: 70
+FEHLT: degrees
+FEHLT: c
+KORREKT: higher
+KORREKT: than
+FEHLT: coolant
+FEHLT: temperature
+FEHLT: continuously
+KORREKT: for
+FEHLT: 301
+FEHLT: sec
+KORREKT: fault
+KORREKT: detected
+KORREKT: engine
+FEHLT: temperature
+FEHLT: or
+FEHLT: coolant
+FEHLT: temperature
+FEHLT: 110
+FEHLT: deg
+FEHLT: c
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+FAST KORREKT FEHLEND: tgs
+FEHLT: 2
+FEHLT: ad
+FEHLT: validation
+KORREKT: error
+FAST KORREKT FEHLEND: p1270
+KORREKT: continuous
+FEHLT: tgs2
+FEHLT: measured
+KORREKT: value
+FEHLT: from
+FEHLT: ad
+FEHLT: block
+FAST KORREKT FEHLEND: one
+FEHLT: differs
+FEHLT: from
+FEHLT: tgs2
+FEHLT: measured
+KORREKT: value
+FEHLT: from
+FEHLT: ad
+FEHLT: blockand
+FEHLT: by
+FEHLT: more
+KORREKT: than
+FEHLT: 078
+FEHLT: volts
+FEHLT: continuously
+KORREKT: for
+FEHLT: 24
+FAST KORREKT FEHLEND: ms
+KORREKT: fault
+KORREKT: detected
+KORREKT: engine
+FEHLT: running
+KORREKT: for
+FEHLT: 1
+FEHLT: sec
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+FEHLT: jss
+KORREKT: low
+FEHLT: p1501
+KORREKT: continuous
+FEHLT: sidestand
+KORREKT: input
+KORREKT: voltage
+KORREKT: is
+FEHLT: less
+KORREKT: than
+FEHLT: 059
+FEHLT: volts
+FEHLT: continuously
+KORREKT: for
+FEHLT: 105
+FEHLT: sec
+KORREKT: fault
+KORREKT: detected
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+FEHLT: jss
+FEHLT: highopen
+FEHLT: p1502
+KORREKT: continuous
+FEHLT: sidestand
+KORREKT: input
+KORREKT: voltage
+FEHLT: exceeds
+FEHLT: 471
+FEHLT: continuously
+KORREKT: for
+FEHLT: 105
+FEHLT: sec
+KORREKT: fault
+KORREKT: detected
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+FAST KORREKT FEHLEND: power
+FEHLT: limit
+FEHLT: violation
+FEHLT: p1505
+KORREKT: continuous
+FEHLT: measured
+FEHLT: map_load
+FEHLT: exceeds
+KORREKT: expected
+FEHLT: map
+KORREKT: at
+KORREKT: a
+KORREKT: speed
+KORREKT: and
+KORREKT: load
+FEHLT: indicative
+KORREKT: of
+FEHLT: tampering
+FEHLT: with
+KORREKT: the
+FEHLT: 35
+FEHLT: kw
+FEHLT: limit
+KORREKT: fault
+KORREKT: detected
+KORREKT: engine
+KORREKT: speed
+KORREKT: throttle
+KORREKT: position
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+KORREKT: etc
+FEHLT: limited
+FEHLT: performance
+FEHLT: mode
+FEHLT: p1510
+KORREKT: continuous
+FEHLT: this
+FEHLT: dtc
+KORREKT: is
+FEHLT: set
+FEHLT: to
+FEHLT: indicate
+KORREKT: the
+KORREKT: vehicle
+KORREKT: is
+KORREKT: operating
+FEHLT: in
+FEHLT: limited
+FEHLT: performance
+FEHLT: mode
+KORREKT: fault
+KORREKT: detected
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+KORREKT: etc
+FAST KORREKT FEHLEND: power
+FEHLT: management
+FEHLT: mode
+FEHLT: p1511
+KORREKT: continuous
+FEHLT: this
+FEHLT: dtc
+KORREKT: is
+FEHLT: set
+FEHLT: to
+FEHLT: indicate
+KORREKT: the
+KORREKT: vehicle
+KORREKT: is
+KORREKT: operating
+FEHLT: in
+FAST KORREKT FEHLEND: power
+FEHLT: management
+FEHLT: mode
+KORREKT: fault
+KORREKT: detected
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+KORREKT: etc
+FEHLT: forced
+KORREKT: idle
+FEHLT: mode
+FEHLT: p1512
+KORREKT: continuous
+FEHLT: this
+FEHLT: dtc
+KORREKT: is
+FEHLT: set
+FEHLT: to
+FEHLT: indicate
+KORREKT: the
+KORREKT: vehicle
+KORREKT: is
+KORREKT: operating
+FEHLT: in
+FEHLT: forced
+KORREKT: idle
+FEHLT: mode
+KORREKT: fault
+KORREKT: detected
+KORREKT: ignition
+KORREKT: cycle
+KORREKT: idle
+KORREKT: cycle
+FAST KORREKT ZUSÄTZLICH: mil
+FAST KORREKT ZUSÄTZLICH: vsss
+ZUSÄTZLICH: reports
+FAST KORREKT ZUSÄTZLICH: 137
+FAST KORREKT ZUSÄTZLICH: on
+FAST KORREKT ZUSÄTZLICH: vsss
+FAST KORREKT ZUSÄTZLICH: p0501
+ZUSÄTZLICH: reports
+ZUSÄTZLICH: specified
+FAST KORREKT ZUSÄTZLICH: 137
+FAST KORREKT ZUSÄTZLICH: on
+ZUSÄTZLICH: ecmabs
+FAST KORREKT ZUSÄTZLICH: p0571
+ZUSÄTZLICH: communication
+FAST KORREKT ZUSÄTZLICH: abs
+ZUSÄTZLICH: system
+FAST KORREKT ZUSÄTZLICH: 05
+FAST KORREKT ZUSÄTZLICH: on
+ZUSÄTZLICH: ecmabs
+FAST KORREKT ZUSÄTZLICH: p0570
+FAST KORREKT ZUSÄTZLICH: 03
+FAST KORREKT ZUSÄTZLICH: on
+FAST KORREKT ZUSÄTZLICH: open
+ZUSÄTZLICH: circuit
+ZUSÄTZLICH: p2135
+ZUSÄTZLICH: reports
+ZUSÄTZLICH: constant
+FAST KORREKT ZUSÄTZLICH: 05
+ZUSÄTZLICH: accelerator
+ZUSÄTZLICH: pedal
+FAST KORREKT ZUSÄTZLICH: on
+ZUSÄTZLICH: stuck
+FAST KORREKT ZUSÄTZLICH: open
+ZUSÄTZLICH: p2138
+ZUSÄTZLICH: reports
+ZUSÄTZLICH: under
+FAST KORREKT ZUSÄTZLICH: on
+ZUSÄTZLICH: p2131
+ZUSÄTZLICH: reports
+ZUSÄTZLICH: percentage
+FAST KORREKT ZUSÄTZLICH: lower
+ZUSÄTZLICH: accelerator
+ZUSÄTZLICH: pedal
+Durchlauf 1:KORREKT: heading
+KORREKT: no
+KORREKT: separate
+KORREKT: directive
+KORREKT: no
+KORREKT: subject
+KORREKT: approval
+KORREKT: no
+FAST KORREKT FEHLEND: 1
+KORREKT: extension
+KORREKT: date
+KORREKT: variants
+KORREKT: and
+KORREKT: versions
+KORREKT: covered
+KORREKT: 18
+KORREKT: 951ec
+KORREKT: maximum
+KORREKT: torque
+KORREKT: and
+KORREKT: maximum
+KORREKT: net
+KORREKT: power
+KORREKT: of
+KORREKT: engine
+KORREKT: 19
+FEHLT: 9724c
+FAST KORREKT FEHLEND: c
+KORREKT: antitampering
+KORREKT: measures
+KORREKT: for
+KORREKT: mopeds
+KORREKT: and
+KORREKT: motorcycles
+KORREKT: 20
+KORREKT: 9724ec
+FAST KORREKT FEHLEND: c6
+KORREKT: fuel
+KORREKT: tank
+FAST KORREKT FEHLEND: 25
+KORREKT: 951ec
+KORREKT: maximum
+KORREKT: design
+KORREKT: speed
+KORREKT: of
+KORREKT: vehicle
+KORREKT: 26
+FAST KORREKT FEHLEND: 9396eec
+FEHLT: masses
+KORREKT: and
+FEHLT: dimensions
+KORREKT: 27
+KORREKT: 9724ec
+FEHLT: cl0
+KORREKT: trailer
+KORREKT: coupling
+KORREKT: devices
+FEHLT: 28
+KORREKT: 9724ec
+FEHLT: c5
+FEHLT: antiair
+FEHLT: pollution
+KORREKT: measures
+FEHLT: 29
+KORREKT: 9724ec
+KORREKT: c1
+KORREKT: tyres
+FEHLT: 31
+FAST KORREKT FEHLEND: 9314eec
+KORREKT: braking
+KORREKT: system
+KORREKT: 32
+KORREKT: 9392eec
+FEHLT: installation
+KORREKT: of
+KORREKT: lighting
+KORREKT: and
+KORREKT: lightsignalling
+KORREKT: devices
+KORREKT: on
+KORREKT: the
+KORREKT: vehicle
+KORREKT: 33
+KORREKT: 9724ec
+KORREKT: c2
+KORREKT: lighting
+KORREKT: and
+KORREKT: lightsignalling
+KORREKT: devices
+KORREKT: 34
+FAST KORREKT FEHLEND: 9330eec
+KORREKT: audible
+KORREKT: warning
+KORREKT: device
+FEHLT: 35
+FEHLT: 9394ec
+KORREKT: position
+KORREKT: for
+KORREKT: the
+KORREKT: mounting
+KORREKT: of
+KORREKT: rear
+FEHLT: registration
+FEHLT: plate
+FAST KORREKT ZUSÄTZLICH: c7
+FAST KORREKT ZUSÄTZLICH: 21
+ZUSÄTZLICH: 9261eec
+ZUSÄTZLICH: 9727eec
+FAST KORREKT ZUSÄTZLICH: c10
+FAST KORREKT ZUSÄTZLICH: 9331eec
+FAST KORREKT ZUSÄTZLICH: 9393eec
+FAST KORREKT ZUSÄTZLICH: 36
+FAST KORREKT ZUSÄTZLICH: 9337eec

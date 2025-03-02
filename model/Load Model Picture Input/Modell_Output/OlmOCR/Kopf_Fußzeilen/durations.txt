@@ -1,0 +1,9 @@
+Modell Ladezeit: 5.94 Sekunden
+Kopf_Fußzeilen_1.png, 5.17 Sekunden
+Kopf_Fußzeilen_2.png, 4.02 Sekunden
+Kopf_Fußzeilen_3.png, 1.61 Sekunden
+Kopf_Fußzeilen_4.png, 5.81 Sekunden
+Kopf_Fußzeilen_5.png, 5.45 Sekunden
+Kopf_Fußzeilen_6.png, 4.49 Sekunden
+Kopf_Fußzeilen_7.png, 1.69 Sekunden
+Kopf_Fußzeilen_8.png, 5.47 Sekunden

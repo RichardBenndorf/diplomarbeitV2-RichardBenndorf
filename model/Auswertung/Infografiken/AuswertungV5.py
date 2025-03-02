@@ -226,7 +226,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/Infografiken",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen7b/Diagramme und infografische Elemente",
-    output_directory="Ergebnis_Qwen7b",
-    excel_path="Ergebnis_Qwen7b/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/OlmOCR/Diagramme und infografische Elemente",
+    output_directory="Ergebnis_OlmOCR",
+    excel_path="Ergebnis_OlmOCR/results.xlsx"
 )

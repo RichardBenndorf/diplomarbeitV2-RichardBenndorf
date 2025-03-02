@@ -1,0 +1,22 @@
+Sure! Here’s the extracted text from the document in a table format:
+
+| #  | Classification criteria description                         | XGE1  | XGE1E  |
+|----|-----------------------------------------------------------|-------|--------|
+| 1  | Vehicle                                                   | XG750 | XG750A |
+| 2  | sub-category:                                             |       |        |
+|    | 1. propulsion of a vehicle variants(s) or not            |       |        |
+| 3  | type of vehicle                                          |       |        |
+|    | 2. number of operational modes (parallel / sequential / other)  | N/A   | N/A    |
+| 4  | fuel type                                               |       |        |
+|    | 3. number of different fuels                              |       |        |
+| 5  | type of fuel injection system (carburetor / sequential / other) |  1   |  1     |
+| 6  | type of engine (internal combustion engine / combustion engine)  |  1   |  1     |
+| 7  | engine family / sub family                               |       |        |
+| 8  | system control (mechanical throttle / electronic throttle control) | Mechanical | Electronic |
+| 9  | pollution control system characteristics                  |       |        |
+| 10 | 1. propulsion exhaust (equipped with catalytic converter) | Catalytic converter | Catalytic converter |
+| 11 | 2. propulsion exhaust (not equipped with catalytic converter) | -     | -      |
+| 12 | 3. propulsion exhaust (identical or higher)             |  398  |  398   |
+| 13 | 4. discharge pressure                                     |  400  |  300 CPSI |
+| 14 | 5. type of catalysts                                     | BAFF REX-1281 | - |
+| 15

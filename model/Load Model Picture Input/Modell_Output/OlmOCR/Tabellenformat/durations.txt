@@ -1,0 +1,9 @@
+Modell Ladezeit: 5.96 Sekunden
+tabellenformat_1.png, 16.39 Sekunden
+tabellenformat_2.png, 14.74 Sekunden
+tabellenformat_3.png, 20.26 Sekunden
+tabellenformat_4.png, 53.50 Sekunden
+tabellenformat_5.png, 23.60 Sekunden
+tabellenformat_6.png, 12.85 Sekunden
+tabellenformat_7.png, 37.40 Sekunden
+tabellenformat_8.png, 38.23 Sekunden

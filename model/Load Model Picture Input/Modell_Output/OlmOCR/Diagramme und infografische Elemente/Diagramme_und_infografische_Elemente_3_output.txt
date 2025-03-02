@@ -1,0 +1,19 @@
+**Hand Controls:**
+- Headlights (High / Low Beam)
+- Direction Indicator
+- Horn
+- Left-hand Control
+- Right-hand Control
+- Ignition On/Off Switch
+- Electric Starter
+
+**Indicator Lights – Dual Scale Speedometer:**
+- Gear Box Neutral (Color: Green)
+- Left Turn Signal (Color: Green)
+- Engine Oil (Color: Red)
+- ABS
+- Engine Coolant (Color: Red)
+- Headlights (High Beam) (Color: Blue)
+- Right Turn Signal (Color: Green)
+- Check Engine (Color: Amber)
+- Fuel Level (Color: Amber)

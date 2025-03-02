@@ -1,0 +1,15 @@
+- **Hand Controls**:
+  - Headlights (Low Beam)
+  - Headlights (High Beam)
+  - Electric Starter
+  - Device for Switching the Engine On or Off (Off/Shutdown)
+  - Engine Ignition (Operating Position)
+  - Hazard Warning
+  - Direction Indicator (Left)
+  - Direction Indicator (Right)
+  - Battery Charge
+  - Low Fuel Light (Color: Amber)
+  - Fuel Level (Gauge)
+  - Left Turn Signal (Color: Green)
+  - Right Turn Signal (Color: Green)
+  - Indicator Lights: Headlights (High Beam) (Color: Blue), Gear Box Neutral (Color: Green), Engine Oil (Color: Red), Engine Coolant Temperature (Color: Red)

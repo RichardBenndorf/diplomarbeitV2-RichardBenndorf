@@ -1,0 +1,40 @@
+Test Conditions
+
+Engine type Piaggio M245M, engine family H
+
+Pressures measured at maximum power
+Barometric: 100,8 kPa
+Steam pressure: 2,447 kPa
+Exhaust: 1)
+Inlet pressure drop: 1)
+
+Temperatures measured at maximum power
+of the intake air: 307 K
+of the cooling liquid
+at the engine cooling liquid outlet: 362 K
+at the reference point in the case of air cooling: — K
+oil: 368 K
+
+of the fuel
+at the carburator/injection pump intake: 303 K
+in the fuel-consumption measuring device: 303 K
+of the exhaust, measured at the point adjacent to the outlet flange(s) of the exhaust manifold(s): 959 K
+
+Characteristics of the dynamometer
+Make: A.P.I. Com S.R.L.
+Type: FR 150
+
+Fuel
+For spark-ignition engines operating on liquid fuel:
+Make: ESSO
+Specification: unleaded petrol
+
+Anti-knock additive (lead, etc.): not applicable
+Type: 
+Content in mg/litre:
+
+Octane number:
+RON: 95
+MON: 85
+Relative density: 0,756 at 15°C
+Calorific value: 43,5 MJ/kg"}

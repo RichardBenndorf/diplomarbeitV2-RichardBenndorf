@@ -1,0 +1,32 @@
+Prüfbericht / Test report
+Übereinstimmungs- und Anbauprüfungen gemäß Artikel 44
+Compliance and mounting tests referred to in Article 44
+VO(EU) 2018/858
+zuletzt geändert durch / last amended by
+-
+Genehmigungsgegenstand / Subject of approval
+EU-Fahrzeug-Einzelgenehmigung / EU individual vehicle approval
+Prüfgrundlage / Test basis
+Anhang II Teil I Anlage 2 / Appendix 2 to Part I of Annex II
+
+Name und Anschrift des Auftraggebers
+Name and address of the client
+INDIMO Automotive GmbH
+Bruchwiesenstr. 30
+66849 Landstuhl
+
+Name und Anschrift des Herstellers
+Name and address of the manufacturer
+DPSK MOTOR CO., LTD.
+No.1 Donghuan Road
+Shiyan City, Hubei Province
+China
+
+Typ / Type
+FENGON500-MT
+
+Fertigungsstand / Production status
+vollständiges Fahrzeug / Complete
+
+Stufe / Stage
+-"}

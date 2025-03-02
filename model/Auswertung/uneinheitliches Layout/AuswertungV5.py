@@ -227,7 +227,7 @@ def process_all_files_to_excel(goldstandard_directory, extracted_directory, outp
 
 process_all_files_to_excel(
     goldstandard_directory="../../Load Model Picture Input/Goldstandard/uneinheitliches Layout",
-    extracted_directory="../../Load Model Picture Input/Modell_Output/Qwen7b/uneinheitliches Layout",
-    output_directory="Ergebnis_Qwen7b",
-    excel_path="Ergebnis_Qwen7b/results.xlsx"
+    extracted_directory="../../Load Model Picture Input/Modell_Output/OlmOCR/uneinheitliches Layout",
+    output_directory="Ergebnis_OlmOCR",
+    excel_path="Ergebnis_OlmOCR/results.xlsx"
 )

@@ -1,0 +1,9 @@
+Modell Ladezeit: 6.32 Sekunden
+Diagramme_und_infografische_Elemente_1.png, 6.99 Sekunden
+Diagramme_und_infografische_Elemente_2.png, 5.87 Sekunden
+Diagramme_und_infografische_Elemente_3.png, 6.37 Sekunden
+Diagramme_und_infografische_Elemente_4.png, 3.29 Sekunden
+Diagramme_und_infografische_Elemente_5.png, 7.23 Sekunden
+Diagramme_und_infografische_Elemente_6.png, 2.61 Sekunden
+Diagramme_und_infografische_Elemente_7.png, 5.02 Sekunden
+Diagramme_und_infografische_Elemente_8.png, 6.34 Sekunden
