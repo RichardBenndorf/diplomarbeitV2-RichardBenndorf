@@ -4,39 +4,39 @@
 
 Requirements according to In Verbindung mit / in connection with VO (EU) 44/2014,
 
-&gt; Artikel/Article 9 und/and Anhang/Annex V, geändert durch / amended by VO (EU) 2018/295
+  Artikel/Article 9 und/and Anhang/Annex V, geändert durch / amended by VO (EU) 2018/295
 
 1. Für Fahrzeugklasse zutreffend : DalYes
 
 For vehicle class applicable Nein/No
 
-&gt; Falls ausgerüstet/If fitted
+  Falls ausgerüstet/If fitted
 
 1. Anforderungen erfüllt : DalYes
 
 Requirements fulfilled Nein/No
 
-&gt; Nicht zutreffend/Not applicable
-&gt;
-&gt; Nicht ausgerüstet/Not fitted
+  Nicht zutreffend/Not applicable
+ 
+  Nicht ausgerüstet/Not fitted
 
 1. Nachweis der Anforderungen : entfällt / n.a.
 
-&gt; Proof of requirements
+  Proof of requirements
 
 1. Prüfergebnisse repräsentativ für : entfällt / n.a.
 
-&gt; folgende Varianten / Versionen Test results representative for following variants / versions
+  folgende Varianten / Versionen Test results representative for following variants / versions
 
 1. Sicherungen gegen unbefugte Benutzung
 
-&gt; Devices to prevent unauthorised use
+  Devices to prevent unauthorised use
 
 1. Anforderungen gemäß : VO (EU) 168/2013, Artikel/Article 18
 
 Requirements according to in Verbindung mit / in connection with VO (EU) 44/2014,
 
-&gt; Artikel/Article 10 und/and Anhang/Annex VI, geändert durch / amended by VO (EU) 2018/295
+  Artikel/Article 10 und/and Anhang/Annex VI, geändert durch / amended by VO (EU) 2018/295
 
 1. Für Fahrzeugklasse zutreffend : DalYes
 

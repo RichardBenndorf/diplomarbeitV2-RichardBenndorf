@@ -48,25 +48,25 @@ lighting system and in the light signalling system N/A
 
 2. Photographs and /or drawing showing position and the N/A
 
-&gt; construction of the coupling devices
+  construction of the coupling devices
 
 1. Arrangement and identification of controls, tell-tales and indicators see Annex A.9.2.
 
 1. Photographs and/or drawings of the arrangement of see Annex A.9.2.
 
-&gt; the symbols, controls, tell-tales and indicators
+  the symbols, controls, tell-tales and indicators
 
 1. Statutory inscriptions
 
 1. Photographs and/or drawings showing the location see Annex A.9.3.
 
-&gt; of the statutory inscriptions and the chassis number
+  of the statutory inscriptions and the chassis number
 
 1. Photographs and/or drawing showing the official part of the inscriptions see Annex A.9.3.
 
 2. Photographs and/or drawings of the chassis number see Annex A.0.3.
 
-<!-- -->
+
 
 1. Device(s) to protect against unauthorized use
 
@@ -74,4 +74,4 @@ lighting system and in the light signalling system N/A
 
 2. Summary description of device(s) used : The device is a barrel key-driven, steel locking bolt type.
 
-&gt; The locking bolt is able to be extended into a pocket within the fork stem of the steering head assembly. The lock is a pin type.
+  The locking bolt is able to be extended into a pocket within the fork stem of the steering head assembly. The lock is a pin type.

@@ -7,8 +7,8 @@ from transformers import AutoProcessor, Qwen2VLForConditionalGeneration
 from olmocr.prompts import build_finetuning_prompt
 
 # Verzeichnispfade für Bilder und Ausgaben
-image_folder = "../Bilder/Diagramme und infografische Elemente"  # Ordner mit Bildern
-output_folder = "../Modell_Output/OlmOCR/Diagramme und infografische Elemente"  # Ordner für die Ausgaben
+image_folder = "../Bilder/uneinheitliches Layout"  # Ordner mit Bildern
+output_folder = "../Modell_Output/OlmOCR/uneinheitliches Layout"  # Ordner für die Ausgaben
 durations_path = os.path.join(output_folder, "durations.txt")  # Pfad für die Zeitmessungsdatei
 os.makedirs(output_folder, exist_ok=True)
 

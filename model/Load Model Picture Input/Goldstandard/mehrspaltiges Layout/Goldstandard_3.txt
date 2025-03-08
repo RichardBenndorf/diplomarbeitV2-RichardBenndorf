@@ -1,0 +1,36 @@
+7. 	BRAKING
+7.1. 	Diagram of braking devices : 														see Annex A.7.1.
+7.2. 	Front and rear Brakes															front :	2-Discs
+   																		rear : 	Disc
+7.2.1. 	Make(s) : 																Harley-Davidson
+7.2.2. 	Type(s) : 																Solid or floating
+7.3. 	Drawing of parts of the brake system
+7.3.1. 	Shoes and/or pads(1) : 															see Annex A.7.3.1.
+7.3.2. 	Linings and/or pads(1) : 														see Annex A.7.3.2.
+7.3.3. 	Brake lever and/or pedals(1) : 														see Annex A.7.3.3.
+7.3.4. 	Hydraulic reservoirs :															see Annex A.7.3.4.
+7.4. 	Other device (where applicable): drawing and description : 										N/A
+7.5. 	Brief description of the electrical and/or electronic components used in the braking system : 						N/A
+
+8. 	LIGHTING AND LIGHT-SIGNALLING DEVICES
+8.1. 	List of all devices : 															see Annex A.8.1.
+8.2. 	Diagram showing the location of the lighting and light-signalling devices :								see Annex A.8.2.
+8.3. 	Hazard warning lamps (where fitted) : 													see Annex A.8.2.
+8.4. 	Additional requirements relating to special vehicles : 											N/A
+8.5. 	Brief description of the electrical and/or electronic components used in the lighting system and in the light signalling system : 	N/A
+
+9. EQUIPMENT
+9.1. 	Coupling devices (where applicable)
+9.1.1. 	Type(1) : 																N/A
+9.1.2. 	Photographs and/or drawing showing position and the construction of the coupling devices : 						N/A
+9.2. Arrangement and identification of controls, tell-tales and indicators :									see Annex A.9.2.
+
+9.2.1. Photographs and/or drawings of the arrangement of the symbols, controls, tell-tales and indicators : 					see Annex A.9.2.
+9.3. Statutory inscriptions
+9.3.1. Photographs and/or drawings showing the location of the statutory inscriptions and the chassis number : 					see Annex A.9.3.
+9.3.2. Photographs and/or drawing showing the official part of the inscriptions :			 					see Annex A.9.3.
+9.3.3. Photographs and/or drawings of the chassis number : 											see Annex A.9.3.
+9.4. Device(s) to protect against unauthorized use
+9.4.1. Type of device(s) : 															Type-1
+
+9.4.2. Summary description of device(s) used :			 										The device is a barrel key-driven, steel locking bolt type. The locking bolt is able to be extended into a pocket within the fork stem of the steering head assembly. The lock is a pin type.

@@ -1,0 +1,1904 @@
+Durchlauf 7:KORREKT: 4
+FAST KORREKT FEHLEND: verbindungseinrichtungen
+KORREKT: und
+KORREKT: befestigungen
+KORREKT: coupling
+KORREKT: devices
+KORREKT: and
+KORREKT: attachments
+KORREKT: 40
+KORREKT: anforderungen
+KORREKT: gemäß
+KORREKT: requirements
+KORREKT: according
+KORREKT: to
+FEHLT: vo
+FEHLT: eu
+FEHLT: 1682013
+FEHLT: artikelarticle
+FEHLT: 18
+FEHLT: in
+FEHLT: verbindung
+FEHLT: mit
+FEHLT: in
+FEHLT: connection
+FEHLT: with
+FEHLT: vo
+FEHLT: eu
+FEHLT: 442014
+FEHLT: artikelarticle
+FEHLT: 9
+FEHLT: undand
+FEHLT: anhangannex
+FEHLT: v
+FEHLT: geändert
+FEHLT: durch
+FEHLT: amended
+FEHLT: by
+FEHLT: vo
+FEHLT: eu
+FEHLT: 2018295
+KORREKT: 41
+KORREKT: für
+KORREKT: fahrzeugklasse
+KORREKT: zutreffend
+KORREKT: for
+KORREKT: vehicle
+KORREKT: class
+KORREKT: applicable
+FEHLT: jayes
+FEHLT: neinno
+FEHLT: falls
+FEHLT: ausgerüstetif
+FEHLT: fitted
+KORREKT: 42
+KORREKT: anforderungen
+KORREKT: erfüllt
+KORREKT: requirements
+KORREKT: fulfilled
+FEHLT: jayes
+FEHLT: neinno
+FEHLT: nicht
+FEHLT: zutreffendnot
+KORREKT: applicable
+FEHLT: nicht
+FEHLT: ausgerüstetnot
+FEHLT: fitted
+KORREKT: 43
+FAST KORREKT FEHLEND: nachweis
+KORREKT: der
+KORREKT: anforderungen
+KORREKT: proof
+KORREKT: of
+KORREKT: requirements
+FEHLT: entfällt
+FEHLT: na
+KORREKT: 44
+KORREKT: prüfergebnisse
+FAST KORREKT FEHLEND: repräsentativ
+KORREKT: für
+FEHLT: folgende
+FEHLT: varianten
+FEHLT: versionen
+KORREKT: test
+KORREKT: results
+KORREKT: representative
+KORREKT: for
+KORREKT: following
+FEHLT: variants
+FEHLT: versions
+FEHLT: entfällt
+FEHLT: na
+KORREKT: 5
+KORREKT: sicherungen
+KORREKT: gegen
+FEHLT: unbefugte
+FAST KORREKT FEHLEND: benutzung
+KORREKT: devices
+KORREKT: to
+KORREKT: prevent
+FAST KORREKT FEHLEND: unauthorised
+KORREKT: use
+KORREKT: 50
+KORREKT: anforderungen
+KORREKT: gemäß
+KORREKT: requirements
+KORREKT: according
+KORREKT: to
+FEHLT: vo
+FEHLT: eu
+FEHLT: 1682013
+FEHLT: artikelarticle
+FEHLT: 18
+FEHLT: in
+FEHLT: verbindung
+FEHLT: mit
+FEHLT: in
+FEHLT: connection
+FEHLT: with
+FEHLT: vo
+FEHLT: eu
+FEHLT: 442014
+FEHLT: artikelarticle
+FEHLT: 10
+FEHLT: undand
+FEHLT: anhangannex
+FEHLT: vi
+FEHLT: geändert
+FEHLT: durch
+FEHLT: amended
+FEHLT: by
+FEHLT: vo
+FEHLT: eu
+FEHLT: 2018295
+KORREKT: 51
+KORREKT: für
+KORREKT: fahrzeugklasse
+KORREKT: zutreffend
+KORREKT: for
+KORREKT: vehicle
+KORREKT: class
+KORREKT: applicable
+FEHLT: jayes
+FEHLT: neinno
+KORREKT: 52
+KORREKT: anforderungen
+KORREKT: erfüllt
+KORREKT: requirements
+KORREKT: fulfilled
+FEHLT: jayes
+FEHLT: neinno
+KORREKT: 53
+FAST KORREKT FEHLEND: nachweis
+KORREKT: der
+KORREKT: anforderungen
+KORREKT: proof
+KORREKT: of
+KORREKT: requirements
+FEHLT: gtü
+FEHLT: 16820131600600
+FEHLT: anlage
+FEHLT: attachment
+FEHLT: 12
+KORREKT: 54
+KORREKT: prüfergebnisse
+FAST KORREKT FEHLEND: repräsentativ
+KORREKT: für
+FEHLT: folgende
+FEHLT: varianten
+FEHLT: versionen
+KORREKT: test
+KORREKT: results
+KORREKT: representative
+KORREKT: for
+KORREKT: following
+FEHLT: variants
+FEHLT: versions
+FEHLT: alleall
+FAST KORREKT ZUSÄTZLICH: verbindungseinrichungen
+FAST KORREKT ZUSÄTZLICH: nachweise
+FAST KORREKT ZUSÄTZLICH: representativ
+ZUSÄTZLICH: variantsversions
+ZUSÄTZLICH: unautorisiertes
+FAST KORREKT ZUSÄTZLICH: benutzen
+FAST KORREKT ZUSÄTZLICH: unauthorized
+FAST KORREKT ZUSÄTZLICH: nachweise
+FAST KORREKT ZUSÄTZLICH: representativ
+ZUSÄTZLICH: variantsversions
+Durchlauf 5:KORREKT: 233
+KORREKT: übereinstimmungsprüfung
+KORREKT: nach
+KORREKT: anhang
+KORREKT: v
+KORREKT: nr
+FEHLT: 1c
+FEHLT: 200746eg
+FAST KORREKT FEHLEND: test
+FEHLT: of
+FEHLT: conformity
+FEHLT: according
+FEHLT: to
+FEHLT: annex
+KORREKT: v
+FEHLT: no
+FEHLT: 1c
+FEHLT: 200746eg
+FEHLT: die
+FEHLT: fahrzeugmerkmale
+KORREKT: und
+FEHLT: daten
+FEHLT: des
+FEHLT: oben
+FEHLT: angeführten
+FEHLT: beschreibungsbogens
+FEHLT: stimmen
+FEHLT: mit
+FEHLT: den
+FEHLT: angaben
+FEHLT: der
+FEHLT: beschreibungsunterlagen
+FEHLT: der
+FEHLT: herangezogenen
+FEHLT: systemgenehmigungen
+FEHLT: überein
+FEHLT: the
+FEHLT: vehicle
+FEHLT: specifications
+FEHLT: and
+FEHLT: data
+FEHLT: of
+FEHLT: the
+FEHLT: information
+FEHLT: document
+FEHLT: mentioned
+FEHLT: above
+FEHLT: correspond
+FEHLT: to
+FEHLT: those
+FEHLT: included
+FEHLT: in
+FEHLT: the
+FEHLT: information
+FEHLT: package
+FEHLT: of
+FEHLT: the
+FEHLT: relevant
+FEHLT: system
+FEHLT: approvals
+FEHLT: bemerkungen
+FEHLT: remarks
+FEHLT: keine
+FEHLT: na
+KORREKT: 234
+FEHLT: übereinstimmungs
+KORREKT: und
+FEHLT: anbauüberprüfung
+KORREKT: nach
+KORREKT: anhang
+KORREKT: v
+KORREKT: nr
+FEHLT: 1d
+FEHLT: 200746eg
+FAST KORREKT FEHLEND: test
+FEHLT: of
+FEHLT: conformity
+FEHLT: and
+FEHLT: installation
+FEHLT: according
+FEHLT: to
+FEHLT: annex
+KORREKT: v
+FEHLT: no
+FEHLT: 1d
+FEHLT: 200746eg
+FEHLT: das
+FEHLT: ausgewählte
+FEHLT: prüffahrzeuge
+FEHLT: gestatt
+FEHLT: eine
+FEHLT: angemessene
+FEHLT: begutachtung
+FEHLT: der
+FEHLT: verschiedenen
+FEHLT: zu
+FEHLT: genehmigenden
+FEHLT: kombinationen
+KORREKT: und
+FEHLT: kriterien
+FEHLT: die
+FEHLT: in
+KORREKT: anhang
+KORREKT: v
+KORREKT: nr
+FEHLT: 2
+FEHLT: aufgelistet
+FEHLT: sind
+FEHLT: the
+FEHLT: selected
+FEHLT: vehicle
+FEHLT: permits
+FEHLT: a
+FEHLT: proper
+FEHLT: inspection
+FEHLT: of
+FEHLT: the
+FEHLT: various
+FEHLT: combinations
+FEHLT: to
+FEHLT: be
+FEHLT: approved
+FEHLT: according
+FEHLT: the
+FEHLT: specifications
+FEHLT: listed
+FEHLT: in
+FEHLT: annex
+KORREKT: v
+FEHLT: no
+FEHLT: 2
+FEHLT: liste
+FEHLT: der
+FEHLT: genehmigungen
+FEHLT: siehe
+FEHLT: anlage
+FEHLT: zum
+FEHLT: beschreibungsbogen
+FEHLT: list
+FEHLT: of
+FEHLT: the
+FEHLT: approvals
+FEHLT: see
+FEHLT: appendix
+FEHLT: of
+FEHLT: the
+FEHLT: information
+FEHLT: document
+KORREKT: 235
+KORREKT: ein
+KORREKT: und
+FEHLT: anbauüberprüfung
+KORREKT: nach
+KORREKT: anhang
+KORREKT: v
+KORREKT: nr
+FEHLT: 1e
+FEHLT: 200746eg
+FEHLT: verification
+FEHLT: and
+FEHLT: installation
+FEHLT: according
+FEHLT: to
+FEHLT: annex
+KORREKT: v
+FEHLT: no
+FEHLT: 1e
+FEHLT: 200746eg
+FEHLT: entfällt
+FEHLT: na
+KORREKT: 236
+FEHLT: übereinstimmungs
+KORREKT: und
+FEHLT: anbauüberprüfung
+KORREKT: nach
+KORREKT: anhang
+KORREKT: v
+KORREKT: nr
+FEHLT: 1f
+FEHLT: 200746eg
+FAST KORREKT FEHLEND: test
+FEHLT: of
+FEHLT: conformity
+FEHLT: and
+FEHLT: installation
+FEHLT: according
+FEHLT: to
+FEHLT: annex
+KORREKT: v
+FEHLT: no
+FEHLT: 1f
+FEHLT: 200746eg
+KORREKT: 1
+FEHLT: 78317ewg
+FEHLT: 78317eec
+FEHLT: entsprechende
+FEHLT: einrichtungen
+FEHLT: vorhanden
+FEHLT: fitted
+FEHLT: with
+FEHLT: an
+FEHLT: adequate
+FEHLT: device
+FEHLT: 2
+FEHLT: 78318ewg
+FEHLT: 78318eec
+FEHLT: entsprechende
+FEHLT: einrichtungen
+FEHLT: vorhanden
+FEHLT: fitted
+FEHLT: with
+FEHLT: an
+FEHLT: adequate
+FEHLT: device
+FAST KORREKT ZUSÄTZLICH: testnr
+ZUSÄTZLICH: 2007001eg
+FAST KORREKT ZUSÄTZLICH: testnr
+ZUSÄTZLICH: 2007074eg
+ZUSÄTZLICH: überprüfung
+FAST KORREKT ZUSÄTZLICH: testnr
+ZUSÄTZLICH: 2007001eg
+FAST KORREKT ZUSÄTZLICH: testnr
+ZUSÄTZLICH: 2007074eg
+ZUSÄTZLICH: anbauprüfungen
+FAST KORREKT ZUSÄTZLICH: testnr
+ZUSÄTZLICH: 2007001eg
+FAST KORREKT ZUSÄTZLICH: testnr
+ZUSÄTZLICH: 2007074eg
+ZUSÄTZLICH: anbauprüfungen
+FAST KORREKT ZUSÄTZLICH: testnr
+ZUSÄTZLICH: 2007001eg
+FAST KORREKT ZUSÄTZLICH: testnr
+ZUSÄTZLICH: 2007074eg
+Durchlauf 6:FAST KORREKT FEHLEND: 0
+KORREKT: general
+KORREKT: allgemeine
+KORREKT: angaben
+FEHLT: 01
+KORREKT: make
+KORREKT: trade
+KORREKT: name
+KORREKT: of
+KORREKT: manufacturer
+FEHLT: fabrikmarke
+FEHLT: firmenname
+KORREKT: des
+KORREKT: herstellers
+KORREKT: kirchhoff
+KORREKT: ecotec
+KORREKT: gmbh
+FEHLT: 02
+KORREKT: type
+KORREKT: completed
+KORREKT: vehicle
+KORREKT: typ
+FEHLT: vervollständigtes
+KORREKT: fahrzeug
+FEHLT: n321
+KORREKT: type
+KORREKT: of
+KORREKT: base
+KORREKT: vehicle
+KORREKT: typ
+KORREKT: des
+FAST KORREKT FEHLEND: basisfahrzeugs
+FEHLT: n321
+FEHLT: 021
+KORREKT: commercial
+KORREKT: description
+FEHLT: handelsname
+KORREKT: refer
+KORREKT: to
+KORREKT: information
+FEHLT: document
+FEHLT: siehe
+KORREKT: beschreibungsbogen
+FEHLT: 03
+KORREKT: means
+KORREKT: of
+KORREKT: identification
+KORREKT: of
+KORREKT: type
+KORREKT: if
+KORREKT: marked
+KORREKT: on
+KORREKT: the
+KORREKT: vehicle
+FAST KORREKT FEHLEND: merkmale
+KORREKT: zur
+FEHLT: typidentifizierung
+FEHLT: sofern
+FAST KORREKT FEHLEND: am
+KORREKT: fahrzeug
+FEHLT: vorhanden
+KORREKT: refer
+KORREKT: to
+KORREKT: information
+FEHLT: document
+FEHLT: siehe
+KORREKT: beschreibungsbogen
+FEHLT: 04
+KORREKT: category
+KORREKT: of
+KORREKT: vehicle
+KORREKT: fahrzeugklasse
+FEHLT: n3
+FEHLT: n3g
+FEHLT: 05
+KORREKT: manufacturers
+KORREKT: name
+KORREKT: and
+KORREKT: address
+KORREKT: name
+KORREKT: und
+KORREKT: anschrift
+KORREKT: des
+KORREKT: herstellers
+KORREKT: kirchhoff
+KORREKT: ecotec
+KORREKT: gmbh
+KORREKT: stefanstraße
+KORREKT: 2
+KORREKT: 58638
+FEHLT: iserlohn
+FEHLT: 08
+KORREKT: address
+KORREKT: of
+KORREKT: assembly
+KORREKT: plant
+FEHLT: namen
+KORREKT: und
+FEHLT: anschriften
+KORREKT: der
+FEHLT: fertigungsstätten
+KORREKT: refer
+KORREKT: to
+KORREKT: information
+KORREKT: folder
+FAST KORREKT FEHLEND: gemäß
+KORREKT: beschreibungsbogen
+FEHLT: 09
+KORREKT: name
+KORREKT: and
+KORREKT: address
+KORREKT: of
+KORREKT: representative
+KORREKT: name
+KORREKT: und
+KORREKT: anschrift
+KORREKT: des
+KORREKT: beauftragten
+KORREKT: faun
+KORREKT: umwelttechnik
+KORREKT: gmbh
+KORREKT: co
+KORREKT: kg
+FAST KORREKT FEHLEND: feldhorst
+KORREKT: 4
+KORREKT: 27711
+KORREKT: osterholzscharmbeck
+ZUSÄTZLICH: firma
+ZUSÄTZLICH: vollendetes
+FAST KORREKT ZUSÄTZLICH: basisfahrzeuges
+ZUSÄTZLICH: handelsgeschäft
+FAST KORREKT ZUSÄTZLICH: merkmal
+ZUSÄTZLICH: typenbezeichnung
+ZUSÄTZLICH: wenn
+ZUSÄTZLICH: markiert
+FAST KORREKT ZUSÄTZLICH: auf
+ZUSÄTZLICH: dem
+ZUSÄTZLICH: iserin
+ZUSÄTZLICH: fertigungslage
+FAST KORREKT ZUSÄTZLICH: in
+FAST KORREKT ZUSÄTZLICH: gemäße
+FAST KORREKT ZUSÄTZLICH: feldhorz
+Durchlauf 3:FAST KORREKT FEHLEND: 7
+KORREKT: braking
+KORREKT: 71
+KORREKT: diagram
+KORREKT: of
+KORREKT: braking
+KORREKT: devices
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a71
+KORREKT: 72
+KORREKT: front
+KORREKT: and
+KORREKT: rear
+KORREKT: brakes
+KORREKT: front
+FEHLT: 2discs
+KORREKT: rear
+FEHLT: disc
+KORREKT: 721
+KORREKT: makes
+FEHLT: harleydavidson
+KORREKT: 722
+KORREKT: types
+FEHLT: solid
+KORREKT: or
+FEHLT: floating
+KORREKT: 73
+KORREKT: drawing
+KORREKT: of
+KORREKT: parts
+KORREKT: of
+KORREKT: the
+KORREKT: brake
+KORREKT: system
+FAST KORREKT FEHLEND: 731
+KORREKT: shoes
+KORREKT: andor
+FAST KORREKT FEHLEND: pads1
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a731
+FAST KORREKT FEHLEND: 732
+FEHLT: linings
+KORREKT: andor
+FAST KORREKT FEHLEND: pads1
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a732
+FAST KORREKT FEHLEND: 733
+KORREKT: brake
+FEHLT: lever
+KORREKT: andor
+FAST KORREKT FEHLEND: pedals1
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a733
+FAST KORREKT FEHLEND: 734
+FEHLT: hydraulic
+FEHLT: reservoirs
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a734
+KORREKT: 74
+KORREKT: other
+FEHLT: device
+KORREKT: where
+KORREKT: applicable
+KORREKT: drawing
+KORREKT: and
+KORREKT: description
+KORREKT: na
+KORREKT: 75
+KORREKT: brief
+KORREKT: description
+KORREKT: of
+KORREKT: the
+KORREKT: electrical
+KORREKT: andor
+KORREKT: electronic
+KORREKT: components
+KORREKT: used
+KORREKT: in
+KORREKT: the
+KORREKT: braking
+KORREKT: system
+KORREKT: na
+FAST KORREKT FEHLEND: 8
+KORREKT: lighting
+KORREKT: and
+KORREKT: lightsignalling
+KORREKT: devices
+KORREKT: 81
+KORREKT: list
+KORREKT: of
+KORREKT: all
+KORREKT: devices
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a81
+KORREKT: 82
+KORREKT: diagram
+KORREKT: showing
+KORREKT: the
+KORREKT: location
+KORREKT: of
+KORREKT: the
+KORREKT: lighting
+KORREKT: and
+KORREKT: lightsignalling
+KORREKT: devices
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a82
+KORREKT: 83
+KORREKT: hazard
+KORREKT: warning
+KORREKT: lamps
+KORREKT: where
+FEHLT: fitted
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a82
+KORREKT: 84
+KORREKT: additional
+KORREKT: requirements
+FAST KORREKT FEHLEND: relating
+KORREKT: to
+KORREKT: special
+KORREKT: vehicles
+KORREKT: na
+KORREKT: 85
+KORREKT: brief
+KORREKT: description
+KORREKT: of
+KORREKT: the
+KORREKT: electrical
+KORREKT: andor
+KORREKT: electronic
+KORREKT: components
+KORREKT: used
+KORREKT: in
+KORREKT: the
+KORREKT: lighting
+KORREKT: system
+KORREKT: and
+KORREKT: in
+KORREKT: the
+FEHLT: light
+FEHLT: signalling
+KORREKT: system
+KORREKT: na
+FAST KORREKT FEHLEND: 9
+KORREKT: equipment
+KORREKT: 91
+KORREKT: coupling
+KORREKT: devices
+KORREKT: where
+KORREKT: applicable
+KORREKT: 911
+FEHLT: type1
+KORREKT: na
+KORREKT: 912
+KORREKT: photographs
+KORREKT: andor
+KORREKT: drawing
+KORREKT: showing
+KORREKT: position
+KORREKT: and
+KORREKT: the
+KORREKT: construction
+KORREKT: of
+KORREKT: the
+KORREKT: coupling
+KORREKT: devices
+KORREKT: na
+KORREKT: 92
+KORREKT: arrangement
+KORREKT: and
+KORREKT: identification
+KORREKT: of
+KORREKT: controls
+FEHLT: telltales
+KORREKT: and
+KORREKT: indicators
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a92
+KORREKT: 921
+KORREKT: photographs
+KORREKT: andor
+KORREKT: drawings
+KORREKT: of
+KORREKT: the
+KORREKT: arrangement
+KORREKT: of
+KORREKT: the
+FEHLT: symbols
+KORREKT: controls
+FEHLT: telltales
+KORREKT: and
+KORREKT: indicators
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a92
+KORREKT: 93
+KORREKT: statutory
+KORREKT: inscriptions
+KORREKT: 931
+KORREKT: photographs
+KORREKT: andor
+KORREKT: drawings
+KORREKT: showing
+KORREKT: the
+KORREKT: location
+KORREKT: of
+KORREKT: the
+KORREKT: statutory
+KORREKT: inscriptions
+KORREKT: and
+KORREKT: the
+KORREKT: chassis
+KORREKT: number
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a93
+KORREKT: 932
+KORREKT: photographs
+KORREKT: andor
+KORREKT: drawing
+KORREKT: showing
+KORREKT: the
+KORREKT: official
+KORREKT: part
+KORREKT: of
+KORREKT: the
+KORREKT: inscriptions
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a93
+KORREKT: 933
+KORREKT: photographs
+KORREKT: andor
+KORREKT: drawings
+KORREKT: of
+KORREKT: the
+KORREKT: chassis
+KORREKT: number
+FAST KORREKT FEHLEND: see
+FEHLT: annex
+FAST KORREKT FEHLEND: a93
+KORREKT: 94
+KORREKT: devices
+KORREKT: to
+KORREKT: protect
+KORREKT: against
+KORREKT: unauthorized
+KORREKT: use
+KORREKT: 941
+KORREKT: type
+KORREKT: of
+KORREKT: devices
+FEHLT: type1
+KORREKT: 942
+KORREKT: summary
+KORREKT: description
+KORREKT: of
+KORREKT: devices
+KORREKT: used
+KORREKT: the
+FEHLT: device
+FAST KORREKT FEHLEND: is
+FEHLT: a
+FEHLT: barrel
+FEHLT: keydriven
+FEHLT: steel
+FEHLT: locking
+FEHLT: bolt
+KORREKT: type
+KORREKT: the
+FEHLT: locking
+FEHLT: bolt
+FAST KORREKT FEHLEND: is
+FEHLT: able
+KORREKT: to
+FEHLT: be
+FEHLT: extended
+FEHLT: into
+FEHLT: a
+FEHLT: pocket
+FEHLT: within
+KORREKT: the
+FAST KORREKT FEHLEND: fork
+FEHLT: stem
+KORREKT: of
+KORREKT: the
+FEHLT: steering
+FEHLT: head
+FEHLT: assembly
+KORREKT: the
+FEHLT: lock
+FAST KORREKT FEHLEND: is
+FEHLT: a
+FAST KORREKT FEHLEND: pin
+KORREKT: type
+FAST KORREKT ZUSÄTZLICH: 723
+FAST KORREKT ZUSÄTZLICH: pads
+FAST KORREKT ZUSÄTZLICH: 724
+ZUSÄTZLICH: lines
+FAST KORREKT ZUSÄTZLICH: pedals
+FAST KORREKT ZUSÄTZLICH: 725
+FAST KORREKT ZUSÄTZLICH: if
+FAST KORREKT ZUSÄTZLICH: line
+FAST KORREKT ZUSÄTZLICH: if
+FAST KORREKT ZUSÄTZLICH: 76
+FAST KORREKT ZUSÄTZLICH: for
+FAST KORREKT ZUSÄTZLICH: 86
+FAST KORREKT ZUSÄTZLICH: 87
+ZUSÄTZLICH: graphs
+ZUSÄTZLICH: telephones
+ZUSÄTZLICH: graphs
+ZUSÄTZLICH: telephones
+FAST KORREKT ZUSÄTZLICH: 922
+ZUSÄTZLICH: telephones
+FAST KORREKT ZUSÄTZLICH: 95
+FAST KORREKT ZUSÄTZLICH: 96
+ZUSÄTZLICH: audible
+ZUSÄTZLICH: 961
+ZUSÄTZLICH: their
+ZUSÄTZLICH: purpose
+FAST KORREKT ZUSÄTZLICH: 962
+FAST KORREKT ZUSÄTZLICH: 963
+ZUSÄTZLICH: approval
+ZUSÄTZLICH: mark
+FAST KORREKT ZUSÄTZLICH: 964
+ZUSÄTZLICH: audible
+ZUSÄTZLICH: 965
+FAST KORREKT ZUSÄTZLICH: relation
+ZUSÄTZLICH: method
+ZUSÄTZLICH: attachment
+ZUSÄTZLICH: including
+ZUSÄTZLICH: vehicle
+ZUSÄTZLICH: which
+ZUSÄTZLICH: audible
+FAST KORREKT ZUSÄTZLICH: are
+ZUSÄTZLICH: attached
+ZUSÄTZLICH: 966
+ZUSÄTZLICH: registration
+ZUSÄTZLICH: plate
+ZUSÄTZLICH: 967
+ZUSÄTZLICH: inclination
+ZUSÄTZLICH: plane
+FAST KORREKT ZUSÄTZLICH: relation
+ZUSÄTZLICH: vertical
+ZUSÄTZLICH: 968
+ZUSÄTZLICH: 969
+ZUSÄTZLICH: 9610
+ZUSÄTZLICH: 9611
+ZUSÄTZLICH: 9612
+ZUSÄTZLICH: 9613
+ZUSÄTZLICH: 9614
+ZUSÄTZLICH: 9615
+ZUSÄTZLICH: 9616
+ZUSÄTZLICH: 9617
+ZUSÄTZLICH: 9618
+ZUSÄTZLICH: 9619
+ZUSÄTZLICH: 9620
+ZUSÄTZLICH: 9621
+ZUSÄTZLICH: 9622
+ZUSÄTZLICH: 9623
+ZUSÄTZLICH: 9624
+ZUSÄTZLICH: 9625
+ZUSÄTZLICH: 9626
+ZUSÄTZLICH: 9627
+ZUSÄTZLICH: 9628
+ZUSÄTZLICH: 9629
+ZUSÄTZLICH: 9630
+FAST KORREKT ZUSÄTZLICH: 9631
+FAST KORREKT ZUSÄTZLICH: 9632
+FAST KORREKT ZUSÄTZLICH: 9633
+FAST KORREKT ZUSÄTZLICH: 9634
+ZUSÄTZLICH: 9635
+ZUSÄTZLICH: 9636
+ZUSÄTZLICH: 9637
+ZUSÄTZLICH: 9638
+ZUSÄTZLICH: 9639
+ZUSÄTZLICH: 9640
+ZUSÄTZLICH: 9641
+ZUSÄTZLICH: 9642
+ZUSÄTZLICH: 9643
+ZUSÄTZLICH: 9644
+ZUSÄTZLICH: 9645
+ZUSÄTZLICH: 9646
+ZUSÄTZLICH: 9647
+ZUSÄTZLICH: 9648
+ZUSÄTZLICH: 9649
+ZUSÄTZLICH: 9650
+ZUSÄTZLICH: 9651
+ZUSÄTZLICH: 9652
+ZUSÄTZLICH: 9653
+ZUSÄTZLICH: 9654
+ZUSÄTZLICH: 9655
+ZUSÄTZLICH: 9656
+ZUSÄTZLICH: 9657
+ZUSÄTZLICH: 9658
+ZUSÄTZLICH: 9659
+ZUSÄTZLICH: 9660
+ZUSÄTZLICH: 9661
+ZUSÄTZLICH: 9662
+ZUSÄTZLICH: 9663
+ZUSÄTZLICH: 9664
+ZUSÄTZLICH: 9665
+ZUSÄTZLICH: 9666
+ZUSÄTZLICH: 9667
+ZUSÄTZLICH: 9668
+ZUSÄTZLICH: 9669
+ZUSÄTZLICH: 9670
+ZUSÄTZLICH: 9671
+ZUSÄTZLICH: 9672
+ZUSÄTZLICH: 9673
+ZUSÄTZLICH: 9674
+Durchlauf 2:FAST KORREKT FEHLEND: test
+FEHLT: conditions
+FEHLT: engine
+KORREKT: type
+FEHLT: piaggio
+FEHLT: m245m
+FEHLT: engine
+FEHLT: family
+FAST KORREKT FEHLEND: h
+FEHLT: pressures
+FEHLT: measured
+KORREKT: at
+KORREKT: maximum
+FEHLT: power
+FEHLT: barometric
+FAST KORREKT FEHLEND: 1008
+FAST KORREKT FEHLEND: kpa
+FAST KORREKT FEHLEND: steam
+FEHLT: pressure
+FEHLT: 2447
+FAST KORREKT FEHLEND: kpa
+FEHLT: exhaust
+FAST KORREKT FEHLEND: 1
+FEHLT: inlet
+FEHLT: pressure
+FEHLT: drop
+FAST KORREKT FEHLEND: 1
+FEHLT: temperatures
+FEHLT: measured
+KORREKT: at
+KORREKT: maximum
+FEHLT: power
+KORREKT: of
+KORREKT: the
+FEHLT: intake
+FAST KORREKT FEHLEND: air
+FEHLT: 307
+FAST KORREKT FEHLEND: k
+KORREKT: of
+KORREKT: the
+FAST KORREKT FEHLEND: cooling
+FEHLT: liquid
+KORREKT: at
+KORREKT: the
+FEHLT: engine
+FAST KORREKT FEHLEND: cooling
+FEHLT: liquid
+FEHLT: outlet
+FEHLT: 362
+FAST KORREKT FEHLEND: k
+KORREKT: at
+KORREKT: the
+FEHLT: reference
+FEHLT: point
+FAST KORREKT FEHLEND: in
+KORREKT: the
+FAST KORREKT FEHLEND: case
+KORREKT: of
+FAST KORREKT FEHLEND: air
+FAST KORREKT FEHLEND: cooling
+FAST KORREKT FEHLEND: k
+FEHLT: oil
+FEHLT: 368
+FAST KORREKT FEHLEND: k
+KORREKT: of
+KORREKT: the
+FEHLT: fuel
+KORREKT: at
+KORREKT: the
+FEHLT: carburatorinjection
+FEHLT: pump
+FEHLT: intake
+FEHLT: 303
+FAST KORREKT FEHLEND: k
+FAST KORREKT FEHLEND: in
+KORREKT: the
+FEHLT: fuelconsumption
+FEHLT: measuring
+KORREKT: device
+FEHLT: 303
+FAST KORREKT FEHLEND: k
+KORREKT: of
+KORREKT: the
+FEHLT: exhaust
+FEHLT: measured
+KORREKT: at
+KORREKT: the
+FEHLT: point
+FEHLT: adjacent
+KORREKT: to
+KORREKT: the
+FEHLT: outlet
+FEHLT: flanges
+KORREKT: of
+KORREKT: the
+FEHLT: exhaust
+FEHLT: manifolds
+FEHLT: 959
+FAST KORREKT FEHLEND: k
+FEHLT: characteristics
+KORREKT: of
+KORREKT: the
+FEHLT: dynamometer
+FAST KORREKT FEHLEND: make
+FAST KORREKT FEHLEND: api
+FEHLT: com
+FAST KORREKT FEHLEND: srl
+KORREKT: type
+FEHLT: fr
+FAST KORREKT FEHLEND: 150
+FEHLT: fuel
+FEHLT: for
+FEHLT: sparkignition
+FEHLT: engines
+KORREKT: operating
+KORREKT: on
+FEHLT: liquid
+FEHLT: fuel
+FAST KORREKT FEHLEND: make
+FEHLT: esso
+FEHLT: specification
+FEHLT: unleaded
+FEHLT: petrol
+FEHLT: antiknock
+FEHLT: additive
+FEHLT: lead
+FEHLT: etc
+KORREKT: not
+KORREKT: applicable
+KORREKT: type
+FEHLT: content
+FAST KORREKT FEHLEND: in
+FEHLT: mglitre
+FEHLT: octane
+KORREKT: number
+FEHLT: ron
+FEHLT: 95
+FEHLT: mon
+FEHLT: 85
+FEHLT: relative
+FEHLT: density
+FEHLT: 0756
+KORREKT: at
+FAST KORREKT FEHLEND: 15c
+FEHLT: calorific
+FEHLT: value
+FEHLT: 435
+FEHLT: mjkg
+ZUSÄTZLICH: 9261ec2000ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: list
+FAST KORREKT ZUSÄTZLICH: all
+ZUSÄTZLICH: devices
+ZUSÄTZLICH: mentioning
+FAST KORREKT ZUSÄTZLICH: makes
+ZUSÄTZLICH: model
+ZUSÄTZLICH: component
+ZUSÄTZLICH: approval
+FAST KORREKT ZUSÄTZLICH: marks
+ZUSÄTZLICH: intensity
+FAST KORREKT ZUSÄTZLICH: main
+FAST KORREKT ZUSÄTZLICH: beam
+ZUSÄTZLICH: headlights
+ZUSÄTZLICH: colour
+ZUSÄTZLICH: vehicle
+ZUSÄTZLICH: approval
+FAST KORREKT ZUSÄTZLICH: marks
+ZUSÄTZLICH: accessories
+ZUSÄTZLICH: labels
+ZUSÄTZLICH: turf
+ZUSÄTZLICH: spare
+ZUSÄTZLICH: wheel
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: corresponding
+ZUSÄTZLICH: tables
+FAST KORREKT ZUSÄTZLICH: see
+ZUSÄTZLICH: attached
+ZUSÄTZLICH: drawing
+FAST KORREKT ZUSÄTZLICH: a140
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: following
+FAST KORREKT ZUSÄTZLICH: if
+FAST KORREKT ZUSÄTZLICH: see
+ZUSÄTZLICH: attached
+ZUSÄTZLICH: drawing
+FAST KORREKT ZUSÄTZLICH: a140
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: following
+FAST KORREKT ZUSÄTZLICH: if
+ZUSÄTZLICH: equipment
+FAST KORREKT ZUSÄTZLICH: coupling
+ZUSÄTZLICH: devices
+ZUSÄTZLICH: where
+ZUSÄTZLICH: types
+FAST KORREKT ZUSÄTZLICH: hooking
+ZUSÄTZLICH: devicehook
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: latcher
+ZUSÄTZLICH: photographs
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: drawings
+ZUSÄTZLICH: showing
+ZUSÄTZLICH: position
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: construction
+FAST KORREKT ZUSÄTZLICH: coupling
+ZUSÄTZLICH: devices
+ZUSÄTZLICH: arrangement
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: identification
+ZUSÄTZLICH: controls
+ZUSÄTZLICH: teletales
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: indicators
+ZUSÄTZLICH: photographs
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: drawings
+ZUSÄTZLICH: showing
+ZUSÄTZLICH: arrangement
+ZUSÄTZLICH: symbols
+ZUSÄTZLICH: teletales
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: indicators
+ZUSÄTZLICH: photographs
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: drawings
+ZUSÄTZLICH: showing
+ZUSÄTZLICH: position
+ZUSÄTZLICH: statutory
+ZUSÄTZLICH: inscriptions
+ZUSÄTZLICH: chassis
+ZUSÄTZLICH: photographs
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: drawings
+ZUSÄTZLICH: showing
+ZUSÄTZLICH: official
+ZUSÄTZLICH: part
+ZUSÄTZLICH: chassis
+ZUSÄTZLICH: with
+ZUSÄTZLICH: statement
+ZUSÄTZLICH: dimensions
+ZUSÄTZLICH: photographs
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: drawings
+ZUSÄTZLICH: showing
+ZUSÄTZLICH: chassis
+ZUSÄTZLICH: with
+ZUSÄTZLICH: statement
+ZUSÄTZLICH: dimensions
+ZUSÄTZLICH: devices
+ZUSÄTZLICH: protect
+ZUSÄTZLICH: against
+ZUSÄTZLICH: unauthorized
+FAST KORREKT ZUSÄTZLICH: use
+ZUSÄTZLICH: devices
+ZUSÄTZLICH: steering
+ZUSÄTZLICH: lock
+ZUSÄTZLICH: with
+FAST KORREKT ZUSÄTZLICH: key
+ZUSÄTZLICH: same
+ZUSÄTZLICH: time
+ZUSÄTZLICH: steering
+ZUSÄTZLICH: wheel
+ZUSÄTZLICH: steering
+ZUSÄTZLICH: lock
+ZUSÄTZLICH: with
+FAST KORREKT ZUSÄTZLICH: key
+ZUSÄTZLICH: same
+ZUSÄTZLICH: time
+ZUSÄTZLICH: steering
+ZUSÄTZLICH: wheel
+ZUSÄTZLICH: summary
+ZUSÄTZLICH: description
+ZUSÄTZLICH: devices
+ZUSÄTZLICH: used
+ZUSÄTZLICH: summary
+ZUSÄTZLICH: description
+ZUSÄTZLICH: devices
+ZUSÄTZLICH: used
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: their
+ZUSÄTZLICH: purpose
+ZUSÄTZLICH: audible
+ZUSÄTZLICH: warning
+ZUSÄTZLICH: summary
+ZUSÄTZLICH: description
+ZUSÄTZLICH: devices
+ZUSÄTZLICH: used
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: their
+ZUSÄTZLICH: purpose
+ZUSÄTZLICH: electrical
+ZUSÄTZLICH: system
+FAST KORREKT ZUSÄTZLICH: see
+ZUSÄTZLICH: attached
+ZUSÄTZLICH: drawing
+FAST KORREKT ZUSÄTZLICH: a150
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: following
+FAST KORREKT ZUSÄTZLICH: if
+FAST KORREKT ZUSÄTZLICH: see
+ZUSÄTZLICH: attached
+ZUSÄTZLICH: drawing
+FAST KORREKT ZUSÄTZLICH: a150
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: following
+FAST KORREKT ZUSÄTZLICH: if
+FAST KORREKT ZUSÄTZLICH: see
+ZUSÄTZLICH: attached
+ZUSÄTZLICH: drawing
+FAST KORREKT ZUSÄTZLICH: a100
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: following
+FAST KORREKT ZUSÄTZLICH: if
+FAST KORREKT ZUSÄTZLICH: see
+ZUSÄTZLICH: attached
+ZUSÄTZLICH: drawing
+FAST KORREKT ZUSÄTZLICH: a100
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: following
+FAST KORREKT ZUSÄTZLICH: if
+FAST KORREKT ZUSÄTZLICH: see
+ZUSÄTZLICH: attached
+ZUSÄTZLICH: drawing
+FAST KORREKT ZUSÄTZLICH: a70
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: following
+FAST KORREKT ZUSÄTZLICH: if
+FAST KORREKT ZUSÄTZLICH: see
+ZUSÄTZLICH: attached
+ZUSÄTZLICH: drawing
+FAST KORREKT ZUSÄTZLICH: a70
+FAST KORREKT ZUSÄTZLICH: and
+ZUSÄTZLICH: following
+FAST KORREKT ZUSÄTZLICH: if
+Durchlauf 4:FEHLT: 4128
+KORREKT: casing
+KORREKT: for
+KORREKT: the
+KORREKT: catalytic
+FAST KORREKT FEHLEND: converters
+KORREKT: steel
+KORREKT: annex
+KORREKT: 32121
+FEHLT: 4129
+KORREKT: location
+KORREKT: of
+KORREKT: the
+KORREKT: catalytic
+FAST KORREKT FEHLEND: converters
+KORREKT: place
+KORREKT: and
+KORREKT: reference
+KORREKT: distance
+KORREKT: in
+KORREKT: the
+KORREKT: exhaust
+KORREKT: line
+KORREKT: annex
+KORREKT: 32121
+FEHLT: 41210
+KORREKT: catalyst
+KORREKT: heatshield
+KORREKT: yes
+FEHLT: 41211
+KORREKT: to
+FEHLT: 41212
+FEHLT: na
+FEHLT: 413
+KORREKT: oxygen
+FEHLT: sensors
+FEHLT: 4131
+KORREKT: oxygen
+KORREKT: sensor
+KORREKT: components
+FEHLT: drawings
+KORREKT: annex
+KORREKT: 32121
+FEHLT: 4132
+KORREKT: drawing
+KORREKT: of
+KORREKT: exhaust
+KORREKT: device
+KORREKT: with
+KORREKT: oxygen
+KORREKT: sensor
+FEHLT: locations
+KORREKT: dimensions
+KORREKT: relative
+KORREKT: to
+KORREKT: exhaust
+KORREKT: valves
+KORREKT: annex
+KORREKT: 32121
+FEHLT: 4133
+KORREKT: control
+FEHLT: ranges
+KORREKT: sensor
+FEHLT: is
+FEHLT: a
+FEHLT: switching
+FEHLT: or
+FEHLT: stoichiometric
+FEHLT: o2
+KORREKT: sensor
+FEHLT: that
+FEHLT: provides
+FEHLT: an
+FEHLT: indication
+KORREKT: to
+KORREKT: the
+FEHLT: ecm
+FEHLT: as
+KORREKT: to
+FEHLT: whether
+KORREKT: the
+FEHLT: airfuel
+FEHLT: ratio
+FEHLT: is
+FEHLT: above
+FEHLT: or
+FEHLT: below
+FEHLT: stoichiometric
+KORREKT: the
+FEHLT: sensing
+FEHLT: element
+FEHLT: generates
+FEHLT: a
+FEHLT: higher
+FEHLT: voltage
+KORREKT: in
+KORREKT: the
+FEHLT: rich
+FEHLT: state
+KORREKT: and
+FEHLT: switches
+KORREKT: to
+FEHLT: a
+FEHLT: lower
+FEHLT: voltage
+KORREKT: in
+KORREKT: the
+FEHLT: lean
+FEHLT: state
+KORREKT: the
+FEHLT: switching
+FEHLT: point
+KORREKT: of
+FEHLT: our
+FEHLT: sensors
+FEHLT: is
+FEHLT: around
+FEHLT: 1004
+FEHLT: lambda
+FEHLT: 4134
+KORREKT: identifying
+KORREKT: part
+FAST KORREKT FEHLEND: numbers
+KORREKT: annex
+KORREKT: 32121
+FEHLT: 4135
+KORREKT: description
+KORREKT: of
+KORREKT: oxygen
+KORREKT: sensor
+KORREKT: heating
+KORREKT: system
+KORREKT: and
+KORREKT: heating
+KORREKT: strategy
+KORREKT: the
+FEHLT: o2
+FEHLT: sensors
+FEHLT: have
+FEHLT: a
+FEHLT: resistive
+KORREKT: heating
+FEHLT: element
+FEHLT: embedded
+KORREKT: with
+KORREKT: the
+FEHLT: sensing
+FEHLT: element
+FEHLT: power
+KORREKT: for
+KORREKT: the
+FEHLT: heater
+FEHLT: is
+FEHLT: supplied
+FEHLT: by
+KORREKT: the
+KORREKT: system
+FEHLT: power
+FEHLT: circuit
+KORREKT: and
+FEHLT: pwm
+KORREKT: control
+KORREKT: of
+KORREKT: the
+FEHLT: heater
+FEHLT: is
+FEHLT: performed
+FEHLT: by
+KORREKT: the
+FEHLT: ecm
+KORREKT: with
+FEHLT: a
+FEHLT: low
+FEHLT: side
+FEHLT: driver
+FEHLT: 4136
+KORREKT: oxygen
+KORREKT: sensor
+FEHLT: heat
+FEHLT: shields
+KORREKT: no
+FEHLT: 4
+FEHLT: 414
+KORREKT: to
+FEHLT: 418
+FEHLT: na
+FEHLT: 42
+KORREKT: crankcase
+KORREKT: emission
+KORREKT: control
+KORREKT: system
+FEHLT: 421
+KORREKT: configuration
+KORREKT: of
+KORREKT: crankcase
+KORREKT: gas
+KORREKT: recycling
+KORREKT: system
+KORREKT: breather
+KORREKT: system
+KORREKT: positive
+KORREKT: crankcase
+KORREKT: ventilation
+KORREKT: system
+FEHLT: other4
+KORREKT: description
+KORREKT: and
+FEHLT: drawings
+KORREKT: annex
+FEHLT: 421
+FEHLT: 43
+KORREKT: evaporative
+KORREKT: emission
+KORREKT: control
+KORREKT: system
+FEHLT: 431
+KORREKT: evaporative
+FEHLT: emissions
+KORREKT: control
+KORREKT: system
+KORREKT: yes
+FEHLT: 432
+KORREKT: drawing
+KORREKT: of
+KORREKT: the
+KORREKT: evaporative
+KORREKT: control
+KORREKT: system
+KORREKT: annex
+FEHLT: 432
+FEHLT: 433
+KORREKT: drawing
+KORREKT: of
+KORREKT: the
+KORREKT: canister
+KORREKT: including
+KORREKT: dimensions
+KORREKT: and
+KORREKT: indicating
+KORREKT: vent
+KORREKT: and
+KORREKT: purge
+KORREKT: mechanism
+KORREKT: annex
+FEHLT: 433
+FEHLT: 434
+KORREKT: working
+KORREKT: capacity
+FEHLT: g
+KORREKT: annex
+FEHLT: 432
+FEHLT: 435
+KORREKT: adsorption
+KORREKT: material
+KORREKT: charcoal
+FEHLT: 436
+KORREKT: housing
+KORREKT: material
+KORREKT: plastic
+FAST KORREKT ZUSÄTZLICH: converter
+FAST KORREKT ZUSÄTZLICH: converter
+ZUSÄTZLICH: heatshields
+FAST KORREKT ZUSÄTZLICH: number
+ZUSÄTZLICH: heatshields
+ZUSÄTZLICH: crank
+Durchlauf 1:FAST KORREKT FEHLEND: 1
+FEHLT: vehicle
+FAST KORREKT FEHLEND: 11
+FEHLT: manufacturer
+FEHLT: aprilia
+FEHLT: spa
+FAST KORREKT FEHLEND: 12
+FEHLT: type
+FAST KORREKT FEHLEND: sp
+FAST KORREKT FEHLEND: 13
+FEHLT: engine
+FEHLT: family
+FAST KORREKT FEHLEND: m
+FAST KORREKT FEHLEND: 14
+FEHLT: vehicle
+FEHLT: identification
+FEHLT: number
+FEHLT: zd4sp00002s000001
+FAST KORREKT FEHLEND: 15
+FEHLT: test
+FEHLT: weight
+FEHLT: together
+FEHLT: with
+FEHLT: rider
+FAST KORREKT FEHLEND: 237
+FAST KORREKT FEHLEND: kg
+FAST KORREKT FEHLEND: 2
+FEHLT: engine
+FAST KORREKT FEHLEND: 21
+FEHLT: manufacturer
+FEHLT: piaggio
+FAST KORREKT FEHLEND: c
+FEHLT: spa
+FAST KORREKT FEHLEND: 22
+FEHLT: type
+FEHLT: piaggio
+FEHLT: m245m
+FAST KORREKT FEHLEND: 23
+FEHLT: sort
+FEHLT: spark
+FEHLT: ignition
+FEHLT: engine
+FEHLT: four
+FEHLT: stroke
+FAST KORREKT FEHLEND: 24
+FEHLT: power
+FAST KORREKT FEHLEND: 70
+FAST KORREKT FEHLEND: kw
+FAST KORREKT FEHLEND: at
+FEHLT: 7250
+FEHLT: min1
+FAST KORREKT FEHLEND: 25
+FEHLT: maximum
+FEHLT: vehicle
+FEHLT: speed
+FAST KORREKT FEHLEND: 85
+FEHLT: kmh
+FAST KORREKT FEHLEND: 3
+FEHLT: gearbox
+FAST KORREKT FEHLEND: 31
+FEHLT: sort
+FEHLT: automatic
+FAST KORREKT FEHLEND: 32
+FEHLT: number
+FAST KORREKT FEHLEND: of
+FEHLT: gears
+FEHLT: not
+FEHLT: applicable
+FAST KORREKT FEHLEND: 33
+FEHLT: final
+FEHLT: drive
+FEHLT: ratio
+FAST KORREKT FEHLEND: 1
+FEHLT: 10379
+FEHLT: 1546
+FAST KORREKT FEHLEND: x
+FEHLT: 1344
+FAST KORREKT FEHLEND: 4
+FEHLT: equipment
+FAST KORREKT FEHLEND: 41
+FEHLT: exhaust
+FEHLT: system
+FEHLT: reflectionabsorption
+FEHLT: exhaust
+FEHLT: pipe
+FEHLT: marking
+FEHLT: aprilia
+FEHLT: b1150
+FEHLT: e11
+FEHLT: silencer
+FEHLT: aprilia
+FAST KORREKT FEHLEND: sm
+FAST KORREKT FEHLEND: 26
+FEHLT: e11
+FEHLT: see
+FEHLT: enclosures
+FEHLT: information
+FEHLT: document
+FAST KORREKT FEHLEND: 42
+FEHLT: intake
+FEHLT: system
+FAST KORREKT FEHLEND: air
+FEHLT: filter
+FEHLT: box
+FEHLT: foam
+FEHLT: substance
+FEHLT: dry
+FAST KORREKT FEHLEND: air
+FEHLT: filter
+FEHLT: box
+FEHLT: marking
+FAST KORREKT FEHLEND: am
+FAST KORREKT FEHLEND: 11
+FAST KORREKT FEHLEND: e3
+FEHLT: see
+FEHLT: enclosures
+FEHLT: information
+FEHLT: document
+FAST KORREKT FEHLEND: 43
+FEHLT: tire
+FEHLT: dimension
+FEHLT: front
+FEHLT: 1109013
+FEHLT: 56p
+FEHLT: rear
+FEHLT: 1307013
+FEHLT: 63p
+FEHLT: 5
+FEHLT: measurements
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+ZUSÄTZLICH: 20007ec
+ZUSÄTZLICH: directive
+FAST KORREKT ZUSÄTZLICH: i
+ZUSÄTZLICH: direttiva
+ZUSÄTZLICH: 9261ec
+FAST KORREKT ZUSÄTZLICH: 20

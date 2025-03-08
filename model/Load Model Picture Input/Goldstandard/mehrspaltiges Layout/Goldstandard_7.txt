@@ -1,0 +1,33 @@
+4 	Verbindungseinrichtungen und Befestigungen
+  	Coupling devices and attachments
+
+4.0	Anforderungen gemäß Requirements according to: 											VO (EU) 168/2013, Artikel/Article 18 In Verbindung mit / in connection with VO (EU) 44/2014, Artikel/Article 9 und/and Anhang/Annex V, geändert durch / amended by VO (EU) 2018/295
+
+4.1 	Für Fahrzeugklasse zutreffend For vehicle class applicable:									☐ Ja/Yes
+																	☐ Nein/No
+																	☒ Falls ausgerüstet/If fitted
+
+4.2	Anforderungen erfüllt Requirements fulfilled:
+																	☐ Ja/Yes
+																	☐ Nein/No
+																	☐ Nicht zutreffend/Not applicable
+																	☒ Nicht ausgerüstet/Not fitted
+
+4.3 	Nachweis der Anforderungen Proof of requirements: 										entfällt / n.a.
+
+4.4 	Prüfergebnisse repräsentativ für folgende Varianten / Versionen Test results representative for following variants / versions: 	entfällt / n.a.
+
+5 	Sicherungen gegen unbefugte Benutzung	Devices to prevent unauthorised use
+
+5.0 	Anforderungen gemäß	Requirements according to:										VO (EU) 168/2013, Artikel/Article 18 in Verbindung mit / in connection with VO (EU) 44/2014, Artikel/Article 10 und/and Anhang/Annex VI, geändert durch / amended by VO (EU) 2018/295
+
+5.1 	Für Fahrzeugklasse zutreffend For vehicle class applicable:									☒ Ja/Yes
+																	☐ Nein/No
+
+5.2 	Anforderungen erfüllt Requirements fulfilled
+																	☒ Ja/Yes
+																	☐ Nein/No
+
+5.3 	Nachweis der Anforderungen Proof of requirements: 										GTÜ 168/2013-16006.00 Anlage / attachment 12
+
+5.4	Prüfergebnisse repräsentativ für folgende Varianten / Versionen Test results representative for following variants / versions:	alle/all

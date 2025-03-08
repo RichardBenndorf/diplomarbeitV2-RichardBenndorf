@@ -1,90 +1,24 @@
-Test Conditions
-
-Engine type Piaggio M245M, engine family H
-
-&gt; *Pressures measured at maximum power*
-
-<table>
-<thead>
-<tr>
-<th>
-Barometric:
-</th>
-<th>
-100,8 kPa
-</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>
-Steam pressure:
-</td>
-<td>
-2,447 kPa
-</td>
-</tr>
-<tr>
-<td>
-Exhaust:
-</td>
-<td>
-1)
-</td>
-</tr>
-</tbody>
-</table>
-
-| Inlet pressure drop:
-&gt;
-&gt; *Temperatures measured at maximum power* | 1) |
-| of the intake air:
-&gt;
-&gt; *of the cooling liquid* | 307 K |
-<p>
+Test Conditions Engine type Piaggio M245M, engine family H > *Pressures measured at maximum power*
+Barometric:	100,8 kPa
+Steam pressure:	2,447 kPa
+Exhaust:	1)
+| Inlet pressure drop: > > *Temperatures measured at maximum power* | 1) | | of the intake air: > > *of the cooling liquid* | 307 K |
 | at the engine cooling liquid outlet: | 362 K |
-<br/>
 | at the reference point in the case of air cooling: | K |
-</p>
 
-| oil:
-&gt;
-&gt; *of the fuel* | 368 K |
-<p>
+| oil: > > *of the fuel* | 368 K |
 | at the carburator/injection pump intake: | 303 K |
-<br/>
 | in the fuel-consumption measuring device: | 303 K |
-</p>
 
-| of the exhaust, measured at the point adjacent to the outlet flange(s) of the exhaust manifold(s):
-&gt;
-&gt; *Characteristics of the dynamometer* | 959 K |
-<p>
+| of the exhaust, measured at the point adjacent to the outlet flange(s) of the exhaust manifold(s): > > *Characteristics of the dynamometer* | 959 K |
 | Make: | A.P.I. Com S.R.L. |
-</p>
 
-| Type:
-&gt;
-&gt; *Fuel*
-&gt;
-&gt; For spark-ignition engines operating on liquid fuel: | FR 150 |
-<p>
+| Type: > > *Fuel* > > For spark-ignition engines operating on liquid fuel: | FR 150 |
 | Make: | ESSO |
-<br/>
 | Specification: | unleaded petrol |
-</p>
 
-| *Anti-knock additive (lead, etc.)* Type:
-&gt;
-&gt; Content in mg/litre:
-&gt;
-&gt; *Octane number:* | not applicable |
-<p>
+| *Anti-knock additive (lead, etc.)* Type: > > Content in mg/litre: > > *Octane number:* | not applicable |
 | RON: | 95 |
-<br/>
 | MON: | 85 |
-<br/>
 | Relative density: | 0,756 at 15°C |
-<br/>
 | Calorific value: | 43,5 MJ/kg |
-</p>

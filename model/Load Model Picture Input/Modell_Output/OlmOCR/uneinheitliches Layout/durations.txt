@@ -1,4 +1,9 @@
-Modell Ladezeit: 5.25 Sekunden
-uneinheitliches_Layout_1.png, 17.45 Sekunden
-uneinheitliches_Layout_2.png, 10.95 Sekunden
-uneinheitliches_Layout_3.png, 15.64 Sekunden
+Modell Ladezeit: 5.07 Sekunden
+uneinheitliches_Layout_1.png, 17.10 Sekunden
+uneinheitliches_Layout_2.png, 10.07 Sekunden
+uneinheitliches_Layout_3.png, 15.67 Sekunden
+uneinheitliches_Layout_4.png, 3.82 Sekunden
+uneinheitliches_Layout_5.png, 13.11 Sekunden
+uneinheitliches_Layout_6.png, 32.97 Sekunden
+uneinheitliches_Layout_7.png, 12.08 Sekunden
+uneinheitliches_Layout_8.png, 2.60 Sekunden

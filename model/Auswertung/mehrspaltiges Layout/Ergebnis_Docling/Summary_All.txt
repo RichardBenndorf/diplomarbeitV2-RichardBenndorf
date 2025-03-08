@@ -1,0 +1,224 @@
+Durchlauf 7:
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 1357
+- Korrekte Zeichen: 1314
+- Fehlende Zeichen: 43
+- Zusätzliche Zeichen: 19
+- Character Error Rate (CER): 0.0457
+
+Wortbasierte Metriken:
+- Gesamtwörter: 177
+- Korrekt erkannte Wörter: 135
+- Fehlende Wörter: 42
+- Zusätzliche Wörter: 61
+- Fast korrekt fehlend: 26
+- Fast korrekt zusätzlich: 35
+- WER: 0.5819
+- Erweiterter WER: 0.2373
+
+Semantische Metriken:
+- Cosine Similarity: 0.6395
+- BLEU Score: 0.2819
+
+Weitere Metriken:
+- Precision: 0.6888
+- Precision erweitert: 0.8385
+- Recall: 0.7627
+- Recall erweitert: 0.8940
+- F1-Score: 0.7239
+- F1-Score erweitert: 0.8654
+
+Durchlauf 5:
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 1516
+- Korrekte Zeichen: 1441
+- Fehlende Zeichen: 75
+- Zusätzliche Zeichen: 40
+- Character Error Rate (CER): 0.0759
+
+Wortbasierte Metriken:
+- Gesamtwörter: 214
+- Korrekt erkannte Wörter: 164
+- Fehlende Wörter: 50
+- Zusätzliche Wörter: 75
+- Fast korrekt fehlend: 37
+- Fast korrekt zusätzlich: 40
+- WER: 0.5841
+- Erweiterter WER: 0.2243
+
+Semantische Metriken:
+- Cosine Similarity: 0.7046
+- BLEU Score: 0.3002
+
+Weitere Metriken:
+- Precision: 0.6862
+- Precision erweitert: 0.8241
+- Recall: 0.7664
+- Recall erweitert: 0.9266
+- F1-Score: 0.7241
+- F1-Score erweitert: 0.8723
+
+Durchlauf 6:
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 939
+- Korrekte Zeichen: 912
+- Fehlende Zeichen: 27
+- Zusätzliche Zeichen: 16
+- Character Error Rate (CER): 0.0458
+
+Wortbasierte Metriken:
+- Gesamtwörter: 127
+- Korrekt erkannte Wörter: 104
+- Fehlende Wörter: 23
+- Zusätzliche Wörter: 26
+- Fast korrekt fehlend: 22
+- Fast korrekt zusätzlich: 23
+- WER: 0.3858
+- Erweiterter WER: 0.0315
+
+Semantische Metriken:
+- Cosine Similarity: 0.7658
+- BLEU Score: 0.4296
+
+Weitere Metriken:
+- Precision: 0.8000
+- Precision erweitert: 0.9720
+- Recall: 0.8189
+- Recall erweitert: 0.9905
+- F1-Score: 0.8093
+- F1-Score erweitert: 0.9811
+
+Durchlauf 3:
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 1876
+- Korrekte Zeichen: 1574
+- Fehlende Zeichen: 302
+- Zusätzliche Zeichen: 230
+- Character Error Rate (CER): 0.2836
+
+Wortbasierte Metriken:
+- Gesamtwörter: 305
+- Korrekt erkannte Wörter: 132
+- Fehlende Wörter: 173
+- Zusätzliche Wörter: 260
+- Fast korrekt fehlend: 77
+- Fast korrekt zusätzlich: 99
+- WER: 1.4197
+- Erweiterter WER: 0.8426
+
+Semantische Metriken:
+- Cosine Similarity: 0.2410
+- BLEU Score: 0.0000
+
+Weitere Metriken:
+- Precision: 0.3367
+- Precision erweitert: 0.4505
+- Recall: 0.4328
+- Recall erweitert: 0.5789
+- F1-Score: 0.3788
+- F1-Score erweitert: 0.5067
+
+Durchlauf 2:
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 869
+- Korrekte Zeichen: 851
+- Fehlende Zeichen: 18
+- Zusätzliche Zeichen: 12
+- Character Error Rate (CER): 0.0345
+
+Wortbasierte Metriken:
+- Gesamtwörter: 148
+- Korrekt erkannte Wörter: 134
+- Fehlende Wörter: 14
+- Zusätzliche Wörter: 24
+- Fast korrekt fehlend: 9
+- Fast korrekt zusätzlich: 10
+- WER: 0.2568
+- Erweiterter WER: 0.1284
+
+Semantische Metriken:
+- Cosine Similarity: 0.8866
+- BLEU Score: 0.4811
+
+Weitere Metriken:
+- Precision: 0.8481
+- Precision erweitert: 0.9054
+- Recall: 0.9054
+- Recall erweitert: 0.9640
+- F1-Score: 0.8758
+- F1-Score erweitert: 0.9338
+
+Durchlauf 4:
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 1637
+- Korrekte Zeichen: 1465
+- Fehlende Zeichen: 172
+- Zusätzliche Zeichen: 89
+- Character Error Rate (CER): 0.1594
+
+Wortbasierte Metriken:
+- Gesamtwörter: 259
+- Korrekt erkannte Wörter: 164
+- Fehlende Wörter: 95
+- Zusätzliche Wörter: 127
+- Fast korrekt fehlend: 55
+- Fast korrekt zusätzlich: 69
+- WER: 0.8571
+- Erweiterter WER: 0.3784
+
+Semantische Metriken:
+- Cosine Similarity: 0.5791
+- BLEU Score: 0.1446
+
+Weitere Metriken:
+- Precision: 0.5636
+- Precision erweitert: 0.7387
+- Recall: 0.6332
+- Recall erweitert: 0.8039
+- F1-Score: 0.5964
+- F1-Score erweitert: 0.7700
+
+Durchlauf 1:
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 766
+- Korrekte Zeichen: 729
+- Fehlende Zeichen: 37
+- Zusätzliche Zeichen: 8
+- Character Error Rate (CER): 0.0587
+
+Wortbasierte Metriken:
+- Gesamtwörter: 129
+- Korrekt erkannte Wörter: 119
+- Fehlende Wörter: 10
+- Zusätzliche Wörter: 9
+- Fast korrekt fehlend: 5
+- Fast korrekt zusätzlich: 6
+- WER: 0.1473
+- Erweiterter WER: 0.0620
+
+Semantische Metriken:
+- Cosine Similarity: 0.8668
+- BLEU Score: 0.3422
+
+Weitere Metriken:
+- Precision: 0.9297
+- Precision erweitert: 0.9754
+- Recall: 0.9225
+- Recall erweitert: 0.9597
+- F1-Score: 0.9261
+- F1-Score erweitert: 0.9675
+
