@@ -94,6 +94,38 @@ Weitere Metriken:
 - F1-Score: 0.8093
 - F1-Score erweitert: 0.9811
 
+Durchlauf 8:
+Zusammenfassung der Metriken:
+--------------------------------
+Zeichenbasierte Metriken:
+- Gesamtzeichen: 740
+- Korrekte Zeichen: 735
+- Fehlende Zeichen: 5
+- Zusätzliche Zeichen: 11
+- Character Error Rate (CER): 0.0216
+
+Wortbasierte Metriken:
+- Gesamtwörter: 97
+- Korrekt erkannte Wörter: 94
+- Fehlende Wörter: 3
+- Zusätzliche Wörter: 4
+- Fast korrekt fehlend: 2
+- Fast korrekt zusätzlich: 2
+- WER: 0.0722
+- Erweiterter WER: 0.0309
+
+Semantische Metriken:
+- Cosine Similarity: 0.9588
+- BLEU Score: 0.6761
+
+Weitere Metriken:
+- Precision: 0.9592
+- Precision erweitert: 0.9792
+- Recall: 0.9691
+- Recall erweitert: 0.9895
+- F1-Score: 0.9641
+- F1-Score erweitert: 0.9843
+
 Durchlauf 3:
 Zusammenfassung der Metriken:
 --------------------------------

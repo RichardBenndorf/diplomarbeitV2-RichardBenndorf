@@ -1,10 +1,10 @@
- 4. Verbindungseinrichungen und Befestigungen
+4. Verbindungseinrichungen und Befestigungen
 Coupling devices and attachments
 
 4.0 Anforderungen gemäß
 Requirements according to
 
-4.1 Für Fahrzeugklasse zutreffend
+4.1 Für Fahrzeugklasse zuläffig
 For vehicle class applicable
 
 4.2 Anforderungen erfüllt
@@ -16,13 +16,13 @@ Proof of requirements
 4.4 Prüfergebnisse representativ für
 Test results representative for following variants/versions
 
-5. Sicherungen gegen unautorisiertes Benutzen
+5. Sicherungen gegen unbefugte Benutzung
 Devices to prevent unauthorized use
 
 5.0 Anforderungen gemäß
 Requirements according to
 
-5.1 Für Fahrzeugklasse zutreffend
+5.1 Für Fahrzeugklasse zuläffig
 For vehicle class applicable
 
 5.2 Anforderungen erfüllt
@@ -33,3 +33,5 @@ Proof of requirements
 
 5.4 Prüfergebnisse representativ für
 Test results representative for following variants/versions
+
+This text appears to be a table of contents or index for a technical document, likely related to vehicle safety standards and testing procedures. The content is presented in both German and English, with section numbers and brief descriptions of each section's focus.

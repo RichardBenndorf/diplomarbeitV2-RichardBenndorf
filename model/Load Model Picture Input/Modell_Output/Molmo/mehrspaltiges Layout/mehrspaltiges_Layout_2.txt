@@ -1,71 +1,35 @@
- 9261/EC-2000/EC DIRECTIVE
+ Test Conditions
 
-List of all devices mentioning the number, makes, model, component type approval marks, the maximum intensity of the main beam headlights, colour of the vehicle, type approval marks of the accessories, labels of turf, spare wheel and corresponding tables.
+Engine type Piaggio M245M, engine family H
 
-See attached drawing A.14.0 and following if applicable.
+Pressures measured at maximum power
+Barometric: 100.8 kPa
+Exhaust: 2,447 kPa
+Inlet pressure drop: (1)
 
-See attached drawing A.14.0 and following if applicable.
+Temperatures measured at maximum power of the intake air: 307 K
 
-Not applicable
+of the cooling liquid at the engine cooling liquid outlet: 362 K
+at the reference point in the case of air cooling: 368 K
 
-Not applicable
+of the fuel
+at the carburetor/injection pump intake: 303 K
+in the fuel consumption measuring device: 303 K
+at the outlet, measured at the point adjacent to the outlet flanges of the exhaust manifold(s): 959 K
 
-Equipment
+Characteristics of the dynamometer
+Make: A.P.I. Com. S.R.L.
+Type: FR 150
 
-Coupling devices (where applicable)
+Fuel for spark-ignition engines operating on liquid fuel
+Make: ESSO
+Specification: Unleaded petrol
+Anti-knock additive (lead, etc.): not applicable
+Type: (blank)
+Content in mg/litre: (blank)
 
-Types: hooking device/hook and latcher
-
-Not applicable
-
-Photographs and drawings showing the position and construction of the coupling devices:
-
-Not applicable
-
-Arrangement and identification of controls, teletales and indicators
-
-Photographs and drawings showing the arrangement of the symbols, teletales and indicators:
-
-Not applicable
-
-Photographs and drawings showing the position of the statutory inscriptions on the chassis:
-
-Not applicable
-
-Photographs and drawings showing the official part of the chassis with statement of dimensions:
-
-Not applicable
-
-Photographs and drawings showing the chassis number with statement of dimensions:
-
-Not applicable
-
-Device(s) to protect against unauthorized use
-
-Type of device(s):
-
-Steering lock with key operating at the same time on the steering wheel
-
-Steering lock with key operating at the same time on the steering wheel
-
-Summary description of devices used:
-
-Summary description of devices used and their purpose:
-
-Audible warning device
-
-Summary description of devices used and their purpose:
-
-Electrical system
-
-See attached drawing A.15.0 and following if applicable.
-
-See attached drawing A.15.0 and following if applicable.
-
-See attached drawing A.10.0 and following if applicable.
-
-See attached drawing A.10.0 and following if applicable.
-
-See attached drawing A.7.0 and following if applicable.
-
-See attached drawing A.7.0 and following if applicable.
+Octane number:
+RON: 95
+MON: 85
+Relative density: 0.765 at 15°C
+Calorific value: 43.5 MJ/kg

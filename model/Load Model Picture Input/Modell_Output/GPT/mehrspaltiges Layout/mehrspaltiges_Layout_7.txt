@@ -1,0 +1,31 @@
+4
+Verbindungseinrichtungen und Befestigungen 
+Coupling devices and attachments
+
+Requirements according to 
+In Verbindung mit VO (EU) 1860/2013, Artikel/Article 18 
+In Verbindung mit VO (EU) 44/2014, Artikel/Article 9 und Anhang/Annex VI, geändert durch/ amended by VO (EU) 2018/295
+
+5.1 
+Für Fahrzeugklasse zutreffend 
+For vehicle class applicable 
+Ja/Yes / Nein/No
+
+5.2 
+Nachweis der Anforderungen 
+Proof of requirements 
+Ja/Yes / Nein/No
+
+5.3 
+Nachweis erfüllt 
+Requirements fulfilled 
+Ja/Yes / Nein/No
+
+5.4 
+Verantwortlicher Vertreter für geprüfte Varianten / Versionen 
+Responsible representative for tested variants / versions 
+GTÜ 1802170
+
+5.5 
+Namen der Varianten / version names 
+alle/all

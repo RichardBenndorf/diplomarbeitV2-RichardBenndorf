@@ -1,7 +1,3 @@
-user
-
-Please extract the text from the image. Make sure to maintain the multi-column layout and maintain the correct text order. Please do not add any additional words.assistant
-
 **BRAKING**
 
 Diagram of braking devices : see Annex A.7.1.

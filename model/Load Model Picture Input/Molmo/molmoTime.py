@@ -9,8 +9,8 @@ processor = AutoProcessor.from_pretrained('allenai/Molmo-7B-D-0924', trust_remot
 model = AutoModelForCausalLM.from_pretrained('allenai/Molmo-7B-D-0924', trust_remote_code=True, torch_dtype='auto', device_map='auto')
 
 # Pfade für Eingabe und Ausgabe
-images_directory = '../Bilder/Fließtext'
-output_directory = '../Modell_Output/Molmo/Fließtext'
+images_directory = '../Bilder/mehrspaltiges Layout'
+output_directory = '../Modell_Output/Molmo/mehrspaltiges Layout'
 durations_file_path = os.path.join(output_directory, "durations.txt")
 os.makedirs(output_directory, exist_ok=True)
 

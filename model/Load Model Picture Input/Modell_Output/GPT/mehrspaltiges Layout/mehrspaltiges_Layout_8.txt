@@ -1,0 +1,37 @@
+**Auftraggeber:**  
+Faun Umwelttechnik GmbH & Co. KG  
+Herr Dipl.-Ing. Georg Sandkühler  
+Fehlendorfer 4  
+HPC: P0042 / 065  
+D-27711 Osterholz-Scharmbeck  
+
+**Prüfgegenstand:**  
+MB Eonic mit Rotorpess Dualpower 516540  
+
+**EMV-Vorschrift:**  
+72/245/EWG in der Fassung 2006/96/EG  
+
+**Prüflabor:**  
+MBtech EMC GmbH,  
+D-71332 Waiblingen  
+
+**Eingang des Prüfings:**  
+2011-01-10  
+
+**Beginn der Prüfung:**  
+2011-01-10  
+
+**Erstellung des Prüfberichts:**  
+2011-01-20  
+
+**Prüfbericht Nr.:**  
+P110008  
+
+**Gesamtergebnis:**  
+--  
+
+**Veranstaltung Prüfzeichen:**  
+--  
+
+**Gesamtergebnis:**  
+Die Prüfung gemäß Richtlinie 72/245/EWG in der Fassung 2006/96/EG wurde bestanden  

@@ -1,0 +1,36 @@
+7. BRaking 
+   7.1. Front and rear brakes 
+   Description : Harley-Davidson 
+   Disposition : Sold or rejecting 
+
+   7.2. Drawing of parts of the brake(s) 
+   Hubs and wheels : See Annex A.7.1  
+   Service record(s) : N/A
+
+8. LIGHTING AND LIGHT-SIGNALLING DEVICES 
+   8.1. Diagram showing the location of the lighting devices 
+   Description : See Annex A.8.1 
+   Hazard warning devices : N/A 
+   State how these are arranged : N/A 
+
+9. EQUIPMENT 
+   9.1. Details for wiring and illuminating devices 
+   Description and drawings of the construction of the following : 
+   - The controls, controls, etc. : N/A 
+
+   9.2. Arrangement and identification of the controls, etc. 
+   Photographs and/or drawings showing the position of 
+   the steering system and the chassis number : N/A 
+
+   9.3. Statutory indicators 
+   Description and/or drawings showing the location of 
+   the statutory indicators and the chassis number : see Annex A.9.3.
+
+   9.4. Legislative requirements 
+   Description and/or drawings showing the character of 
+   the statutory indicators : N/A 
+
+   9.5. Summary description(s) used 
+   Note: The device is a lock-key system, the locking type. 
+   The locking bolt is able to be extended into a pocket within 
+   the frame of the steering head assembly. The lock is a pin type.

@@ -1,0 +1,32 @@
+0 General / Allgemeine Angaben
+
+0.1 Make (trade name of manufacturer) / 
+     Fabrikname (Firmenname des Herstellers):
+     KIRCHHOFF Ecotec GmbH
+
+0.2 Type controlled vehicle / 
+     Typ verwendliches Fahrzeug:
+     N321
+
+0.3 Type of base vehicle / 
+     Typ des Basisfahrzeugs:
+     refer to information document / siehe Beschreibungsbogen
+
+0.4 Identification of type, if marked on vehicle / 
+     Identifizierung des Typs, falls am Fahrzeug vorhanden:
+     refer to information document / siehe Beschreibungsbogen
+
+0.5 Category of vehicle / 
+     Kategorie des Fahrzeugs:
+     KIRCHHOFF Ecotec GmbH
+
+0.6 Manufacturer's name and address / 
+     Name und Anschrift des Herstellers:
+     Stefanstraße 2
+     36823 Islerhöfen
+
+0.7 Name and address of the person responsible for the document / 
+     Name und Anschrift der verantwortlichen Person:
+     FAUN Umwelttechnik GmbH & Co. KG
+     Feldhorst 4
+     27711 Osterholz-Scharmbeck

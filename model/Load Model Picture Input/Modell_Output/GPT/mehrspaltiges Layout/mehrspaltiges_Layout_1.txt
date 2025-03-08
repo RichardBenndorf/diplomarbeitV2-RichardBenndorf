@@ -1,0 +1,25 @@
+1. Vehicle:
+   1.1. Name:         Aprilia S.p.A.
+   1.2. Type:         SP
+   1.3. Engine:       M
+   1.4. Vehicle Identification Number: 2D45P0002S000001
+   1.5. Test weight together with rider: 237 kg
+
+2. Engine:
+   2.1. Manufacturer: Piaggio & C. S.p.A.
+   2.2. Model:        M245M
+   2.3. Power:        70 kW @ 7250 min⁻¹
+   2.4. Maximum vehicle speed:  134 km/h
+
+3. Gearbox:
+   3.1. Manufacturer:  not applicable
+   3.2. Number of gears:  not applicable
+   3.3. Ratio:         1:3.20 [18/58]
+
+4. Equipment:
+   4.1. Exhaust System: Reflection-Absorption; exhaust pipe marking Aprilia B-1150 e1; silencer Aprilia SM 25; net marking AM 11
+   4.2. Intake System: Air filter box
+       Air filter front:  103/70-13 63P
+       rear:             130/70-13 63P
+
+5. Measurements:

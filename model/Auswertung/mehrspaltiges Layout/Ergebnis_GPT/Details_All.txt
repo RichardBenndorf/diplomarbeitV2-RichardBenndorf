@@ -6,39 +6,39 @@ KORREKT: coupling
 KORREKT: devices
 KORREKT: and
 KORREKT: attachments
-KORREKT: 40
+FAST KORREKT FEHLEND: 40
 KORREKT: anforderungen
-KORREKT: gemäß
+FEHLT: gemäß
 KORREKT: requirements
 KORREKT: according
 KORREKT: to
 KORREKT: vo
 KORREKT: eu
-KORREKT: 1682013
+FAST KORREKT FEHLEND: 1682013
 KORREKT: artikelarticle
 KORREKT: 18
 KORREKT: in
 KORREKT: verbindung
 KORREKT: mit
 KORREKT: in
-KORREKT: connection
-KORREKT: with
+FEHLT: connection
+FEHLT: with
 KORREKT: vo
 KORREKT: eu
-FAST KORREKT FEHLEND: 442014
+KORREKT: 442014
 KORREKT: artikelarticle
 KORREKT: 9
-KORREKT: undand
+FEHLT: undand
 KORREKT: anhangannex
-KORREKT: v
+FEHLT: v
 KORREKT: geändert
 KORREKT: durch
 KORREKT: amended
 KORREKT: by
 KORREKT: vo
 KORREKT: eu
-FEHLT: 2018295
-KORREKT: 41
+KORREKT: 2018295
+FEHLT: 41
 KORREKT: für
 KORREKT: fahrzeugklasse
 KORREKT: zutreffend
@@ -48,80 +48,80 @@ KORREKT: class
 KORREKT: applicable
 KORREKT: jayes
 KORREKT: neinno
-KORREKT: falls
-KORREKT: ausgerüstetif
-KORREKT: fitted
-KORREKT: 42
+FEHLT: falls
+FEHLT: ausgerüstetif
+FEHLT: fitted
+FEHLT: 42
 KORREKT: anforderungen
 KORREKT: erfüllt
 KORREKT: requirements
-FEHLT: fulfilled
+KORREKT: fulfilled
 KORREKT: jayes
 KORREKT: neinno
-KORREKT: nicht
-FAST KORREKT FEHLEND: zutreffendnot
+FEHLT: nicht
+FEHLT: zutreffendnot
 KORREKT: applicable
-KORREKT: nicht
-FAST KORREKT FEHLEND: ausgerüstetnot
-KORREKT: fitted
-FAST KORREKT FEHLEND: 43
+FEHLT: nicht
+FEHLT: ausgerüstetnot
+FEHLT: fitted
+FEHLT: 43
 KORREKT: nachweis
 KORREKT: der
 KORREKT: anforderungen
 KORREKT: proof
 KORREKT: of
 KORREKT: requirements
-KORREKT: entfällt
-KORREKT: na
-KORREKT: 44
-KORREKT: prüfergebnisse
-KORREKT: repräsentativ
+FEHLT: entfällt
+FEHLT: na
+FEHLT: 44
+FEHLT: prüfergebnisse
+FEHLT: repräsentativ
 KORREKT: für
-KORREKT: folgende
+FEHLT: folgende
 KORREKT: varianten
 KORREKT: versionen
-KORREKT: test
-KORREKT: results
+FAST KORREKT FEHLEND: test
+FEHLT: results
 KORREKT: representative
 KORREKT: for
-KORREKT: following
+FEHLT: following
 KORREKT: variants
 KORREKT: versions
-KORREKT: entfällt
-KORREKT: na
-KORREKT: 5
-KORREKT: sicherungen
-KORREKT: gegen
-KORREKT: unbefugte
-KORREKT: benutzung
+FEHLT: entfällt
+FEHLT: na
+FEHLT: 5
+FEHLT: sicherungen
+FEHLT: gegen
+FEHLT: unbefugte
+FEHLT: benutzung
 KORREKT: devices
 KORREKT: to
-KORREKT: prevent
-KORREKT: unauthorised
-KORREKT: use
-KORREKT: 50
+FEHLT: prevent
+FEHLT: unauthorised
+FEHLT: use
+FEHLT: 50
 KORREKT: anforderungen
-KORREKT: gemäß
+FEHLT: gemäß
 KORREKT: requirements
 KORREKT: according
 KORREKT: to
 KORREKT: vo
 KORREKT: eu
-KORREKT: 1682013
+FAST KORREKT FEHLEND: 1682013
 KORREKT: artikelarticle
 KORREKT: 18
 KORREKT: in
 KORREKT: verbindung
 KORREKT: mit
 KORREKT: in
-KORREKT: connection
-KORREKT: with
+FEHLT: connection
+FEHLT: with
 KORREKT: vo
 KORREKT: eu
-FAST KORREKT FEHLEND: 442014
+KORREKT: 442014
 KORREKT: artikelarticle
-KORREKT: 10
-KORREKT: undand
+FEHLT: 10
+FEHLT: undand
 KORREKT: anhangannex
 KORREKT: vi
 KORREKT: geändert
@@ -130,7 +130,7 @@ KORREKT: amended
 KORREKT: by
 KORREKT: vo
 KORREKT: eu
-FEHLT: 2018295
+KORREKT: 2018295
 KORREKT: 51
 KORREKT: für
 KORREKT: fahrzeugklasse
@@ -145,7 +145,7 @@ KORREKT: 52
 KORREKT: anforderungen
 KORREKT: erfüllt
 KORREKT: requirements
-FEHLT: fulfilled
+KORREKT: fulfilled
 KORREKT: jayes
 KORREKT: neinno
 KORREKT: 53
@@ -155,86 +155,39 @@ KORREKT: anforderungen
 KORREKT: proof
 KORREKT: of
 KORREKT: requirements
-FAST KORREKT FEHLEND: gtü
+KORREKT: gtü
 FEHLT: 16820131600600
-KORREKT: anlage
-KORREKT: attachment
-KORREKT: 12
+FEHLT: anlage
+FEHLT: attachment
+FEHLT: 12
 KORREKT: 54
-KORREKT: prüfergebnisse
-KORREKT: repräsentativ
+FEHLT: prüfergebnisse
+FEHLT: repräsentativ
 KORREKT: für
-KORREKT: folgende
+FEHLT: folgende
 KORREKT: varianten
 KORREKT: versionen
-KORREKT: test
-KORREKT: results
+FAST KORREKT FEHLEND: test
+FEHLT: results
 KORREKT: representative
 KORREKT: for
-KORREKT: following
+FEHLT: following
 KORREKT: variants
 KORREKT: versions
 KORREKT: alleall
-FAST KORREKT ZUSÄTZLICH: ue
-FAST KORREKT ZUSÄTZLICH: 44214
-ZUSÄTZLICH: 2028955
-ZUSÄTZLICH: x
-ZUSÄTZLICH: anforerungen
-ZUSÄTZLICH: x
-FAST KORREKT ZUSÄTZLICH: zutreffennot
-ZUSÄTZLICH: nichtig
-FAST KORREKT ZUSÄTZLICH: ausgerüstenot
-ZUSÄTZLICH: 3
-ZUSÄTZLICH: entfall
-ZUSÄTZLICH: n
-ZUSÄTZLICH: a
-ZUSÄTZLICH: anforderung
-ZUSÄTZLICH: accoriding
-ZUSÄTZLICH: voeu
-ZUSÄTZLICH: 6812313
-ZUSÄTZLICH: artikelartikel
-ZUSÄTZLICH: e
-ZUSÄTZLICH: 84144
-ZUSÄTZLICH: articelarticle
-ZUSÄTZLICH: 11
-ZUSÄTZLICH: anhang
-ZUSÄTZLICH: annex
-ZUSÄTZLICH: geandert
-ZUSÄTZLICH: u208895
-ZUSÄTZLICH: fur
-ZUSÄTZLICH: fahrzeugklaasse
-ZUSÄTZLICH: zutfreffend
-ZUSÄTZLICH: vehicke
-ZUSÄTZLICH: x
-ZUSÄTZLICH: nein
-ZUSÄTZLICH: no
-ZUSÄTZLICH: ausgurüstet
-ZUSÄTZLICH: if
-ZUSÄTZLICH: anforderunen
-ZUSÄTZLICH: erfüllet
-ZUSÄTZLICH: ja
-ZUSÄTZLICH: yes
-ZUSÄTZLICH: no
-ZUSÄTZLICH: nein
-ZUSÄTZLICH: not
-ZUSÄTZLICH: zutrefen
-ZUSÄTZLICH: not
-ZUSÄTZLICH: nichtig
-ZUSÄTZLICH: ausrüstetnicht
-ZUSÄTZLICH: o
-ZUSÄTZLICH: f
-FAST KORREKT ZUSÄTZLICH: gtu
-ZUSÄTZLICH: 16831600600
-ZUSÄTZLICH: prüfergebisse
-ZUSÄTZLICH: foelle
-ZUSÄTZLICH: variante
+FAST KORREKT ZUSÄTZLICH: 18602013
+ZUSÄTZLICH: verantwortlicher
+ZUSÄTZLICH: vertreter
+ZUSÄTZLICH: geprüfte
+ZUSÄTZLICH: responsible
+FAST KORREKT ZUSÄTZLICH: tested
+ZUSÄTZLICH: 1802170
+FAST KORREKT ZUSÄTZLICH: 55
+ZUSÄTZLICH: namen
 ZUSÄTZLICH: version
-ZUSÄTZLICH: x
-ZUSÄTZLICH: resulte
-ZUSÄTZLICH: foelle
-ZUSÄTZLICH: version
+ZUSÄTZLICH: names
 Durchlauf 5:KORREKT: 233
-KORREKT: übereinstimmungsprüfung
+FEHLT: übereinstimmungsprüfung
 KORREKT: nach
 KORREKT: anhang
 KORREKT: v
@@ -252,34 +205,34 @@ KORREKT: no
 KORREKT: 1c
 KORREKT: 200746eg
 KORREKT: die
-KORREKT: fahrzeugmerkmale
+FEHLT: fahrzeugmerkmale
 KORREKT: und
 KORREKT: daten
 KORREKT: des
-KORREKT: oben
-KORREKT: angeführten
+FAST KORREKT FEHLEND: oben
+FEHLT: angeführten
 FEHLT: beschreibungsbogens
-KORREKT: stimmen
-KORREKT: mit
+FEHLT: stimmen
+FAST KORREKT FEHLEND: mit
 KORREKT: den
 KORREKT: angaben
 KORREKT: der
-KORREKT: beschreibungsunterlagen
+FEHLT: beschreibungsunterlagen
 KORREKT: der
-KORREKT: herangezogenen
+FEHLT: herangezogenen
 KORREKT: systemgenehmigungen
-KORREKT: überein
+FEHLT: überein
 KORREKT: the
 KORREKT: vehicle
-KORREKT: specifications
+FEHLT: specifications
 KORREKT: and
 KORREKT: data
 KORREKT: of
 KORREKT: the
 KORREKT: information
-KORREKT: document
-KORREKT: mentioned
-KORREKT: above
+FEHLT: document
+FEHLT: mentioned
+FEHLT: above
 KORREKT: correspond
 KORREKT: to
 KORREKT: those
@@ -296,8 +249,8 @@ KORREKT: approvals
 KORREKT: bemerkungen
 KORREKT: remarks
 KORREKT: keine
-KORREKT: na
-FAST KORREKT FEHLEND: 234
+FAST KORREKT FEHLEND: na
+KORREKT: 234
 FEHLT: übereinstimmungs
 KORREKT: und
 FEHLT: anbauüberprüfung
@@ -305,7 +258,7 @@ KORREKT: nach
 KORREKT: anhang
 KORREKT: v
 KORREKT: nr
-FAST KORREKT FEHLEND: 1d
+FEHLT: 1d
 KORREKT: 200746eg
 KORREKT: test
 KORREKT: of
@@ -317,71 +270,71 @@ KORREKT: to
 KORREKT: annex
 KORREKT: v
 KORREKT: no
-FAST KORREKT FEHLEND: 1d
+FEHLT: 1d
 KORREKT: 200746eg
-KORREKT: das
-KORREKT: ausgewählte
-KORREKT: prüffahrzeuge
-KORREKT: gestatt
-KORREKT: eine
-KORREKT: angemessene
-KORREKT: begutachtung
+FEHLT: das
+FEHLT: ausgewählte
+FEHLT: prüffahrzeuge
+FEHLT: gestatt
+FAST KORREKT FEHLEND: eine
+FEHLT: angemessene
+FEHLT: begutachtung
 KORREKT: der
-KORREKT: verschiedenen
-KORREKT: zu
-KORREKT: genehmigenden
-KORREKT: kombinationen
+FEHLT: verschiedenen
+FEHLT: zu
+FEHLT: genehmigenden
+FEHLT: kombinationen
 KORREKT: und
-KORREKT: kriterien
+FEHLT: kriterien
 KORREKT: die
 KORREKT: in
 KORREKT: anhang
 KORREKT: v
 KORREKT: nr
 KORREKT: 2
-KORREKT: aufgelistet
-KORREKT: sind
+FEHLT: aufgelistet
+FEHLT: sind
 KORREKT: the
-KORREKT: selected
+FEHLT: selected
 KORREKT: vehicle
-KORREKT: permits
-KORREKT: a
-KORREKT: proper
-KORREKT: inspection
+FEHLT: permits
+FEHLT: a
+FEHLT: proper
+FEHLT: inspection
 KORREKT: of
 KORREKT: the
-KORREKT: various
-KORREKT: combinations
+FEHLT: various
+FEHLT: combinations
 KORREKT: to
-KORREKT: be
-KORREKT: approved
+FEHLT: be
+FEHLT: approved
 KORREKT: according
 KORREKT: the
-KORREKT: specifications
-KORREKT: listed
+FEHLT: specifications
+FEHLT: listed
 KORREKT: in
 KORREKT: annex
 KORREKT: v
 KORREKT: no
 KORREKT: 2
-KORREKT: liste
+FEHLT: liste
 KORREKT: der
 FEHLT: genehmigungen
-KORREKT: siehe
-KORREKT: anlage
-KORREKT: zum
-KORREKT: beschreibungsbogen
-KORREKT: list
+FEHLT: siehe
+FEHLT: anlage
+FEHLT: zum
+FEHLT: beschreibungsbogen
+FEHLT: list
 KORREKT: of
 KORREKT: the
 KORREKT: approvals
-KORREKT: see
-KORREKT: appendix
+FEHLT: see
+FEHLT: appendix
 KORREKT: of
 KORREKT: the
 KORREKT: information
-KORREKT: document
-FAST KORREKT FEHLEND: 235
+FEHLT: document
+KORREKT: 235
 KORREKT: ein
 KORREKT: und
 FEHLT: anbauüberprüfung
@@ -389,7 +342,7 @@ KORREKT: nach
 KORREKT: anhang
 KORREKT: v
 KORREKT: nr
-FAST KORREKT FEHLEND: 1e
+FEHLT: 1e
 KORREKT: 200746eg
 KORREKT: verification
 KORREKT: and
@@ -399,11 +352,11 @@ KORREKT: to
 KORREKT: annex
 KORREKT: v
 KORREKT: no
-FAST KORREKT FEHLEND: 1e
+FEHLT: 1e
 KORREKT: 200746eg
-KORREKT: entfällt
-KORREKT: na
-FAST KORREKT FEHLEND: 236
+FAST KORREKT FEHLEND: entfällt
+FAST KORREKT FEHLEND: na
+FEHLT: 236
 FEHLT: übereinstimmungs
 KORREKT: und
 FEHLT: anbauüberprüfung
@@ -411,7 +364,7 @@ KORREKT: nach
 KORREKT: anhang
 KORREKT: v
 KORREKT: nr
-FAST KORREKT FEHLEND: 1f
+FEHLT: 1f
 KORREKT: 200746eg
 KORREKT: test
 KORREKT: of
@@ -423,17 +376,17 @@ KORREKT: to
 KORREKT: annex
 KORREKT: v
 KORREKT: no
-FAST KORREKT FEHLEND: 1f
+FEHLT: 1f
 KORREKT: 200746eg
 KORREKT: 1
-KORREKT: 78317ewg
-FEHLT: 78317eec
+FAST KORREKT FEHLEND: 78317ewg
+FAST KORREKT FEHLEND: 78317eec
 KORREKT: entsprechende
 KORREKT: einrichtungen
 KORREKT: vorhanden
-KORREKT: fitted
-KORREKT: with
-KORREKT: an
+FEHLT: fitted
+FEHLT: with
+FEHLT: an
 KORREKT: adequate
 KORREKT: device
 KORREKT: 2
@@ -442,90 +395,35 @@ FEHLT: 78318eec
 KORREKT: entsprechende
 KORREKT: einrichtungen
 KORREKT: vorhanden
-KORREKT: fitted
-KORREKT: with
-KORREKT: an
+FEHLT: fitted
+FEHLT: with
+FEHLT: an
 KORREKT: adequate
 KORREKT: device
-FAST KORREKT ZUSÄTZLICH: 00
-FAST KORREKT ZUSÄTZLICH: 7
-FAST KORREKT ZUSÄTZLICH: 46
-FAST KORREKT ZUSÄTZLICH: eg
-ZUSÄTZLICH: beschreibungstexts
-FAST KORREKT ZUSÄTZLICH: 34
-ZUSÄTZLICH: über
-ZUSÄTZLICH: stimmungs
-ZUSÄTZLICH: anbauprüfung
-ZUSÄTZLICH: nr1d
-ZUSÄTZLICH: 07
-FAST KORREKT ZUSÄTZLICH: 46
-FAST KORREKT ZUSÄTZLICH: eg
-ZUSÄTZLICH: no1
-ZUSÄTZLICH: d
-ZUSÄTZLICH: 700
-ZUSÄTZLICH: 4
-FAST KORREKT ZUSÄTZLICH: 6
-FAST KORREKT ZUSÄTZLICH: eg
-ZUSÄTZLICH: nr2
-ZUSÄTZLICH: genehmigun
-ZUSÄTZLICH: gen
-FAST KORREKT ZUSÄTZLICH: 35
-ZUSÄTZLICH: anbauprof
-ZUSÄTZLICH: ung
-ZUSÄTZLICH: hang
-ZUSÄTZLICH: n
-ZUSÄTZLICH: r
-ZUSÄTZLICH: l
-ZUSÄTZLICH: e
-ZUSÄTZLICH: 1004
-FAST KORREKT ZUSÄTZLICH: 7
-FAST KORREKT ZUSÄTZLICH: eg
-ZUSÄTZLICH: no1
-ZUSÄTZLICH: e20
-ZUSÄTZLICH: 0
-FAST KORREKT ZUSÄTZLICH: 7
-ZUSÄTZLICH: 4
-FAST KORREKT ZUSÄTZLICH: eg
-ZUSÄTZLICH: n
-ZUSÄTZLICH: 3
-FAST KORREKT ZUSÄTZLICH: 6
-ZUSÄTZLICH: ü
-ZUSÄTZLICH: ber
-ZUSÄTZLICH: st
-ZUSÄTZLICH: immungsund
-ZUSÄTZLICH: anba
-ZUSÄTZLICH: uprüfung
-ZUSÄTZLICH: h
-ZUSÄTZLICH: ang
-ZUSÄTZLICH: n
-ZUSÄTZLICH: r
-ZUSÄTZLICH: f
-ZUSÄTZLICH: 300046eg
-ZUSÄTZLICH: t
-ZUSÄTZLICH: est
-ZUSÄTZLICH: con
-ZUSÄTZLICH: formity
-ZUSÄTZLICH: ac
-ZUSÄTZLICH: cording
-ZUSÄTZLICH: ann
-ZUSÄTZLICH: ex
-ZUSÄTZLICH: vno
-ZUSÄTZLICH: i
-ZUSÄTZLICH: f2
-ZUSÄTZLICH: 0
-ZUSÄTZLICH: 746
-FAST KORREKT ZUSÄTZLICH: eg
-ZUSÄTZLICH: 733
-ZUSÄTZLICH: 17
-ZUSÄTZLICH: eec
-ZUSÄTZLICH: 278
-ZUSÄTZLICH: 318ewg7831
-ZUSÄTZLICH: 8
-ZUSÄTZLICH: ee
-ZUSÄTZLICH: c
-ZUSÄTZLICH: entsprechend
-ZUSÄTZLICH: einrichtun
-ZUSÄTZLICH: gen
+ZUSÄTZLICH: überensinsprüfungen
+ZUSÄTZLICH: 200746ec
+ZUSÄTZLICH: fahrzeugprüfungen
+ZUSÄTZLICH: obengenannten
+ZUSÄTZLICH: beschreibungssystems
+ZUSÄTZLICH: müssen
+ZUSÄTZLICH: beschreibung
+FAST KORREKT ZUSÄTZLICH: bei
+ZUSÄTZLICH: hergestellten
+ZUSÄTZLICH: entsprechen
+ZUSÄTZLICH: tests
+ZUSÄTZLICH: aforementioned
+ZUSÄTZLICH: description
+FAST KORREKT ZUSÄTZLICH: must
+FAST KORREKT ZUSÄTZLICH: none
+ZUSÄTZLICH: anbauprüfungen
+ZUSÄTZLICH: 200746ec
+FAST KORREKT ZUSÄTZLICH: entfallt
+FAST KORREKT ZUSÄTZLICH: not
+ZUSÄTZLICH: applicable
+ZUSÄTZLICH: anbauprüfungen
+ZUSÄTZLICH: 200746ec
+FAST KORREKT ZUSÄTZLICH: 783117ewg
+FAST KORREKT ZUSÄTZLICH: 783117eec
 Durchlauf 6:KORREKT: 0
 KORREKT: general
 KORREKT: allgemeine
@@ -536,8 +434,8 @@ KORREKT: trade
 KORREKT: name
 KORREKT: of
 KORREKT: manufacturer
-KORREKT: fabrikmarke
-FAST KORREKT FEHLEND: firmenname
+FEHLT: fabrikmarke
+KORREKT: firmenname
 KORREKT: des
 KORREKT: herstellers
 KORREKT: kirchhoff
@@ -545,10 +443,10 @@ KORREKT: ecotec
 KORREKT: gmbh
 KORREKT: 02
 KORREKT: type
-KORREKT: completed
+FEHLT: completed
 KORREKT: vehicle
 KORREKT: typ
-KORREKT: vervollständigtes
+FEHLT: vervollständigtes
 KORREKT: fahrzeug
 KORREKT: n321
 KORREKT: type
@@ -566,38 +464,38 @@ FEHLT: handelsname
 KORREKT: refer
 KORREKT: to
 KORREKT: information
-FEHLT: document
-FEHLT: siehe
+KORREKT: document
+KORREKT: siehe
 KORREKT: beschreibungsbogen
 KORREKT: 03
 FEHLT: means
 KORREKT: of
-FEHLT: identification
+KORREKT: identification
 KORREKT: of
 KORREKT: type
-FAST KORREKT FEHLEND: if
-FEHLT: marked
-FEHLT: on
+KORREKT: if
+KORREKT: marked
+KORREKT: on
 KORREKT: the
 KORREKT: vehicle
 FEHLT: merkmale
-FEHLT: zur
+FAST KORREKT FEHLEND: zur
 FEHLT: typidentifizierung
 FEHLT: sofern
-FEHLT: am
+KORREKT: am
 KORREKT: fahrzeug
-FEHLT: vorhanden
+KORREKT: vorhanden
 KORREKT: refer
 KORREKT: to
 KORREKT: information
-FEHLT: document
-FEHLT: siehe
+KORREKT: document
+KORREKT: siehe
 KORREKT: beschreibungsbogen
 KORREKT: 04
 KORREKT: category
 KORREKT: of
 KORREKT: vehicle
-KORREKT: fahrzeugklasse
+FEHLT: fahrzeugklasse
 FAST KORREKT FEHLEND: n3
 FEHLT: n3g
 KORREKT: 05
@@ -615,35 +513,35 @@ KORREKT: ecotec
 KORREKT: gmbh
 KORREKT: stefanstraße
 KORREKT: 2
-KORREKT: 58638
-KORREKT: iserlohn
-KORREKT: 08
+FEHLT: 58638
+FEHLT: iserlohn
+FEHLT: 08
 KORREKT: address
 KORREKT: of
-KORREKT: assembly
-KORREKT: plant
-KORREKT: namen
+FEHLT: assembly
+FEHLT: plant
+FEHLT: namen
 KORREKT: und
-KORREKT: anschriften
+FEHLT: anschriften
 KORREKT: der
-KORREKT: fertigungsstätten
+FEHLT: fertigungsstätten
 KORREKT: refer
 KORREKT: to
 KORREKT: information
-KORREKT: folder
-KORREKT: gemäß
+FEHLT: folder
+FEHLT: gemäß
 KORREKT: beschreibungsbogen
-KORREKT: 09
+FEHLT: 09
 KORREKT: name
 KORREKT: and
 KORREKT: address
 KORREKT: of
-KORREKT: representative
+FEHLT: representative
 KORREKT: name
 KORREKT: und
 KORREKT: anschrift
 KORREKT: des
-KORREKT: beauftragten
+FEHLT: beauftragten
 KORREKT: faun
 KORREKT: umwelttechnik
 KORREKT: gmbh
@@ -653,11 +551,23 @@ KORREKT: feldhorst
 KORREKT: 4
 KORREKT: 27711
 KORREKT: osterholzscharmbeck
-FAST KORREKT ZUSÄTZLICH: firmennname
-FAST KORREKT ZUSÄTZLICH: n212
-FAST KORREKT ZUSÄTZLICH: n1
-FAST KORREKT ZUSÄTZLICH: n1g
-ZUSÄTZLICH: kirkhoff
+ZUSÄTZLICH: fabrikname
+ZUSÄTZLICH: controlled
+ZUSÄTZLICH: verwendliches
+ZUSÄTZLICH: identifizierung
+ZUSÄTZLICH: typs
+ZUSÄTZLICH: falls
+ZUSÄTZLICH: kategorie
+ZUSÄTZLICH: fahrzeugs
+FAST KORREKT ZUSÄTZLICH: 06
+ZUSÄTZLICH: 36823
+ZUSÄTZLICH: islerhöfen
+FAST KORREKT ZUSÄTZLICH: 07
+ZUSÄTZLICH: person
+ZUSÄTZLICH: responsible
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: verantwortlichen
+ZUSÄTZLICH: person
 Durchlauf 8:KORREKT: auftraggeber
 KORREKT: faun
 KORREKT: umwelttechnik
@@ -668,18 +578,18 @@ KORREKT: herr
 KORREKT: dipling
 KORREKT: georg
 KORREKT: sandkühler
-KORREKT: feldhorst
+FEHLT: feldhorst
 KORREKT: 4
 KORREKT: hpc
-KORREKT: pq02
+FAST KORREKT FEHLEND: pq02
 KORREKT: 065
 KORREKT: d27711
 KORREKT: osterholzscharmbeck
 KORREKT: prüfgegenstand
 KORREKT: mb
-KORREKT: econic
+FAST KORREKT FEHLEND: econic
 KORREKT: mit
-KORREKT: rotopress
+FAST KORREKT FEHLEND: rotopress
 KORREKT: dualpower
 KORREKT: 516540
 KORREKT: emvvorschrift
@@ -688,65 +598,65 @@ KORREKT: in
 KORREKT: der
 KORREKT: fassung
 KORREKT: 200696eg
-KORREKT: ort
+FEHLT: ort
 KORREKT: der
 KORREKT: prüfung
 KORREKT: emc
 KORREKT: gmbh
-KORREKT: emvhalle
-KORREKT: h
+FEHLT: emvhalle
+FEHLT: h
 KORREKT: d71332
 KORREKT: waiblingen
 KORREKT: eingang
 KORREKT: des
-KORREKT: prüflings
+FAST KORREKT FEHLEND: prüflings
 KORREKT: 20110110
-KORREKT: datum
+FEHLT: datum
 KORREKT: der
 KORREKT: prüfung
 FEHLT: 2011011011
 KORREKT: erstellung
 KORREKT: des
 FAST KORREKT FEHLEND: prüfberichtes
-FEHLT: 20110117
-FAST KORREKT FEHLEND: prüfbericht
-FAST KORREKT FEHLEND: nr
-FAST KORREKT FEHLEND: p110008
-KORREKT: gesamtseitenzahl
-FAST KORREKT FEHLEND: prüfbericht
-KORREKT: 13
-KORREKT: seiten
-KORREKT: anhang
+FAST KORREKT FEHLEND: 20110117
+KORREKT: prüfbericht
+KORREKT: nr
+KORREKT: p110008
+FEHLT: gesamtseitenzahl
+KORREKT: prüfbericht
+FEHLT: 13
+FEHLT: seiten
+FEHLT: anhang
 FEHLT: 16
-KORREKT: seiten
-KORREKT: sachbearbeiter
-KORREKT: auftraggeberseite
-KORREKT: hr
+FEHLT: seiten
+FEHLT: sachbearbeiter
+FEHLT: auftraggeberseite
+FEHLT: hr
 KORREKT: dipling
 KORREKT: georg
 KORREKT: sandkühler
-KORREKT: sachbearbeiter
-FAST KORREKT FEHLEND: mbtech
+FEHLT: sachbearbeiter
+KORREKT: mbtech
 KORREKT: emc
 KORREKT: gmbh
-KORREKT: hr
+FEHLT: hr
 FEHLT: klingenstein
-KORREKT: hr
+FEHLT: hr
 FEHLT: burger
-KORREKT: verfasser
-KORREKT: hr
+FEHLT: verfasser
+FEHLT: hr
 FEHLT: klamt
 FEHLT: geschäftsführung
-FAST KORREKT FEHLEND: mbtech
+KORREKT: mbtech
 KORREKT: emc
 KORREKT: gmbh
-KORREKT: dring
-KORREKT: u
-KORREKT: reinhardt
-FEHLT: gesamtergebnis
+FEHLT: dring
+FEHLT: u
+FEHLT: reinhardt
+KORREKT: gesamtergebnis
 KORREKT: die
 KORREKT: prüfung
-KORREKT: gemäss
+FAST KORREKT FEHLEND: gemäss
 KORREKT: richtlinie
 KORREKT: 72245ewg
 KORREKT: in
@@ -755,17 +665,18 @@ KORREKT: fassung
 KORREKT: 200696eg
 KORREKT: wurde
 KORREKT: bestanden
-FAST KORREKT ZUSÄTZLICH: mtech
-ZUSÄTZLICH: prufung
-FAST KORREKT ZUSÄTZLICH: prufberichtes
-FAST KORREKT ZUSÄTZLICH: 1101008
-FAST KORREKT ZUSÄTZLICH: prüfericht
-FAST KORREKT ZUSÄTZLICH: 6
-ZUSÄTZLICH: dipl
-ZUSÄTZLICH: ing
-ZUSÄTZLICH: georgsandkühle
-ZUSÄTZLICH: 7224ewg
-ZUSÄTZLICH: 260696eg
+ZUSÄTZLICH: fehlendorfer
+FAST KORREKT ZUSÄTZLICH: p0042
+FAST KORREKT ZUSÄTZLICH: eonic
+FAST KORREKT ZUSÄTZLICH: rotorpess
+ZUSÄTZLICH: prüflabor
+FAST KORREKT ZUSÄTZLICH: prüfings
+ZUSÄTZLICH: beginn
+FAST KORREKT ZUSÄTZLICH: prüfberichts
+FAST KORREKT ZUSÄTZLICH: 20110120
+ZUSÄTZLICH: veranstaltung
+ZUSÄTZLICH: prüfzeichen
+FAST KORREKT ZUSÄTZLICH: gemäß
 Durchlauf 3:KORREKT: 7
 KORREKT: braking
 KORREKT: 71
@@ -775,80 +686,80 @@ KORREKT: braking
 KORREKT: devices
 KORREKT: see
 KORREKT: annex
-FAST KORREKT FEHLEND: a71
+KORREKT: a71
 KORREKT: 72
 KORREKT: front
 KORREKT: and
 KORREKT: rear
 KORREKT: brakes
 KORREKT: front
-KORREKT: 2discs
+FEHLT: 2discs
 KORREKT: rear
-KORREKT: disc
-FAST KORREKT FEHLEND: 721
-KORREKT: makes
+FEHLT: disc
+FEHLT: 721
+FEHLT: makes
 KORREKT: harleydavidson
-KORREKT: 722
-KORREKT: types
-FEHLT: solid
-FAST KORREKT FEHLEND: or
+FEHLT: 722
+FEHLT: types
+FAST KORREKT FEHLEND: solid
+KORREKT: or
 FEHLT: floating
-KORREKT: 73
+FAST KORREKT FEHLEND: 73
 KORREKT: drawing
 KORREKT: of
 KORREKT: parts
 KORREKT: of
 KORREKT: the
-KORREKT: brake
+FAST KORREKT FEHLEND: brake
 KORREKT: system
-KORREKT: 731
-KORREKT: shoes
+FEHLT: 731
+FEHLT: shoes
 KORREKT: andor
-KORREKT: pads1
+FEHLT: pads1
 KORREKT: see
 KORREKT: annex
-FAST KORREKT FEHLEND: a731
-KORREKT: 732
-KORREKT: linings
+FEHLT: a731
+FEHLT: 732
+FEHLT: linings
 KORREKT: andor
-KORREKT: pads1
+FEHLT: pads1
 KORREKT: see
 KORREKT: annex
-FAST KORREKT FEHLEND: a732
-FAST KORREKT FEHLEND: 733
-KORREKT: brake
-FAST KORREKT FEHLEND: lever
+FEHLT: a732
+FEHLT: 733
+FAST KORREKT FEHLEND: brake
+FEHLT: lever
 KORREKT: andor
-KORREKT: pedals1
+FEHLT: pedals1
 KORREKT: see
 KORREKT: annex
-FAST KORREKT FEHLEND: a733
-KORREKT: 734
-KORREKT: hydraulic
-KORREKT: reservoirs
+FEHLT: a733
+FEHLT: 734
+FEHLT: hydraulic
+FEHLT: reservoirs
 KORREKT: see
 KORREKT: annex
-FAST KORREKT FEHLEND: a734
-KORREKT: 74
-KORREKT: other
+FEHLT: a734
+FEHLT: 74
+FEHLT: other
 KORREKT: device
-KORREKT: where
-KORREKT: applicable
+FAST KORREKT FEHLEND: where
+FEHLT: applicable
 KORREKT: drawing
 KORREKT: and
 KORREKT: description
 KORREKT: na
-KORREKT: 75
-KORREKT: brief
+FEHLT: 75
+FEHLT: brief
 KORREKT: description
 KORREKT: of
 KORREKT: the
-KORREKT: electrical
+FEHLT: electrical
 KORREKT: andor
-KORREKT: electronic
-KORREKT: components
+FEHLT: electronic
+FEHLT: components
 KORREKT: used
-KORREKT: in
+FEHLT: in
 KORREKT: the
 KORREKT: braking
 KORREKT: system
@@ -859,14 +770,14 @@ KORREKT: and
 KORREKT: lightsignalling
 KORREKT: devices
 KORREKT: 81
-KORREKT: list
+FEHLT: list
 KORREKT: of
-KORREKT: all
+FAST KORREKT FEHLEND: all
 KORREKT: devices
 KORREKT: see
 KORREKT: annex
-FAST KORREKT FEHLEND: a81
-KORREKT: 82
+KORREKT: a81
+FEHLT: 82
 KORREKT: diagram
 KORREKT: showing
 KORREKT: the
@@ -879,56 +790,56 @@ KORREKT: lightsignalling
 KORREKT: devices
 KORREKT: see
 KORREKT: annex
-FAST KORREKT FEHLEND: a82
-FAST KORREKT FEHLEND: 83
+FEHLT: a82
+FEHLT: 83
 KORREKT: hazard
 KORREKT: warning
-KORREKT: lamps
-KORREKT: where
-KORREKT: fitted
+FEHLT: lamps
+FAST KORREKT FEHLEND: where
+FEHLT: fitted
 KORREKT: see
 KORREKT: annex
-FAST KORREKT FEHLEND: a82
-FAST KORREKT FEHLEND: 84
-KORREKT: additional
+FEHLT: a82
+FEHLT: 84
+FEHLT: additional
 KORREKT: requirements
-KORREKT: relating
+FEHLT: relating
 KORREKT: to
-KORREKT: special
-KORREKT: vehicles
+FEHLT: special
+FEHLT: vehicles
 KORREKT: na
-KORREKT: 85
-KORREKT: brief
+FEHLT: 85
+FEHLT: brief
 KORREKT: description
 KORREKT: of
 KORREKT: the
-KORREKT: electrical
+FEHLT: electrical
 KORREKT: andor
-KORREKT: electronic
-KORREKT: components
+FEHLT: electronic
+FEHLT: components
 KORREKT: used
-KORREKT: in
+FEHLT: in
 KORREKT: the
 KORREKT: lighting
 KORREKT: system
 KORREKT: and
-KORREKT: in
+FEHLT: in
 KORREKT: the
-KORREKT: light
-KORREKT: signalling
+FEHLT: light
+FEHLT: signalling
 KORREKT: system
 KORREKT: na
 KORREKT: 9
 KORREKT: equipment
 KORREKT: 91
-KORREKT: coupling
+FEHLT: coupling
 KORREKT: devices
-KORREKT: where
-KORREKT: applicable
-KORREKT: 911
+FAST KORREKT FEHLEND: where
+FEHLT: applicable
+FEHLT: 911
 FEHLT: type1
 KORREKT: na
-FAST KORREKT FEHLEND: 912
+FEHLT: 912
 KORREKT: photographs
 KORREKT: andor
 KORREKT: drawing
@@ -939,7 +850,7 @@ KORREKT: the
 KORREKT: construction
 KORREKT: of
 KORREKT: the
-KORREKT: coupling
+FEHLT: coupling
 KORREKT: devices
 KORREKT: na
 KORREKT: 92
@@ -948,13 +859,13 @@ KORREKT: and
 KORREKT: identification
 KORREKT: of
 KORREKT: controls
-KORREKT: telltales
+FEHLT: telltales
 KORREKT: and
 KORREKT: indicators
 KORREKT: see
 KORREKT: annex
-KORREKT: a92
-FAST KORREKT FEHLEND: 921
+FEHLT: a92
+FEHLT: 921
 KORREKT: photographs
 KORREKT: andor
 KORREKT: drawings
@@ -963,18 +874,18 @@ KORREKT: the
 KORREKT: arrangement
 KORREKT: of
 KORREKT: the
-KORREKT: symbols
+FEHLT: symbols
 KORREKT: controls
-KORREKT: telltales
+FEHLT: telltales
 KORREKT: and
 KORREKT: indicators
 KORREKT: see
 KORREKT: annex
-KORREKT: a92
+FEHLT: a92
 KORREKT: 93
 KORREKT: statutory
-KORREKT: inscriptions
-FAST KORREKT FEHLEND: 931
+FAST KORREKT FEHLEND: inscriptions
+FEHLT: 931
 KORREKT: photographs
 KORREKT: andor
 KORREKT: drawings
@@ -984,7 +895,7 @@ KORREKT: location
 KORREKT: of
 KORREKT: the
 KORREKT: statutory
-KORREKT: inscriptions
+FAST KORREKT FEHLEND: inscriptions
 KORREKT: and
 KORREKT: the
 KORREKT: chassis
@@ -992,21 +903,21 @@ KORREKT: number
 KORREKT: see
 KORREKT: annex
 KORREKT: a93
-FAST KORREKT FEHLEND: 932
+FEHLT: 932
 KORREKT: photographs
 KORREKT: andor
 KORREKT: drawing
 KORREKT: showing
 KORREKT: the
-KORREKT: official
-KORREKT: part
+FEHLT: official
+FEHLT: part
 KORREKT: of
 KORREKT: the
-KORREKT: inscriptions
+FAST KORREKT FEHLEND: inscriptions
 KORREKT: see
 KORREKT: annex
 KORREKT: a93
-FAST KORREKT FEHLEND: 933
+FEHLT: 933
 KORREKT: photographs
 KORREKT: andor
 KORREKT: drawings
@@ -1020,16 +931,16 @@ KORREKT: a93
 KORREKT: 94
 KORREKT: devices
 KORREKT: to
-KORREKT: protect
-KORREKT: against
-KORREKT: unauthorized
-KORREKT: use
-FAST KORREKT FEHLEND: 941
+FEHLT: protect
+FEHLT: against
+FEHLT: unauthorized
+FEHLT: use
+FEHLT: 941
 KORREKT: type
 KORREKT: of
 KORREKT: devices
 FEHLT: type1
-KORREKT: 942
+FEHLT: 942
 KORREKT: summary
 KORREKT: description
 KORREKT: of
@@ -1039,9 +950,9 @@ KORREKT: the
 KORREKT: device
 KORREKT: is
 KORREKT: a
-KORREKT: barrel
-KORREKT: keydriven
-KORREKT: steel
+FEHLT: barrel
+FEHLT: keydriven
+FEHLT: steel
 KORREKT: locking
 KORREKT: bolt
 KORREKT: type
@@ -1058,8 +969,8 @@ KORREKT: a
 KORREKT: pocket
 KORREKT: within
 KORREKT: the
-KORREKT: fork
-KORREKT: stem
+FAST KORREKT FEHLEND: fork
+FEHLT: stem
 KORREKT: of
 KORREKT: the
 KORREKT: steering
@@ -1071,44 +982,32 @@ KORREKT: is
 KORREKT: a
 KORREKT: pin
 KORREKT: type
-FAST KORREKT ZUSÄTZLICH: a77
-FAST KORREKT ZUSÄTZLICH: 21
-ZUSÄTZLICH: annexe
-FAST KORREKT ZUSÄTZLICH: 3
-FAST KORREKT ZUSÄTZLICH: 1
-FAST KORREKT ZUSÄTZLICH: a1752
-FAST KORREKT ZUSÄTZLICH: 33
-FAST KORREKT ZUSÄTZLICH: levers
-ZUSÄTZLICH: pedal1
-ZUSÄTZLICH: anex
-FAST KORREKT ZUSÄTZLICH: a74
-FAST KORREKT ZUSÄTZLICH: n
-FAST KORREKT ZUSÄTZLICH: a8
-FAST KORREKT ZUSÄTZLICH: 3
-ZUSÄTZLICH: annexe
-FAST KORREKT ZUSÄTZLICH: 834
-ZUSÄTZLICH: nia
-ZUSÄTZLICH: brie
-ZUSÄTZLICH: appli
-ZUSÄTZLICH: cable
-FAST KORREKT ZUSÄTZLICH: 12
-ZUSÄTZLICH: ofor
-ZUSÄTZLICH: teeltales
-FAST KORREKT ZUSÄTZLICH: 951
-ZUSÄTZLICH: oror
-ZUSÄTZLICH: locotion
-FAST KORREKT ZUSÄTZLICH: 962
-ZUSÄTZLICH: photographe
-ZUSÄTZLICH: showin
-FAST KORREKT ZUSÄTZLICH: 97
-ZUSÄTZLICH: photograph
-ZUSÄTZLICH: drawins
-ZUSÄTZLICH: numbe
-FAST KORREKT ZUSÄTZLICH: 98
-FAST KORREKT ZUSÄTZLICH: 9941
-ZUSÄTZLICH: ty
-ZUSÄTZLICH: pes
-FAST KORREKT ZUSÄTZLICH: 1
+ZUSÄTZLICH: disposition
+FAST KORREKT ZUSÄTZLICH: sold
+ZUSÄTZLICH: rejecting
+ZUSÄTZLICH: hubs
+ZUSÄTZLICH: wheels
+ZUSÄTZLICH: service
+ZUSÄTZLICH: records
+ZUSÄTZLICH: state
+ZUSÄTZLICH: how
+FAST KORREKT ZUSÄTZLICH: these
+FAST KORREKT ZUSÄTZLICH: are
+ZUSÄTZLICH: arranged
+ZUSÄTZLICH: details
+FAST KORREKT ZUSÄTZLICH: for
+ZUSÄTZLICH: wiring
+ZUSÄTZLICH: illuminating
+ZUSÄTZLICH: following
+ZUSÄTZLICH: etc
+ZUSÄTZLICH: etc
+ZUSÄTZLICH: legislative
+ZUSÄTZLICH: character
+FAST KORREKT ZUSÄTZLICH: 95
+FAST KORREKT ZUSÄTZLICH: descriptions
+ZUSÄTZLICH: note
+ZUSÄTZLICH: lockkey
+FAST KORREKT ZUSÄTZLICH: frame
 Durchlauf 2:KORREKT: test
 KORREKT: conditions
 KORREKT: engine
@@ -1117,25 +1016,25 @@ KORREKT: piaggio
 KORREKT: m245m
 KORREKT: engine
 KORREKT: family
-KORREKT: h
-KORREKT: pressures
+FAST KORREKT FEHLEND: h
+FEHLT: pressures
 KORREKT: measured
 KORREKT: at
 KORREKT: maximum
 KORREKT: power
 KORREKT: barometric
-KORREKT: 1008
+FAST KORREKT FEHLEND: 1008
 KORREKT: kpa
 KORREKT: steam
 KORREKT: pressure
-KORREKT: 2447
+FAST KORREKT FEHLEND: 2447
 KORREKT: kpa
 KORREKT: exhaust
-FAST KORREKT FEHLEND: 1
-FEHLT: inlet
+FEHLT: 1
+KORREKT: inlet
 KORREKT: pressure
-FEHLT: drop
-FAST KORREKT FEHLEND: 1
+KORREKT: drop
+FEHLT: 1
 KORREKT: temperatures
 KORREKT: measured
 KORREKT: at
@@ -1157,7 +1056,7 @@ KORREKT: engine
 KORREKT: cooling
 KORREKT: liquid
 KORREKT: outlet
-KORREKT: 362
+FAST KORREKT FEHLEND: 362
 KORREKT: k
 KORREKT: at
 KORREKT: the
@@ -1165,13 +1064,13 @@ KORREKT: reference
 KORREKT: point
 KORREKT: in
 KORREKT: the
-KORREKT: case
+FEHLT: case
 KORREKT: of
 KORREKT: air
 KORREKT: cooling
 KORREKT: k
-KORREKT: oil
-FEHLT: 368
+FEHLT: oil
+KORREKT: 368
 KORREKT: k
 KORREKT: of
 KORREKT: the
@@ -1181,14 +1080,14 @@ KORREKT: the
 FAST KORREKT FEHLEND: carburatorinjection
 KORREKT: pump
 KORREKT: intake
-FAST KORREKT FEHLEND: 303
+KORREKT: 303
 KORREKT: k
 KORREKT: in
 KORREKT: the
-FEHLT: fuelconsumption
+KORREKT: fuelconsumption
 KORREKT: measuring
 KORREKT: device
-FAST KORREKT FEHLEND: 303
+KORREKT: 303
 KORREKT: k
 KORREKT: of
 KORREKT: the
@@ -1197,16 +1096,16 @@ KORREKT: measured
 KORREKT: at
 KORREKT: the
 KORREKT: point
-KORREKT: adjacent
+FEHLT: adjacent
 KORREKT: to
 KORREKT: the
 KORREKT: outlet
-KORREKT: flanges
+FAST KORREKT FEHLEND: flanges
 KORREKT: of
 KORREKT: the
 KORREKT: exhaust
-KORREKT: manifolds
-FAST KORREKT FEHLEND: 959
+FAST KORREKT FEHLEND: manifolds
+KORREKT: 959
 KORREKT: k
 KORREKT: characteristics
 KORREKT: of
@@ -1228,13 +1127,13 @@ KORREKT: on
 KORREKT: liquid
 KORREKT: fuel
 KORREKT: make
-FEHLT: esso
+KORREKT: esso
 KORREKT: specification
 KORREKT: unleaded
 KORREKT: petrol
-KORREKT: antiknock
-KORREKT: additive
-KORREKT: lead
+FEHLT: antiknock
+FEHLT: additive
+FEHLT: lead
 KORREKT: etc
 KORREKT: not
 KORREKT: applicable
@@ -1244,27 +1143,32 @@ KORREKT: in
 KORREKT: mglitre
 KORREKT: octane
 KORREKT: number
-KORREKT: ron
-KORREKT: 95
-KORREKT: mon
+FEHLT: ron
+FEHLT: 95
+FEHLT: mon
 KORREKT: 85
 FEHLT: relative
 FEHLT: density
-FAST KORREKT FEHLEND: 0756
+FEHLT: 0756
 KORREKT: at
-FAST KORREKT FEHLEND: 15c
-KORREKT: calorific
-KORREKT: value
-KORREKT: 435
-KORREKT: mjkg
-ZUSÄTZLICH: minimum
-FAST KORREKT ZUSÄTZLICH: 68
+KORREKT: 15c
+FEHLT: calorific
+FEHLT: value
+FEHLT: 435
+FEHLT: mjkg
+FAST KORREKT ZUSÄTZLICH: 100
+FAST KORREKT ZUSÄTZLICH: 2147
 FAST KORREKT ZUSÄTZLICH: carburetorinjection
-FAST KORREKT ZUSÄTZLICH: 53
-ZUSÄTZLICH: consumption
-FAST KORREKT ZUSÄTZLICH: 999
-FAST KORREKT ZUSÄTZLICH: 756
-FAST KORREKT ZUSÄTZLICH: 13c
+ZUSÄTZLICH: pipe
+FAST KORREKT ZUSÄTZLICH: 306
+ZUSÄTZLICH: 322
+FAST KORREKT ZUSÄTZLICH: flange
+FAST KORREKT ZUSÄTZLICH: manifold
+ZUSÄTZLICH: flex
+ZUSÄTZLICH: knockmild
+ZUSÄTZLICH: research
+ZUSÄTZLICH: motor
+FAST KORREKT ZUSÄTZLICH: 76
 Durchlauf 4:KORREKT: 4128
 KORREKT: casing
 KORREKT: for
@@ -1273,14 +1177,14 @@ KORREKT: catalytic
 KORREKT: converters
 KORREKT: steel
 KORREKT: annex
-FAST KORREKT FEHLEND: 32121
-FAST KORREKT FEHLEND: 4129
+KORREKT: 32121
+KORREKT: 4129
 KORREKT: location
 KORREKT: of
 KORREKT: the
 KORREKT: catalytic
 KORREKT: converters
-FEHLT: place
+KORREKT: place
 KORREKT: and
 KORREKT: reference
 KORREKT: distance
@@ -1289,26 +1193,26 @@ KORREKT: the
 KORREKT: exhaust
 KORREKT: line
 KORREKT: annex
-FAST KORREKT FEHLEND: 32121
-FAST KORREKT FEHLEND: 41210
+KORREKT: 32121
+KORREKT: 41210
 KORREKT: catalyst
-KORREKT: heatshield
-KORREKT: yes
+FEHLT: heatshield
+FEHLT: yes
 FAST KORREKT FEHLEND: 41211
 KORREKT: to
 FEHLT: 41212
 KORREKT: na
 FAST KORREKT FEHLEND: 413
 KORREKT: oxygen
-KORREKT: sensors
-FAST KORREKT FEHLEND: 4131
+FEHLT: sensors
+KORREKT: 4131
 KORREKT: oxygen
 KORREKT: sensor
 KORREKT: components
-KORREKT: drawings
+FEHLT: drawings
 KORREKT: annex
-FAST KORREKT FEHLEND: 32121
-FAST KORREKT FEHLEND: 4132
+KORREKT: 32121
+KORREKT: 4132
 KORREKT: drawing
 KORREKT: of
 KORREKT: exhaust
@@ -1316,116 +1220,116 @@ KORREKT: device
 KORREKT: with
 KORREKT: oxygen
 KORREKT: sensor
-KORREKT: locations
+FAST KORREKT FEHLEND: locations
 KORREKT: dimensions
 KORREKT: relative
 KORREKT: to
 KORREKT: exhaust
-KORREKT: valves
+FEHLT: valves
 KORREKT: annex
-FAST KORREKT FEHLEND: 32121
-FAST KORREKT FEHLEND: 4133
+KORREKT: 32121
+KORREKT: 4133
 KORREKT: control
-KORREKT: ranges
+FEHLT: ranges
 KORREKT: sensor
 KORREKT: is
-KORREKT: a
+FEHLT: a
 KORREKT: switching
 KORREKT: or
 KORREKT: stoichiometric
 KORREKT: o2
 KORREKT: sensor
 KORREKT: that
-KORREKT: provides
+FEHLT: provides
 KORREKT: an
-KORREKT: indication
+FEHLT: indication
 KORREKT: to
 KORREKT: the
-KORREKT: ecm
+FAST KORREKT FEHLEND: ecm
 KORREKT: as
 KORREKT: to
-KORREKT: whether
+FEHLT: whether
 KORREKT: the
-KORREKT: airfuel
-KORREKT: ratio
+FEHLT: airfuel
+FEHLT: ratio
 KORREKT: is
-KORREKT: above
+FEHLT: above
 KORREKT: or
-KORREKT: below
+FEHLT: below
 KORREKT: stoichiometric
 KORREKT: the
 KORREKT: sensing
 KORREKT: element
-KORREKT: generates
-KORREKT: a
-KORREKT: higher
-KORREKT: voltage
+FEHLT: generates
+FEHLT: a
+FEHLT: higher
+FEHLT: voltage
 KORREKT: in
 KORREKT: the
-KORREKT: rich
-KORREKT: state
+FEHLT: rich
+FEHLT: state
 KORREKT: and
-KORREKT: switches
+FEHLT: switches
 KORREKT: to
-KORREKT: a
-KORREKT: lower
-KORREKT: voltage
+FEHLT: a
+FEHLT: lower
+FEHLT: voltage
 KORREKT: in
 KORREKT: the
-KORREKT: lean
-KORREKT: state
+FEHLT: lean
+FEHLT: state
 KORREKT: the
 KORREKT: switching
-KORREKT: point
+FEHLT: point
 KORREKT: of
-KORREKT: our
-KORREKT: sensors
+FEHLT: our
+FEHLT: sensors
 KORREKT: is
-KORREKT: around
-FAST KORREKT FEHLEND: 1004
-KORREKT: lambda
-FAST KORREKT FEHLEND: 4134
+FEHLT: around
+FEHLT: 1004
+FEHLT: lambda
+KORREKT: 4134
 KORREKT: identifying
 KORREKT: part
 KORREKT: numbers
 KORREKT: annex
-FAST KORREKT FEHLEND: 32121
-FAST KORREKT FEHLEND: 4135
+KORREKT: 32121
+KORREKT: 4135
 KORREKT: description
 KORREKT: of
 KORREKT: oxygen
 KORREKT: sensor
-KORREKT: heating
+FEHLT: heating
 KORREKT: system
 KORREKT: and
-KORREKT: heating
-KORREKT: strategy
+FEHLT: heating
+FEHLT: strategy
 KORREKT: the
 KORREKT: o2
-KORREKT: sensors
-KORREKT: have
-KORREKT: a
-KORREKT: resistive
-KORREKT: heating
+FEHLT: sensors
+FEHLT: have
+FEHLT: a
+FEHLT: resistive
+FEHLT: heating
 KORREKT: element
-KORREKT: embedded
+FEHLT: embedded
 KORREKT: with
 KORREKT: the
 KORREKT: sensing
 KORREKT: element
-KORREKT: power
+FEHLT: power
 KORREKT: for
 KORREKT: the
 KORREKT: heater
 KORREKT: is
-KORREKT: supplied
+FEHLT: supplied
 KORREKT: by
 KORREKT: the
 KORREKT: system
-KORREKT: power
-KORREKT: circuit
+FEHLT: power
+FEHLT: circuit
 KORREKT: and
-KORREKT: pwm
+FEHLT: pwm
 KORREKT: control
 KORREKT: of
 KORREKT: the
@@ -1434,59 +1338,59 @@ KORREKT: is
 FEHLT: performed
 KORREKT: by
 KORREKT: the
-KORREKT: ecm
+FAST KORREKT FEHLEND: ecm
 KORREKT: with
-KORREKT: a
-KORREKT: low
-KORREKT: side
-KORREKT: driver
+FEHLT: a
+FEHLT: low
+FEHLT: side
+FEHLT: driver
 KORREKT: 4136
 KORREKT: oxygen
 KORREKT: sensor
 KORREKT: heat
-KORREKT: shields
-KORREKT: no
-KORREKT: 4
+FAST KORREKT FEHLEND: shields
+FEHLT: no
+FEHLT: 4
 FAST KORREKT FEHLEND: 414
 KORREKT: to
 FAST KORREKT FEHLEND: 418
 KORREKT: na
-KORREKT: 42
-KORREKT: crankcase
+FEHLT: 42
+FEHLT: crankcase
 KORREKT: emission
 KORREKT: control
 KORREKT: system
 KORREKT: 421
-KORREKT: configuration
+FEHLT: configuration
 KORREKT: of
-KORREKT: crankcase
-KORREKT: gas
-KORREKT: recycling
+FEHLT: crankcase
+FEHLT: gas
+FEHLT: recycling
 KORREKT: system
-KORREKT: breather
+FEHLT: breather
 KORREKT: system
-KORREKT: positive
-KORREKT: crankcase
-KORREKT: ventilation
+FEHLT: positive
+FEHLT: crankcase
+FEHLT: ventilation
 KORREKT: system
-FAST KORREKT FEHLEND: other4
+FEHLT: other4
 KORREKT: description
 KORREKT: and
-KORREKT: drawings
+FEHLT: drawings
 KORREKT: annex
 KORREKT: 421
-KORREKT: 43
+FEHLT: 43
 KORREKT: evaporative
 KORREKT: emission
 KORREKT: control
 KORREKT: system
-FAST KORREKT FEHLEND: 431
+FEHLT: 431
 KORREKT: evaporative
 KORREKT: emissions
 KORREKT: control
 KORREKT: system
-KORREKT: yes
-FAST KORREKT FEHLEND: 432
+FEHLT: yes
+KORREKT: 432
 KORREKT: drawing
 KORREKT: of
 KORREKT: the
@@ -1494,79 +1398,56 @@ KORREKT: evaporative
 KORREKT: control
 KORREKT: system
 KORREKT: annex
-FAST KORREKT FEHLEND: 432
-FAST KORREKT FEHLEND: 433
+KORREKT: 432
+FEHLT: 433
 KORREKT: drawing
 KORREKT: of
 KORREKT: the
-KORREKT: canister
-KORREKT: including
+FEHLT: canister
+FEHLT: including
 KORREKT: dimensions
 KORREKT: and
 KORREKT: indicating
 KORREKT: vent
 KORREKT: and
 KORREKT: purge
-KORREKT: mechanism
+FEHLT: mechanism
 KORREKT: annex
-FAST KORREKT FEHLEND: 433
-FAST KORREKT FEHLEND: 434
+FEHLT: 433
+FEHLT: 434
 KORREKT: working
-KORREKT: capacity
-KORREKT: g
+FEHLT: capacity
+FEHLT: g
 KORREKT: annex
-FAST KORREKT FEHLEND: 432
-FAST KORREKT FEHLEND: 435
-KORREKT: adsorption
+KORREKT: 432
+FEHLT: 435
+FEHLT: adsorption
 KORREKT: material
-KORREKT: charcoal
-FAST KORREKT FEHLEND: 436
-KORREKT: housing
+FEHLT: charcoal
+FEHLT: 436
+FEHLT: housing
 KORREKT: material
 KORREKT: plastic
-FAST KORREKT ZUSÄTZLICH: 32
-FAST KORREKT ZUSÄTZLICH: 12
-FAST KORREKT ZUSÄTZLICH: 1
-FAST KORREKT ZUSÄTZLICH: 1
-ZUSÄTZLICH: 29
-ZUSÄTZLICH: cataly
-ZUSÄTZLICH: tic
-ZUSÄTZLICH: convertersplace
-FAST KORREKT ZUSÄTZLICH: 3
-FAST KORREKT ZUSÄTZLICH: 2
-FAST KORREKT ZUSÄTZLICH: 212
-FAST KORREKT ZUSÄTZLICH: 110
-FAST KORREKT ZUSÄTZLICH: 4311
-FAST KORREKT ZUSÄTZLICH: 3
-FAST KORREKT ZUSÄTZLICH: 44
-FAST KORREKT ZUSÄTZLICH: 45
-ZUSÄTZLICH: inthe
-FAST KORREKT ZUSÄTZLICH: 1
-FAST KORREKT ZUSÄTZLICH: 004
-FAST KORREKT ZUSÄTZLICH: 1
-FAST KORREKT ZUSÄTZLICH: 3
-FAST KORREKT ZUSÄTZLICH: 32
-FAST KORREKT ZUSÄTZLICH: 12
-FAST KORREKT ZUSÄTZLICH: 45
-FAST KORREKT ZUSÄTZLICH: 2
-FAST KORREKT ZUSÄTZLICH: to4
-FAST KORREKT ZUSÄTZLICH: 8
-FAST KORREKT ZUSÄTZLICH: 41
-FAST KORREKT ZUSÄTZLICH: other
-ZUSÄTZLICH: sys
-ZUSÄTZLICH: tem
-FAST KORREKT ZUSÄTZLICH: 44
-ZUSÄTZLICH: evap
-ZUSÄTZLICH: orative
-FAST KORREKT ZUSÄTZLICH: 442
-FAST KORREKT ZUSÄTZLICH: 1432
-FAST KORREKT ZUSÄTZLICH: 453
-ZUSÄTZLICH: drawingof
-FAST KORREKT ZUSÄTZLICH: 1333
-FAST KORREKT ZUSÄTZLICH: 46
-ZUSÄTZLICH: 1140
-FAST KORREKT ZUSÄTZLICH: 47
-FAST KORREKT ZUSÄTZLICH: 48
+ZUSÄTZLICH: section
+FAST KORREKT ZUSÄTZLICH: shield
+ZUSÄTZLICH: diagram
+FAST KORREKT ZUSÄTZLICH: locationss
+ZUSÄTZLICH: vehicle
+ZUSÄTZLICH: replica
+ZUSÄTZLICH: definition
+ZUSÄTZLICH: determines
+ZUSÄTZLICH: concentration
+ZUSÄTZLICH: characterized
+FAST KORREKT ZUSÄTZLICH: ego
+ZUSÄTZLICH: most
+ZUSÄTZLICH: important
+FAST KORREKT ZUSÄTZLICH: shield
+FAST KORREKT ZUSÄTZLICH: 4137
+FAST KORREKT ZUSÄTZLICH: 4138
+FAST KORREKT ZUSÄTZLICH: 4139
+ZUSÄTZLICH: diagnostic
+ZUSÄTZLICH: elements
+FAST KORREKT ZUSÄTZLICH: 41310
 Durchlauf 1:KORREKT: 1
 KORREKT: vehicle
 KORREKT: 11
@@ -1578,7 +1459,7 @@ KORREKT: type
 KORREKT: sp
 KORREKT: 13
 KORREKT: engine
-KORREKT: family
+FEHLT: family
 KORREKT: m
 KORREKT: 14
 KORREKT: vehicle
@@ -1605,30 +1486,30 @@ KORREKT: type
 KORREKT: piaggio
 KORREKT: m245m
 KORREKT: 23
-KORREKT: sort
-KORREKT: spark
-KORREKT: ignition
+FEHLT: sort
+FEHLT: spark
+FEHLT: ignition
 KORREKT: engine
-KORREKT: four
-KORREKT: stroke
+FEHLT: four
+FEHLT: stroke
 KORREKT: 24
 KORREKT: power
 KORREKT: 70
 KORREKT: kw
-KORREKT: at
+FAST KORREKT FEHLEND: at
 KORREKT: 7250
 KORREKT: min1
 KORREKT: 25
 KORREKT: maximum
 KORREKT: vehicle
 KORREKT: speed
-KORREKT: 85
+FAST KORREKT FEHLEND: 85
 KORREKT: kmh
 KORREKT: 3
 KORREKT: gearbox
 KORREKT: 31
-KORREKT: sort
-KORREKT: automatic
+FEHLT: sort
+FEHLT: automatic
 KORREKT: 32
 KORREKT: number
 KORREKT: of
@@ -1636,14 +1517,14 @@ KORREKT: gears
 KORREKT: not
 KORREKT: applicable
 KORREKT: 33
-KORREKT: final
-KORREKT: drive
+FEHLT: final
+FEHLT: drive
 KORREKT: ratio
 KORREKT: 1
-KORREKT: 10379
-KORREKT: 1546
-KORREKT: x
-KORREKT: 1344
+FEHLT: 10379
+FAST KORREKT FEHLEND: 1546
+FEHLT: x
+FAST KORREKT FEHLEND: 1344
 KORREKT: 4
 KORREKT: equipment
 KORREKT: 41
@@ -1655,50 +1536,53 @@ KORREKT: pipe
 KORREKT: marking
 KORREKT: aprilia
 KORREKT: b1150
-KORREKT: e11
+FEHLT: e11
 KORREKT: silencer
 KORREKT: aprilia
 KORREKT: sm
-KORREKT: 26
-KORREKT: e11
-KORREKT: see
-KORREKT: enclosures
-KORREKT: information
-KORREKT: document
+FEHLT: 26
+FEHLT: e11
+FAST KORREKT FEHLEND: see
+FEHLT: enclosures
+FEHLT: information
+FEHLT: document
 KORREKT: 42
 KORREKT: intake
 KORREKT: system
 KORREKT: air
 KORREKT: filter
 KORREKT: box
-KORREKT: foam
-KORREKT: substance
-KORREKT: dry
+FEHLT: foam
+FEHLT: substance
+FEHLT: dry
 KORREKT: air
 KORREKT: filter
 KORREKT: box
 KORREKT: marking
 KORREKT: am
 KORREKT: 11
-KORREKT: e3
-KORREKT: see
-KORREKT: enclosures
-KORREKT: information
-KORREKT: document
-KORREKT: 43
-KORREKT: tire
-KORREKT: dimension
+FEHLT: e3
+FAST KORREKT FEHLEND: see
+FEHLT: enclosures
+FEHLT: information
+FEHLT: document
+FEHLT: 43
+FEHLT: tire
+FEHLT: dimension
 KORREKT: front
-FAST KORREKT FEHLEND: 1109013
-KORREKT: 56p
+FEHLT: 1109013
+FEHLT: 56p
 KORREKT: rear
-FEHLT: 1307013
+KORREKT: 1307013
 KORREKT: 63p
 KORREKT: 5
 KORREKT: measurements
-ZUSÄTZLICH: zd4sp0002s001
-ZUSÄTZLICH: piagio
-ZUSÄTZLICH: e1
-ZUSÄTZLICH: enclosure
-FAST KORREKT ZUSÄTZLICH: 909013
-ZUSÄTZLICH: 307021
+ZUSÄTZLICH: name
+ZUSÄTZLICH: 2d45p0002s000001
+ZUSÄTZLICH: model
+FAST KORREKT ZUSÄTZLICH: 134
+FAST KORREKT ZUSÄTZLICH: 1320
+FAST KORREKT ZUSÄTZLICH: 1858
+FAST KORREKT ZUSÄTZLICH: e1
+FAST KORREKT ZUSÄTZLICH: net
+ZUSÄTZLICH: 1037013

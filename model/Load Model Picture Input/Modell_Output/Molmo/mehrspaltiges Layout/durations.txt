@@ -1,0 +1,9 @@
+Dateiname, Durchlaufzeit (Sekunden)
+mehrspaltiges_Layout_1.png, 175.14
+mehrspaltiges_Layout_2.png, 145.88
+mehrspaltiges_Layout_3.png, 246.74
+mehrspaltiges_Layout_4.png, 222.02
+mehrspaltiges_Layout_5.png, 287.48
+mehrspaltiges_Layout_6.png, 132.91
+mehrspaltiges_Layout_7.png, 131.50
+mehrspaltiges_Layout_8.png, 170.85
